@@ -1,0 +1,23 @@
+# Sync and OS
+.stfolder/
+desktop.ini
+Thumbs.db
+
+# Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Copilot conversations
+copilot/copilot-conversations/
+
+# Deal files — sensitive/confidential
+Amazon/
+KBC/
+Kirkham Law/
+Personal/
+x_Archive/
+Daily Notes/
+
+# Claude local files
+.claude/

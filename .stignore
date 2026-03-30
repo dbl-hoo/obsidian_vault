@@ -1,0 +1,21 @@
+// Claude Code files — keep local, don't sync across devices
+CLAUDE.md
+claude.md
+.claude/
+
+// Obsidian workspace state — per-device, causes constant conflicts
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+// Obsidian cache — rebuilt automatically
+.obsidian/cache
+
+// Obsidian trash
+.trash/
+
+// Copilot AI conversation logs — noisy, device-specific
+copilot/copilot-conversations/
+
+// Windows junk
+desktop.ini
+Thumbs.db
