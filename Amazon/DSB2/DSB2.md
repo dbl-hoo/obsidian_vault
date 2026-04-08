@@ -9,7 +9,7 @@ launch_date: 2027-01-01
 end_date:
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 tags:
   - deal
   - amazon
@@ -31,6 +31,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-04-08 - Sent comp request to Nick Unger.
 
 2026-04-06 - Planning to give approval notice 2026-05-22; closing date 2026-06-23.
 

@@ -10,13 +10,17 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
+- [ ] Send ZCL to team 📅 2026-04-09
+
 ## Notes
+
+2026-04-08 - ZCL received; send to team.
 
 2026-04-07 - Transaction call. ZCL coming in today. LL's work on schedule. Manish to work with legal on lease exhibits. Tadeu to recirculate email re: executive summary. Design call later in the day — need curb cut for trucks. Stonemont to investigate curb cut on the south. Leila thinks no problem — not a public road. Recommending against cross-dock design in the building.
 

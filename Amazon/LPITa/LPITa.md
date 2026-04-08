@@ -2,7 +2,7 @@
 site_code: LPITa
 deal_type: Purchase
 business_unit: GCF
-status: Ongoing
+status: Dead
 tm: 
 pcm: 
 launch_date: 
@@ -10,7 +10,7 @@ start_date: 2025-06-06
 end_date: 
 local_broker: Matt Clackson
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 tags: [deal, amazon]
 ---
 
@@ -24,9 +24,9 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Follow up w/ Jonathan @ Hilcorp 📅 2026-04-10
-
 ## Notes
+
+2026-04-08 - Termination letter sent. Hold file for 2 weeks, then archive.
 
 2026-04-06 - Requested 1-week extension to diligence period.
 

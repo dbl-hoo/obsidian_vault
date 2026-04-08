@@ -10,7 +10,7 @@ start_date: 2026-03-27
 end_date:
 local_broker: Matt Eastin
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 tags:
   - deal
   - amazon
@@ -21,6 +21,8 @@ tags:
 - [ ] Matt to send LOI to Mark Branstetter (Panatonni) — NDA not yet signed 📅 2026-04-10
 
 ## Notes
+
+2026-04-08 - Panattoni NDA received; NDA being sent.
 
 2026-04-06 - Mark Branstetter is the Panatonni contact. Matt needs to send LOI to Branstetter — NDA not yet signed. TriStar can probably get borrow pit for free but need to be at $1.32.
 

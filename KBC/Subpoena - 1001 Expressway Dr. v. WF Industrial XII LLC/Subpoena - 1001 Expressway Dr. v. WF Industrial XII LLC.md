@@ -2,16 +2,16 @@
 project: Subpoena - 1001 Expressway Dr. v. WF Industrial XII LLC
 status: Ongoing
 area: KBC
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 tags: [kbc]
 ---
 
 ## Tasks
 
 - [ ] 🔺 Monitor/respond to subpoena — deadline 2026-05-01 📅 2026-05-01
-- [x] 🔺 PI injunction argument / counterclaims hearing 📅 2026-04-08 ✅ 2026-04-08
-
 ## Notes
+
+2026-04-08 - PI injunction argument and counterclaims hearing held today. Regroup after 4/15. KBC outside counsel: Erica Speier Berman, Counsel — Schenck Price Smith & King LLP, 220 Park Ave, Florham Park, NJ 07932 — T: 973-540-7318, F: 973-540-7300.
 
 2026-04-07 - Call with LL counsel. Claim is wrongful termination of lease; there were settlement talks. Through discovery process; trying to draft discovery. Argument tomorrow (4/8) on their PI injunction and on counterclaims. Intend to file motion to quash. Would like to go to trial.
 

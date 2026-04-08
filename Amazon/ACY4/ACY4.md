@@ -8,7 +8,7 @@ pcm: Gary Gallagher
 launch_date: 2028-05-01
 end_date:
 local_broker: KBC
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 area: Amazon
 tags:
   - deal
@@ -17,10 +17,13 @@ tags:
 
 ## Tasks
 
-- [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-08
+- [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
 - [ ] Flag Liepe parcel local counsel / access rights on next week's call (Joe P. following up) 📅 2026-04-13
+- [ ] 🔺 Send draft 8th amendment to SunCap for review 📅 2026-04-10
 
 ## Notes
+
+2026-04-08 - From Arman: Alan agreed to more time on May deposit — move date in contract from 5/8 to 5/22 to allow time for Land CAR approval. April deposit (next week) is $1M pulled from WO. SunCap has revised spend schedule to send today; turn draft amendment to them for review (max authorization unchanged, "clean-up"). Pilot call: latest PILOT completion 2026-08-14; next amendment allows latest closing date 2026-09-15 (last extension). Sent plan for financial agreement — projections recently sent over. AHJ skeptical of RAB; would be OK if we forgo the project. Would treat mezz as real property — $300M vs. $50M tax valuation. Can do anything BUT affirmative construction (demo, remediation, rough grading) before PILOT approval. Pinelands: if Hamilton Township is in agreement, Pinelands okay with utilizing Sept 2025 Inconsistent COF to pursue all necessary permits and approvals.
 
 2026-04-06 - Discussed environmental edits to 8th amendment. Discussed title exception on Liepe parcel — legal wants local counsel to opine on access rights; Joe P. to follow up. Flag for next week's call. URE will not take title to the Liepe parcel — Amazon will take title, then transfer title to the substation to Atlantic City Electrical.
 

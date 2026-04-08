@@ -9,7 +9,7 @@ start_date: 2025-06-06
 end_date: 
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 tags: [deal, amazon]
 ---
 
@@ -22,6 +22,8 @@ tags: [deal, amazon]
 - [ ] Closing Deadline 📅 2026-07-27
 
 ## Notes
+
+2026-04-08 - Sent comp request to Nick Unger.
 
 2026-04-02 - Transaction call. Key dates: PSA Expiration (no extension) 4/28/26; First Extension 5/28/26; Second Extension 6/27/26; Closing Deadline 7/27/26.
 

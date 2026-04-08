@@ -9,7 +9,7 @@ launch_date: 2027-06-22
 end_date:
 local_broker:
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 tags:
   - deal
   - amazon
@@ -20,6 +20,8 @@ tags:
 - [ ] Follow up with Kirk Shephard / MetEd re: PM assignment 📅 2026-05-04
 
 ## Notes
+
+2026-04-08 - Updated lease sent to LL.
 
 2026-04-06 - Power risk summary: Power for this building is low — flagged in site selection. NP took ownership of advancing utility upgrade discussions but has not delivered meaningful progress, while pushing Amazon toward signing near-term. PCM, Amazon power team, and design team are investigating temporary solutions to bridge the gap — hydrogen PIT is a good way to lower demand. This will likely delay lease signing. Hold firm on not signing until the temporary solution is signed off by the PCM team and power team for the ES submission. Amazon will launch with temp power (generators and hydrogen).
 

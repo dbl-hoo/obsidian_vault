@@ -7,7 +7,7 @@ tm: Arman Fashandi
 pcm: 
 launch_date: 2029-06-01
 end_date:
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 local_broker: 
 area: Amazon
 tags: [deal, amazon]
@@ -46,6 +46,8 @@ tags: [deal, amazon]
 ## Tasks
 
 ## Notes
+
+2026-04-08 - Sent developer RFQ summary to Phil R.
 
 2026-04-07 - Call with Phil and Rachel. Phil mentioned "Project Beaver" — self development. Circulated developer RFQ summary. Per TJ — Bluewater has a land site in MA, may want another deal awarded to them. Panattoni has sort hub in Greensburg; Gen 14 BTS in Lehigh Valley; TJ wants to do preliminary diligence with developer. Views somewhat difficult on entitlements and CUP.
 

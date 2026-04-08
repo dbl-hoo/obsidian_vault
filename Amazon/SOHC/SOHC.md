@@ -10,7 +10,7 @@ start_date: 2025-11-05
 end_date: 
 local_broker: None
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 tags: [deal, amazon]
 ---
 
@@ -19,6 +19,8 @@ tags: [deal, amazon]
 - [ ] Send cash flow to Adam Knoll 📅 2026-04-10
 
 ## Notes
+
+2026-04-08 - Call with Tim Elam. Cleveland options: likely to sign BTS for 645K SF on Walton Hills; could still do ~200K SF. Twinsburg — unlikely to do spec, would do BTS. Access is challenging.
 
 2026-04-07 - Prologis preliminary feedback on maximizing the building: max size 378K SF drops rent from $11.40/SF to $9.86/SF — incremental 100K SF costs ~$600K more/year in rent ($6/SF). Schedule extends slightly. Prologis asking whether business would consider the entire building given economies of scale and operational difficulties of a demised building.
 

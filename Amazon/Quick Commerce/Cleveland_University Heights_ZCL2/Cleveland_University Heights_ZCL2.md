@@ -9,10 +9,10 @@ deal_type: New Lease
 business_unit: QC
 status: Ongoing
 local_broker: "Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate"
-loi_final: No
+loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-03-03
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
@@ -20,6 +20,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-04-08 - Call from Alex V. Needs additional info — Scott Kelly electrician. Good with contingency period; connecting with precon. Updated LOI received — it's final. Sent draft lease to LL.
 
 2026-04-07 - LOI back to LL; sent authorization form. Sent freezer/cooler equipment list to LL.
 
