@@ -1,17 +1,19 @@
 ---
 site_code: WOH1
 deal_type: Renewal
-business_unit:
+business_unit: RSR
 status: Ongoing
-tm: 
-pcm: 
+tm:
+pcm:
 launch_date:
 start_date: 2026-03-31
 end_date:
 local_broker: Beau Taggart
 area: Amazon
 last_updated: 2026-04-07
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 ---
 
 ## Tasks
