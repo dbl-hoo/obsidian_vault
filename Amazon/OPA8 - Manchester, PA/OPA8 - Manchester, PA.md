@@ -6,14 +6,18 @@ status: Ongoing
 tm: Arman Fashandi
 pcm: Maria Albulescu
 launch_date: 2027-06-22
-end_date: 
-local_broker: 
+end_date:
+local_broker:
 area: Amazon
 last_updated: 2026-04-07
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 ---
 
 ## Tasks
+
+- [ ] Follow up with Kirk Shephard / MetEd re: PM assignment 📅 2026-05-04
 
 ## Notes
 

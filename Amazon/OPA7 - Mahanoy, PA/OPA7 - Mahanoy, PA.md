@@ -17,11 +17,9 @@ tags: [deal, amazon]
 ## Tasks
 
 - [x] Cash Flow, Comps, etc. 📅 2026-04-08 ✅ 2026-04-08
-- [ ] Follow up with Kirk Shephard / MetEd re: PM assignment 📅 2026-05-04
+
 
 ## Notes
-
-2026-04-06 - Call with Kirk Shephard. Pushing to get a project manager assigned from MetEd. Expect within next 4 weeks.
 
 2026-04-03 - Phil Perri is new TM.
 
