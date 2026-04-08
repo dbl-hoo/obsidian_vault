@@ -1,0 +1,72 @@
+---
+site_code: DOH3
+deal_type: Purchase
+business_unit: AMZL
+status: Ongoing
+tm: Al Patel
+pcm: Albert Chon
+launch_date: 2028-08-01
+start_date: 2025-07-31
+end_date: 
+local_broker: KBC
+area: Amazon
+tags: [deal, amazon]
+last_updated: 2026-04-07
+---
+## Tasks
+
+## Notes
+
+2026-04-07 - LOIs back to Jeff B.
+
+2026-04-06 - Business is interested in taking the entire Franklin Vista Farms. Al will accept the land if it comps. Wants to push back on EM — all applicable; get the amount down. Send updated LOI tomorrow.
+- FWF: LL pushed back on pricing to $65K/acre. Increased 2nd and 3rd DD extension payments to $35K; 3rd extension payment made N/A. Note: CAUV tax will increase if we close next year.
+- Franklin Vista Farms (access parcel, 0.20 acres): $10K for entire tract — probably makes sense given small size.
+
+2026-04-03 - Updated LOIs received from sellers; emailed Al Patel (TM).
+
+2026-04-01 - Call with Jeff Baumgarten. Sewer easements through Franklin Vista property; sewer cap is part of the property. Will counter at $60K/acre. Discussed mechanics of approval — Franklin Vista Farms, Inc. piece is subject to easement and they need to be reasonable on price.
+
+2026-03-31 - LOIs drafted and sent to Al Patel (TM) and Anna Brown at Van Trust (third-party developer). Call with seller's broker scheduled 4/1.
+
+2026-03-27 - DOH3 -
+- confirm the height of the power lines.
+
+2026-02-04 - per Jeff B. - red x's aren't intersted in selling; need to follow up on NP Site - First in Flight.
+
+2026-01-28 - LOI back to Seller - included purchase option.
+
+2026-01-16 - LOI to seller
+
+2026-01-16 - Jeff Baumgardner
+- Have interest from another group
+- City of Franklin - Carissa - will send email
+- Syndicated ownershp - will send NDA
+- $65K per acre
+- likely to require offsites at corner.
+- Contact: Commercial Sales Associate | Schueler Group | C: 937.684.2023 D: 513.228.6209
+
+2026-01-11 - followed up with Jeff Baumgardner.
+
+2026-01-08 - RFQs sent
+
+2026-01-06 - asked Sundet re: Samet, VT and Amborse; could be pulled into 2027
+
+2025-12-31 - emailed for test fit; received test fit; emailed Jeff Baumgardner.
+
+2025-10-31 - call with Richard and Al
+- #1 option is south of city; TA running flash
+- precon - Albert Sean
+- Feed back on showing access on the drive.
+
+2025-10-06 - call with Kettering
+- Bryan Chodkowski - city of Kettering
+- Background -
+    - 88K SF existing; opened in 2019; already obsolete
+    - Most are 150K-250K SF
+    - 150 - 200 fulltime jobs; starting pay $19 per hour; benefits day one; average $22.50
+    - Currently have an option on the property to another developer; not a parcel that is in play - not in control; working with a defense contractor for office and manufacturing - working at DoD level.
+    - City owns 12.5 acres in existing business park; Wilmington Pike and Ford Boulevard; limited stormwater management requirements; former air-station; don't need to chew up with stormwater management
+    - IRG -  2555 Woodman Drive; plant is empty - signed a lease for 300K SF; did suspensions; working on NFA from EPA and O-EPA; - potential flash?
+    - Lowside - 40 acres; really need 50 acres;
+    - 2325 Wilmington - under-utilized;

@@ -8,16 +8,10 @@ Thumbs.db
 .obsidian/workspace-mobile.json
 .obsidian/cache
 
-# Copilot conversations
+# Copilot — conversations and credentials
 copilot/copilot-conversations/
+.obsidian/plugins/copilot/data.json
 
-# Deal files — sensitive/confidential
-Amazon/
-KBC/
-Kirkham Law/
-Personal/
-x_Archive/
-Daily Notes/
 
 # Claude local files
 .claude/

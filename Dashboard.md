@@ -27,7 +27,7 @@ TABLE WITHOUT ID
   status AS "Status",
   last_updated AS "Last Updated"
 FROM "Amazon/Quick Commerce"
-WHERE contains(tags, "amazon")
+WHERE contains(tags, "amazon") AND status != "On Hold" AND status != "Cancelled"
 SORT last_updated DESC
 ```
 
@@ -39,7 +39,7 @@ TABLE WITHOUT ID
   status AS "Status",
   last_updated AS "Last Updated"
 FROM "Amazon/Project A"
-WHERE contains(tags, "amazon")
+WHERE contains(tags, "amazon") AND status != "On Hold"
 SORT last_updated DESC
 ```
 
@@ -48,6 +48,7 @@ SORT last_updated DESC
 ```dataview
 TABLE WITHOUT ID
   link(file.path, file.name) AS "Matter",
+  office AS "Office(s)",
   status AS "Status",
   last_updated AS "Last Updated"
 FROM "KBC"

@@ -1,38 +1,15 @@
-<%*
-  // 1. Rename the file to today's date (Month DD, YYYY)
-  await tp.file.rename(`${tp.date.now("MMMM DD, YYYY")}`);
-%>
----
-date: <% tp.date.now("MMMM DD, YYYY") %>
-tags: [daily]
----
-**Weather:** <%* try {
-  const res = await fetch("https://wttr.in/New+Albany+Ohio?format=%c+%t+%C");
-  const weather = await res.text();
-  tR += weather;
-} catch (err) {
-  tR += "Weather data unavailable";
-}
-%>
+<%* await tp.file.rename(`${tp.date.now("MMMM DD, YYYY")}`); %> date: <% tp.date.now("MMMM DD, YYYY") %> tags: [daily]
 
-> [!info] Daily Stoic
-> <%* try {
-    const res = await fetch("https://api.themotivate365.com/stoic-quote");
-    const data = await res.json();
-    tR += `"${data.quote}" \n> — ***${data.author}***`;
-  } catch (err) {
-    tR += "The impediment to action advances action. (ἐφ᾽ ἡμῖν)";
-  }
-%>
+Weather: <%* try { const res = await fetch("https://api.open-meteo.com/v1/forecast?latitude=40.0815&longitude=-82.8007&current=temperature_2m,apparent_temperature,weather_code&temperature_unit=fahrenheit&timezone=America%2FNew_York"); const data = await res.json(); const temp = Math.round(data.current.temperature_2m); const feels = Math.round(data.current.apparent_temperature); const codes = {0:"Clear",1:"Mostly Clear",2:"Partly Cloudy",3:"Overcast",45:"Foggy",48:"Icy Fog",51:"Light Drizzle",53:"Drizzle",55:"Heavy Drizzle",61:"Light Rain",63:"Rain",65:"Heavy Rain",71:"Light Snow",73:"Snow",75:"Heavy Snow",80:"Showers",81:"Heavy Showers",95:"Thunderstorm",99:"Severe Thunderstorm"}; const desc = codes[data.current.weather_code] || "Unknown"; tR += `${temp}°F (feels ${feels}°F) — ${desc}`; } catch (err) { tR += "Weather data unavailable"; } %>
+
+## Daily Stoic
+
+<%* const quotes = [ { text: "You have power over your mind, not outside events. Realize this, and you will find strength.", author: "Marcus Aurelius" }, { text: "Waste no more time arguing what a good man should be. Be one.", author: "Marcus Aurelius" }, { text: "The obstacle is the way.", author: "Marcus Aurelius" }, { text: "If it is not right, do not do it; if it is not true, do not say it.", author: "Marcus Aurelius" }, { text: "The best revenge is not to be like your enemy.", author: "Marcus Aurelius" }, { text: "Confine yourself to the present.", author: "Marcus Aurelius" }, { text: "Retire into yourself as much as possible.", author: "Marcus Aurelius" }, { text: "The things you think about determine the quality of your mind.", author: "Marcus Aurelius" }, { text: "Never esteem anything as of advantage to you that will make you break your word or lose your self-respect.", author: "Marcus Aurelius" }, { text: "The soul becomes dyed with the color of its thoughts.", author: "Marcus Aurelius" }, { text: "He who fears death will never do anything worthy of a man who is alive.", author: "Seneca" }, { text: "We suffer more in imagination than in reality.", author: "Seneca" }, { text: "It is not the man who has too little, but the man who craves more, that is poor.", author: "Seneca" }, { text: "Luck is what happens when preparation meets opportunity.", author: "Seneca" }, { text: "Begin at once to live, and count each separate day as a separate life.", author: "Seneca" }, { text: "It is the power of the mind to be unconquerable.", author: "Seneca" }, { text: "He suffers more than necessary, who suffers before it is necessary.", author: "Seneca" }, { text: "Wealth is the slave of a wise man and the master of a fool.", author: "Seneca" }, { text: "A gem cannot be polished without friction, nor a man perfected without trials.", author: "Seneca" }, { text: "Difficulties strengthen the mind, as labor does the body.", author: "Seneca" }, { text: "Make the best use of what is in your power, and take the rest as it happens.", author: "Epictetus" }, { text: "First say to yourself what you would be; and then do what you have to do.", author: "Epictetus" }, { text: "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.", author: "Epictetus" }, { text: "No man is free who is not master of himself.", author: "Epictetus" }, { text: "Seek not the good in external things; seek it in yourself.", author: "Epictetus" }, { text: "Man is not worried by real problems so much as by his imagined anxieties about real problems.", author: "Epictetus" }, { text: "Do not indulge in expectations of what is not in your power.", author: "Epictetus" }, { text: "No great thing is created suddenly.", author: "Epictetus" }, { text: "You become what you give your attention to.", author: "Epictetus" }, { text: "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.", author: "Epictetus" }, { text: "When we are no longer able to change a situation, we are challenged to change ourselves.", author: "Viktor Frankl" }, { text: "Everything can be taken from a man but one thing: the last of the human freedoms to choose one's attitude in any given set of circumstances.", author: "Viktor Frankl" }, { text: "Those who have a why to live can bear with almost any how.", author: "Viktor Frankl" }, { text: "Life is never made unbearable by circumstances, but only by lack of meaning and purpose.", author: "Viktor Frankl" }, { text: "Between stimulus and response there is a space. In that space is our power to choose our response.", author: "Viktor Frankl" }, { text: "Each man is questioned by life; and he can only answer to life by answering for his own life.", author: "Viktor Frankl" }, { text: "The one thing you cannot take away from me is the way I choose to respond to what you do to me.", author: "Viktor Frankl" }, { text: "Suffering ceases to be suffering at the moment it finds a meaning.", author: "Viktor Frankl" }, { text: "A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him will never be able to throw away his life.", author: "Viktor Frankl" }, { text: "Live as if you were living a second time, and as though you had acted wrongly the first time.", author: "Viktor Frankl" } ]; const q = quotes[Math.floor(Math.random() * quotes.length)]; tR += `> "${q.text}"\n> — ***${q.author}***`; %>
 
 ## Today
 
-> What happened. What you noticed. Whatever's on your mind.
-
----
+What happened. What you noticed. Whatever's on your mind.
 
 ## Mine / Not Mine
-
----
 
 ## Pattern Watch

@@ -1,18 +1,7 @@
 ---
-date: "{{date:MM-DD-YYYY}}"
+date: "{{date:YYYY-MM-DD}}"
 tags: [daily]
 ---
-
-> [!info] Daily Stoic
-> <%* try {
-    const res = await fetch("https://api.themotivate365.com/stoic-quote");
-    const data = await res.json();
-    tR += `"${data.quote}" \n> — ***${data.author}***`;
-  } catch (err) {
-    tR += "The impediment to action advances action. (ἐφ᾽ ἡμῖν)";
-  }
-%>
-
 ---
 
 ## Notes
