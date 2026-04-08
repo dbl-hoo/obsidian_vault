@@ -16,7 +16,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Cash Flow, Comps, etc. 📅 2026-04-08
+- [x] Cash Flow, Comps, etc. 📅 2026-04-08 ✅ 2026-04-08
 - [ ] Follow up with Kirk Shephard / MetEd re: PM assignment 📅 2026-05-04
 
 ## Notes
