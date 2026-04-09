@@ -15,7 +15,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] CAR Inputs (due: March 19, 2026) 📅 2026-04-08
+- [ ] CAR Inputs (due: March 19, 2026) 📅 2026-04-10
 - [ ] 🔺 PSA Expiration (no extension) 📅 2026-04-28
 - [ ] First Extension Expiration 📅 2026-05-28
 - [ ] Second Extension Expiration 📅 2026-06-27

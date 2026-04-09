@@ -16,7 +16,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Send ZCL to team 📅 2026-04-09
+- [x] Send ZCL to team 📅 2026-04-09 ✅ 2026-04-09
 
 ## Notes
 
