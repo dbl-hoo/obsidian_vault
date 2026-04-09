@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(unzip -l \"C:\\\\Users\\\\kirkham\\\\Downloads\\\\qc-export.zip\")",
+      "Bash(python3:*)",
+      "Bash(cygpath:*)",
+      "Bash(find C:/Users/kirkham/Documents/Vault -maxdepth 1 -type f -name *.md)",
+      "Bash(find C:/Users/kirkham/Documents/Vault -name Dashboard* -o -name dashboard* -o -name *Tasks* -o -name *tasks*)",
+      "Bash(grep -h ^tags: C:/Users/kirkham/Documents/Vault/Kirkham Law/*/*.md C:/Users/kirkham/Documents/Vault/Personal/*/*.md)",
+      "Bash(\"C:/Users/kirkham/Documents/Vault/Daily Notes/03-30-2026.md\":*)",
+      "Read(//c/Users/kirkham/.ssh/**)",
+      "Bash(git -C C:/Users/kirkham/Documents/Vault status)",
+      "Bash(ssh-keygen:*)",
+      "Bash(ssh:*)",
+      "Bash(git:*)",
+      "Bash(find C:/Users/kirkham/Documents/Vault -iname *SOH9* -o -iname *SOHc* -o -iname *SOHC* -o -iname *TOLx* -o -iname *tolx*)",
+      "Bash(find C:/Users/kirkham/Documents/Vault -iname *SOH3* -o -iname *WOH3* -o -iname *stockbridge* -o -iname '*stock bridge*')",
+      "Bash(BASE=\"C:/Users/kirkham/Documents/Amazon\" mkdir -p \"$BASE/x_Misc\" mv \"$BASE/AWS - Work Order Amendment.docx\" \"$BASE/x_Misc/\" mv \"$BASE/Access and Due Diligence Agreement - Mercantile 820 Logistics Park \\(PLD 3_31_2026\\)\\(179241.2\\).docx\" \"$BASE/x_Misc/\" mv \"$BASE/Amazon LOI - Lease - Bluestone.docx\" \"$BASE/x_Misc/\" mv \"$BASE/Amazon LOI - Lease - Rocky River Drive.docx\" \"$BASE/x_Misc/\" mv \"$BASE/BLP LOI Velocis Redline - Mercantile 820 - 3.3.26.docx\" \"$BASE/x_Misc/\" mv \"$BASE/Commission Agreement \\(Amazon \\(HDY1\\)-First Amendment\\).docx\" \"$BASE/x_Misc/\" mv \"$BASE/DZU1 - First Amendment to Lease \\(Correction of Base Rent Table\\).docx\" \"$BASE/x_Misc/\" mv \"$BASE/LL Repsonse LOI - Trident - Amazon 11.10.25.docx\" \"$BASE/x_Misc/\" mv \"$BASE/LOI - 1014 East 18th Street - 02.20.26.docx\" \"$BASE/x_Misc/\" mv \"$BASE/LOI - C5 Eastpoint LLC - Amazon 11.19.25.docx\" \"$BASE/x_Misc/\" mv \"$BASE/LOI - Trident - Amazon 10.20.25.docx\" \"$BASE/x_Misc/\" mv \"$BASE/LOI Niles- PANATTONI 10.1.25.docx\" \"$BASE/x_Misc/\" mv \"$BASE/SSD - Base Building Specs.docx\" \"$BASE/x_Misc/\" echo \"Done\" ls \"$BASE/\")",
+      "Bash(chmod +x:*)",
+      "Bash(powershell.exe:*)",
+      "Bash(python -c ':*)"
+    ]
+  }
+}

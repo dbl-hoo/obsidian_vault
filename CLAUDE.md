@@ -33,7 +33,6 @@ Templates/           ← Note templates
 Team Meeting/        ← Weekly team meeting agendas (dated: YYYY-MM-DD Team Meeting.md)
 Dashboard.md         ← Master index (Dataview)
 Open Tasks.md        ← All open tasks (Tasks plugin query)
-Call Log.md          ← All calls logged (flat table)
 KBC/NDA Log.md       ← NDA tracking (flat table)
 ```
 

@@ -8,10 +8,18 @@ Thumbs.db
 .obsidian/workspace-mobile.json
 .obsidian/cache
 
-# Copilot — conversations and credentials
-copilot/copilot-conversations/
-.obsidian/plugins/copilot/data.json
+# Plugin data — all plugins (may contain credentials, tokens, sensitive state)
+.obsidian/plugins/*/data.json
 
+# Plugin compiled assets — large generated files, not source
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
 
-# Claude local files
-.claude/
+# obsidian-git credential helper
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+
+# Graph layout — ephemeral UI state
+.obsidian/graph.json
+
+# Sync conflict files
+*.sync-conflict-*
