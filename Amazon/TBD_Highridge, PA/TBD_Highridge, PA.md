@@ -3,15 +3,17 @@ site_code: TBD_Highridge, PA
 deal_type: Purchase
 business_unit: GCF
 status: Ongoing
-tm: 
-pcm: 
-launch_date: 
+tm:
+pcm:
+launch_date:
 start_date: 2026-01-09
-end_date: 
-local_broker: 
+end_date:
+local_broker: KBC
 area: Amazon
 last_updated: 2026-04-07
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 ---
 
 ## Tasks

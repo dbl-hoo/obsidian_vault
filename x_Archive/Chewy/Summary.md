@@ -1,4 +1,4 @@
-﻿---
+---
 project: Chewy
 status: Ongoing
 area: KBC

@@ -18,7 +18,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] 🔺 Call LL re: HVAC replacement 📅 2026-04-10
+- [x] 🔺 Call LL re: HVAC replacement 📅 2026-04-10 ✅ 2026-04-10
 
 ## Notes
 

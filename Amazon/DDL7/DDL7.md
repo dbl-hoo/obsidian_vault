@@ -6,11 +6,13 @@ status: Ongoing
 tm: Al Patel
 pcm: Ankit Mandawewala
 launch_date: 2028-08-01
-end_date: 
-local_broker: 
+end_date:
+local_broker: KBC
 area: Amazon
 last_updated: 2026-04-07
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 ---
 
 ## Tasks

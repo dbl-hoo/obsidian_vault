@@ -1,4 +1,4 @@
-﻿---
+---
 site_code: HDY1
 deal_type: Renewal
 business_unit: AMXL

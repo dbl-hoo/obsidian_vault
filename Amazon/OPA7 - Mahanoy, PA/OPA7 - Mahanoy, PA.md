@@ -3,15 +3,17 @@ site_code: OPA7 - Mahanoy, PA
 deal_type: Lease
 business_unit: GCF
 status: Ongoing
-tm: 
-pcm: 
-launch_date: 
+tm: Rachel Elliott
+pcm:
+launch_date:
 start_date: 2025-12-17
-end_date: 
-local_broker: 
+end_date:
+local_broker: KBC
 area: Amazon
-last_updated: 2026-04-08
-tags: [deal, amazon]
+last_updated: 2026-04-10
+tags:
+  - deal
+  - amazon
 ---
 
 ## Tasks

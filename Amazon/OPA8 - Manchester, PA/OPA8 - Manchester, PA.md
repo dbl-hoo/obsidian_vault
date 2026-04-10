@@ -3,11 +3,11 @@ site_code: OPA8 - Manchester, PA
 deal_type: Lease
 business_unit: GCF
 status: Ongoing
-tm: Arman Fashandi
+tm: Phil Ristevski
 pcm: Maria Albulescu
 launch_date: 2027-06-22
 end_date:
-local_broker:
+local_broker: KBC
 area: Amazon
 last_updated: 2026-04-08
 tags:

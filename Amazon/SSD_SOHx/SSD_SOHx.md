@@ -3,14 +3,16 @@ site_code: SSD_SOHx
 deal_type: BTS-Lease
 business_unit: SSD
 status: Ongoing
-tm: 
-pcm: 
+tm:
+pcm:
 launch_date:
 start_date:
 end_date:
-local_broker:
+local_broker: KBC
 area: Amazon
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 last_updated: 2026-04-07
 ---
 

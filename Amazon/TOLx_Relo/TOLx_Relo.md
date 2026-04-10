@@ -7,7 +7,7 @@ tm: Phillip Perri
 pcm: Stacey Pryor
 launch_date: 2029-03-01
 end_date:
-local_broker:
+local_broker: KBC
 area: Amazon
 last_updated: 2026-04-07
 tags:

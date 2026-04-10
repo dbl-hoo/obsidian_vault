@@ -31,7 +31,7 @@ x_Archive/           ← Completed/dead deals — don't surface unless asked
 Daily Notes/         ← Daily capture notes
 Templates/           ← Note templates
 Team Meeting/        ← Weekly team meeting agendas (dated: YYYY-MM-DD Team Meeting.md)
-Dashboard.md         ← Master index (Dataview)
+Open Matters.base    ← Master index (Obsidian Bases — active deals across Amazon, KBC, Kirkham Law)
 Open Tasks.md        ← All open tasks (Tasks plugin query)
 KBC/NDA Log.md       ← NDA tracking (flat table)
 ```
@@ -102,6 +102,23 @@ Prepend new entries at the **top** of the `## Notes` section (newest first).
 - Completed tasks are deleted, not checked off
 - When scanning for open tasks, **read deal files directly** — do NOT rely on grep (emoji in task lines breaks grep matching)
 - Use `Open Tasks.md` (Dataview output) as an index to identify which files have open tasks, then read those files for full context
+
+## Tooling
+
+Use the **`obsidian-cli` skill** (invokes the `obsidian` CLI against the running Obsidian instance) for:
+- **Reading notes**: `obsidian read file="CVG47"`
+- **Single YAML field updates**: `obsidian property:set name="tm" value="Rachel Elliott" file="CVG47"` — cleaner than editing frontmatter directly
+- **Creating new deal files**: `obsidian create name="CVG47" content="..." silent`
+- **Searching the vault**: `obsidian search query="..."`
+- **Daily note operations**: `obsidian daily:read`, `obsidian daily:append`
+
+Use the **direct file tools** (Read / Edit / Write) for:
+- **Prepending entries to `## Notes`** — CLI `append` puts content at the bottom; notes are newest-first so prepend via Edit
+- **Editing the `## Tasks` section** — emoji-heavy format; direct Edit is more reliable
+- **Multi-section edits** in a single pass (e.g., Notes + Tasks + YAML together)
+- **Non-vault files** (e.g., `CLAUDE.md`, plugin configs)
+
+When updating a deal that touches both YAML and Notes/Tasks, batch it: use CLI for property updates and Edit tool for the Notes/Tasks section.
 
 ## My Job
 

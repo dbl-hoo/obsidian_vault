@@ -7,13 +7,17 @@ deal_type: New Lease
 business_unit: QC
 status: Ongoing
 tm: Jason Kirkham
-pcm: 
+pcm:
 launch_date: 2026-08-01
 last_updated: 2026-04-07
 loi_final: No
 loi_prepared: No
 area: Amazon
-tags: [deal, amazon, quick-commerce]
+tags:
+  - deal
+  - amazon
+  - quick-commerce
+local_broker: Shannon Hunt | Vice President | Veritas Realty
 ---
 
 ## Tasks

@@ -1,20 +1,24 @@
 ---
 site_code: ZCL2
 launch_date: 2026-08-01
-pin: "University Heights"
-address: "4353 Cranwood Parkway"
+pin: University Heights
+address: 4353 Cranwood Parkway
 city: Cleveland
 state: OH
 deal_type: New Lease
 business_unit: QC
 status: Ongoing
-local_broker: "Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate"
+local_broker: Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-03-03
 last_updated: 2026-04-08
 area: Amazon
-tags: [deal, amazon, quick-commerce]
+tags:
+  - deal
+  - amazon
+  - quick-commerce
+tm: Chatman Young
 ---
 
 ## Tasks
