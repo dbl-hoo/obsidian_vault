@@ -16,6 +16,10 @@
 - Was somewhat rude to Joe last night.  Need to control my low self esteem triggered defensiveness.  This is something to discuss. 
 - So many sexy texts with Heather.
 - Zeek is sick.  I offered to cancel my trip/concert to Nashville.  But she made other arrangements.  Left me feeling kind of unneeded.  
--
+
+
+## 2026.04.10
+- I want to act like less of a jerk today.  Remember to be kind and patient with people.   Think before sending things that are rude or condescending.   Think how it would feel to receive that communication. 
+- I want to be less worried about calling and talking to business contacts on the phone.
 
 

@@ -9,7 +9,7 @@ last_updated: 2026-04-07
 
 ## Tasks
 
-- [ ] 🔺 Review listing agreement 📅 2026-04-10
+- [x] 🔺 Review listing agreement 📅 2026-04-10 ✅ 2026-04-10
 
 ## Notes
 

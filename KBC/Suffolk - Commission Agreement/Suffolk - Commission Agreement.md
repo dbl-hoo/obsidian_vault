@@ -9,7 +9,7 @@ last_updated: 2026-04-09
 
 ## Tasks
 
-- [ ] 🔺 Review draft commission agreement 📅 2026-04-10
+- [x] 🔺 Review draft commission agreement 📅 2026-04-10 ✅ 2026-04-10
 
 ## Notes
 

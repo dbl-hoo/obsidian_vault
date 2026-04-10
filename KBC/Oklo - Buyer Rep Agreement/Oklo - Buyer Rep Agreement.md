@@ -9,7 +9,7 @@ last_updated: 2026-04-07
 
 ## Tasks
 
-- [ ] Follow up on BRA/MNDA with Summer Coulter 📅 2026-04-10
+- [x] Follow up on BRA/MNDA with Summer Coulter 📅 2026-04-10 ✅ 2026-04-10
 
 ## Notes
 
