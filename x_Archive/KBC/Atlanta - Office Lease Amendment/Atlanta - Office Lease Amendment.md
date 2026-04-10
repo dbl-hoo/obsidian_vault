@@ -34,4 +34,4 @@ April 1, 2026 - Matter opened. KBC amending lease to its Atlanta office at 1776 
 ## Tasks
 
 - [x] Follow up on amendment comments ✅ 2026-04-02
-- [ ] Follow up with LL re: assignment + amendment 📅 2026-04-09
+- [x] Follow up with LL re: assignment + amendment 📅 2026-04-09 ✅ 2026-04-10

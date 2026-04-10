@@ -16,7 +16,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Follow up with Al Patel on PSA 📅 2026-04-10
+- [x] Follow up with Al Patel on PSA 📅 2026-04-10 ✅ 2026-04-10
 
 ## Related Notes
 

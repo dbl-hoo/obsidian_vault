@@ -16,7 +16,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] 🔺 Stay on Bergman re: design — could delay lease signing 📅 2026-04-10
+- [x] 🔺 Stay on Bergman re: design — could delay lease signing 📅 2026-04-10 ✅ 2026-04-10
 
 ## Notes
 

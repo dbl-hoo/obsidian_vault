@@ -18,7 +18,6 @@ tags:
 
 ## Tasks
 
-- [ ] Matt to send LOI to Mark Branstetter (Panatonni) — NDA not yet signed 📅 2026-04-10
 
 ## Notes
 

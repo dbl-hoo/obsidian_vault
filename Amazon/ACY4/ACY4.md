@@ -19,7 +19,7 @@ tags:
 
 - [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
 - [ ] Flag Liepe parcel local counsel / access rights on next week's call (Joe P. following up) 📅 2026-04-13
-- [ ] 🔺 Send draft 8th amendment to SunCap for review 📅 2026-04-10
+- [x] 🔺 Send draft 8th amendment to SunCap for review 📅 2026-04-10 ✅ 2026-04-10
 
 ## Notes
 

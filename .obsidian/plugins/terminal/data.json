@@ -17,7 +17,7 @@
   "profiles": {
     "8ecf8d73-55b3-4432-b167-dc173fdeff89": {
       "args": [],
-      "executable": "C:\\Windows\\System32\\cmd.exe",
+      "executable": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
       "followTheme": true,
       "name": "",
       "platforms": {
@@ -35,7 +35,7 @@
         "documentOverride": null
       },
       "type": "integrated",
-      "useWin32Conhost": true
+      "useWin32Conhost": false
     },
     "darwinExternalDefault": {
       "args": [
@@ -142,7 +142,7 @@
     },
     "win32ExternalDefault": {
       "args": [],
-      "executable": "C:\\Windows\\System32\\cmd.exe",
+      "executable": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
       "followTheme": true,
       "name": "",
       "platforms": {
@@ -162,7 +162,7 @@
     },
     "win32IntegratedDefault": {
       "args": [],
-      "executable": "C:\\Windows\\System32\\cmd.exe",
+      "executable": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
       "followTheme": true,
       "name": "",
       "platforms": {
@@ -180,10 +180,10 @@
         "documentOverride": null
       },
       "type": "integrated",
-      "useWin32Conhost": true
+      "useWin32Conhost": false
     }
   },
-  "defaultProfile": "8ecf8d73-55b3-4432-b167-dc173fdeff89",
+  "defaultProfile": null,
   "terminalOptions": {
     "documentOverride": null
   }

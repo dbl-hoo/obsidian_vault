@@ -19,7 +19,7 @@ tags:
 
 - [x] 🔺 Deal terms — model LOI first turn as worst case scenario 📅 2026-04-10 ✅ 2026-04-07
 - [ ] 🔺 Cash flow 📅 2026-04-10
-- [ ] 🔺 Comps 📅 2026-04-10
+- [x] 🔺 Comps 📅 2026-04-10 ✅ 2026-04-10
 - [ ] 🔺 Alternative options survey (pricing + disqualification rationale) 📅 2026-04-10
 
 ## Notes
