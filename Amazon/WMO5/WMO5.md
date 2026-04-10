@@ -9,13 +9,17 @@ launch_date: 2027-08-15
 end_date: 
 local_broker: Matt Eastin - Cushman
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-09
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
+- [ ] Follow up on affidavits of non-production 📅 2026-04-14
+
 ## Notes
+
+2026-04-09 - Follow up next week on affidavits of non-production.
 
 2026-04-05 - On autopilot. Targeting closing May 7, 2026.
 

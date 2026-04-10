@@ -2,15 +2,15 @@
 site_code: DCM5
 deal_type: Renewal
 business_unit: AMZL
-status: On Hold
-tm: 
+status: Ongoing
+tm: Rachel Sohlstrom
 pcm: 
 launch_date: 
 start_date: June 18, 2025 11:01 AM
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-05
+last_updated: 2026-04-09
 tags: [deal, amazon]
 ---
 
@@ -29,6 +29,8 @@ tags: [deal, amazon]
 
 
 ## Notes
+
+2026-04-09 - Per Rachel Sohlstrom (TM) — Amazon wants 5-year renewal. Cap/collar on renewal: 90%/110%.
 
 04-05-2026 - On hold. Will revisit closer to lease expiration (3/31/2028).
 
