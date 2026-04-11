@@ -12,14 +12,18 @@ local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-04-08
+last_updated: 2026-04-10
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
 
 ## Tasks
 
+- [ ] Follow up with LL re: certificate of compliance 📅 2026-04-17
+
 ## Notes
+
+2026-04-10 - Requested LL to provide certificate of compliance for code issue.
 
 2026-04-08 - Reached out to LL re: correcting city compliance issue. EconDev reports this may enable us to get permitted.
 

@@ -9,7 +9,7 @@ launch_date: 2028-04-25
 end_date:
 local_broker: Matt Clackson
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-10
 tags:
   - deal
   - amazon
@@ -18,6 +18,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-04-10 - Scott M to present at next site selection.
 
 2026-04-03 - Amazon considering termination.
 

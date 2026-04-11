@@ -7,12 +7,12 @@ city: St. Louis
 state: MO
 deal_type: New Lease
 business_unit: QC
-status: Selected
+status: On Hold
 local_broker: "Tim Cribbin"
 loi_final: No
 loi_prepared: No
 site_selection_date: "February 13, 2026"
-last_updated: 2026-04-08
+last_updated: 2026-04-10
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
@@ -35,6 +35,8 @@ tags: [deal, amazon, quick-commerce]
 - [x] Follow up with LL on LOI 📅 2026-04-06 ✅ 2026-04-06
 
 ## Notes
+
+2026-04-10 - LL passing on the deal. Let team know; asked Matt Eastin to find alternatives.
 
 2026-04-08 - Sent comp request to Matt Eastin.
 

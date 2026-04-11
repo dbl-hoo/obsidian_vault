@@ -4,14 +4,16 @@ status: Ongoing
 area: KBC
 office: Philadelphia
 tags: [kbc]
-last_updated: 2026-04-07
+last_updated: 2026-04-10
 ---
 
 ## Tasks
 
-- [x] Follow up on BRA/MNDA with Summer Coulter 📅 2026-04-10 ✅ 2026-04-10
+- [ ] Follow up with Summer Coulter re: BRA/MNDA 📅 2026-04-17
 
 ## Notes
+
+2026-04-10 - Followed up with Summer Coulter. Follow up in 1 week.
 
 2026-04-03 - Drafted BRA and revised MNDA; emailed Summer Coulter. Follow up next Friday 04-10.
 

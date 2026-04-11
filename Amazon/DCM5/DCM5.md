@@ -10,7 +10,7 @@ start_date: June 18, 2025 11:01 AM
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-09
+last_updated: 2026-04-10
 tags: [deal, amazon]
 ---
 
@@ -29,6 +29,8 @@ tags: [deal, amazon]
 
 
 ## Notes
+
+2026-04-10 - Emailed Rachel Sohlstrum — renewal will be $4.686/SF (lease cap). Suggested circle back next year.
 
 2026-04-09 - Per Rachel Sohlstrom (TM) — Amazon wants 5-year renewal. Cap/collar on renewal: 90%/110%.
 

@@ -9,7 +9,7 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-10
 tags:
   - deal
   - amazon
@@ -17,12 +17,13 @@ tags:
 
 ## Tasks
 
-- [x] 🔺 Deal terms — model LOI first turn as worst case scenario 📅 2026-04-10 ✅ 2026-04-07
 - [ ] 🔺 Cash flow 📅 2026-04-10
-- [x] 🔺 Comps 📅 2026-04-10 ✅ 2026-04-10
 - [ ] 🔺 Alternative options survey (pricing + disqualification rationale) 📅 2026-04-10
+- [ ] Add architect visit to next week's team meeting agenda 📅 2026-04-14
 
 ## Notes
+
+2026-04-10 - Call with Ambrose — waiting for NP response on PSA; coordinating on other potential land sites. Add architect visit to next week's meeting agenda.
 
 2026-04-07 - Call with Cody Garrison — can get another access point on Deshler.
 

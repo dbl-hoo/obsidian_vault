@@ -12,7 +12,7 @@ local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-04-03
+last_updated: 2026-04-10
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
@@ -32,11 +32,9 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] Follow up LL re: lease draft 📅 2026-04-03 ✅ 2026-04-03
-- [x] Follow up Flor/Himanshu re: power ✅ 2026-04-02
-- [x] Follow up LL re: lease draft 📅 2026-04-08 ✅ 2026-04-07
-
 ## Notes
+
+2026-04-10 - Lease received Tuesday; reviewed by legal today and sent back to LL.
 
 April 1, 2026 - LOI final as of 3/26. Power question out to Flor/Himanshu. Followed up with LL re: lease draft. Follow up again Friday 4/3.  Himanshu confirmed 400amps in one panel, though I am ok with 2 panel with 200amps each if that is time friendly
 

@@ -11,11 +11,15 @@ end_date:
 local_broker: KBC
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-04-07
+last_updated: 2026-04-10
 ---
 ## Tasks
 
+- [ ] Discuss with Al on Monday's call 📅 2026-04-13
+
 ## Notes
+
+2026-04-10 - Seller came back at same terms; sent to Al Patel; discuss on Monday's call.
 
 2026-04-07 - LOIs back to Jeff B.
 

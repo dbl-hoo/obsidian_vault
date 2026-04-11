@@ -8,4 +8,5 @@ tags: [kbc, nda]
 
 | Date | Counterparty | Type | Status | Notes |
 |------|--------------|------|--------|-------|
+| 2026-04-10 | NDV Energy Pte Ltd | — | Reviewed | — |
 | 2026-03-30 | DC Blox | Mutual | Signed | No issues |
