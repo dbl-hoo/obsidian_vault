@@ -6,7 +6,7 @@ tags: [kbc, nda]
 
 # KBC — NDA Log
 
-| Date | Counterparty | Type | Status | Notes |
-|------|--------------|------|--------|-------|
-| 2026-04-10 | NDV Energy Pte Ltd | — | Reviewed | — |
-| 2026-03-30 | DC Blox | Mutual | Signed | No issues |
+| Date Received | Counterparty | Type | Status | Date Reviewed | Notes |
+|---------------|--------------|------|--------|---------------|-------|
+| 2026-04-10 | NDV Energy Pte Ltd | — | Reviewed | 2026-04-10 | — |
+| 2026-03-30 | DC Blox | Mutual | Signed | 2026-03-30 | No issues |

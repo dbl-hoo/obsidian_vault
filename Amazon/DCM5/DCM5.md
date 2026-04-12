@@ -2,7 +2,7 @@
 site_code: DCM5
 deal_type: Renewal
 business_unit: AMZL
-status: Ongoing
+status: On Hold
 tm: Rachel Sohlstrom
 pcm: 
 launch_date: 
@@ -10,7 +10,7 @@ start_date: June 18, 2025 11:01 AM
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-10
+last_updated: 2026-04-11
 tags: [deal, amazon]
 ---
 
@@ -29,6 +29,8 @@ tags: [deal, amazon]
 
 
 ## Notes
+
+2026-04-11 - Per Rachel Sohlstrom — on hold until early 2027.
 
 2026-04-10 - Emailed Rachel Sohlstrum — renewal will be $4.686/SF (lease cap). Suggested circle back next year.
 

@@ -22,11 +22,12 @@ KBC_DOCS:         C:\Users\kirkham\Documents\KBC Legal
 
 ```
 Amazon/              ← Active Amazon deals (site codes: CVG47, CMH8, etc.)
-  Quick Commerce/    ← Separate program, city-based subfolders; HAS a parent index file
+  Quick Commerce/    ← Separate program, city-based subfolders; no parent index file
   Project A/         ← Separate program; NO parent file — site-file-only
 KBC/                 ← KBC Advisors company matters (MSAs, subpoenas, admin)
 Kirkham Law/         ← Personal law firm matters
 Personal/            ← Personal projects, health, home, finances
+People/              ← Counterparty intelligence pages (TMs, brokers, counsel, landlords)
 x_Archive/           ← Completed/dead deals — don't surface unless asked
 Daily Notes/         ← Daily capture notes
 Templates/           ← Note templates
@@ -34,6 +35,7 @@ Team Meeting/        ← Weekly team meeting agendas (dated: YYYY-MM-DD Team Mee
 Open Matters.base    ← Master index (Obsidian Bases — active deals across Amazon, KBC, Kirkham Law)
 Open Tasks.md        ← All open tasks (Tasks plugin query)
 KBC/NDA Log.md       ← NDA tracking (flat table)
+Amazon/Portfolio Overview.md ← Synthesis page — current state of all active Amazon deals
 ```
 
 ### Amazon Sub-Programs
@@ -42,6 +44,26 @@ KBC/NDA Log.md       ← NDA tracking (flat table)
 | Standard deals | Site code folder (e.g., `Amazon/CVG47/`) | N/A | `AMAZON_DOCS\{site_code}\` |
 | Quick Commerce | Site folders directly under `Amazon/Quick Commerce/` | No | `AMAZON_QC_DOCS\{site_code}\` |
 | Project A | Site-specific sub-files under `Amazon/Project A/` | **No** — site-file-only | `AMAZON_PA_DOCS\{site_code}\` |
+
+### Person Page Convention
+Pages in `People/` track recurring counterparties — Amazon TMs, local brokers, landlord's counsel, landlords, etc. One page per person, named `First Last.md`.
+
+**Person page YAML fields:**
+```yaml
+name:
+role:              # Amazon TM | Local Broker | Landlord Counsel | Landlord | Other
+organization:
+deals: []          # List of deal site codes / matter names this person is involved in
+area:              # Amazon | KBC | Kirkham Law
+tags: [person]
+last_updated:      # YYYY-MM-DD
+```
+
+**Person page body:** `## Notes` section (reverse-chronological, same format as deal files). Log observations about working style, negotiation tendencies, preferences, responsiveness — anything useful for future interactions. Don't duplicate full call notes; capture the *intelligence* about the person.
+
+**When to create a person page:** When a name appears across 2+ deals, or when Jason provides substantive intel about someone worth remembering. Don't create pages for one-off contacts.
+
+**When to update a person page:** During call note processing, if the note contains intel about a person who has a page (or should get one), update their page too. Add new deals to the `deals:` list as they come up.
 
 ### Deal File Convention
 Each deal has one file named after the deal (e.g., `CVG47.md`, `Action - MSA.md`):
@@ -134,78 +156,61 @@ If any of the following are true, **do not proceed — ask Jason first:**
 
 ### Note Capture
 When Jason dumps call notes:
+0. **Re-read the deal file immediately before writing** — never work from cached/stale content
 1. Identify the correct deal file(s)
-2. Prepend a dated entry to the top of `## Notes` using the format above
+2. Prepend a dated entry to the top of `## Notes`
 3. Extract action items as `- [ ]` tasks into `## Tasks`
 4. Update `last_updated:` in YAML to today's date
+5. Update `status:` if it changed; update other YAML fields if clearly warranted
+6. **Cascade to person pages:** If the note contains intel about a person who has a page in `People/`, update their page. If a name appears for the first time across 2+ deals, consider creating a page (ask Jason if unsure).
+7. **Cascade to Portfolio Overview:** If this is an Amazon deal, rebuild `Amazon/Portfolio Overview.md` from scratch.
 
-### Proactive Reporting
-When asked "where do things stand" or similar:
-1. Read all deal files with `status: Ongoing`
-2. Pull the most recent `## Notes` entry and open tasks from each
-3. Surface anything with overdue tasks or no update in >30 days
+When asked "where do things stand" or similar: read all `status: Ongoing` deal files, pull the most recent Notes entry and open tasks from each, surface overdue tasks or no update in >30 days.
 
-### Updates
-When updating a deal:
-1. **Re-read the file immediately before writing** — never work from cached/stale content
-2. Prepend dated entry to top of `## Notes`
-3. Update `last_updated:` in YAML to today's date
-4. Update any other YAML fields if the new info clearly warrants it
-5. Update `status:` if it changed
-
-### New Deals — Folder Creation
-When a new deal is opened and a vault file is created:
-
-**Amazon deals:**
-1. Create the deal file in the appropriate vault folder
-2. Create a matching documents folder at the appropriate `AMAZON_DOCS` / `AMAZON_QC_DOCS` / `AMAZON_PA_DOCS` path
-
-**KBC deals:**
-1. Create the deal file in the appropriate vault folder
-2. Create a matching documents folder under `KBC_DOCS`
+### New Deals
+When creating a deal file, also create the matching docs folder at the relevant `*_DOCS` path (see Paths section).
 
 ### Weekly Review
-Triggered by "weekly review" or similar. This is interactive — work through deals one at a time, wait for Jason's input before moving to the next.
-
-**Step 1 — Load the queue**
-Read all deal files with `status: Ongoing` across `Amazon/`, `Amazon/Quick Commerce/`, `Amazon/Project A/`, and `KBC/`. Build two lists:
-- **Needs attention:** overdue tasks (due date < today) OR no update in >14 days
-- **Everything else:** active deals, sorted by `last_updated` ascending (stalest first)
-
-Present the counts upfront:
-> Weekly review — X Amazon deals, Y KBC matters. Z flagged for attention.
-
-**Step 2 — Flagged items first**
-For each flagged deal, surface:
-- Deal name + last updated date
-- Most recent `## Notes` entry
-- All open tasks with due dates
-
-Ask Jason: *Any updates? Status change? Tasks to close or add?*
-Apply any changes before moving to the next item.
-
-**Step 3 — Remaining deals**
-Work through the rest in stalest-first order. Same format: last note, open tasks, prompt for input.
-If Jason says "skip" or "nothing" — move on, no changes.
-
-**Step 4 — Calendar**
-1. Prompt Jason to review at his outlook calendar for the week and identify any tasks from it.
-2. Go through open tasks for the coming week to see if there's any necessary prep or if any of them have changed.
-
-**Step 5 — Wrap-up**
-After all deals:
-1. Report what was updated (deal name + what changed)
-2. Flag any deals Jason skipped that are >30 days stale — surface them explicitly so he can decide if they're dead or just quiet
-3. Suggest any `CLAUDE.md` improvements if the review surfaced gaps
-
-**Rules:**
-- One deal at a time — don't dump everything at once
-- Re-read each file immediately before presenting it
-- Apply updates in real time as Jason gives input — don't batch at the end
-- If Jason says a deal is closed/dead, update `status:` immediately
+Handled by the `/weekly-review` skill. See `.claude/skills/weekly-review/SKILL.md` for the full workflow.
 
 ### EOD Processing
-Handled by the `/eod` skill. Invoke it at end of day to process the daily note — updates deal files, extracts tasks, stamps the note as processed, and suggests system improvements. See `.claude/skills/eod/SKILL.md` for full workflow.
+Handled by the `/eod` skill. See `.claude/skills/eod/SKILL.md` for the full workflow.
+
+### Portfolio Overview Maintenance
+`Amazon/Portfolio Overview.md` is a living synthesis of the entire Amazon book. Always rebuild it from scratch — never patch incrementally. Rebuild on any Amazon deal update or when Jason asks.
+
+### NDA Log
+`KBC/NDA Log.md` is a flat table tracking NDAs. When logging an NDA:
+
+| Field | Notes |
+|---|---|
+| Date Received | Date the NDA was received or initiated |
+| Counterparty | Company name |
+| Type | Mutual \| One-Way \| — |
+| Status | Received \| Reviewed \| Signed \| Dead |
+| Date Reviewed | Date Jason reviewed it — always populate this |
+| Notes | Issues flagged, redlines, or "No issues" |
+
+Add new entries at the **top** of the table (newest first).
+
+### Vault Lint
+A non-interactive health check. Run on demand ("lint the vault", "health check") or as part of weekly review wrap-up.
+
+**Checks:**
+1. **Stale deals** — `status: Ongoing` with `last_updated` >30 days ago
+2. **Overdue tasks** — tasks with due dates in the past, across all active deal files
+3. **YAML gaps** — required fields that are blank or missing (per the conventions above)
+4. **Orphan files** — files in deal folders that don't match any convention
+5. **Person page staleness** — people in `People/` whose `deals:` list references closed/dead deals
+6. **Cross-reference gaps** — TMs or brokers named in deal YAML who don't have a person page (and appear in 2+ deals)
+7. **Portfolio Overview drift** — check if the overview matches current deal file state
+
+**Output format:** Bulleted report grouped by category. Flag severity:
+- `🔴` Action needed (overdue tasks, stale deals)
+- `🟡` Worth checking (YAML gaps, orphans)
+- `🟢` Clean (no issues in category)
+
+Don't auto-fix anything during lint — report only. Jason decides what to act on.
 
 ## Example: Call Note Processing
 
@@ -214,8 +219,8 @@ Handled by the `/eod` skill. Invoke it at end of day to process the daily note �
 
 **Jack does this:**
 
-1. Opens `Amazon/CVG47/CVG47.md`
-2. Appends to `## Notes`:
+1. Re-reads `Amazon/CVG47/CVG47.md`
+2. Prepends to `## Notes`:
 ```
 2026-04-02 - Call w/ Sarah Chen (TM). Landlord countered $4.85/SF NNN vs. our $4.50. Sarah pushing back, pending internal approval. Phase II enviro came back clean — contingency can be removed. Need to send estoppel request to landlord's counsel by Friday.
 ```

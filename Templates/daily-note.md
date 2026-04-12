@@ -10,4 +10,4 @@ tags: [daily]
 -
 
 ## EOD Processed
-<!-- Charlie stamps this when done -->
+<!-- Jack stamps this when done -->
