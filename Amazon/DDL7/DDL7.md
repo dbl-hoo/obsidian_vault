@@ -9,13 +9,15 @@ launch_date: 2028-08-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-12
 tags:
   - deal
   - amazon
 ---
 
 ## Tasks
+
+- [ ] Follow up with Josh Y (Philly) re: comps 📅 2026-04-13
 
 ## Notes
 

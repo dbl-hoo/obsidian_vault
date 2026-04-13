@@ -12,12 +12,14 @@ local_broker: "Shannon Hunt | Vice President | Veritas Realty"
 loi_final: No
 loi_prepared: No
 site_selection_date: 2026-01-30
-last_updated: 2026-04-07
+last_updated: 2026-04-12
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
 
 ## Tasks
+
+- [ ] Follow up re: cancellation status 📅 2026-04-13
 
 ## Notes
 

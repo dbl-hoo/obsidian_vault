@@ -12,7 +12,7 @@ local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-04-10
+last_updated: 2026-04-12
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
@@ -31,6 +31,8 @@ tags: [deal, amazon, quick-commerce]
 | **Local Broker** | Tony Schmitt |
 
 ## Tasks
+
+- [ ] Follow up with LL on lease 📅 2026-04-13
 
 ## Notes
 

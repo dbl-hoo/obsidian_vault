@@ -4,7 +4,7 @@ status: Ongoing
 area: KBC
 office: New Jersey
 tags: [kbc]
-last_updated: 2026-04-06
+last_updated: 2026-04-12
 ---
 
 ## Deal Sheet
@@ -15,6 +15,8 @@ last_updated: 2026-04-06
 | Deal Type | Office Lease |
 
 ## Tasks
+
+- [ ] 🔺 Review office lease 📅 2026-04-15
 
 ## Notes
 

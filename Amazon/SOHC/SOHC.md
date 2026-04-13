@@ -10,13 +10,14 @@ start_date: 2025-11-05
 end_date: 
 local_broker: None
 area: Amazon
-last_updated: 2026-04-08
+last_updated: 2026-04-12
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
-- [ ] Send cash flow to Adam Knoll 📅 2026-04-10
+- [ ] Send cash flow to Adam Knoll 📅 2026-04-14
+- [ ] Add architect visit to team meeting agenda 📅 2026-04-14
 
 ## Notes
 

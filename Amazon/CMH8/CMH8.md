@@ -9,7 +9,7 @@ launch_date: 2028-05-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-12
 tags: [deal, amazon]
 ---
 
@@ -36,6 +36,8 @@ tags: [deal, amazon]
 **Outside Closing Date:** October 30, 2026
 
 ## Notes
+
+2026-04-12 - Business passed on CMH8 for the relo requirement. Deal continues for other potential uses.
 
 2026-04-05 - Updated critical dates: Approvals period expiration September 30, 2026; outside closing date October 30, 2026.
 

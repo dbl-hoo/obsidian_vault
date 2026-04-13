@@ -3,20 +3,19 @@ site_code: SOH3
 deal_type: Renewal
 business_unit: SSD
 status: Ongoing
-tm: 
+tm: Max Madani
 pcm: 
 launch_date: 
 start_date: 2025-07-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-12
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
-- [ ] Follow up with Max if lease draft not received 📅 2026-04-11
 - [ ] Follow up with LL on lease 📅 2026-04-14
 
 ## Notes

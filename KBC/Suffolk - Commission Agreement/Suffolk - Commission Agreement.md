@@ -4,12 +4,11 @@ status: Ongoing
 area: KBC
 office: Nashville
 tags: [kbc]
-last_updated: 2026-04-09
+last_updated: 2026-04-12
 ---
 
 ## Tasks
 
-- [ ] 🔺 Review draft commission agreement 📅 2026-04-10
 
 ## Notes
 

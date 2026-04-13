@@ -7,7 +7,7 @@ tm: Arman Fashandi
 pcm: 
 launch_date: 2029-06-01
 end_date:
-last_updated: 2026-04-08
+last_updated: 2026-04-12
 local_broker: 
 area: Amazon
 tags: [deal, amazon]
@@ -44,6 +44,8 @@ tags: [deal, amazon]
 | Rep/Warranty claims deadline | 6 months post-Closing |
 
 ## Tasks
+
+- [ ] Follow up on developer selection 📅 2026-04-18
 
 ## Notes
 

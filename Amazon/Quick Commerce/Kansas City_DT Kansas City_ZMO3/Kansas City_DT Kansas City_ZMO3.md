@@ -8,7 +8,7 @@ state: MO
 deal_type: New Lease
 business_unit: QC
 status: Ongoing
-last_updated: 2026-04-09
+last_updated: 2026-04-12
 local_broker: "MATT VAUPELL, MANAGING PARTNER"
 loi_final: No
 loi_prepared: No
@@ -19,8 +19,11 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 - [x] 🔺 Call LL re: HVAC replacement 📅 2026-04-10 ✅ 2026-04-10
+- [ ] Follow up with LL on lease 📅 2026-04-15
 
 ## Notes
+
+2026-04-12 - Updated lease sent to LL last week. Follow up Wednesday.
 
 2026-04-09 - Call LL tomorrow re: HVAC replacement.
 

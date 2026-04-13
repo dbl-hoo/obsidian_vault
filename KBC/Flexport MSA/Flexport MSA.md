@@ -3,10 +3,12 @@ project: Flexport MSA
 status: Ongoing
 area: KBC
 tags: [kbc]
-last_updated: 2026-04-07
+last_updated: 2026-04-12
 ---
 
 ## Tasks
+
+- [ ] Follow up on Flexport MSA 📅 2026-04-17
 
 ## Notes
 

@@ -2,14 +2,13 @@
 project: Action - MSA
 status: Ongoing
 area: KBC
-last_updated: 2026-04-07
+last_updated: 2026-04-12
 tags: [kbc]
 ---
 
 ## Tasks
 
-- [x] Follow up with Action/Todd Steffen on MSA response 📅 2026-04-10 ✅ 2026-04-07
-- [x] Revise MSA 📅 2026-04-07 ✅ 2026-04-07
+- [ ] Follow up with Todd Steffen on MSA execution 📅 2026-04-16
 
 ## Notes
 

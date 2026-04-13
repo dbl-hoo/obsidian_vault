@@ -9,7 +9,7 @@ launch_date: 2027-01-01
 end_date:
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-04-08
+last_updated: 2026-04-12
 tags:
   - deal
   - amazon
@@ -29,6 +29,8 @@ tags:
 | Substantial Completion | 2027-09-07 |
 
 ## Tasks
+
+- [ ] 🔺 CAR inputs due 📅 2026-04-18
 
 ## Notes
 

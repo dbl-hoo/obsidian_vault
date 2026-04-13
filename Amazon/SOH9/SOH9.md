@@ -10,15 +10,19 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-08
+last_updated: 2026-04-12
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
 - [x] Send ZCL to team 📅 2026-04-09 ✅ 2026-04-09
+- [ ] Follow up with Stonemont 📅 2026-04-14
+- [ ] Follow up with internal team re: ES and exhibits 📅 2026-04-18
 
 ## Notes
+
+2026-04-12 - Updated lease sent to LL on 4/10. Follow up with Stonemont Tuesday; follow up with internal team on ES and exhibits EOW.
 
 2026-04-08 - ZCL received; send to team.
 

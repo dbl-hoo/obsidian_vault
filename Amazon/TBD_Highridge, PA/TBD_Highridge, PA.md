@@ -3,7 +3,7 @@ site_code: TBD_Highridge, PA
 deal_type: Purchase
 business_unit: GCF
 status: Ongoing
-tm:
+tm: Steve Perkins
 pcm:
 launch_date:
 start_date: 2026-01-09

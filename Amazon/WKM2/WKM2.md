@@ -10,16 +10,18 @@ end_date:
 local_broker: Matt Anderson
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-04-07
+last_updated: 2026-04-12
 ---
 
 ## Tasks
 
-- [x] Follow up with Hope Mothershead re: PSA 📅 2026-04-10 ✅ 2026-04-10
+- [ ] Follow up with Hope Mothershead re: PSA 📅 2026-04-14
 
 ## Notes
 
 2026-04-02 - Transaction call. Sales and Use Tax incentive — city looking for way to recoup funds and share savings with City of Park Hills; potentially $400K in savings. EconDev: "no — not worth the effort." Schedule risk for CAR delay — a lot of site work; no winter conditions built into GMP; current plan assumes all paving down before plants close; have a couple of weeks. Targeting CAR approval by July 22.
+
+2026-04-12 - Site plan being updated to reflect ROW change.
 
 2026-04-02 - Transaction call. PSA signed by Amazon; pending with Hope Mothershead — follow up next week. Survey confirms no rezoning needed. Will get zoning confirmation letter.
 

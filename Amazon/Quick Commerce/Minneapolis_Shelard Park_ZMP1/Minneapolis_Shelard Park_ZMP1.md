@@ -14,7 +14,7 @@ loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
-last_updated: 2026-04-02
+last_updated: 2026-04-12
 tags: [deal, amazon, quick-commerce]
 ---
 
@@ -35,9 +35,11 @@ Golden Valley, MN |
 ## Tasks
 
 - [x] Review lease received from LL ✅ 2026-04-03
-- [ ] Follow up with LL re: lease 📅 2026-04-10
+- [ ] Lease call with LL 📅 2026-04-14
 
 ## Notes
+
+2026-04-12 - Lease call with LL scheduled 2026-04-14.
 
 04-02-2026 - Site code confirmed: ZMP1. Lease comments received 3/28; sending to Susan Jenkins today. Lease sent back to LL. Follow up next week.
 

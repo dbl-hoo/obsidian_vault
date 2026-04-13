@@ -9,7 +9,7 @@ launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date: 
 local_broker: KBC
-last_updated: 2026-04-07
+last_updated: 2026-04-12
 area: Amazon
 tags: [deal, amazon]
 ---
@@ -17,6 +17,10 @@ tags: [deal, amazon]
 ## Tasks
 
 - [x] Follow up with Al Patel on PSA 📅 2026-04-10 ✅ 2026-04-10
+
+## Tasks
+
+- [ ] Follow up with Al Patel on PSA 📅 2026-04-13
 
 ## Related Notes
 

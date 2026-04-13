@@ -1,10 +1,10 @@
 ---
 project: Oklo - Buyer Rep Agreement
-status: Ongoing
+status: Closed
 area: KBC
 office: Philadelphia
 tags: [kbc]
-last_updated: 2026-04-10
+last_updated: 2026-04-12
 ---
 
 ## Tasks

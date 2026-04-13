@@ -1,9 +1,9 @@
 ---
 project: Misc - KBC
-status: Ongoing
+status: Closed
 area: KBC
 tags: [kbc]
-last_updated: 2026-04-07
+last_updated: 2026-04-12
 ---
 
 ## Tasks
