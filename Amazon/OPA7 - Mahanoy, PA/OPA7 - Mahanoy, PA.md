@@ -10,7 +10,7 @@ start_date: 2025-12-17
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-10
+last_updated: 2026-04-13
 tags:
   - deal
   - amazon
@@ -21,6 +21,8 @@ tags:
 - [x] 🔺 Stay on Bergman re: design — could delay lease signing 📅 2026-04-10 ✅ 2026-04-10
 
 ## Notes
+
+2026-04-13 - Owner contact: Arin Rauf, PNK Group — a.rauf@pnk.group
 
 2026-04-08 - Transaction call. Reviewed new site plan — substantial changes to drives. Amazon needs internal TOM safety review re: car and truck traffic. EconDev is open. Potentially $9.9M in CRA costs for building changes (fire suppression, etc.). Per Arman — need to stay on Bergman re: design, could delay lease signing.
 

@@ -18,7 +18,7 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with Beau on LL response to LOI 📅 2026-04-13
+- [x] Follow up with Beau on LL response to LOI 📅 2026-04-13 ✅ 2026-04-13
 
 ## Notes
 

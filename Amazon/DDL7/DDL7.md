@@ -17,7 +17,7 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with Josh Y (Philly) re: comps 📅 2026-04-13
+- [x] Follow up with Josh Y (Philly) re: comps 📅 2026-04-13 ✅ 2026-04-13
 
 ## Notes
 
