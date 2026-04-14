@@ -19,6 +19,7 @@ tags: [deal, amazon]
 - [x] Send ZCL to team 📅 2026-04-09 ✅ 2026-04-09
 - [x] Follow up with Stonemont 📅 2026-04-14 ✅ 2026-04-14
 - [ ] Follow up with internal team re: ES and exhibits 📅 2026-04-18
+- [ ] 🔺 Confirm 6K amp service with Ryan (American Eagle) — 4K existing + 2K add per 2025-12-23 note, unconfirmed 📅 2026-04-18
 
 ## Notes
 
