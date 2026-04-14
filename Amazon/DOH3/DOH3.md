@@ -15,7 +15,7 @@ last_updated: 2026-04-10
 ---
 ## Tasks
 
-- [ ] Discuss with Al on Monday's call 📅 2026-04-13
+- [x] Discuss with Al on Monday's call 📅 2026-04-13 ✅ 2026-04-13
 
 ## Notes
 

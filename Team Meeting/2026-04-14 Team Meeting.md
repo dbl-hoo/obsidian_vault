@@ -16,5 +16,9 @@ tags: [team-meeting]
 **North Baltimore - Listing Agreement**
 - Scott to connect with B/J re: status
 
+Ashland and Findlay - survey kick offs
+
+
+
 ## Notes
 
