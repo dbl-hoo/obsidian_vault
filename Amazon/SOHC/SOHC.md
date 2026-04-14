@@ -16,7 +16,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Send cash flow to Adam Knoll 📅 2026-04-14
+- [ ] Send cash flow to Adam Knoll 📅 2026-04-15
 - [ ] Add architect visit to team meeting agenda 📅 2026-04-14
 
 ## Notes

@@ -17,7 +17,7 @@ tags: [deal, amazon]
 ## Tasks
 
 - [x] Send ZCL to team 📅 2026-04-09 ✅ 2026-04-09
-- [ ] Follow up with Stonemont 📅 2026-04-14
+- [x] Follow up with Stonemont 📅 2026-04-14 ✅ 2026-04-14
 - [ ] Follow up with internal team re: ES and exhibits 📅 2026-04-18
 
 ## Notes
