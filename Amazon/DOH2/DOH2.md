@@ -9,18 +9,14 @@ launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date: 
 local_broker: KBC
-last_updated: 2026-04-12
+last_updated: 2026-04-13
 area: Amazon
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
-- [x] Follow up with Al Patel on PSA 📅 2026-04-10 ✅ 2026-04-10
-
-## Tasks
-
-- [x] Follow up with Al Patel on PSA 📅 2026-04-13 ✅ 2026-04-13
+- [ ] 🔺 Draft EAA and send 📅 2026-04-18
 
 ## Related Notes
 
@@ -29,6 +25,8 @@ tags: [deal, amazon]
 - [[Northpoint - MW]] (Reference)
 
 ## Notes
+
+2026-04-13 - Draft EAA and send.
 
 2026-04-03 - Site has been selected. Follow up with Al Patel next week on PSA.
 

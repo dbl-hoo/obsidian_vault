@@ -12,7 +12,7 @@ local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-04-12
+last_updated: 2026-04-13
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
@@ -32,9 +32,11 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] Follow up with LL on lease 📅 2026-04-13
+- [ ] Follow up with LL on revised lease 📅 2026-04-20
 
 ## Notes
+
+2026-04-13 - Revised lease sent to LL.
 
 2026-04-10 - Lease received Tuesday; reviewed by legal today and sent back to LL.
 

@@ -19,7 +19,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] Follow up with LL on lease 📅 2026-04-14
+- [x] Follow up with LL on lease 📅 2026-04-14 ✅ 2026-04-14
 
 ## Notes
 

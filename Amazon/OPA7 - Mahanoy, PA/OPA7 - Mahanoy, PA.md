@@ -18,9 +18,14 @@ tags:
 
 ## Tasks
 
-- [x] 🔺 Stay on Bergman re: design — could delay lease signing 📅 2026-04-10 ✅ 2026-04-10
+- [ ] Launch new weekly call invite (OPA7)
+- [ ] Join weekly design call (CAR/TOM safety review ongoing)
 
 ## Notes
+
+2026-04-13 - Arman transition briefing. Next RE step: CAR routing/approval. Launch new weekly call. Langan produced conceptual site plan for 1DC proposed changes — needs TOM/SAFETY review (PCM-led); detailed civil plans follow. Architect reviewing LL's base building scope/schedule for cost savings. If in-flight base building pivot requested → CRA required before lease execution (OC versed in this).
+Team: PCM: Jason Bergman | OC: Sean Mizokawa (smizokawa@bakerlaw.com) | In-house: Ian Schlanger | Econ Dev: Maura Kennedy | TA: Emma and Mo
+LL contacts: a.rauf@pnk.group; kjacobsen@lee-associates.com; lfittipaldi@lee-associates.com; ssimpson@lee-associates.com
 
 2026-04-13 - Owner contact: Arin Rauf, PNK Group — a.rauf@pnk.group
 

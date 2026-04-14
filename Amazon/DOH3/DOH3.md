@@ -11,13 +11,17 @@ end_date:
 local_broker: KBC
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-04-10
+last_updated: 2026-04-13
 ---
 ## Tasks
 
-- [x] Discuss with Al on Monday's call 📅 2026-04-13 ✅ 2026-04-13
+- [ ] Send Mount Business Park to Al Patel
+- [ ] Confirm existing building details — pricing/lease-back
+- [ ] Check with Scannell on zoning
 
 ## Notes
+
+2026-04-13 - Al to re-run FA. Considering Scannell site — discuss with team. Send Mount Business Park to Al Patel. Confirm existing building details (pricing/lease-back). Check with Scannell on zoning.
 
 2026-04-10 - Seller came back at same terms; sent to Al Patel; discuss on Monday's call.
 

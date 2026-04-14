@@ -35,7 +35,7 @@ Golden Valley, MN |
 ## Tasks
 
 - [x] Review lease received from LL ✅ 2026-04-03
-- [ ] Lease call with LL 📅 2026-04-14
+- [x] Lease call with LL 📅 2026-04-14 ✅ 2026-04-14
 
 ## Notes
 

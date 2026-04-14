@@ -10,15 +10,18 @@ start_date: 2025-07-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-12
+last_updated: 2026-04-13
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
-- [ ] Follow up with LL on lease 📅 2026-04-14
+- [ ] Follow up with LL on assignment 📅 2026-04-17
+- [ ] Follow up with Amazon on amendment review 📅 2026-04-17
 
 ## Notes
+
+2026-04-13 - Amendment comments back from LL; sent to Amazon. Follow up Friday with LL on assignment; follow up Friday with Amazon on review.
 
 2026-04-07 - Draft lease sent to LL. Follow up 1 week.
 

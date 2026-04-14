@@ -7,7 +7,7 @@ city: Columbus
 state: OH
 deal_type: New Lease
 business_unit: QC
-status: Cancelled
+status: Ongoing
 local_broker: "KBC-OH"
 loi_final: Yes
 loi_prepared: Yes
@@ -31,7 +31,11 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
+- [ ] Email Chatman Young and Flor Ponce re: CAR approval
+
 ## Notes
+
+2026-04-13 - Potentially back on. Amazon considering moving this forward.
 
 February 5, 2026 - lease back to LL
 

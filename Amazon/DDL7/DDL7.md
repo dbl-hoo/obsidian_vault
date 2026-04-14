@@ -9,7 +9,7 @@ launch_date: 2028-08-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-12
+last_updated: 2026-04-13
 tags:
   - deal
   - amazon
@@ -17,9 +17,9 @@ tags:
 
 ## Tasks
 
-- [x] Follow up with Josh Y (Philly) re: comps 📅 2026-04-13 ✅ 2026-04-13
-
 ## Notes
+
+2026-04-13 - Comp info from Josh Yuratis (Philly): 5596 DuPont Pkwy, Smyrna, DE — ~13.5–14 acres assembled for ~$3.95M (~$280–300K/acre). Annexed to Town of Smyrna 2022, rezoned Corridor Commercial; public water/sewer; wide commercial uses. No industrial indication — likely retail/convenience/fast food/pad users. Local/regional private group assembled, likely to entitle and sell pads or bring users. Sent to Al Patel.
 
 2026-04-07 - KRM responded at $290K per acre. Reported to Al Patel and pushed back. Shared our comps.
 

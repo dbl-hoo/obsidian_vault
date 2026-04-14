@@ -8,7 +8,7 @@ pcm: Gary Gallagher
 launch_date: 2028-05-01
 end_date:
 local_broker: KBC
-last_updated: 2026-04-08
+last_updated: 2026-04-13
 area: Amazon
 tags:
   - deal
@@ -18,10 +18,11 @@ tags:
 ## Tasks
 
 - [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
-- [x] Flag Liepe parcel local counsel / access rights on next week's call (Joe P. following up) 📅 2026-04-13 ✅ 2026-04-13
-- [x] 🔺 Send draft 8th amendment to SunCap for review 📅 2026-04-10 ✅ 2026-04-10
+- [ ] Follow up with Joe P. on adverse possession memo (Liepe parcel) 📅 2026-04-15
 
 ## Notes
+
+2026-04-13 - Transaction call. Outside closing date on main parcel: 2026-09-15. Joe P. working on adverse possession memo (Liepe parcel) — nearing completion, targeting Wednesday 4/15.
 
 2026-04-08 - From Arman: Alan agreed to more time on May deposit — move date in contract from 5/8 to 5/22 to allow time for Land CAR approval. April deposit (next week) is $1M pulled from WO. SunCap has revised spend schedule to send today; turn draft amendment to them for review (max authorization unchanged, "clean-up"). Pilot call: latest PILOT completion 2026-08-14; next amendment allows latest closing date 2026-09-15 (last extension). Sent plan for financial agreement — projections recently sent over. AHJ skeptical of RAB; would be OK if we forgo the project. Would treat mezz as real property — $300M vs. $50M tax valuation. Can do anything BUT affirmative construction (demo, remediation, rough grading) before PILOT approval. Pinelands: if Hamilton Township is in agreement, Pinelands okay with utilizing Sept 2025 Inconsistent COF to pursue all necessary permits and approvals.
 

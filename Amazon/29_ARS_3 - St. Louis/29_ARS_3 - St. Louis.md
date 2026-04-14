@@ -3,14 +3,14 @@ site_code: 29_ARS_3
 deal_type: Purchase
 business_unit: GCF
 status: Ongoing
-tm: 
+tm: Phil Ristevski
 pcm: 
 launch_date:
 start_date: 2026-03-27
 end_date:
 local_broker: Matt Eastin
 area: Amazon
-last_updated: 2026-04-08
+last_updated: 2026-04-13
 tags:
   - deal
   - amazon
@@ -20,6 +20,8 @@ tags:
 
 
 ## Notes
+
+2026-04-13 - Phil R. is new TM.
 
 2026-04-08 - Panattoni NDA received; NDA being sent.
 
