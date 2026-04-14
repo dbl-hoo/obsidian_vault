@@ -26,5 +26,14 @@
 * Single leg Romanian deadlift: 44x10,10,10
 Feel like I’m still recovering from tooth extraction.  Also, regretting last nights ice cream. 
 
+## 2026.04.14
+- Barbell bench: 165x5,5,5,5,5
+- Barbell row: 165x5,5,5￼,5
+- Arnold press: 40x11,10,
+- Lat pulldown: 130x8,8,8
+- Ez bar curl: 45x9,9,10
+- Overhead tricep extension: 35x12,12,12
+- 
+
 
 
