@@ -18,7 +18,7 @@ tags:
 ## Tasks
 
 - [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
-- [ ] Follow up with Joe P. on adverse possession memo (Liepe parcel) 📅 2026-04-15
+- [x] Follow up with Joe P. on adverse possession memo (Liepe parcel) 📅 2026-04-15 ✅ 2026-04-15
 
 ## Notes
 

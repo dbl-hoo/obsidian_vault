@@ -17,7 +17,7 @@ tags:
 
 ## Tasks
 
-- [ ] Call Ben Struewing (Prologis) re: fee dev if Joe hasn't by tomorrow 📅 2026-04-15
+- [x] Call Ben Struewing (Prologis) re: fee dev if Joe hasn't by tomorrow 📅 2026-04-15 ✅ 2026-04-15
 
 ## Notes
 

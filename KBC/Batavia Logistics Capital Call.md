@@ -4,7 +4,7 @@ status: Ongoing
 area: KBC
 office: Dallas
 tags: [kbc]
-last_updated: 2026-04-14
+last_updated: 2026-04-15
 ---
 
 ## Reference
@@ -17,6 +17,7 @@ last_updated: 2026-04-14
 
 ## Tasks
 
+- [ ] 🔺 Draft promissory note 📅 2026-04-15
 - [ ] Follow up with Jonathan Postweiler on 2/3 approval email for KBC affiliate loan 📅 2026-04-21
 
 ## Notes

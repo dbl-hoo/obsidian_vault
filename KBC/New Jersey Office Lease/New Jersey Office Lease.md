@@ -16,7 +16,7 @@ last_updated: 2026-04-12
 
 ## Tasks
 
-- [ ] 🔺 Review office lease 📅 2026-04-15
+- [x] 🔺 Review office lease 📅 2026-04-15 ✅ 2026-04-15
 
 ## Notes
 

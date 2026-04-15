@@ -247,3 +247,4 @@ Don't auto-fix anything during lint — report only. Jason decides what to act o
 - Don't create deal files speculatively — if it doesn't exist and Jason didn't say "create it," ask
 - Don't add YAML fields that aren't in the convention above without asking
 - Don't work from memory — always re-read a file immediately before writing to it
+- **Don't assume legal work is requested.** When a task involves drafting, reviewing, or marking up agreements, promissory notes, or other legal documents — ask Jason what he needs before proceeding. Log the task, then ask.
