@@ -17,7 +17,7 @@ last_updated: 2026-04-07
 
 ## Tasks
 
-- [ ] Follow up with Jeff Fischer on listing agreement 📅 2026-04-14
+- [x] Follow up with Jeff Fischer on listing agreement 📅 2026-04-14 ✅ 2026-04-15
 
 ## Notes
 
