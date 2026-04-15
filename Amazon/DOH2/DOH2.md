@@ -9,7 +9,7 @@ launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date: 
 local_broker: KBC
-last_updated: 2026-04-13
+last_updated: 2026-04-14
 area: Amazon
 tags: [deal, amazon]
 ---
@@ -25,6 +25,8 @@ tags: [deal, amazon]
 - [[Northpoint - MW]] (Reference)
 
 ## Notes
+
+2026-04-14 - Need to draft EAA.
 
 2026-04-13 - Draft EAA and send.
 

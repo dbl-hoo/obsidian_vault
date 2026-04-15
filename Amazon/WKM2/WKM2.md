@@ -15,7 +15,7 @@ last_updated: 2026-04-12
 
 ## Tasks
 
-- [ ] Follow up with Hope Mothershead re: PSA 📅 2026-04-14
+- [x] Follow up with Hope Mothershead re: PSA 📅 2026-04-14 ✅ 2026-04-14
 
 ## Notes
 

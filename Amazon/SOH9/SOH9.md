@@ -10,7 +10,7 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-12
+last_updated: 2026-04-14
 tags: [deal, amazon]
 ---
 
@@ -19,9 +19,12 @@ tags: [deal, amazon]
 - [x] Send ZCL to team 📅 2026-04-09 ✅ 2026-04-09
 - [x] Follow up with Stonemont 📅 2026-04-14 ✅ 2026-04-14
 - [ ] Follow up with internal team re: ES and exhibits 📅 2026-04-18
-- [ ] 🔺 Confirm 6K amp service with Ryan (American Eagle) — 4K existing + 2K add per 2025-12-23 note, unconfirmed 📅 2026-04-18
+- [ ] 🔺 Confirm 6K amp service with Ryan (American Eagle) — upgrade is $890K / 14-week lead time; sent to Amazon Dec 2025 📅 2026-04-18
+- [ ] Follow up with Manish on high security fencing plan 📅 2026-04-18
 
 ## Notes
+
+2026-04-14 - Transaction call. Need curb cut into truck court regardless of design. Need high security fencing — Manish to send fencing plan. Power upgrade to 6K amps = $890K, 14-week lead time; sent to Amazon December 2025.
 
 2026-04-12 - Updated lease sent to LL on 4/10. Follow up with Stonemont Tuesday; follow up with internal team on ES and exhibits EOW.
 

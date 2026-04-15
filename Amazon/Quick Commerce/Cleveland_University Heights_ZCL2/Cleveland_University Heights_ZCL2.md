@@ -12,7 +12,7 @@ local_broker: Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-03-03
-last_updated: 2026-04-08
+last_updated: 2026-04-14
 area: Amazon
 tags:
   - deal
@@ -23,7 +23,11 @@ tm: Chatman Young
 
 ## Tasks
 
+- [ ] Follow up with LL on lease 📅 2026-04-21
+
 ## Notes
+
+2026-04-14 - Updated lease sent to LL.
 
 2026-04-08 - Call from Alex V. Needs additional info — Scott Kelly electrician. Good with contingency period; connecting with precon. Updated LOI received — it's final. Sent draft lease to LL.
 

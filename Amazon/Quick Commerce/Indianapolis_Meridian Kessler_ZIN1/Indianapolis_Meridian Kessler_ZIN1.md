@@ -12,7 +12,7 @@ local_broker: "Shannon Hunt | Vice President | Veritas Realty"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-01-27
-last_updated: 2026-04-07
+last_updated: 2026-04-14
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
@@ -20,6 +20,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-04-14 - Call with LL's counsel. Two open items: (1) need details on electronic payment system; (2) assignment must include limited parent guarantee.
 
 2026-04-07 - Lease back to LL.
 

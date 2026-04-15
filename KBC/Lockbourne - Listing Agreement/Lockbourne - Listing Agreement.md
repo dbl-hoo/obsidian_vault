@@ -4,14 +4,16 @@ status: Ongoing
 area: KBC
 office: Columbus
 tags: [kbc]
-last_updated: 2026-04-12
+last_updated: 2026-04-14
 ---
 
 ## Tasks
 
-- [ ] Review listing agreement when received from Stockbridge 📅 2026-04-18
+- [ ] Review listing agreement EOW 📅 2026-04-18
 
 ## Notes
+
+2026-04-14 - Listing agreement received. Review by end of week.
 
 2026-04-12 - Actual listing agreement not received — waiting on Stockbridge to send.
 

@@ -9,7 +9,7 @@ launch_date: 2026-08-01
 end_date:
 local_broker: Jeff Bender - Cushman
 area: Amazon
-last_updated: 2026-04-13
+last_updated: 2026-04-14
 tags:
   - deal
   - amazon
@@ -17,7 +17,11 @@ tags:
 
 ## Tasks
 
+- [ ] Call Ben Struewing (Prologis) re: fee dev if Joe hasn't by tomorrow 📅 2026-04-15
+
 ## Notes
+
+2026-04-14 - Joe to call Ben Struewing. Call tomorrow if he hasn't.
 
 2026-04-13 - No update from business on transportation analysis.
 

@@ -7,8 +7,8 @@ city: Kansas City
 state: MO
 deal_type: New Lease
 business_unit: QC
-status: Ongoing
-last_updated: 2026-04-07
+status: Dead
+last_updated: 2026-04-14
 local_broker: "MATT VAUPELL, MANAGING PARTNER"
 loi_final: No
 loi_prepared: Yes
@@ -20,6 +20,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-04-14 - Deal cancelled. Flor said approval unlikely due to CapEx; explored TIA increase with LL. Decision made to cancel.
 
 2026-04-07 - CapEx estimate high. Asked Matt V. to look for potential alternatives.
 

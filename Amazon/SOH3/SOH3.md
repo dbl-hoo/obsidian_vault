@@ -10,7 +10,7 @@ start_date: 2025-07-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-13
+last_updated: 2026-04-14
 tags: [deal, amazon]
 ---
 
@@ -18,8 +18,11 @@ tags: [deal, amazon]
 
 - [ ] Follow up with LL on assignment 📅 2026-04-17
 - [ ] Follow up with Amazon on amendment review 📅 2026-04-17
+- [ ] Follow up with Max and Wes Thomson re: rent table confirmation 📅 2026-04-17
 
 ## Notes
+
+2026-04-14 - Susan approved legal changes; assignment sent over. Asked Max and Wes Thomson to confirm rent table.
 
 2026-04-13 - Amendment comments back from LL; sent to Amazon. Follow up Friday with LL on assignment; follow up Friday with Amazon on review.
 
