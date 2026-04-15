@@ -19,7 +19,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] Follow up re: cancellation status 📅 2026-04-13
+- [x] Follow up re: cancellation status 📅 2026-04-13 ✅ 2026-04-15
 
 ## Notes
 
