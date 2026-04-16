@@ -5,7 +5,7 @@ last_updated: 2026-04-16
 
 # Amazon Portfolio Overview
 
-*Maintained by Jack. Rebuilt on every deal update. As of 2026-04-16 (post EOD 2026-04-15).*
+*Maintained by Jack. Rebuilt on every deal update. As of 2026-04-16.*
 
 ---
 
@@ -38,39 +38,64 @@ last_updated: 2026-04-16
 
 ---
 
-## Standard Amazon Deals
+## AMZL
 
-| Deal | Type | BU | TM | Status | Last Updated |
-|---|---|---|---|---|---|
-| ACY4 | Purchase | GCF | Steve Perkins | Ongoing | 2026-04-13 |
-| CAK5 | Purchase | GCF | Arman Fashandi | Ongoing | 2026-04-10 |
-| CMH8 | Purchase | GCF | Arman Fashandi | Ongoing | 2026-04-12 |
-| CVG47 | Purchase | SORT | Phillip Perri | Ongoing | 2026-04-15 |
-| DDL7 | Purchase | RSR | Al Patel | Ongoing | 2026-04-14 |
-| DKE3 | Purchase | AMZL | Richard Corley | Ongoing | 2026-04-08 |
-| DOH2 | Purchase | AMZL | Al Patel | Ongoing | 2026-04-15 |
-| DOH3 | Purchase | AMZL | Al Patel | Ongoing | 2026-04-13 |
-| DSB2 | New Lease | AMZL | Richard Corley | Ongoing | 2026-04-12 |
-| HIA2 Chambersburg | Purchase | GCF | Arman Fashandi | Ongoing | 2026-04-12 |
-| OPA7 Mahanoy, PA | Lease | GCF | Rachel Elliott | Ongoing | 2026-04-15 |
-| OPA8 Manchester, PA | Lease | GCF | Phil Ristevski | Ongoing | 2026-04-13 |
-| SOH3 | Renewal | SSD | Max Madani | Ongoing | 2026-04-14 |
-| SOH9 | New Lease | SDD | Adam Knoll | Ongoing | 2026-04-15 |
-| SOHC | Purchase | SDD | Adam Knoll | Ongoing | 2026-04-15 |
-| SSD_SOHx | BTS-Lease | SSD | Adam Knoll | Ongoing | 2026-04-07 |
-| TOLx_Relo | Purchase | GCF | Phillip Perri | Ongoing | 2026-04-12 |
-| WKM2 | Purchase | RSR | Kristen DeFamio | Ongoing | 2026-04-12 |
-| DOM8 | Purchase | RSR | Dave Rende | Ongoing | 2026-04-09 |
-| WOH1 | Renewal | RSR | Max Madani | Ongoing | 2026-04-07 |
-| 29_ARS_3 St. Louis | Purchase | GCF | Phil Ristevski | Ongoing | 2026-04-15 |
-| TBD_Ashland, OH | New Lease | RSR | Al Patel | Ongoing | 2026-04-09 |
-| TBD_Findlay, OH | New Lease | RSR | Kristen DeFamio | Ongoing | 2026-04-09 |
+| Deal | Type | TM | Status | Last Updated |
+|---|---|---|---|---|
+| DKE3 | Purchase | Richard Corley | Ongoing | 2026-04-08 |
+| DOH2 | Purchase | Al Patel | Ongoing | 2026-04-15 |
+| DOH3 | Purchase | Al Patel | Ongoing | 2026-04-13 |
+| DSB2 | New Lease | Richard Corley | Ongoing | 2026-04-12 |
+| DDL7 | Purchase | Al Patel | Ongoing | 2026-04-14 |
+| DOM8 | Purchase | Dave Rende | Ongoing | 2026-04-09 |
+| WKM2 | Purchase | Kristen DeFamio | Ongoing | 2026-04-12 |
+| TBD_Ashland, OH | New Lease | Al Patel | Ongoing | 2026-04-09 |
+| TBD_Findlay, OH | New Lease | Kristen DeFamio | Ongoing | 2026-04-09 |
 
-### Standard — On Hold / Watch
-| Deal | Type | BU | TM | Status | Notes |
-|---|---|---|---|---|---|
-| DCM5 | Renewal | AMZL | Rachel Sohlstrom | On Hold | On hold until early 2027 |
-| TBD_Highridge, PA | Purchase | GCF | Steve Perkins | On Hold | Lost labor approval — OPA7/OPA9 selected nearby |
+---
+
+## GCF
+
+| Deal | Type | TM | Status | Last Updated |
+|---|---|---|---|---|
+| ACY4 | Purchase | Steve Perkins | Ongoing | 2026-04-13 |
+| CAK5 | Purchase | Arman Fashandi | Ongoing | 2026-04-10 |
+| CMH8 | Purchase | Arman Fashandi | Ongoing | 2026-04-12 |
+| HIA2 Chambersburg | Purchase | Arman Fashandi | Ongoing | 2026-04-12 |
+| OPA7 Mahanoy, PA | Lease | Rachel Elliott | Ongoing | 2026-04-15 |
+| OPA8 Manchester, PA | Lease | Phil Ristevski | Ongoing | 2026-04-13 |
+| 29_ARS_3 St. Louis | Purchase | Phil Ristevski | Ongoing | 2026-04-15 |
+| TBD_Highridge, PA | Purchase | Steve Perkins | On Hold | 2026-04-13 |
+| LPITa | Purchase | — | Dead | 2026-04-08 |
+
+---
+
+## Middle Mile
+
+| Deal | Type | TM | Status | Last Updated |
+|---|---|---|---|---|
+| CVG47 | Purchase | Phillip Perri | Ongoing | 2026-04-15 |
+| TOLx_Relo | Purchase | Phillip Perri | Ongoing | 2026-04-12 |
+
+---
+
+## SSD
+
+| Deal | Type | TM | Status | Last Updated |
+|---|---|---|---|---|
+| SOH9 | New Lease | Adam Knoll | Ongoing | 2026-04-15 |
+| SOHC | Purchase | Adam Knoll | Ongoing | 2026-04-15 |
+| SSD_SOHx | BTS-Lease | Adam Knoll | Ongoing | 2026-04-07 |
+| SOH3 | Renewal | Max Madani | Ongoing | 2026-04-14 |
+
+---
+
+## Renewals
+
+| Deal | Type | TM | Status | Last Updated |
+|---|---|---|---|---|
+| WOH1 | Renewal | Max Madani | Ongoing | 2026-04-07 |
+| DCM5 | Renewal | Rachel Sohlstrom | On Hold | 2026-04-11 |
 
 ---
 
@@ -135,7 +160,7 @@ last_updated: 2026-04-16
 | OPA7 | Arman transition briefing: CAR routing next, launch weekly call, TOM/SAFETY review pending on site plan | 2026-04-13 |
 | OPA8 | Arman transition: CAR approved, lease near final, power/MetEd open, CRA question to Derrick | 2026-04-13 |
 | SOH3 | LL amendment comments back; sent to Amazon; Friday follow-ups on assignment + review + rent table | 2026-04-14 |
-| TBD_Highridge, PA | Status → On Hold: lost labor approval w/ OPA7/OPA9 selected nearby | 2026-04-13 |
+| TBD_Highridge, PA | Status → On Hold: lost labor approval w/ OPA7/OPA9 nearby | 2026-04-13 |
 | ZCM2 | Potentially back on — Amazon considering; CAR approval email pending | 2026-04-13 |
 | ACY4 | Transaction call; 9/15 outside closing date confirmed; adverse possession memo (Liepe parcel) targeting 4/15 | 2026-04-13 |
 | DOH3 | Al to re-run FA; Scannell site in play; tasks: Mount Business Park, building details, zoning | 2026-04-13 |

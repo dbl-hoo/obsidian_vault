@@ -21,9 +21,15 @@ KBC_DOCS:         C:\Users\kirkham\Documents\KBC Legal
 ## Vault Structure
 
 ```
-Amazon/              ← Active Amazon deals (site codes: CVG47, CMH8, etc.)
-  Quick Commerce/    ← Separate program, city-based subfolders; no parent index file
-  Project A/         ← Separate program; NO parent file — site-file-only
+Amazon/              ← Active Amazon deals, organized by program type
+  AMZL/              ← AMZL delivery station deals
+  GCF/               ← GCF fulfillment center deals
+  Middle Mile/       ← Middle mile / sort center deals
+  Quick Commerce/    ← Quick Commerce program (city-based files)
+  Project A/         ← Project A program (site-based files)
+  Renewals/          ← Lease renewals
+  SSD/               ← SSD (same-day delivery) deals
+  _Knowledgebase/    ← Design standards and reference data by building type (SSD.md, AMZL.md, QC.md)
 KBC/                 ← KBC Advisors company matters (MSAs, subpoenas, admin)
 Kirkham Law/         ← Personal law firm matters
 Personal/            ← Personal projects, health, home, finances
@@ -39,11 +45,15 @@ Amazon/Portfolio Overview.md ← Synthesis page — current state of all active 
 ```
 
 ### Amazon Sub-Programs
-| Program | Folder structure | Parent/index file? | Doc folder path |
+| Program | File location | Parent/index file? | Doc folder path |
 |---|---|---|---|
-| Standard deals | Site code folder (e.g., `Amazon/CVG47/`) | N/A | `AMAZON_DOCS\{site_code}\` |
-| Quick Commerce | Site folders directly under `Amazon/Quick Commerce/` | No | `AMAZON_QC_DOCS\{site_code}\` |
-| Project A | Site-specific sub-files under `Amazon/Project A/` | **No** — site-file-only | `AMAZON_PA_DOCS\{site_code}\` |
+| AMZL | `Amazon/AMZL/{site_code}.md` | No | `AMAZON_DOCS\{site_code}\` |
+| GCF | `Amazon/GCF/{site_code}.md` | No | `AMAZON_DOCS\{site_code}\` |
+| Middle Mile | `Amazon/Middle Mile/{site_code}.md` | No | `AMAZON_DOCS\{site_code}\` |
+| Renewals | `Amazon/Renewals/{site_code}.md` | No | `AMAZON_DOCS\{site_code}\` |
+| SSD | `Amazon/SSD/{site_code}.md` | No | `AMAZON_DOCS\{site_code}\` |
+| Quick Commerce | `Amazon/Quick Commerce/{site_code}.md` | No | `AMAZON_QC_DOCS\{site_code}\` |
+| Project A | `Amazon/Project A/{site_name}.md` | No | `AMAZON_PA_DOCS\{site_code}\` |
 
 ### Person Page Convention
 Pages in `People/` track recurring counterparties — Amazon TMs, local brokers, landlord's counsel, landlords, etc. One page per person, named `First Last.md`.

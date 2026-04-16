@@ -99,3 +99,21 @@ Converted land from farm field to meadow grass; already installed; global storm 
 - Seefried intro
 - PSA draft
     - Working on draft; one thing in terms of incentives language; will circulate internally before we share with the seller
+
+---
+
+## Assemblage
+
+### Former Restaurant Parcel
+
+July 14, 2025 - Spoke to Brent Bennett (+/- 43, (740) 837-1732) — closing imminent. Declared bankruptcy in 2006; has casino gaming employee license; may go by Brent Chester. Under contract to sell to 2 young west Columbus guys. Most active buyer: Bernee Sanchez (bsanchezcapital@gmail.com / bsanchecapital@gmail.com). Seems to be in house-flipping business. Per EDC: they were looking to buy and operate the former restaurant; EDC helped with brownfield surveying. Now gone dark. Decent chance they fall out of contract. Alternative: pay nuisance money to drop contract — want to be low-key to avoid tipping them off. Consider having Seefried make approach directly.
+
+### Residential Parcel — Sound Wall
+
+Per Brian Novak: Sound wall cost estimate $650K–$900K. Less expensive option: 50' wide berm along property line + shorter wall on top — estimated $500K–$750K.
+
+**James Cantrell (62)**
+- (614) 570-8708
+- jacantrell8@earthlink.net
+- 6335 US Highway 40, West Jefferson, OH 43162
+- Zillow est. $384,100 | 4bd/2ba/1,668 SF | sold 2017 at $201K
