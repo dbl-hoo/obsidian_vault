@@ -13,7 +13,7 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-16
 ---
 
 ## Deal Sheet
@@ -42,6 +42,24 @@ Both dated March 2026. Confidential / conceptual use only.
 - [ ] Confirm Flash enviro status — Jason requested Adam/Trace run it 📅 2026-04-14
 
 ## Notes
+
+2026-04-16 - DD summary from broker (seller's agent docs). Bottom line: path to develop with limited environmental liability exists; more paperwork than real risk.
+
+**Environmental / NFA:**
+- Hamilton County Port Authority completed remedial work; likely obtained NFA from Ohio EPA. Some docs still missing but process appears to have been run properly.
+- Original NFA application filed by Port Authority in 2009; comments addressed in addendum to OEPA.
+- Site formerly used by Celotex as shingle manufacturing plant. Former buildings, tanks, and structures demolished and removed.
+- No risk to human health/environment under industrial land use if: (1) groundwater use restricted, and (2) established risk mitigation plan followed for future excavation.
+- Environmental covenant in place: industrial/commercial use only; groundwater extraction prohibited.
+- Main risk mitigation area believed to be in south corner adjacent to I-75 — likely removed as part of ROW taking, which reduces risk further.
+- Local environmental attorney with extensive history on the property has been identified; first call when further down the line with seller.
+- Belt-and-suspenders approach will be needed but expected to be process/paperwork-heavy, not substantively risky.
+
+**Geotech:**
+- Nothing too concerning. New geotech study needed when site plan finalized to confirm subsurface conditions.
+- Several large foundations buried onsite (~15' below existing surface) with recycled aggregate and granular fill overtop.
+- Shallow spread footings recommended; select areas may require reinforced granular mat below.
+- Auger cast piles available as alternative in select locations.
 
 2026-04-07 - 320 S. Wayne Ave. ("Lockland Site") — offer in. Waiting on state's offer; answer expected in the next couple of weeks. Owner of larger parcel = THREE MC WAYNE AVE LLC (bought from Port Authority; in his 80s, son now involved). Clous offer will be considered in condemnation. Frontage owned by International Union of Elevator Constructors Local Union No. 11.
 

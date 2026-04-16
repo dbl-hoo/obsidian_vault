@@ -17,8 +17,8 @@ tags:
 
 ## Tasks
 
-- [ ] 🔺 Cash flow 📅 2026-04-14
-- [ ] 🔺 Alternative options survey (pricing + disqualification rationale) 📅 2026-04-14
+- [ ] 🔺 Cash flow 📅 2026-04-24
+- [ ] 🔺 Alternative options survey (pricing + disqualification rationale) 📅 2026-04-24
 
 ## Notes
 
