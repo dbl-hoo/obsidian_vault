@@ -20,7 +20,7 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 - [x] Follow up with LL on lease 📅 2026-04-14 ✅ 2026-04-14
-- [ ] Forward updated lease to Amazon for review 📅 2026-04-15
+- [x] Forward updated lease to Amazon for review 📅 2026-04-15 ✅ 2026-04-16
 
 ## Notes
 

@@ -8,7 +8,7 @@ tags: [kbc]
 
 ## Tasks
 
-- [ ] Follow up with Todd Steffen on MSA execution 📅 2026-04-16
+- [x] Follow up with Todd Steffen on MSA execution 📅 2026-04-16 ✅ 2026-04-16
 
 ## Notes
 
