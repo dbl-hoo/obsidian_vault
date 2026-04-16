@@ -26,14 +26,19 @@
 * Single leg Romanian deadlift: 44x10,10,10
 Feel like I’m still recovering from tooth extraction.  Also, regretting last nights ice cream. 
 
-## 2026.04.14
+## 2026.04.14 - Upper A
 - Barbell bench: 165x5,5,5,5,5
 - Barbell row: 165x5,5,5￼,5
 - Arnold press: 40x11,10,
 - Lat pulldown: 130x8,8,8
 - Ez bar curl: 45x9,9,10
 - Overhead tricep extension: 35x12,12,12
-- 
+## 2026.04.15
+- Zone 2 cardio: ruck 45 minutes with weighted vest
+## 2026.04.16 - Upper B
+- Incline dumbbell press: 70x10,10,10,8
+- Cable row: 150x10,9,
+
 
 
 
