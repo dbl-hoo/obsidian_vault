@@ -10,7 +10,7 @@ start_date: 2026-03-27
 end_date:
 local_broker: Matt Eastin
 area: Amazon
-last_updated: 2026-04-13
+last_updated: 2026-04-15
 tags:
   - deal
   - amazon
@@ -20,6 +20,8 @@ tags:
 
 
 ## Notes
+
+2026-04-15 - TriStar came back at $1.32/SF including borrow pit at no additional cost.
 
 2026-04-13 - Phil R. is new TM.
 

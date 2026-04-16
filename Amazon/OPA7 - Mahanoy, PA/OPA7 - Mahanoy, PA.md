@@ -10,7 +10,7 @@ start_date: 2025-12-17
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-13
+last_updated: 2026-04-15
 tags:
   - deal
   - amazon
@@ -22,6 +22,8 @@ tags:
 - [ ] Join weekly design call (CAR/TOM safety review ongoing)
 
 ## Notes
+
+2026-04-15 - Transaction call.
 
 2026-04-13 - Arman transition briefing. Next RE step: CAR routing/approval. Launch new weekly call. Langan produced conceptual site plan for 1DC proposed changes — needs TOM/SAFETY review (PCM-led); detailed civil plans follow. Architect reviewing LL's base building scope/schedule for cost savings. If in-flight base building pivot requested → CRA required before lease execution (OC versed in this).
 Team: PCM: Jason Bergman | OC: Sean Mizokawa (smizokawa@bakerlaw.com) | In-house: Ian Schlanger | Econ Dev: Maura Kennedy | TA: Emma and Mo

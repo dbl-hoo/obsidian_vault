@@ -2,14 +2,17 @@
 project: Subpoena - 1001 Expressway Dr. v. WF Industrial XII LLC
 status: Ongoing
 area: KBC
-last_updated: 2026-04-08
+last_updated: 2026-04-15
 tags: [kbc]
 ---
 
 ## Tasks
 
+- [ ] 🔺 Follow up on motion to quash 📅 2026-04-17
 - [ ] 🔺 Monitor/respond to subpoena — deadline 2026-05-01 📅 2026-05-01
 ## Notes
+
+2026-04-15 - LL counsel identified: Jack A. Ryan, Meister Seelig & Fein (meisterseelig.com/people/jack-a-ryan/). Followed up on status of motion to quash — being prepared. Follow up Friday (4/17).
 
 2026-04-08 - PI injunction argument and counterclaims hearing held today. Regroup after 4/15. KBC outside counsel: Erica Speier Berman, Counsel — Schenck Price Smith & King LLP, 220 Park Ave, Florham Park, NJ 07932 — T: 973-540-7318, F: 973-540-7300.
 

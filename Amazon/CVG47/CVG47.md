@@ -9,7 +9,7 @@ launch_date: 2026-08-01
 end_date:
 local_broker: Jeff Bender - Cushman
 area: Amazon
-last_updated: 2026-04-14
+last_updated: 2026-04-15
 tags:
   - deal
   - amazon
@@ -17,9 +17,10 @@ tags:
 
 ## Tasks
 
-- [x] Call Ben Struewing (Prologis) re: fee dev if Joe hasn't by tomorrow 📅 2026-04-15 ✅ 2026-04-15
 
 ## Notes
+
+2026-04-15 - PLD/Bullock Farm — contract expired; mother died, family difficult to work with, wanted to go directly to closing. All access and utilities cross PLD site; not in contract currently. Zoning contentious — rough approval for ~300K SF with concessions on light pollution and refrigeration trucks due to adjacent residential. Really tough rezone.
 
 2026-04-14 - Joe to call Ben Struewing. Call tomorrow if he hasn't.
 

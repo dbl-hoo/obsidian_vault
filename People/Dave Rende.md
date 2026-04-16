@@ -2,7 +2,7 @@
 name: Dave Rende
 role: Amazon TM
 organization: Amazon
-deals: [WMO5]
+deals: [DOM8]
 area: Amazon
 tags: [person]
 last_updated: 2026-04-11

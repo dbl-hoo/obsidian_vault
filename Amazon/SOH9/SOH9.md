@@ -10,7 +10,7 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-14
+last_updated: 2026-04-15
 tags: [deal, amazon]
 ---
 
@@ -23,6 +23,8 @@ tags: [deal, amazon]
 - [ ] Follow up with Manish on high security fencing plan 📅 2026-04-18
 
 ## Notes
+
+2026-04-15 - After WPI, 3,200 amps remaining at house panel out of the gate.
 
 2026-04-14 - Transaction call. Need curb cut into truck court regardless of design. Need high security fencing — Manish to send fencing plan. Power upgrade to 6K amps = $890K, 14-week lead time; sent to Amazon December 2025.
 

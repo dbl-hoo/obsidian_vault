@@ -4,7 +4,7 @@ status: Ongoing
 area: KBC
 office: New Jersey
 tags: [kbc]
-last_updated: 2026-04-12
+last_updated: 2026-04-15
 ---
 
 ## Deal Sheet
@@ -16,8 +16,10 @@ last_updated: 2026-04-12
 
 ## Tasks
 
-- [x] 🔺 Review office lease 📅 2026-04-15 ✅ 2026-04-15
+- [ ] Follow up with Sean Kelly on revised lease 📅 2026-04-22
 
 ## Notes
+
+2026-04-15 - Revised lease sent to Sean Kelly. Follow up 1 week (by 4/22).
 
 2026-04-06 - Matter opened. Office lease at 210 Lake Drive East, Cherry Hill, NJ.

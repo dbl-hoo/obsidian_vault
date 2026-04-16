@@ -9,14 +9,14 @@ launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date: 
 local_broker: KBC
-last_updated: 2026-04-14
+last_updated: 2026-04-15
 area: Amazon
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
-- [ ] 🔺 Draft EAA and send 📅 2026-04-18
+- [ ] Follow up on EAA with sellers 📅 2026-04-22
 
 ## Related Notes
 
@@ -25,6 +25,8 @@ tags: [deal, amazon]
 - [[Northpoint - MW]] (Reference)
 
 ## Notes
+
+2026-04-15 - Sent EAA to sellers. Follow up 1 week (by 4/22).
 
 2026-04-14 - Need to draft EAA.
 
