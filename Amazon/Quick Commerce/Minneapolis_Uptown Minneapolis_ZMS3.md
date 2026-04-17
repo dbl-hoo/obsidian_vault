@@ -21,6 +21,8 @@ tags: [deal, amazon, quick-commerce]
 
 ## Notes
 
+2026-04-16 - Talked to Alex; going back to Charlie on termination right and exclusive parking.
+
 2026-04-16 - Email to Alex on open items to LL; asked Susan about addendum.
 
 2026-04-14 - Updated lease received last Thursday (2026-04-10). Forward to Amazon for review.

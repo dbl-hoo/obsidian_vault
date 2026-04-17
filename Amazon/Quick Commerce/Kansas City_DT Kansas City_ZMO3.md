@@ -23,8 +23,6 @@ tags: [deal, amazon, quick-commerce]
 
 ## Notes
 
-2026-04-16 - Talked to Alex; going back to Charlie on termination right and exclusive parking.
-
 2026-04-12 - Updated lease sent to LL last week. Follow up Wednesday.
 
 2026-04-09 - Call LL tomorrow re: HVAC replacement.
