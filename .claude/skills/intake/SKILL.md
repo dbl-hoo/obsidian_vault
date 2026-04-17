@@ -30,9 +30,9 @@ Parse the source for:
 If any of the above can't be determined, ask before creating the file.
 
 ### Step 3 — Create the matter file
-- Determine the correct folder: `KBC/{Matter Name}/` or `Kirkham Law/{Matter Name}/`
-- Create the folder and the matter file `{Matter Name}.md`
-- Also create the matching docs folder at `KBC_DOCS\{Matter Name}\` or equivalent
+- **KBC matters:** flat file at `KBC/{Matter Name}.md` — no subfolder in the vault
+- **Kirkham Law matters:** flat file at `Kirkham Law/{Matter Name}.md` — no subfolder in the vault
+- Create the matching docs folder at `KBC_DOCS\{Matter Name}\` or equivalent (docs folder still exists, vault file does not)
 
 ### Step 3b — Extract and save attachments
 After the docs folder exists, extract attachments from the source file using Python:
@@ -126,7 +126,7 @@ Summarize in 3–5 bullet points:
 
 **Jack does:**
 1. Extracts: matter = "Ferguson MSA", area = KBC, office = Atlanta, contacts = Randy Hogan (Ferguson) + Todd Steffen (KBC)
-2. Creates `KBC/Ferguson MSA/Ferguson MSA.md` and `KBC Legal\Ferguson MSA\`
+2. Creates `KBC/Ferguson MSA.md` and `KBC Legal\Ferguson MSA\`
 3. Logs note: email from Randy Hogan with clean + redlined MSA; Todd asking Jason to review and return critical redlines; two open questions on rebate language
 4. Adds task: `- [ ] Review Ferguson MSA redlines and respond with critical comments 📅 2026-04-23`
 

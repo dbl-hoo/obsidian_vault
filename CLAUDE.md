@@ -30,7 +30,7 @@ Amazon/              ← Active Amazon deals, organized by program type
   Renewals/          ← Lease renewals
   SSD/               ← SSD (same-day delivery) deals
   _Knowledgebase/    ← Design standards and reference data by building type (SSD.md, AMZL.md, QC.md)
-KBC/                 ← KBC Advisors company matters (MSAs, subpoenas, admin)
+KBC/                 ← KBC Advisors company matters (MSAs, subpoenas, admin) — flat, one .md per matter
 Kirkham Law/         ← Personal law firm matters
 Personal/            ← Personal projects, health, home, finances
 People/              ← Counterparty intelligence pages (TMs, brokers, counsel, landlords)
