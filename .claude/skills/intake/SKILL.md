@@ -34,6 +34,27 @@ If any of the above can't be determined, ask before creating the file.
 - Create the folder and the matter file `{Matter Name}.md`
 - Also create the matching docs folder at `KBC_DOCS\{Matter Name}\` or equivalent
 
+### Step 3b — Extract and save attachments
+After the docs folder exists, extract attachments from the source file using Python:
+
+**.msg files** — use `extract-msg`:
+```python
+import extract_msg
+msg = extract_msg.Message('C:/Users/kirkham/Documents/Vault/Inputs/filename.msg')
+for att in msg.attachments:
+    att.save(customPath='C:/Users/kirkham/Documents/KBC Legal/{Matter Name}/')
+```
+
+**.pdf files** — use `pymupdf` to extract embedded attachments (if any); the PDF itself is the document, copy it to the docs folder directly.
+
+**.eml files** — use `extract-msg` or Python's `email` stdlib to extract attachments.
+
+**After extraction:**
+- Note all saved filenames in the intake note (e.g. "Attachments saved: redlined_amendment.docx")
+- If an attachment filename reveals the property name or matter name more precisely than the email subject, use that — update the matter name before creating the vault file if needed
+- Skip image attachments (inline logos, signatures) — only save substantive documents
+- If no attachments, note that explicitly
+
 **KBC YAML:**
 ```yaml
 project:
@@ -82,6 +103,7 @@ Do NOT add tasks for substantive legal work beyond what Jason explicitly request
 Summarize in 3–5 bullet points:
 - Matter created
 - What arrived (document type, from whom)
+- Attachments saved (filenames) or "no attachments"
 - What's being asked of Jason
 - Any open questions or ambiguities to flag
 - Do NOT offer to do the legal work
