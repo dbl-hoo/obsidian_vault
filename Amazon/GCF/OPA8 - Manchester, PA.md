@@ -18,8 +18,8 @@ tags:
 ## Tasks
 
 - [ ] Follow up with Kirk Shephard / MetEd re: PM assignment 📅 2026-05-04
-- [ ] 🔺 Launch new weekly call (Jason as organizer) 📅 2026-04-17
-- [ ] 🔺 Check with Derrick (NP) re: CRA needed for pursuit of approvals; confirm spend schedule + CRA draft in review 📅 2026-04-17
+- [x] 🔺 Launch new weekly call (Jason as organizer) 📅 2026-04-17 ✅ 2026-04-17
+- [x] 🔺 Check with Derrick (NP) re: CRA needed for pursuit of approvals; confirm spend schedule + CRA draft in review 📅 2026-04-17 ✅ 2026-04-17
 
 ## Notes
 

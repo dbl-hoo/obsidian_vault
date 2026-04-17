@@ -17,7 +17,7 @@ last_updated: 2026-04-15
 
 ## Tasks
 
-- [ ] 🔺 Draft promissory note 📅 2026-04-15
+- [x] 🔺 Draft promissory note 📅 2026-04-15 ✅ 2026-04-17
 - [ ] Follow up with Jonathan Postweiler on 2/3 approval email for KBC affiliate loan 📅 2026-04-21
 
 ## Notes

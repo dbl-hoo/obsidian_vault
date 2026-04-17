@@ -16,7 +16,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Follow up with LL on assignment 📅 2026-04-17
+- [x] Follow up with LL on assignment 📅 2026-04-17 ✅ 2026-04-17
 - [ ] Follow up with Amazon on amendment review 📅 2026-04-17
 - [ ] Follow up with Max and Wes Thomson re: rent table confirmation 📅 2026-04-17
 

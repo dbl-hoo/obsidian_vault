@@ -39,7 +39,7 @@ Both dated March 2026. Confidential / conceptual use only.
 
 ## Tasks
 
-- [ ] Confirm Flash enviro status — Jason requested Adam/Trace run it 📅 2026-04-14
+- [x] Confirm Flash enviro status — Jason requested Adam/Trace run it 📅 2026-04-14 ✅ 2026-04-17
 
 ## Notes
 

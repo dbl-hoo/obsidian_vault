@@ -18,6 +18,7 @@ tags:
 ## Tasks
 
 - [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
+- [ ] Draft CAR narrative for Steve Perkins 📅 2026-04-24
 - [x] Follow up with Joe P. on adverse possession memo (Liepe parcel) 📅 2026-04-15 ✅ 2026-04-15
 
 ## Notes
