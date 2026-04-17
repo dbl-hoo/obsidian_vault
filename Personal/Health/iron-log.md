@@ -37,7 +37,11 @@ Feel like I’m still recovering from tooth extraction.  Also, regretting last n
 - Zone 2 cardio: ruck 45 minutes with weighted vest
 ## 2026.04.16 - Upper B
 - Incline dumbbell press: 70x10,10,10,8
-- Cable row: 150x10,9,
+- Cable row: 150x10,9,9,
+- Dumbbell lateral raise: 20x12,12,
+- Facepull: 57.5x15,13,13
+- Hammer curl: 20x12,12,12
+- Tricep push down: 35x15,13,
 
 
 
