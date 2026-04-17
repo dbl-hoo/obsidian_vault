@@ -63,6 +63,9 @@ Pages in `People/` track recurring counterparties — Amazon TMs, local brokers,
 name:
 role:              # Amazon TM | Local Broker | Landlord Counsel | Landlord | Other
 organization:
+email:             # optional
+title:             # optional — job title
+timezone:          # optional — e.g. East Coast, Central, Pacific
 deals: []          # List of deal site codes / matter names this person is involved in
 area:              # Amazon | KBC | Kirkham Law
 tags: [person]

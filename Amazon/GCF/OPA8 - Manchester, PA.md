@@ -9,7 +9,7 @@ launch_date: 2027-06-22
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-13
+last_updated: 2026-04-16
 tags:
   - deal
   - amazon
@@ -22,6 +22,8 @@ tags:
 - [ ] 🔺 Check with Derrick (NP) re: CRA needed for pursuit of approvals; confirm spend schedule + CRA draft in review 📅 2026-04-17
 
 ## Notes
+
+2026-04-16 - Revised lease received from LL; ball in Amazon's court.
 
 2026-04-13 - Arman transition briefing. CAR approved. Lease nearing final — outstanding: power/Met Ed service agreement. Angela (Summit) working on ES; can launch when ready. Launch new weekly call with Jason as organizer. CN CAR trailing (PCM-led); potential delayed lease signing — Met Ed agreement + AHJ fence height approval pending. Open question: check with Derrick (NP) whether CRA is needed for their pursuit of approvals; no spend schedule or CRA draft seen.
 Team: OC: Keith J. Seo (keiths@summitlaw.com); Angela Hill (angelah@summitlaw.com) | In-house: Ian Schlanger (ianschla@amazon.com) | PCM: Maria Albulescu | Econ Dev: Maura Kennedy (mauraken@amazon.com) | LL: Derrick Scott (dscott@northpointkc.com); Clayton Mayer (cmayer@northpointkc.com)

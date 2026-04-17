@@ -12,17 +12,16 @@ local_broker: "Alex Funk | Senior Associate"
 loi_final: No
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-04-14
+last_updated: 2026-04-16
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
 
 ## Tasks
 
-- [x] Follow up with LL on lease 📅 2026-04-14 ✅ 2026-04-14
-- [x] Forward updated lease to Amazon for review 📅 2026-04-15 ✅ 2026-04-16
-
 ## Notes
+
+2026-04-16 - Email to Alex on open items to LL; asked Susan about addendum.
 
 2026-04-14 - Updated lease received last Thursday (2026-04-10). Forward to Amazon for review.
 

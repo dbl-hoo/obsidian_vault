@@ -44,7 +44,7 @@ last_updated: 2026-04-16
 |---|---|---|---|---|
 | DKE3 | Purchase | Richard Corley | Ongoing | 2026-04-08 |
 | DOH2 | Purchase | Al Patel | Ongoing | 2026-04-15 |
-| DOH3 | Purchase | Al Patel | Ongoing | 2026-04-13 |
+| DOH3 | Purchase | Al Patel | Ongoing | 2026-04-16 |
 | DSB2 | New Lease | Richard Corley | Ongoing | 2026-04-12 |
 | DDL7 | Purchase | Al Patel | Ongoing | 2026-04-14 |
 | DOM8 | Purchase | Dave Rende | Ongoing | 2026-04-09 |
@@ -63,7 +63,7 @@ last_updated: 2026-04-16
 | CMH8 | Purchase | Arman Fashandi | Ongoing | 2026-04-12 |
 | HIA2 Chambersburg | Purchase | Arman Fashandi | Ongoing | 2026-04-12 |
 | OPA7 Mahanoy, PA | Lease | Rachel Elliott | Ongoing | 2026-04-15 |
-| OPA8 Manchester, PA | Lease | Phil Ristevski | Ongoing | 2026-04-13 |
+| OPA8 Manchester, PA | Lease | Phil Ristevski | Ongoing | 2026-04-16 |
 | 29_ARS_3 St. Louis | Purchase | Phil Ristevski | Ongoing | 2026-04-15 |
 | TBD_Highridge, PA | Purchase | Steve Perkins | On Hold | 2026-04-13 |
 | LPITa | Purchase | — | Dead | 2026-04-08 |
@@ -103,7 +103,7 @@ last_updated: 2026-04-16
 
 | Site Code | Pin | City | Status | Local Broker | Last Updated |
 |---|---|---|---|---|---|
-| ZCL2 | University Heights | Cleveland, OH | Ongoing | Alex Valletto, C&W/CRESCO | 2026-04-08 |
+| ZCL2 | University Heights | Cleveland, OH | Ongoing | Alex Valletto, C&W/CRESCO | 2026-04-16 |
 | ZDT3 | Birmingham | Detroit, MI | Ongoing | Tony Schmitt | 2026-04-08 |
 | ZDT5 | DT Detroit | Detroit, MI | Ongoing | Tony Schmitt | 2026-04-10 |
 | ZDT6 | Royal Oak | Detroit, MI | Selected | Tony Schmitt | 2026-04-13 |
@@ -113,11 +113,11 @@ last_updated: 2026-04-16
 | Fishers | Fishers | Indianapolis, IN | Ongoing | — | 2026-04-07 |
 | Fishers-a | Fishers-a | Noblesville, IN | Ongoing | — | 2026-04-07 |
 | ZMO2 | Country Club Plaza | Kansas City, MO | Ongoing | Matt Vaupell | 2026-04-07 |
-| ZMO3 | DT Kansas City | Kansas City, MO | Ongoing | Matt Vaupell | 2026-04-12 |
+| ZMO3 | DT Kansas City | Kansas City, MO | Ongoing | Matt Vaupell | 2026-04-16 |
 | DT Minneapolis | DT Minneapolis | Minneapolis, MN | Ongoing | Alex Funk | 2026-04-07 |
 | Maple Grove | Maple Grove | Minneapolis, MN | Ongoing | Alex Funk | 2026-04-07 |
 | ZMP1 | Shelard Park | Minneapolis, MN | Short Listed | Alex Funk | 2026-04-15 |
-| ZMS3 | Uptown Minneapolis | Minneapolis, MN | Selected | Alex Funk | 2026-04-07 |
+| ZMS3 | Uptown Minneapolis | Minneapolis, MN | Selected | Alex Funk | 2026-04-16 |
 | ZCM2 | German Village | Columbus, OH | Ongoing (possibly back on) | KBC-OH | 2026-04-13 |
 | ZLI1 | DT Clayton | St. Louis, MO | Selected | Meghan Donovan, NAI DESCO | 2026-04-08 |
 
@@ -152,6 +152,11 @@ last_updated: 2026-04-16
 
 | Deal | Update | Date |
 |---|---|---|
+| DOH3 | Two site options: 1 Modern Way (380K SF, Stratocash owner, 250K leasable now) + Mound Business Park (~$30K/ac, by-right AMZL, federal enviro indemnification, 3–5 mo to permit) | 2026-04-16 |
+| ZMS3 | Open items email to Alex; asked Susan about addendum | 2026-04-16 |
+| ZMO3 | Alex going back to Charlie on termination right and exclusive parking | 2026-04-16 |
+| OPA8 | Revised lease received from LL; ball in Amazon's court | 2026-04-16 |
+| ZCL2 | Updated lease received from LL; sent to Chatman Young | 2026-04-16 |
 | CVG47 | PLD/Bullock Farm contract expired — mother died, family difficult, wanted direct-to-closing. Access/utilities cross PLD site, not in contract. Zoning contentious (~300K SF w/ concessions on light pollution + refrigeration trucks due to adjacent residential). | 2026-04-15 |
 | DOH2 | EAA sent to sellers; follow up 4/22 | 2026-04-15 |
 | SOH9 | After WPI, 3,200 amps at house panel remaining out of the gate | 2026-04-15 |

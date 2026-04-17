@@ -8,7 +8,7 @@ state: MO
 deal_type: New Lease
 business_unit: QC
 status: Ongoing
-last_updated: 2026-04-12
+last_updated: 2026-04-16
 local_broker: "MATT VAUPELL, MANAGING PARTNER"
 loi_final: No
 loi_prepared: No
@@ -22,6 +22,8 @@ tags: [deal, amazon, quick-commerce]
 - [ ] Follow up with LL on lease 📅 2026-04-15
 
 ## Notes
+
+2026-04-16 - Talked to Alex; going back to Charlie on termination right and exclusive parking.
 
 2026-04-12 - Updated lease sent to LL last week. Follow up Wednesday.
 

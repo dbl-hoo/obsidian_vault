@@ -2,10 +2,13 @@
 name: Chatman Young
 role: Amazon TM
 organization: Amazon
+email: ckyoung@amazon.com
+title: Senior Transaction Manager, North American Real Estate
+timezone: East Coast
 deals: [ZCL2, ZCL3]
 area: Amazon
 tags: [person]
-last_updated: 2026-04-11
+last_updated: 2026-04-16
 ---
 
 ## Notes

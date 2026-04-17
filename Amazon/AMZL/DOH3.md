@@ -11,7 +11,7 @@ end_date:
 local_broker: KBC
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-04-13
+last_updated: 2026-04-16
 ---
 ## Tasks
 
@@ -20,6 +20,13 @@ last_updated: 2026-04-13
 - [ ] Check with Scannell on zoning
 
 ## Notes
+
+2026-04-16 - Two site options reviewed:
+
+**1 Modern Way** — full building 380K SF. Stratocash is the owner; investor involved. 250K SF available to lease right away.
+
+**Mound Business Park** — controlled by Mound Development Corporation, a quasi-governmental entity owned by City of Miamisburg (mound.com). Per Mound staff: no environmental issues on the portion under consideration (used as operational buffer area). Site underwent intense federal environmental remediation; complete environmental indemnification from Federal Government exists for entirety of site; recently delisted by federal government. Purchase price ~$30K/acre (room to decrease based on project investment and job creation). Zoned MB-1 (Mound Business Park) — AMZL permitted by-right. No streams/wetlands per US Fish & Wildlife mapper (full delineation needed to confirm). No FEMA concerns. AMZL fits well from site plan standpoint; some topography. Estimated 3–5 months to fully design, permit, and entitle from release.
+Contact: April Hauser, Executive Director, Mound Development Corporation — 965 Capstone Drive, Suite 418, Miamisburg, OH 45342 — O: (937) 865-4438 | C: (937) 305-5370
 
 2026-04-13 - Al to re-run FA. Considering Scannell site — discuss with team. Send Mount Business Park to Al Patel. Confirm existing building details (pricing/lease-back). Check with Scannell on zoning.
 
