@@ -13,7 +13,7 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-04-16
+last_updated: 2026-04-17
 ---
 
 ## Deal Sheet
@@ -42,6 +42,8 @@ Both dated March 2026. Confidential / conceptual use only.
 - [x] Confirm Flash enviro status — Jason requested Adam/Trace run it 📅 2026-04-14 ✅ 2026-04-17
 
 ## Notes
+
+2026-04-17 - Followed up re: enviro reports.
 
 2026-04-16 - DD summary from broker (seller's agent docs). Bottom line: path to develop with limited environmental liability exists; more paperwork than real risk.
 

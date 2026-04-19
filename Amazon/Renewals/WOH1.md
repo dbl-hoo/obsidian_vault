@@ -10,7 +10,7 @@ start_date: 2026-03-31
 end_date:
 local_broker: Beau Taggart
 area: Amazon
-last_updated: 2026-04-07
+last_updated: 2026-04-17
 tags:
   - deal
   - amazon
@@ -18,9 +18,11 @@ tags:
 
 ## Tasks
 
-- [x] Follow up with Beau on LL response to LOI 📅 2026-04-13 ✅ 2026-04-13
+- [ ] Follow up with LL 📅 2026-04-24
 
 ## Notes
+
+2026-04-17 - Followed up with LL.
 
 2026-04-06 - LOI went out. Follow up in 1 week.
 

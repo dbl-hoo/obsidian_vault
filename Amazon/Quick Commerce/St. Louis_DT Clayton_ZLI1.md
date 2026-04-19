@@ -9,7 +9,7 @@ deal_type: New Lease
 business_unit: QC
 status: Selected
 local_broker: "Meghan Donovan, NAI DESCO St. Louis"
-last_updated: 2026-04-08
+last_updated: 2026-04-17
 loi_final: No
 loi_prepared: Yes
 site_selection_date: "February 13, 2026"
@@ -41,6 +41,8 @@ tags: [deal, amazon, quick-commerce]
 March 31, 2026 - LL requested minor change on parking. Emailed Susan Jensen.
 
 ## Notes
+
+2026-04-17 - Received WHS approval.
 
 2026-04-08 - Sent comp request to Matt Eastin.
 

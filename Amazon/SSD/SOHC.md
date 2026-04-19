@@ -10,7 +10,7 @@ start_date: 2025-11-05
 end_date: 
 local_broker: None
 area: Amazon
-last_updated: 2026-04-15
+last_updated: 2026-04-17
 tags: [deal, amazon]
 ---
 
@@ -20,6 +20,8 @@ tags: [deal, amazon]
 - [x] Add architect visit to team meeting agenda 📅 2026-04-14 ✅ 2026-04-14
 
 ## Notes
+
+2026-04-17 - Looped in Kyle (econdev) on incentives.
 
 2026-04-15 - Port Authority Sales Tax Exemption — Research Summary
 

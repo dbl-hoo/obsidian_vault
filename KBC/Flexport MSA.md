@@ -8,7 +8,7 @@ last_updated: 2026-04-12
 
 ## Tasks
 
-- [ ] Follow up on Flexport MSA 📅 2026-04-17
+- [ ] Follow up on Flexport MSA 📅 2026-04-24
 
 ## Notes
 

@@ -40,9 +40,15 @@ Feel like I’m still recovering from tooth extraction.  Also, regretting last n
 - Cable row: 150x10,9,9,
 - Dumbbell lateral raise: 20x12,12,
 - Facepull: 57.5x15,13,13
-- Hammer curl: 20x12,12,12
-- Tricep push down: 35x15,13,
+- Hammer curl: 20x12,12,12k
+- Tricep push down: 35x15,13,13
 
+## 2026.04.17 - Lower B
+- Trap bar deadlift: 350x5,5,6,6
+- Bulgarian split squat: 95x8,8,8
+- Leg press machine: 315x10,10,10
+- Leg curl: 95x10,10,10
+- Hanging leg lift: 10,10,10
 
 
 

@@ -8,7 +8,7 @@ tags: [kbc]
 
 ## Tasks
 
-- [ ] 🔺 Follow up on motion to quash 📅 2026-04-17
+- [ ] 🔺 Follow up on motion to quash 📅 2026-04-22
 - [ ] 🔺 Monitor/respond to subpoena — deadline 2026-05-01 📅 2026-05-01
 ## Notes
 

@@ -19,7 +19,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] Follow up with LL re: certificate of compliance 📅 2026-04-17
+- [ ] Follow up with LL re: certificate of compliance 📅 2026-04-24
 
 ## Notes
 

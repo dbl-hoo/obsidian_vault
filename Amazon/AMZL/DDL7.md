@@ -7,9 +7,9 @@ tm: Al Patel
 pcm: Ankit Mandawewala
 launch_date: 2028-08-01
 end_date:
-local_broker: KBC
+local_broker: "Charles Rodriguez, R&R Commercial Realty"
 area: Amazon
-last_updated: 2026-04-14
+last_updated: 2026-04-17
 tags:
   - deal
   - amazon
@@ -17,7 +17,11 @@ tags:
 
 ## Tasks
 
+- [ ] Follow up with Charles Rodriguez re: survey 📅 2026-04-24
+
 ## Notes
+
+2026-04-17 - Local broker engaged: Charles Rodriguez, R&R Commercial Realty, Inc., 46 S. State St., Dover, DE 19901 — (O) 302-674-3400 / (C) 302-423-3400 / ccrod1@aol.com. Sent survey request.
 
 2026-04-14 - Talked to Jesse Parks. Sticking firm on counter; OK with other terms other than infrastructure work. Communicated to Al Patel.
 

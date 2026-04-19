@@ -10,7 +10,7 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-15
+last_updated: 2026-04-17
 tags: [deal, amazon]
 ---
 
@@ -19,10 +19,12 @@ tags: [deal, amazon]
 - [x] Send ZCL to team 📅 2026-04-09 ✅ 2026-04-09
 - [x] Follow up with Stonemont 📅 2026-04-14 ✅ 2026-04-14
 - [ ] Follow up with internal team re: ES and exhibits 📅 2026-04-18
-- [ ] 🔺 Confirm 6K amp service with Ryan (American Eagle) — upgrade is $890K / 14-week lead time; sent to Amazon Dec 2025 📅 2026-04-18
+- [x] 🔺 Confirm 6K amp service with Ryan (American Eagle) — upgrade is $890K / 14-week lead time; sent to Amazon Dec 2025 📅 2026-04-18 ✅ 2026-04-19
 - [ ] Follow up with Manish on high security fencing plan 📅 2026-04-18
 
 ## Notes
+
+2026-04-17 - Emailed Stonemount re: electrical upgrade as part of LL's work.
 
 2026-04-15 - After WPI, 3,200 amps remaining at house panel out of the gate.
 

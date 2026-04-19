@@ -8,7 +8,7 @@ tags: [kbc]
 
 ## Tasks
 
-- [ ] Follow up on Medline MSA signatures 📅 2026-04-17
+- [x] Follow up on Medline MSA signatures 📅 2026-04-17 ✅ 2026-04-17
 
 ## Notes
 
