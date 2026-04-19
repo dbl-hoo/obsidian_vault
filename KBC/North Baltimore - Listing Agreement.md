@@ -2,13 +2,15 @@
 project: North Baltimore - Listing Agreement
 status: Ongoing
 area: KBC
-last_updated: 2026-04-07
+last_updated: 2026-04-19
 tags: [kbc]
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-04-19 - Followed up with Beau and Joe — waiting on their comments.
 
 2026-04-06 - Need to email Scott to connect with B/J.
 

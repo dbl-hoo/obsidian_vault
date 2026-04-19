@@ -4,7 +4,7 @@ status: Ongoing
 area: KBC
 office: Chicago
 tags: [kbc]
-last_updated: 2026-04-07
+last_updated: 2026-04-19
 ---
 
 ## Deal Sheet
@@ -18,6 +18,7 @@ last_updated: 2026-04-07
 ## Tasks
 
 - [x] Follow up with Jeff Fischer on listing agreement 📅 2026-04-14 ✅ 2026-04-15
+- [ ] Follow up with Jeff Fischer on listing agreement 📅 2026-04-25
 
 ## Notes
 

@@ -1,25 +1,13 @@
 ---
 project: Heidlerg Sale
 status: Ongoing
-area: Side Hustle
+area: Kirkham Law
 tags: [kirkham-law]
+last_updated: 2026-04-19
 ---
-
-# Heidlerg Sale
-
-Status: Ongoing
 
 ## Tasks
 
 ## Notes
 
-﻿# Heidlerg Sale
-
-Status: Ongoing
-Start Date: January 29, 2026 2:00 PM
-Tasks: Draft engagement letter 
-Area: Side Hustle
-
----
-
----
+2026-04-19 - Buyer performing due diligence.

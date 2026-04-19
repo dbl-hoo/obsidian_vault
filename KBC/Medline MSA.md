@@ -2,14 +2,16 @@
 project: Medline MSA
 status: Ongoing
 area: KBC
-last_updated: 2026-04-07
+last_updated: 2026-04-19
 tags: [kbc]
 ---
 
 ## Tasks
 
-- [x] Follow up on Medline MSA signatures 📅 2026-04-17 ✅ 2026-04-17
+- [ ] Follow up on Work Order 📅 2026-04-25
 
 ## Notes
+
+2026-04-19 - MSA signed. Work Order pending — follow up EOW.
 
 2026-04-05 - MSA finalized. Rose Yost sent for signature 3/25/26. Followed up today.

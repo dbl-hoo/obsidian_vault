@@ -9,7 +9,7 @@ launch_date: 2027-01-01
 end_date:
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-04-12
+last_updated: 2026-04-19
 tags:
   - deal
   - amazon
@@ -30,7 +30,7 @@ tags:
 
 ## Tasks
 
-- [ ] 🔺 CAR inputs due 📅 2026-04-18
+- [ ] 🔺 CAR inputs due 📅 2026-04-25
 
 ## Notes
 

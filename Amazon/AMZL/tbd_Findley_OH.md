@@ -10,10 +10,12 @@ end_date:
 local_broker: KBC
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-04-09
+last_updated: 2026-04-19
 ---
 
 ## Tasks
+
+- [ ] Follow up on survey 📅 2026-04-25
 
 ## Notes
 

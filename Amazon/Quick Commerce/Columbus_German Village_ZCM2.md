@@ -12,6 +12,7 @@ local_broker: "KBC-OH"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: "January 23, 2026"
+last_updated: 2026-04-19
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
@@ -23,7 +24,7 @@ tags: [deal, amazon, quick-commerce]
 | **Address** | 865 Parsons Avenue, Columbus, OH |
 | **City** | Columbus, OH |
 | **Site Code** | ZCM2 |
-| **Status** | Cancelled |
+| **Status** | Ongoing |
 | **LOI Final** | Yes |
 | **LOI Prepared** | Yes |
 | **Site Selection Date** | January 23, 2026 |
@@ -31,7 +32,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] Email Chatman Young and Flor Ponce re: CAR approval
+- [ ] Email Chatman Young and Flor Ponce re: CAR approval 📅 2026-04-25
 
 ## Notes
 

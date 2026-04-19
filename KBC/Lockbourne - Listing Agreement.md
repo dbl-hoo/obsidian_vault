@@ -4,12 +4,12 @@ status: Ongoing
 area: KBC
 office: Columbus
 tags: [kbc]
-last_updated: 2026-04-14
+last_updated: 2026-04-19
 ---
 
 ## Tasks
 
-- [ ] Review listing agreement EOW 📅 2026-04-18
+- [ ] 🔺 Review listing agreement 📅 2026-04-23
 
 ## Notes
 

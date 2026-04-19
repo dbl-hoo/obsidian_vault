@@ -1,25 +1,13 @@
 ---
 project: Memorial Lancaster
 status: Ongoing
-area: Side Hustle
+area: Kirkham Law
 tags: [kirkham-law]
+last_updated: 2026-04-19
 ---
-
-# Memorial Lancaster
-
-Status: Ongoing
 
 ## Tasks
 
 ## Notes
 
-﻿# Memorial Lancaster
-
-Status: Ongoing
-Start Date: December 31, 2025 2:30 PM
-Tasks: Email buyer - schedule , Talk to Beau about fee 
-Area: Side Hustle
-
----
-
----
+2026-04-19 - Checked with brokers on status.

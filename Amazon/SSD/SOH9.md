@@ -18,9 +18,9 @@ tags: [deal, amazon]
 
 - [x] Send ZCL to team 📅 2026-04-09 ✅ 2026-04-09
 - [x] Follow up with Stonemont 📅 2026-04-14 ✅ 2026-04-14
-- [ ] Follow up with internal team re: ES and exhibits 📅 2026-04-18
 - [x] 🔺 Confirm 6K amp service with Ryan (American Eagle) — upgrade is $890K / 14-week lead time; sent to Amazon Dec 2025 📅 2026-04-18 ✅ 2026-04-19
-- [ ] Follow up with Manish on high security fencing plan 📅 2026-04-18
+- [ ] Follow up with internal team re: ES and exhibits 📅 2026-04-21
+- [ ] Follow up with Manish on high security fencing plan 📅 2026-04-21
 
 ## Notes
 
