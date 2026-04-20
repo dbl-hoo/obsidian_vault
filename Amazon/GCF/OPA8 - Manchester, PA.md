@@ -17,7 +17,7 @@ tags:
 
 ## Tasks
 
-- [ ] 🔺 Call Mark Chub re: OPA8 📅 2026-04-21
+- [x] 🔺 Call Mark Chub re: OPA8 📅 2026-04-21 ✅ 2026-04-20
 - [ ] Follow up with Kirk Shephard / MetEd re: PM assignment 📅 2026-05-04
 ## Notes
 

@@ -16,8 +16,8 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Follow up with internal team re: ES and exhibits 📅 2026-04-21
-- [ ] Follow up with Manish on high security fencing plan 📅 2026-04-21
+- [x] Follow up with internal team re: ES and exhibits 📅 2026-04-21 ✅ 2026-04-20
+- [x] Follow up with Manish on high security fencing plan 📅 2026-04-21 ✅ 2026-04-20
 
 ## Notes
 
