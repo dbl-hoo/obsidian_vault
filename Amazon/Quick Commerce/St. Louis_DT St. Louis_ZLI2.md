@@ -32,8 +32,6 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] Follow up with LL on LOI 📅 2026-04-06 ✅ 2026-04-06
-
 ## Notes
 
 2026-04-10 - LL passing on the deal. Let team know; asked Matt Eastin to find alternatives.

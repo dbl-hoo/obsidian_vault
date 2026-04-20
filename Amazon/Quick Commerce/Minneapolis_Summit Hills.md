@@ -24,9 +24,6 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] Site visit — confirm loading dock feasibility ✅ 2026-03-31
-- [x] Follow up with Alex Funk re: new site search 📅 2026-04-10 ✅ 2026-04-16
-
 ## Notes
 
 04-02-2026 - Site rejected. Alex Funk searching for new sites — follow up next week.

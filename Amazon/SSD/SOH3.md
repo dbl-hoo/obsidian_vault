@@ -16,10 +16,6 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [x] Follow up with LL on assignment 📅 2026-04-17 ✅ 2026-04-17
-- [x] Follow up with Amazon on amendment review 📅 2026-04-17 ✅ 2026-04-17
-- [x] Follow up with Max and Wes Thomson re: rent table confirmation 📅 2026-04-17 ✅ 2026-04-17
-
 ## Notes
 
 2026-04-14 - Susan approved legal changes; assignment sent over. Asked Max and Wes Thomson to confirm rent table.

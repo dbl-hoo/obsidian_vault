@@ -32,10 +32,6 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] Follow up with LL on lease comments if not received 📅 2026-04-04 ✅ 2026-03-31
-- [x] Follow up with Susan Jensen on LL parking change 📅 2026-04-07 ✅ 2026-04-02
-- [x] 🔺 Follow up re: CAR launch 📅 2026-04-06 ✅ 2026-04-06
-
 04-05-2026 - Lease final. Follow up on CAR launch tomorrow.
 
 March 31, 2026 - LL requested minor change on parking. Emailed Susan Jensen.

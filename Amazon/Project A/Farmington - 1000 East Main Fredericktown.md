@@ -26,9 +26,6 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [x] Follow up with Peabody on owner's sale posture — determine if purchase is viable for Project A 🔺 📅 2026-04-03 ✅ 2026-03-31
-
-
 March 31, 2026 - Owner will not respond to lease LOI; wants to sell. Escalating to Peabody.
 
 ## Notes

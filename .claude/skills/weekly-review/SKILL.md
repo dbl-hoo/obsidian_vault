@@ -43,9 +43,10 @@ If Jason says "skip" or "nothing" — move on, no changes.
 After all deals:
 1. Report what was updated (deal name + what changed)
 2. Flag any deals Jason skipped that are >30 days stale — surface them so he can decide if they're dead or just quiet
-3. Rebuild `Amazon/Portfolio Overview.md` from scratch
-4. Run Vault Lint and report results
-5. Suggest any `CLAUDE.md` improvements if the review surfaced gaps
+3. **Delete completed tasks** — scan all deal files for `- [x]` tasks and remove them. Report count deleted.
+4. Rebuild `Amazon/Portfolio Overview.md` from scratch
+5. Run Vault Lint and report results
+6. Suggest any `CLAUDE.md` improvements if the review surfaced gaps
 
 ## Rules
 - Apply updates in real time — don't batch at the end

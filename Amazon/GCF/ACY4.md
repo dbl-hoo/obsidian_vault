@@ -19,8 +19,6 @@ tags:
 
 - [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
 - [ ] 🔺 Draft CAR narrative for Steve Perkins 📅 2026-04-20
-- [x] Follow up with Joe P. on adverse possession memo (Liepe parcel) 📅 2026-04-15 ✅ 2026-04-15
-
 ## Notes
 
 2026-04-13 - Transaction call. Outside closing date on main parcel: 2026-09-15. Joe P. working on adverse possession memo (Liepe parcel) — nearing completion, targeting Wednesday 4/15.

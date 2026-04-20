@@ -34,9 +34,6 @@ Golden Valley, MN |
 
 ## Tasks
 
-- [x] Review lease received from LL ✅ 2026-04-03
-- [x] Lease call with LL 📅 2026-04-14 ✅ 2026-04-14
-
 ## Notes
 
 2026-04-15 - Remodel/design thread (Core States — Brody Peterson, Amazon WWE&I — Omar Salim). Design on hold: LL couldn't provide as-builts; site visit needed to collect gas meter location/size, HVAC/roof equipment, incoming water size/location, DHW heater, restroom exhaust.

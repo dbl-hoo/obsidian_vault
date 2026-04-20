@@ -19,8 +19,6 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] 🔺 Follow up re: CAR launch 📅 2026-04-07 ✅ 2026-04-07
-
 ## Notes
 
 2026-04-08 - NNN charges: 2025 Taxes $1.48/sf. Market for like-kind industrial/flex ~$3.00–$3.50/sf. Rough estimates (subject to use/occupancy): Insurance $0.40/sf, Landscaping $0.15/sf, Snow Removal $0.15/sf, Taxes $1.48/sf, Operating & Maintenance $0.55/sf, Parking Lot Repairs $0.10/sf.

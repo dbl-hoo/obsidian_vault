@@ -27,12 +27,6 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [x] Initiate AHJ kickoff — CUP requirements, timeline, approval probability ✅ 2026-03-31
-- [x] Launch flash traffic study — Highway 43 access adequacy ✅ 2026-03-31
-- [x] Engage econ dev — project scope, timeline, permitting support ✅ 2026-03-31
-- [x] Evaluate PDC expansion feasibility given site constraints ✅ 2026-03-31
-- [x] Clarify owner's lease term expectations — checking 5-year + termination option with Peabody ✅ 2026-03-31
-
 ## Notes
 
 04-05-2026 - On hold.

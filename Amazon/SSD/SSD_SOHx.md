@@ -39,10 +39,44 @@ Both dated March 2026. Confidential / conceptual use only.
 
 ## Tasks
 
-- [x] Confirm Flash enviro status — Jason requested Adam/Trace run it 📅 2026-04-14 ✅ 2026-04-17
 - [ ] Follow up with Mackenzie Floyd on flash enviro submission 📅 2026-04-25
 
 ## Notes
+
+2026-04-20 - Environmental summary from VAP NFA documents (KERAMIDA Project 2-11708)
+
+**Property:** 320 S. Anthony Wayne Ave (a/k/a 320 S. Wayne Ave), Lockland, Hamilton County, OH 45215. Former Celotex shingle manufacturing facility. Volunteer: Port of Greater Cincinnati Development Authority. Current owners: Hamilton County Regional Business Park LLC / Chronis Properties LTD.
+
+**NFA Status:** NFA Letter submitted Feb 2009 to Ohio EPA (KERAMIDA, Ihor Melnyk CP147). EPA issued deficiency notice June 23, 2009. Addendum submitted August 19, 2009 responding to all 11 EPA comments. As of documents, awaiting Covenant Not to Sue (CNS). NFA addendum attested as fully compliant with ORC Ch. 3746 / OAC Ch. 3745-300.
+
+**Soil Contamination (Identified Area 3 / IA-3 — southeast corner, ~2.0 acres):**
+- Asbestos in subsurface soil
+- PAHs exceeding Ohio VAP direct contact standards for construction workers: Benzo(a)anthracene, Benzo(b)fluoranthene, Benzo(a)pyrene, Dibenz(a,h)anthracene
+- Metals: Chromium (max 271 mg/kg) and Lead (max 1,150 mg/kg) exceed rule-of-thumb hazardous waste threshold (5x hazardous waste threshold)
+- TPH heavy fraction: one location (GB-20) at 25,600 mg/kg vs. 20,000 VAP standard
+- All soil outside IA-3 meets applicable standards
+
+**Groundwater:**
+- Two saturated zones: Upper (19–40 ft, Class B, 2.19 GPM yield) and Lower (100–180 ft, Critical Resource, 800–1,400 GPM)
+- Upper zone **exceeds UPUS** — VOCs and SVOCs detected, notably naphthalene at MW-5 (23,000 µg/L) and MW-6 (270,000 µg/L); significant PAH contamination in MW-5/MW-6
+- Lower zone **meets UPUS** (POGWMUPUS demonstration — no classification required)
+- **Environmental covenant in place**: industrial/commercial use only; groundwater extraction prohibited (institutional control)
+- No off-property sources contributing to groundwater contamination
+
+**Risk Assessment (IA-3 / loading dock):**
+- Generator closure (loading dock hazardous waste storage — sulfuric acid, flammable liquids, paint thinners): Petro Environmental closure letter April 15, 2009; closure samples met VAP industrial standards; cumulative cancer risk 9.78E-06 (below 1.0E-05 allowable); hazard index 0.12 (below 1.0); closure requirements met
+- Lead: max 240 mg/kg vs. 245 mg/kg residential GCN — no risk
+
+**Risk Mitigation Plan (RMP):**
+- Applies to IA-3 only; triggered for any excavation >2 ft depth
+- COCs: asbestos and PAHs; exposure routes: inhalation and incidental ingestion/dermal contact
+- Requires air monitoring first week of subsurface activity; OSHA 29 CFR 1910.1001 asbestos standard applies
+- Must be distributed to all contractors/subcontractors before work commences
+- Annual notification to OEPA required when RMP is implemented
+- RMP termination requires written OEPA approval upon demonstration subsurface soil >2 ft meets standards
+- Excavated soil from upper 2 ft may be reused as fill (not co-mingled with deeper material); soil from >2 ft depth must be properly characterized and disposed per applicable regulations
+
+**Bottom line:** Path to develop exists with manageable environmental liability. Primary risks are (1) IA-3 asbestos/PAH requiring RMP compliance during construction, and (2) groundwater use restriction covenant (no extraction). Both are institutional/procedural, not active remediation obligations. Local environmental attorney with property history should be engaged when further down the line with seller.
 
 2026-04-19 - Sent site to Mackenzie Floyd for entry into site selection tool. Follow up EOW on flash enviro submission.
 

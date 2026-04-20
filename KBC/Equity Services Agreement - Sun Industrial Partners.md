@@ -13,8 +13,6 @@ last_updated: 2026-04-19
 
 ## Tasks
 
-- [x] 🔺 Review proposed edits 📅 2026-04-15 ✅ 2026-04-17
-
 ## Notes
 
 2026-04-19 - Edits reviewed. Waiting for Phoenix office (Kirk Kuller) to respond.

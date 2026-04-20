@@ -19,8 +19,6 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] Follow up re: cancellation status 📅 2026-04-13 ✅ 2026-04-15
-
 ## Notes
 
 2026-04-17 - Zoning meeting with City of Carmel. Presented QC ops and proposed project. M-3 (Manufacturing) zoning allows "Wholesale" by-right; requires Special Use Permit for "Distribution." Requested City treat us as "Wholesale" (lower risk/shorter timeline). City primarily concerned with traffic conflicts with large mixed-use project proposed on south side of City Center Dr. City staff will evaluate and determine Wholesale vs. Distribution classification. To reduce concerns: (1) explore suite farther north in same or adjacent building to distribute Flex traffic across two arterials; (2) ask LL for dedicated parking stalls in lease; (3) complete Traffic Analysis including mixed-use project volumes; (4) provide Ops Narrative for staff review. Reached out to LL re: parking or alternative space.

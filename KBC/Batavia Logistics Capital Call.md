@@ -17,8 +17,6 @@ last_updated: 2026-04-19
 
 ## Tasks
 
-- [x] 🔺 Draft promissory note 📅 2026-04-15 ✅ 2026-04-17
-
 ## Notes
 
 2026-04-19 - 2/3 approval email for KBC affiliate loan complete.

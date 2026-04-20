@@ -15,7 +15,6 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [x] CAR Inputs (due: March 19, 2026) 📅 2026-04-16 ✅ 2026-04-16
 - [ ] Inspection Period Expiration — waiving termination contingency 📅 2026-04-28
 - [ ] First Extension Expiration 📅 2026-05-28
 - [ ] Second Extension Expiration 📅 2026-06-27

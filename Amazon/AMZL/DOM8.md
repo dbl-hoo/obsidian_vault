@@ -15,8 +15,6 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [x] Follow up on affidavits of non-production 📅 2026-04-14 ✅ 2026-04-16
-
 ## Notes
 
 2026-04-09 - Follow up next week on affidavits of non-production.
