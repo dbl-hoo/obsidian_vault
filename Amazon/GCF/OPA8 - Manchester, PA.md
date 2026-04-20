@@ -9,7 +9,7 @@ launch_date: 2027-06-22
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-16
+last_updated: 2026-04-19
 tags:
   - deal
   - amazon
@@ -17,6 +17,7 @@ tags:
 
 ## Tasks
 
+- [ ] 🔺 Call Mark Chub re: OPA8 📅 2026-04-21
 - [ ] Follow up with Kirk Shephard / MetEd re: PM assignment 📅 2026-05-04
 - [x] 🔺 Launch new weekly call (Jason as organizer) 📅 2026-04-17 ✅ 2026-04-17
 - [x] 🔺 Check with Derrick (NP) re: CRA needed for pursuit of approvals; confirm spend schedule + CRA draft in review 📅 2026-04-17 ✅ 2026-04-17

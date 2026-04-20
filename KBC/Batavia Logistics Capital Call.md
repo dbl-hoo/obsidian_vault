@@ -4,7 +4,7 @@ status: Ongoing
 area: KBC
 office: Dallas
 tags: [kbc]
-last_updated: 2026-04-15
+last_updated: 2026-04-19
 ---
 
 ## Reference
@@ -18,9 +18,10 @@ last_updated: 2026-04-15
 ## Tasks
 
 - [x] 🔺 Draft promissory note 📅 2026-04-15 ✅ 2026-04-17
-- [ ] Follow up with Jonathan Postweiler on 2/3 approval email for KBC affiliate loan 📅 2026-04-21
 
 ## Notes
+
+2026-04-19 - 2/3 approval email for KBC affiliate loan complete.
 
 2026-04-14 - Capital call details. Two calls pending: $30K and $200K. Strategy is to float the first $30K internally (cover required equity now), then call all dollars simultaneously at time of the $200K call. KBC's portion of total projected at ~$288K (21% of initial investment). Building is unleased, exit unknown, recovery of additional capital uncertain.
 

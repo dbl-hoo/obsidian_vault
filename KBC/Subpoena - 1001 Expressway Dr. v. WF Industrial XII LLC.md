@@ -2,15 +2,17 @@
 project: Subpoena - 1001 Expressway Dr. v. WF Industrial XII LLC
 status: Ongoing
 area: KBC
-last_updated: 2026-04-15
+last_updated: 2026-04-19
 tags: [kbc]
 ---
 
 ## Tasks
 
-- [ ] 🔺 Follow up on motion to quash 📅 2026-04-22
+- [ ] 🔺 Follow up with outside counsel on whether KBC action required 📅 2026-04-25
 - [ ] 🔺 Monitor/respond to subpoena — deadline 2026-05-01 📅 2026-05-01
 ## Notes
+
+2026-04-19 - Motion to quash filed. Asked outside counsel whether KBC needs to take any action — awaiting response.
 
 2026-04-15 - LL counsel identified: Jack A. Ryan, Meister Seelig & Fein (meisterseelig.com/people/jack-a-ryan/). Followed up on status of motion to quash — being prepared. Follow up Friday (4/17).
 

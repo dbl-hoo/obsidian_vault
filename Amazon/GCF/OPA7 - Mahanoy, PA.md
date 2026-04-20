@@ -18,8 +18,6 @@ tags:
 
 ## Tasks
 
-- [ ] Launch new weekly call invite (OPA7)
-- [ ] Join weekly design call (CAR/TOM safety review ongoing)
 
 ## Notes
 

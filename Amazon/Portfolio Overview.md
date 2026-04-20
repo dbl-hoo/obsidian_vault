@@ -1,131 +1,145 @@
 ---
 tags: [synthesis, amazon]
-last_updated: 2026-04-16
+last_updated: 2026-04-19
 ---
 
 # Amazon Portfolio Overview
 
-*Maintained by Jack. Rebuilt on every deal update. As of 2026-04-16.*
+*Maintained by Jack. Rebuilt on every deal update. As of 2026-04-19.*
 
 ---
 
 ## Flagged
 
-### Overdue Tasks
+### Due This Week (2026-04-20 to 2026-04-25)
 | Deal | Task | Due |
 |---|---|---|
-| SSD_SOHx | Confirm Flash enviro status | 2026-04-14 |
-| TOLx_Relo | 🔺 Cash flow | 2026-04-14 |
-| TOLx_Relo | 🔺 Alternative options survey (pricing + disqualification rationale) | 2026-04-14 |
-| DOM8 | Follow up on affidavits of non-production | 2026-04-14 |
-| ZMO3 | Follow up with LL on lease | 2026-04-15 |
+| ACY4 | 🔺 Draft CAR narrative for Steve Perkins | 2026-04-20 |
+| DOH2 | Follow up on PSA internal review | 2026-04-21 |
+| HIA2 | Schedule interviews with Panattoni and Suncap | 2026-04-21 |
+| OPA8 | 🔺 Call Mark Chub re: OPA8 | 2026-04-21 |
+| SOH9 | Follow up with internal team re: ES and exhibits | 2026-04-21 |
+| SOH9 | Follow up with Manish on high security fencing plan | 2026-04-21 |
+| ZCL2 | Follow up with Chatman Young on lease | 2026-04-22 |
+| ZMO3 | Follow up with LL on lease | 2026-04-22 |
+| 29_ARS_3 | Site tour with Phil Ristevski | 2026-04-22 |
+| DDL7 | Follow up with Charles Rodriguez re: survey | 2026-04-24 |
+| TOLx_Relo | 🔺 Cash flow | 2026-04-24 |
+| TOLx_Relo | 🔺 Alternative options survey (pricing + disqualification rationale) | 2026-04-24 |
+| WOH1 | Follow up with LL | 2026-04-24 |
+| ZDT5 | Follow up with LL re: certificate of compliance | 2026-04-24 |
+| DSB2 | 🔺 CAR inputs due | 2026-04-25 |
+| TBD_Ashland | Follow up on surveys | 2026-04-25 |
+| TBD_Findlay | Follow up on survey | 2026-04-25 |
+| SSD_SOHx | Follow up with Mackenzie Floyd on flash enviro submission | 2026-04-25 |
 
-### Due Today / This Week (2026-04-16 to 2026-04-20)
-| Deal | Task | Due |
+### Upcoming Critical Dates
+| Deal | Milestone | Date |
 |---|---|---|
-| DKE3 | CAR inputs | 2026-04-16 |
-| OPA8 | 🔺 Launch new weekly call (Jason as organizer) | 2026-04-17 |
-| OPA8 | 🔺 Check with Derrick (NP) re: CRA needed for pursuit of approvals | 2026-04-17 |
-| SOH3 | Follow up with LL on assignment | 2026-04-17 |
-| SOH3 | Follow up with Amazon on amendment review | 2026-04-17 |
-| SOH3 | Follow up with Max and Wes Thomson re: rent table confirmation | 2026-04-17 |
-| DSB2 | 🔺 CAR inputs due | 2026-04-18 |
-| HIA2 | Follow up on developer selection | 2026-04-18 |
-| SOH9 | 🔺 Confirm 6K amp service with Ryan (American Eagle) — $890K / 14-week lead time | 2026-04-18 |
-| SOH9 | Follow up with internal team re: ES and exhibits | 2026-04-18 |
-| SOH9 | Follow up with Manish on high security fencing plan | 2026-04-18 |
-| ZDT6 | Follow up with LL on revised lease | 2026-04-20 |
+| DKE3 | Inspection Period Expiration — waiving termination contingency | 2026-04-28 |
+| TOLx_Relo | Site Selection | 2026-04-29 |
+| ACY4 | 🔺 Land CAR approval needed for 8th amendment deposit | 2026-05-22 |
+| OPA8 | Follow up with Kirk Shephard / MetEd re: PM assignment | 2026-05-04 |
+| DSB2 | CAR Submission | 2026-04-21 |
+| DSB2 | CSM Approval | 2026-05-04 |
+| DSB2 | Full CAR Approval | 2026-06-12 |
+| DSB2 | Anticipated Closing | 2026-06-23 |
+| CMH8 | Approvals Period Expiration | 2026-09-30 |
+| DOM8 | Targeting Closing | 2026-05-07 |
 
 ---
 
 ## AMZL
 
-| Deal | Type | TM | Status | Last Updated |
+| Deal | Type | TM | Last Note | Last Updated |
 |---|---|---|---|---|
-| DKE3 | Purchase | Richard Corley | Ongoing | 2026-04-08 |
-| DOH2 | Purchase | Al Patel | Ongoing | 2026-04-15 |
-| DOH3 | Purchase | Al Patel | Ongoing | 2026-04-16 |
-| DSB2 | New Lease | Richard Corley | Ongoing | 2026-04-12 |
-| DDL7 | Purchase | Al Patel | Ongoing | 2026-04-14 |
-| DOM8 | Purchase | Dave Rende | Ongoing | 2026-04-09 |
-| WKM2 | Purchase | Kristen DeFamio | Ongoing | 2026-04-12 |
-| TBD_Ashland, OH | New Lease | Al Patel | Ongoing | 2026-04-09 |
-| TBD_Findlay, OH | New Lease | Kristen DeFamio | Ongoing | 2026-04-09 |
+| DDL7 | Purchase | Al Patel | Local broker engaged; survey request sent | 2026-04-17 |
+| DKE3 | Purchase | Richard Corley | Comp request sent to Nick Unger; PSA expiration 4/28 | 2026-04-08 |
+| DOH2 | Purchase | Al Patel | EAA complete; PSA circulated for internal review | 2026-04-19 |
+| DOH3 | Purchase | Al Patel | Two site options reviewed: 1 Modern Way + Mound Business Park | 2026-04-19 |
+| DOM8 | Purchase | Dave Rende | On autopilot; targeting closing May 7 | 2026-04-09 |
+| DSB2 | New Lease | Richard Corley | Site plan updating for ROW change; GMP 4/17, CAR submission 4/21 | 2026-04-19 |
+| TBD_Ashland, OH | New Lease | Al Patel | Deal opened 4/9; 2028 launch, RSR/1W1F, ~80K SF | 2026-04-19 |
+| TBD_Findlay, OH | New Lease | Kristen DeFamio | Deal opened 4/9; 2028 launch, RSR/2W2F, ~97K SF | 2026-04-19 |
+| WKM2 | Purchase | Kristen DeFamio | Site plan updating for ROW change; PSA pending with Hope Mothershead | 2026-04-12 |
 
 ---
 
 ## GCF
 
-| Deal | Type | TM | Status | Last Updated |
+| Deal | Type | TM | Last Note | Last Updated |
 |---|---|---|---|---|
-| ACY4 | Purchase | Steve Perkins | Ongoing | 2026-04-13 |
-| CAK5 | Purchase | Arman Fashandi | Ongoing | 2026-04-10 |
-| CMH8 | Purchase | Arman Fashandi | Ongoing | 2026-04-12 |
-| HIA2 Chambersburg | Purchase | Arman Fashandi | Ongoing | 2026-04-12 |
-| OPA7 Mahanoy, PA | Lease | Rachel Elliott | Ongoing | 2026-04-15 |
-| OPA8 Manchester, PA | Lease | Phil Ristevski | Ongoing | 2026-04-16 |
-| 29_ARS_3 St. Louis | Purchase | Phil Ristevski | Ongoing | 2026-04-15 |
-| TBD_Highridge, PA | Purchase | Steve Perkins | On Hold | 2026-04-13 |
-| LPITa | Purchase | — | Dead | 2026-04-08 |
+| 29_ARS_3 St. Louis | Purchase | Phil Ristevski | TriStar at $1.32/SF incl. borrow pit; site tour with Phil 4/22 | 2026-04-19 |
+| ACY4 | Purchase | Steve Perkins | CAR narrative due 4/20; outside closing 9/15; Liepe parcel adverse possession memo complete | 2026-04-19 |
+| CAK5 | Purchase | Arman Fashandi | Scott M to present at next site selection | 2026-04-10 |
+| CMH8 | Purchase | Troy Zawadski | Business passed for relo; deal continues for other uses; approvals period expires 9/30 | 2026-04-12 |
+| HIA2 Chambersburg | Purchase | Rachel Elliott | Developer RFQ sent; scheduling Panattoni + Suncap interviews Monday | 2026-04-19 |
+| OPA7 Mahanoy, PA | Lease | Phil Ristevski | Transaction call 4/15; CAR routing next; TOM/SAFETY review pending | 2026-04-15 |
+| OPA8 Manchester, PA | Lease | Phil Ristevski | Revised lease received from LL; ball in Amazon's court; power/MetEd open | 2026-04-19 |
 
 ---
 
 ## Middle Mile
 
-| Deal | Type | TM | Status | Last Updated |
+| Deal | Type | TM | Last Note | Last Updated |
 |---|---|---|---|---|
-| CVG47 | Purchase | Phillip Perri | Ongoing | 2026-04-15 |
-| TOLx_Relo | Purchase | Phillip Perri | Ongoing | 2026-04-12 |
+| CVG47 | Purchase | Phillip Perri | PLD/Bullock Farm contract expired; zoning contentious; no site under contract | 2026-04-15 |
+| TOLx_Relo | Purchase | Phillip Perri | Site selection 4/29; cash flow + alt options survey due 4/24 | 2026-04-12 |
 
 ---
 
 ## SSD
 
-| Deal | Type | TM | Status | Last Updated |
+| Deal | Type | TM | Last Note | Last Updated |
 |---|---|---|---|---|
-| SOH9 | New Lease | Adam Knoll | Ongoing | 2026-04-15 |
-| SOHC | Purchase | Adam Knoll | Ongoing | 2026-04-15 |
-| SSD_SOHx | BTS-Lease | Adam Knoll | Ongoing | 2026-04-07 |
-| SOH3 | Renewal | Max Madani | Ongoing | 2026-04-14 |
+| SOH3 | Renewal | Max Madani | Amendment near final; legal changes approved; rent table confirmed | 2026-04-14 |
+| SOH9 | New Lease | Adam Knoll | Lease week of 4/20–4/24; power upgrade $890K/14-week lead time; fencing plan pending | 2026-04-17 |
+| SOHC | Purchase | Adam Knoll | Looped in econdev on port authority sales tax exemption incentive | 2026-04-17 |
+| SSD_SOHx | BTS-Lease | Adam Knoll | Site sent to Mackenzie Floyd for site selection tool entry; flash enviro follow-up 4/25 | 2026-04-19 |
 
 ---
 
 ## Renewals
 
-| Deal | Type | TM | Status | Last Updated |
+| Deal | Type | TM | Last Note | Last Updated |
 |---|---|---|---|---|
-| WOH1 | Renewal | Max Madani | Ongoing | 2026-04-07 |
-| DCM5 | Renewal | Rachel Sohlstrom | On Hold | 2026-04-11 |
+| WOH1 | Renewal | Max Madani | LOI out; followed up with LL 4/17 | 2026-04-17 |
+| DCM5 | Renewal | Rachel Sohlstrom | On Hold | — |
 
 ---
 
-## Quick Commerce (Active)
+## Quick Commerce (Active / Ongoing)
 
-| Site Code | Pin | City | Status | Local Broker | Last Updated |
-|---|---|---|---|---|---|
-| ZCL2 | University Heights | Cleveland, OH | Ongoing | Alex Valletto, C&W/CRESCO | 2026-04-16 |
-| ZDT3 | Birmingham | Detroit, MI | Ongoing | Tony Schmitt | 2026-04-08 |
-| ZDT5 | DT Detroit | Detroit, MI | Ongoing | Tony Schmitt | 2026-04-10 |
-| ZDT6 | Royal Oak | Detroit, MI | Selected | Tony Schmitt | 2026-04-13 |
-| ZIN1 | Meridian-Kessler | Indianapolis, IN | Selected | Shannon Hunt, Veritas | 2026-04-07 |
-| ZIN3 | Carmel | Indianapolis, IN | Selected (cancel pending) | Shannon Hunt, Veritas | 2026-04-12 |
-| DT Indianapolis | DT Indianapolis | Indianapolis, IN | Ongoing | Shannon Hunt, Veritas | 2026-04-07 |
-| Fishers | Fishers | Indianapolis, IN | Ongoing | — | 2026-04-07 |
-| Fishers-a | Fishers-a | Noblesville, IN | Ongoing | — | 2026-04-07 |
-| ZMO2 | Country Club Plaza | Kansas City, MO | Ongoing | Matt Vaupell | 2026-04-07 |
-| ZMO3 | DT Kansas City | Kansas City, MO | Ongoing | Matt Vaupell | 2026-04-16 |
-| DT Minneapolis | DT Minneapolis | Minneapolis, MN | Ongoing | Alex Funk | 2026-04-07 |
-| Maple Grove | Maple Grove | Minneapolis, MN | Ongoing | Alex Funk | 2026-04-07 |
-| ZMP1 | Shelard Park | Minneapolis, MN | Short Listed | Alex Funk | 2026-04-15 |
-| ZMS3 | Uptown Minneapolis | Minneapolis, MN | Selected | Alex Funk | 2026-04-16 |
-| ZCM2 | German Village | Columbus, OH | Ongoing (possibly back on) | KBC-OH | 2026-04-13 |
-| ZLI1 | DT Clayton | St. Louis, MO | Selected | Meghan Donovan, NAI DESCO | 2026-04-08 |
+| Site Code | Pin | City | Last Note | Last Updated |
+|---|---|---|---|---|
+| ZCL2 | University Heights | Cleveland, OH | Updated lease received from LL; sent to Chatman Young; follow up Wednesday | 2026-04-16 |
+| ZCM2 | German Village | Columbus, OH | Confirmed Ongoing — Amazon moving forward; CAR approval email pending | 2026-04-19 |
+| ZDT3 | Birmingham | Detroit, MI | Lease sent for tax/accounting approval; NNN breakdown documented | 2026-04-08 |
+| ZDT5 | DT Detroit | Detroit, MI | Requested certificate of compliance from LL; follow up 4/24 | 2026-04-10 |
+| ZMO3 | DT Kansas City | Kansas City, MO | Updated lease sent to LL; follow up Wednesday | 2026-04-16 |
+| DT Indianapolis | DT Indianapolis | Indianapolis, IN | No notes — placeholder | 2026-04-07 |
+| Fishers | Fishers | Indianapolis, IN | No notes — placeholder | 2026-04-07 |
+| Fishers-a | Noblesville, IN | Indianapolis, IN | No notes — placeholder | 2026-04-07 |
+| Armour Fields | Armour Fields | Kansas City, MO | No notes — placeholder | 2026-04-07 |
+| DT Minneapolis | DT Minneapolis | Minneapolis, MN | No notes — placeholder | 2026-04-07 |
+| Maple Grove | Maple Grove | Minneapolis, MN | No notes — placeholder | 2026-04-07 |
+
+### QC — Selected / Short Listed (not Ongoing)
+| Site Code | Pin | City | Status |
+|---|---|---|---|
+| ZDT6 | Royal Oak | Detroit, MI | Selected |
+| ZIN1 | Meridian-Kessler | Indianapolis, IN | Selected |
+| ZIN3 | Carmel | Indianapolis, IN | Selected (cancel pending) |
+| ZMO2 | Country Club Plaza | Kansas City, MO | Ongoing |
+| ZMP1 | Shelard Park | Minneapolis, MN | Short Listed |
+| ZMS3 | Uptown Minneapolis | Minneapolis, MN | Selected |
+| ZLI1 | DT Clayton | St. Louis, MO | Selected |
 
 ### QC — Cancelled / On Hold
 | Site Code | Pin | City | Status |
 |---|---|---|---|
 | ZDT2 | Ann Arbor | Detroit, MI | On Hold |
-| ZLI2 | DT St. Louis | St. Louis, MO | On Hold (LL passing) |
+| ZLI2 | DT St. Louis | St. Louis, MO | On Hold |
 | ZCL3 | Lakewood | Cleveland, OH | Cancelled |
 | DT Cleveland | DT Cleveland | Cleveland, OH | Cancelled |
 | ZCM1 | Upper Arlington | Columbus, OH | Cancelled |
@@ -148,27 +162,19 @@ last_updated: 2026-04-16
 
 ---
 
-## Recent Activity
+## Recent Activity (This Week)
 
 | Deal | Update | Date |
 |---|---|---|
-| DOH3 | Two site options: 1 Modern Way (380K SF, Stratocash owner, 250K leasable now) + Mound Business Park (~$30K/ac, by-right AMZL, federal enviro indemnification, 3–5 mo to permit) | 2026-04-16 |
-| ZMS3 | Open items email to Alex; asked Susan about addendum | 2026-04-16 |
-| ZMO3 | Alex going back to Charlie on termination right and exclusive parking | 2026-04-16 |
-| OPA8 | Revised lease received from LL; ball in Amazon's court | 2026-04-16 |
-| ZCL2 | Updated lease received from LL; sent to Chatman Young | 2026-04-16 |
-| CVG47 | PLD/Bullock Farm contract expired — mother died, family difficult, wanted direct-to-closing. Access/utilities cross PLD site, not in contract. Zoning contentious (~300K SF w/ concessions on light pollution + refrigeration trucks due to adjacent residential). | 2026-04-15 |
-| DOH2 | EAA sent to sellers; follow up 4/22 | 2026-04-15 |
-| SOH9 | After WPI, 3,200 amps at house panel remaining out of the gate | 2026-04-15 |
-| OPA7 | Transaction call | 2026-04-15 |
-| 29_ARS_3 | TriStar came back at $1.32/SF including borrow pit at no additional cost | 2026-04-15 |
-| OPA7 | Arman transition briefing: CAR routing next, launch weekly call, TOM/SAFETY review pending on site plan | 2026-04-13 |
-| OPA8 | Arman transition: CAR approved, lease near final, power/MetEd open, CRA question to Derrick | 2026-04-13 |
-| SOH3 | LL amendment comments back; sent to Amazon; Friday follow-ups on assignment + review + rent table | 2026-04-14 |
-| TBD_Highridge, PA | Status → On Hold: lost labor approval w/ OPA7/OPA9 nearby | 2026-04-13 |
-| ZCM2 | Potentially back on — Amazon considering; CAR approval email pending | 2026-04-13 |
-| ACY4 | Transaction call; 9/15 outside closing date confirmed; adverse possession memo (Liepe parcel) targeting 4/15 | 2026-04-13 |
-| DOH3 | Al to re-run FA; Scannell site in play; tasks: Mount Business Park, building details, zoning | 2026-04-13 |
-| DDL7 | Jesse Parks firm on counter; communicated to Al Patel | 2026-04-14 |
-
-## Notes
+| DOH2 | EAA complete; PSA circulated for internal review; follow up Tuesday 4/21 | 2026-04-19 |
+| DOH3 | All tasks cleared (Mount Business Park sent, building details confirmed, Scannell zoning checked) | 2026-04-19 |
+| DSB2 | CAR inputs bumped to 4/25; GMP due 4/17, CAR submission 4/21 | 2026-04-19 |
+| HIA2 | Task updated — schedule Panattoni + Suncap interviews Monday 4/21 | 2026-04-19 |
+| OPA8 | Mark Chub call added Monday 4/21 | 2026-04-19 |
+| SSD_SOHx | Site sent to Mackenzie Floyd for site selection tool; flash enviro follow-up 4/25 | 2026-04-19 |
+| ZCM2 | Status confirmed Ongoing — Amazon moving forward | 2026-04-19 |
+| ACY4 | CAR narrative due moved to tomorrow 4/20 (high priority) | 2026-04-19 |
+| 29_ARS_3 | Site tour with Phil Ristevski Wednesday 4/22 | 2026-04-19 |
+| ZCL2 | Follow up Chatman Young Wednesday 4/22 | 2026-04-16 |
+| OPA7 | Stale tasks deleted | 2026-04-15 |
+| SOH9 | Two tasks bumped to Monday 4/21 | 2026-04-17 |

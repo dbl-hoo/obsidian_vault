@@ -11,13 +11,10 @@ end_date:
 local_broker: KBC
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-04-16
+last_updated: 2026-04-19
 ---
 ## Tasks
 
-- [ ] Send Mount Business Park to Al Patel
-- [ ] Confirm existing building details — pricing/lease-back
-- [ ] Check with Scannell on zoning
 
 ## Notes
 

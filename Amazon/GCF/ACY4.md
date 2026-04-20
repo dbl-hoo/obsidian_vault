@@ -8,7 +8,7 @@ pcm: Gary Gallagher
 launch_date: 2028-05-01
 end_date:
 local_broker: KBC
-last_updated: 2026-04-13
+last_updated: 2026-04-19
 area: Amazon
 tags:
   - deal
@@ -18,7 +18,7 @@ tags:
 ## Tasks
 
 - [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
-- [ ] Draft CAR narrative for Steve Perkins 📅 2026-04-24
+- [ ] 🔺 Draft CAR narrative for Steve Perkins 📅 2026-04-20
 - [x] Follow up with Joe P. on adverse possession memo (Liepe parcel) 📅 2026-04-15 ✅ 2026-04-15
 
 ## Notes

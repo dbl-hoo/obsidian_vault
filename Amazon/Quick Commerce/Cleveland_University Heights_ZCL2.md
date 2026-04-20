@@ -23,7 +23,7 @@ tm: Chatman Young
 
 ## Tasks
 
-- [ ] Follow up with LL on lease 📅 2026-04-21
+- [ ] Follow up with Chatman Young on lease 📅 2026-04-22
 
 ## Notes
 

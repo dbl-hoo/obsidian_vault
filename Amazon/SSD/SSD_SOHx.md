@@ -13,7 +13,7 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 ---
 
 ## Deal Sheet
@@ -40,8 +40,11 @@ Both dated March 2026. Confidential / conceptual use only.
 ## Tasks
 
 - [x] Confirm Flash enviro status — Jason requested Adam/Trace run it 📅 2026-04-14 ✅ 2026-04-17
+- [ ] Follow up with Mackenzie Floyd on flash enviro submission 📅 2026-04-25
 
 ## Notes
+
+2026-04-19 - Sent site to Mackenzie Floyd for entry into site selection tool. Follow up EOW on flash enviro submission.
 
 2026-04-17 - Followed up re: enviro reports.
 

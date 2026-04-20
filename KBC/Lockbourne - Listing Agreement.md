@@ -9,9 +9,11 @@ last_updated: 2026-04-19
 
 ## Tasks
 
-- [ ] 🔺 Review listing agreement 📅 2026-04-23
+- [ ] Follow up on listing agreement comments 📅 2026-04-26
 
 ## Notes
+
+2026-04-19 - Reviewed and sent comments. Follow up one week (4/26).
 
 2026-04-14 - Listing agreement received. Review by end of week.
 

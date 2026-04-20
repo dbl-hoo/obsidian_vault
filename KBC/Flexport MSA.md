@@ -3,14 +3,16 @@ project: Flexport MSA
 status: Ongoing
 area: KBC
 tags: [kbc]
-last_updated: 2026-04-12
+last_updated: 2026-04-19
 ---
 
 ## Tasks
 
-- [ ] Follow up on Flexport MSA 📅 2026-04-24
+- [ ] Follow up on Flexport MSA execution 📅 2026-04-26
 
 ## Notes
+
+2026-04-19 - O'Leary approved last edits. Final MSA circulated for execution. Follow up 4/26.
 
 2026-04-07 - Notes of call: out split with replacement broker; go back at 120 days; $1M cap on limitation of liability; rebate applies only after the 1st $1M in commissions. Revised and sent to team.
 

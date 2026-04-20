@@ -9,19 +9,21 @@ start_date: 2025-06-06
 end_date: 
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-04-08
+last_updated: 2026-04-19
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
 - [x] CAR Inputs (due: March 19, 2026) 📅 2026-04-16 ✅ 2026-04-16
-- [ ] 🔺 PSA Expiration (no extension) 📅 2026-04-28
+- [ ] Inspection Period Expiration — waiving termination contingency 📅 2026-04-28
 - [ ] First Extension Expiration 📅 2026-05-28
 - [ ] Second Extension Expiration 📅 2026-06-27
 - [ ] Closing Deadline 📅 2026-07-27
 
 ## Notes
+
+2026-04-19 - 4/28 date is inspection period expiration, not PSA expiration. Plan to waive termination contingency.
 
 2026-04-08 - Sent comp request to Nick Unger.
 

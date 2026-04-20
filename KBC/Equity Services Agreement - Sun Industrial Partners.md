@@ -4,7 +4,7 @@ status: Ongoing
 area: KBC
 office: Phoenix
 tags: [kbc]
-last_updated: 2026-04-15
+last_updated: 2026-04-19
 ---
 
 ## Contacts
@@ -16,5 +16,7 @@ last_updated: 2026-04-15
 - [x] 🔺 Review proposed edits 📅 2026-04-15 ✅ 2026-04-17
 
 ## Notes
+
+2026-04-19 - Edits reviewed. Waiting for Phoenix office (Kirk Kuller) to respond.
 
 2026-04-15 - Matter opened. Equity Services Agreement with Sun Industrial Partners. Phoenix office (Kirk Kuller). Initial task: review proposed edits.

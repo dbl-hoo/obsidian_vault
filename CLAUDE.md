@@ -105,7 +105,7 @@ deal_type:       # Purchase | Lease | BTS | etc.
 business_unit:   # SORT | GCF | IXD | etc.
 status:          # Ongoing | On Hold | Closed | Dead
 tm:              # Amazon Transaction Manager
-launch_date:
+launch_date:     # N/A for Renewals
 start_date:
 end_date:
 local_broker:
