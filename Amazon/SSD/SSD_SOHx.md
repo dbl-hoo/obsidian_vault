@@ -13,29 +13,8 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-04-19
+last_updated: 2026-04-21
 ---
-
-## Deal Sheet
-
-| Field | Value |
-|---|---|
-| Site Code | SSD_SOHx |
-| Address | 320 S Wayne Ave, Lockland, Ohio |
-| Market | Cincinnati (infill) |
-| Deal Type | BTS-Lease |
-| TM | Adam Knoll |
-| Status | Pre-POR / Placeholder |
-| Architect/Developer | Clous RD Partners (conceptual) |
-
-### Conceptual Plans
-
-| Version | Building SF | Parking | Docks |
-|---|---|---|---|
-| V1 | ~282,240 SF | 232+ AA (expandable) | 15+ |
-| V2 | ~271,600 SF | — | 15+ |
-
-Both dated March 2026. Confidential / conceptual use only.
 
 ## Tasks
 
@@ -101,6 +80,13 @@ Both dated March 2026. Confidential / conceptual use only.
 - Auger cast piles available as alternative in select locations.
 
 2026-04-07 - 320 S. Wayne Ave. ("Lockland Site") — offer in. Waiting on state's offer; answer expected in the next couple of weeks. Owner of larger parcel = THREE MC WAYNE AVE LLC (bought from Port Authority; in his 80s, son now involved). Clous offer will be considered in condemnation. Frontage owned by International Union of Elevator Constructors Local Union No. 11.
+
+2026-03-01 - Conceptual site plans prepared by Clous RD Partners (March 2026). Confidential / conceptual use only.
+
+| Version | Building SF | Parking | Docks |
+|---|---|---|---|
+| V1 | ~282,240 SF | 232+ AA (expandable) | 15+ |
+| V2 | ~271,600 SF | — | 15+ |
 
 2026-04-07 - Placeholder opened for potential SSD site in Cincinnati. No launch date yet. TM is Adam Knoll.
 

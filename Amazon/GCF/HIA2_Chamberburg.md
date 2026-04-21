@@ -45,7 +45,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Schedule interviews with Panattoni and Suncap 📅 2026-04-21
+- [x] Schedule interviews with Panattoni and Suncap 📅 2026-04-21 ✅ 2026-04-21
 
 ## Notes
 
