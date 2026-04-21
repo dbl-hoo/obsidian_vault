@@ -2,14 +2,14 @@
 site_code: CVG47
 deal_type: Purchase
 business_unit: SORT
-status: Ongoing
+status: On Hold
 tm: Phillip Perri
 pcm: Tannaz H
 launch_date: 2026-08-01
 end_date:
 local_broker: Jeff Bender - Cushman
 area: Amazon
-last_updated: 2026-04-15
+last_updated: 2026-04-20
 tags:
   - deal
   - amazon
@@ -19,6 +19,8 @@ tags:
 
 
 ## Notes
+
+2026-04-20 - On Hold pending business engagement.
 
 2026-04-15 - PLD/Bullock Farm — contract expired; mother died, family difficult to work with, wanted to go directly to closing. All access and utilities cross PLD site; not in contract currently. Zoning contentious — rough approval for ~300K SF with concessions on light pollution and refrigeration trucks due to adjacent residential. Really tough rezone.
 

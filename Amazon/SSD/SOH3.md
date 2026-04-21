@@ -10,13 +10,15 @@ start_date: 2025-07-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-14
+last_updated: 2026-04-20
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-04-20 - Lease amendment form approved.
 
 2026-04-14 - Susan approved legal changes; assignment sent over. Asked Max and Wes Thomson to confirm rent table.
 

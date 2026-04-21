@@ -9,7 +9,7 @@ launch_date: 2027-01-01
 end_date:
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 tags:
   - deal
   - amazon
@@ -33,6 +33,8 @@ tags:
 - [ ] 🔺 CAR inputs due 📅 2026-04-25
 
 ## Notes
+
+2026-04-20 - Target closing date: 2026-06-23.
 
 2026-04-08 - Sent comp request to Nick Unger.
 

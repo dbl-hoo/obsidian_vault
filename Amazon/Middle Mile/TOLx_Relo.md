@@ -9,7 +9,7 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-12
+last_updated: 2026-04-20
 tags:
   - deal
   - amazon
@@ -21,6 +21,8 @@ tags:
 - [ ] 🔺 Alternative options survey (pricing + disqualification rationale) 📅 2026-04-24
 
 ## Notes
+
+2026-04-20 - Chris Godwin sent test fit — template doesn't fit. Confirming that template didn't change; reached out to Scott about adding land. Site selection moved to May 7.
 
 2026-04-12 - Site selection scheduled 2026-04-29.
 

@@ -3,13 +3,13 @@ site_code: CMH8
 deal_type: Purchase
 business_unit: GCF
 status: Ongoing
-tm: Arman Fashandi
+tm: TBD
 pcm: Jacob Cooper-bennett
 launch_date: 2028-05-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-12
+last_updated: 2026-04-20
 tags: [deal, amazon]
 ---
 
@@ -36,6 +36,8 @@ tags: [deal, amazon]
 **Outside Closing Date:** October 30, 2026
 
 ## Notes
+
+2026-04-20 - Deal will move slowly until Amazon assigns a TM. TM updated to TBD.
 
 2026-04-12 - Business passed on CMH8 for the relo requirement. Deal continues for other potential uses.
 
