@@ -12,14 +12,19 @@ local_broker: "Alex Funk | Senior Associate"
 loi_final: No
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-04-16
+last_updated: 2026-04-21
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
 
 ## Tasks
 
+- [ ] Follow up on open items (Opex cap, stall location/signage, addendum) 📅 2026-04-22
+- [ ] Get signage for 10 exclusive stalls 📅 2026-04-28
+
 ## Notes
+
+2026-04-21 - LL won't agree to cap on controllable Opex. Will designate 10 exclusive stalls but location is disputed. Need signage for stalls. Need to follow up on addendum. Termination right limited to redevelopment.
 
 2026-04-16 - Talked to Alex; going back to Charlie on termination right and exclusive parking.
 

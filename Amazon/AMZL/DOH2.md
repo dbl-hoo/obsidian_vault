@@ -9,7 +9,7 @@ launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date: 
 local_broker: KBC
-last_updated: 2026-04-19
+last_updated: 2026-04-21
 area: Amazon
 tags: [deal, amazon]
 ---
@@ -17,6 +17,7 @@ tags: [deal, amazon]
 ## Tasks
 
 - [ ] Follow up on PSA internal review 📅 2026-04-21
+- [ ] Follow up with seller on PSA 📅 2026-04-28
 
 ## Related Notes
 
@@ -25,6 +26,8 @@ tags: [deal, amazon]
 - [[Northpoint - MW]] (Reference)
 
 ## Notes
+
+2026-04-21 - PSA sent to seller. Follow up 1 week.
 
 2026-04-19 - EAA complete. PSA circulated for internal review. Follow up Tuesday 4/21.
 

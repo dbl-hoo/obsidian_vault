@@ -3,11 +3,11 @@ site_code: HIA2_Chamberburg
 deal_type: Purchase
 business_unit: GCF
 status: Ongoing
-tm: Arman Fashandi
+tm: Phil Ristevski
 pcm: 
 launch_date: 2029-06-01
 end_date:
-last_updated: 2026-04-19
+last_updated: 2026-04-21
 local_broker: 
 area: Amazon
 tags: [deal, amazon]
@@ -48,6 +48,9 @@ tags: [deal, amazon]
 - [x] Schedule interviews with Panattoni and Suncap 📅 2026-04-21 ✅ 2026-04-21
 
 ## Notes
+
+2026-04-21 - Phil R. considering self-developing ("Project Beaver"). May 18-19 site visit scheduled. Per Maura Kennedy (Amazon EconDev): township may want a park as part of the project.
+- L. Michael Ross, President, Franklin County Area Development Corporation — 1900 Wayne Road, Chambersburg, PA 17202 — P: 717-263-8282 | M: 717-816-2964 | mike@fcadc.com
 
 2026-04-08 - Sent developer RFQ summary to Phil R.
 

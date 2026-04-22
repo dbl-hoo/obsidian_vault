@@ -9,7 +9,7 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 tags:
   - deal
   - amazon
@@ -21,6 +21,11 @@ tags:
 - [ ] 🔺 Alternative options survey (pricing + disqualification rationale) 📅 2026-04-24
 
 ## Notes
+
+2026-04-21 - Scott Sanders leaving; Pat Walsh taking over Amazon account relationship. PSA is back; getting contacts for adjacent parcels.
+- Rex Huffman (rhuffman@spitlerhuffmanlaw.com) — Attorney for Port Authority
+- Premier Farm Properties — remnant piece 16 acres; Murray Wise is contact; hard to work with
+- Mathis — 2nd seller; trailer and not super nice home; homestead on 18-acre parcel; Rex thinks Premier will be a challenge
 
 2026-04-20 - Chris Godwin sent test fit — template doesn't fit. Confirming that template didn't change; reached out to Scott about adding land. Site selection moved to May 7.
 

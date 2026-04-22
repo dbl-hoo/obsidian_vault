@@ -2,7 +2,7 @@
 project: Subpoena - 1001 Expressway Dr. v. WF Industrial XII LLC
 status: Ongoing
 area: KBC
-last_updated: 2026-04-19
+last_updated: 2026-04-21
 tags: [kbc]
 ---
 
@@ -11,6 +11,8 @@ tags: [kbc]
 - [ ] 🔺 Follow up with outside counsel on whether KBC action required 📅 2026-04-25
 - [ ] 🔺 Monitor/respond to subpoena — deadline 2026-05-01 📅 2026-05-01
 ## Notes
+
+2026-04-21 - LL denied motion to squash. Alerted Andrew Alberg about the subpoena.
 
 2026-04-19 - Motion to quash filed. Asked outside counsel whether KBC needs to take any action — awaiting response.
 

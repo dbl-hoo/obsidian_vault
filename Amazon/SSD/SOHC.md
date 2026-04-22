@@ -10,13 +10,19 @@ start_date: 2025-11-05
 end_date: 
 local_broker: None
 area: Amazon
-last_updated: 2026-04-17
+last_updated: 2026-04-21
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
+- [ ] Get proposal from American Eagle for 3200A power upgrade; get load sheet and ramp-up schedule 📅 2026-04-28
+- [ ] Determine who is doing security fencing; get final site plan 📅 2026-04-28
+
 ## Notes
+
+2026-04-21 - House panel is on Amazon side; 800A going to WPI; need to add 3200A panel on Amazon side. Need proposal from American Eagle for power upgrade — doing the work together would be more efficient; 3-month timeline. Need load sheet and ramp-up.
+LL Work SOW: (1) power upgrade; (2) southern curb cut; (3) truck access. Need bids and documented expenses; will need to revise the Work Letter. Per Tadeu Velloso, will need costs. Need to determine who is doing security fencing and get final site plan.
 
 2026-04-17 - Looped in Kyle (econdev) on incentives.
 

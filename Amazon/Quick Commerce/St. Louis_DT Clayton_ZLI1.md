@@ -9,7 +9,7 @@ deal_type: New Lease
 business_unit: QC
 status: Selected
 local_broker: "Meghan Donovan, NAI DESCO St. Louis"
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 loi_final: No
 loi_prepared: Yes
 site_selection_date: 2026-02-13
@@ -22,6 +22,8 @@ tags: [deal, amazon, quick-commerce]
 - [ ] 🔺 Resolve ZLI1 pre-con issues: gas payment, electrical separation, drain lines, basement door hardware (2-way access) 📅 2026-04-28
 
 ## Notes
+
+2026-04-21 - LL conceptually aligned with separating electrical. Emailing Omar Salim.
 
 2026-04-20 - Pre-con surfaced issues on power and gas. Open items: who pays for gas; electrical separation; drain lines cut and sealed with concrete; basement door hardware needs to change to 2-way access. Meghan may contribute dollars toward Amazon doing the work.
 
