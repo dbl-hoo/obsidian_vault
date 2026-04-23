@@ -16,7 +16,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Follow up on PSA internal review 📅 2026-04-21
+- [x] Follow up on PSA internal review 📅 2026-04-21 ✅ 2026-04-22
 - [ ] Follow up with seller on PSA 📅 2026-04-28
 
 ## Related Notes

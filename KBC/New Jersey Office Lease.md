@@ -17,7 +17,7 @@ last_updated: 2026-04-20
 ## Tasks
 
 - [ ] 🔺 Review LL comments on NJ Office Lease 📅 2026-04-22
-- [ ] Follow up with Sean Kelly on revised lease 📅 2026-04-22
+- [x] Follow up with Sean Kelly on revised lease 📅 2026-04-22 ✅ 2026-04-22
 
 ## Notes
 

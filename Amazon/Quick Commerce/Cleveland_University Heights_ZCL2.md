@@ -23,7 +23,7 @@ tm: Chatman Young
 
 ## Tasks
 
-- [ ] Follow up with Chatman Young on lease 📅 2026-04-22
+- [ ] Follow up with Chatman Young on lease 📅 2026-04-24
 - [ ] Follow up with LL on LOA and power inquiry 📅 2026-04-28
 
 ## Notes
