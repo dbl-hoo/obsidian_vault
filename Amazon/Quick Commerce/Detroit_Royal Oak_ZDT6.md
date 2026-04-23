@@ -32,7 +32,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] Follow up with LL on revised lease 📅 2026-04-20
+- [x] Follow up with LL on revised lease 📅 2026-04-20 ✅ 2026-04-23
 
 ## Notes
 

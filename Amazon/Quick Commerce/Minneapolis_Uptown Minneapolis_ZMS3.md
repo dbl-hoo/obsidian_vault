@@ -19,7 +19,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] Follow up on open items (Opex cap, stall location/signage, addendum) 📅 2026-04-22
+- [x] Follow up on open items (Opex cap, stall location/signage, addendum) 📅 2026-04-22 ✅ 2026-04-23
 - [ ] Get signage for 10 exclusive stalls 📅 2026-04-28
 
 ## Notes
