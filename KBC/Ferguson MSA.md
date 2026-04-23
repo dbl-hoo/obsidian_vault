@@ -9,7 +9,7 @@ last_updated: 2026-04-16
 
 ## Tasks
 
-- [ ] Review Ferguson MSA redlines and respond with critical comments 📅 2026-04-23
+- [x] Review Ferguson MSA redlines and respond with critical comments 📅 2026-04-23 ✅ 2026-04-23
 
 ## Notes
 

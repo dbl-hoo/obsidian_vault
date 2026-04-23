@@ -11,12 +11,14 @@ end_date:
 local_broker: KBC
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-04-19
+last_updated: 2026-04-22
 ---
 ## Tasks
 
 
 ## Notes
+
+2026-04-22 - Revised LOI for Franklin Vista Farms to include the entire parcel; sent to Jeff Baumgarten.
 
 2026-04-16 - Two site options reviewed:
 

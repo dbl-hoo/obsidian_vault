@@ -25,7 +25,8 @@ If the commit has nothing to stage (clean working tree), skip silently. If the p
 - If the file doesn't exist or has no content, stop and tell Jason
 
 ### Step 2 — Check if already processed
-- If the note already contains `## EOD Processed`, stop and say so — don't double-process
+- If the note contains `## EOD Processed` with a date line (e.g. `2026-04-22 — Updated: ...`), stop and say so — don't double-process
+- A bare `<!-- EOD_PENDING -->` comment is the unprocessed template placeholder — proceed normally
 
 ### Step 3 — Parse the note
 Read through the note and identify:
@@ -47,7 +48,7 @@ For each deal identified:
 5. Update `status:` if it changed
 
 ### Step 5 — Stamp the daily note
-Append to the daily note:
+Replace `<!-- EOD_PENDING -->` with:
 
 ```
 ## EOD Processed
@@ -55,7 +56,7 @@ Append to the daily note:
 YYYY-MM-DD — Updated: Deal1, Deal2, Deal3.
 ```
 
-List every deal file that was modified.
+List every deal file that was modified. If the placeholder isn't present (older note format), append to the end of the file instead.
 
 ### Step 6 — Suggest improvements
 After processing, suggest specific improvements to `CLAUDE.md` or other system files based on anything that was confusing, missing, or inefficient. Be concrete — not "consider adding more detail" but "add a YAML field for X because Y came up today."
