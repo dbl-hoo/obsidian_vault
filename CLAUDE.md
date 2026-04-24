@@ -50,7 +50,6 @@ x_Archive/           ← Completed/dead deals — don't surface unless asked
 Daily Notes/         ← Daily capture notes
 Templates/           ← Note templates
 Team Meeting/        ← Weekly team meeting agendas (dated: YYYY-MM-DD Team Meeting.md)
-Open Matters.base    ← Master index (Obsidian Bases — active deals across Amazon, KBC, Kirkham Law)
 Open Tasks.md        ← All open tasks (Tasks plugin query)
 KBC/NDA Log.md       ← NDA tracking (flat table)
 Amazon/Portfolio Overview.md ← Synthesis page — current state of all active Amazon deals
