@@ -61,31 +61,31 @@ last_updated: 2026-04-23
 
 ## AMZL
 
-| Deal | Type | TM | Last Note | Last Updated |
-|---|---|---|---|---|
-| DDL7 | Purchase | Al Patel | Local broker engaged; survey request sent | 2026-04-17 |
-| DKE3 | Purchase | Richard Corley | 4/28 is inspection period expiration; plan to waive termination contingency | 2026-04-19 |
-| DOH2 | Purchase | Al Patel | PSA sent to seller; follow up 4/28 | 2026-04-21 |
-| DOH3 | Purchase | Al Patel | Revised LOI for Franklin Vista Farms sent to Jeff Baumgarten | 2026-04-22 |
-| DOM8 | Purchase | Dave Rende | On autopilot; targeting closing May 7 | 2026-04-09 |
-| DSB2 | New Lease | Richard Corley | CAR submission 4/21; closing date confirmed 2026-06-23 | 2026-04-20 |
-| TBD_Ashland, OH | New Lease | Al Patel | Deal opened 4/9; 2028 launch, RSR/1W1F, ~80K SF | 2026-04-19 |
-| TBD_Findlay, OH | New Lease | Kristen DeFamio | Deal opened 4/9; 2028 launch, RSR/2W2F, ~97K SF | 2026-04-19 |
-| WKM2 | Purchase | Kristen DeFamio | Site plan updating for ROW change; PSA pending with Hope Mothershead | 2026-04-12 |
+| Deal | Type | TM | Status | Last Note | Last Updated |
+|---|---|---|---|---|---|
+| DDL7 | Purchase | Al Patel | Ongoing | Local broker engaged; survey request sent | 2026-04-17 |
+| DKE3 | Purchase | Richard Corley | Ongoing | 4/28 is inspection period expiration; plan to waive termination contingency | 2026-04-19 |
+| DOH2 | Purchase | Al Patel | Ongoing | PSA sent to seller; follow up 4/28 | 2026-04-21 |
+| DOH3 | Purchase | Al Patel | Ongoing | Revised LOI for Franklin Vista Farms sent to Jeff Baumgarten | 2026-04-22 |
+| DOM8 | Purchase | Dave Rende | Ongoing | On autopilot; targeting closing May 7 | 2026-04-09 |
+| DSB2 | New Lease | Richard Corley | Ongoing | CAR submission 4/21; closing date confirmed 2026-06-23 | 2026-04-20 |
+| TBD_Ashland, OH | New Lease | Al Patel | Ongoing | Deal opened 4/9; 2028 launch, RSR/1W1F, ~80K SF | 2026-04-19 |
+| TBD_Findlay, OH | New Lease | Kristen DeFamio | Ongoing | Deal opened 4/9; 2028 launch, RSR/2W2F, ~97K SF | 2026-04-19 |
+| WKM2 | Purchase | Kristen DeFamio | Ongoing | Site plan updating for ROW change; PSA pending with Hope Mothershead | 2026-04-12 |
 
 ---
 
 ## GCF
 
-| Deal | Type | TM | Last Note | Last Updated |
-|---|---|---|---|---|
-| 29_ARS_3 St. Louis | Purchase | Phil Ristevski | TriStar at $1.32/SF incl. borrow pit; site tour with Phil 4/22 | 2026-04-19 |
-| ACY4 | Purchase | Steve Perkins | CAR narrative drafted; outside closing 9/15; Land CAR approval needed by 5/22 | 2026-04-19 |
-| CAK5 | Purchase | Arman Fashandi | Scott M to present at next site selection | 2026-04-10 |
-| CMH8 | Purchase | TBD | Deal moving slowly until TM assigned; approvals period expires 9/30 | 2026-04-20 |
-| HIA2 Chambersburg | Purchase | Phil Ristevski | Phil R. considering self-develop; May 18-19 site visit; township may want a park | 2026-04-21 |
-| OPA7 Mahanoy, PA | Lease | Rachel Elliott | Transaction call 4/15; CAR routing next; TOM/SAFETY review pending | 2026-04-15 |
-| OPA8 Manchester, PA | Lease | Phil Ristevski | Revised lease from LL; power/MetEd open; ball in Amazon's court | 2026-04-19 |
+| Deal | Type | TM | Status | Last Note | Last Updated |
+|---|---|---|---|---|---|
+| 29_ARS_3 St. Louis | Purchase | Phil Ristevski | Ongoing | TriStar at $1.32/SF incl. borrow pit; site tour with Phil 4/22 | 2026-04-19 |
+| ACY4 | Purchase | Steve Perkins | Ongoing | CAR narrative drafted; outside closing 9/15; Land CAR approval needed by 5/22 | 2026-04-19 |
+| CAK5 | Purchase | Arman Fashandi | Ongoing | Scott M to present at next site selection | 2026-04-10 |
+| CMH8 | Purchase | TBD | Ongoing | Deal moving slowly until TM assigned; approvals period expires 9/30 | 2026-04-20 |
+| HIA2 Chambersburg | Purchase | Phil Ristevski | Ongoing | Phil R. considering self-develop; May 18-19 site visit; township may want a park | 2026-04-21 |
+| OPA7 Mahanoy, PA | Lease | Rachel Elliott | Ongoing | Transaction call 4/15; CAR routing next; TOM/SAFETY review pending | 2026-04-15 |
+| OPA8 Manchester, PA | Lease | Phil Ristevski | Ongoing | Revised lease from LL; power/MetEd open; ball in Amazon's court | 2026-04-19 |
 
 ---
 
@@ -100,37 +100,37 @@ last_updated: 2026-04-23
 
 ## SSD
 
-| Deal | Type | TM | Last Note | Last Updated |
-|---|---|---|---|---|
-| SOH3 | Renewal | Max Madani | Lease amendment form approved | 2026-04-20 |
-| SOH9 | New Lease | Adam Knoll | SNDA sent to LL; call w/ Manish/Adam/Allison; GC selected; site plans expected 4/24 | 2026-04-23 |
-| SOHC | Purchase | Adam Knoll | Power upgrade 3200A needed; Work Letter revision pending; fencing/site plan TBD | 2026-04-21 |
-| SSD_SOHx | BTS-Lease | Adam Knoll | Flash enviro follow-up 4/25 | 2026-04-21 |
+| Deal | Type | TM | Status | Last Note | Last Updated |
+|---|---|---|---|---|---|
+| SOH3 | Renewal | Max Madani | Ongoing | Lease amendment form approved | 2026-04-20 |
+| SOH9 | New Lease | Adam Knoll | Ongoing | SNDA sent to LL; call w/ Manish/Adam/Allison; GC selected; site plans expected 4/24 | 2026-04-23 |
+| SOHC | Purchase | Adam Knoll | Ongoing | Power upgrade 3200A needed; Work Letter revision pending; fencing/site plan TBD | 2026-04-21 |
+| SSD_SOHx | BTS-Lease | Adam Knoll | Ongoing | Flash enviro follow-up 4/25 | 2026-04-21 |
 
 ---
 
 ## Renewals
 
-| Deal | Type | TM | Last Note | Last Updated |
-|---|---|---|---|---|
-| WOH1 | Renewal | Max Madani | LOI out; followed up with LL 4/17 | 2026-04-17 |
-| DCM5 | Renewal | Rachel Sohlstrom | On Hold until early 2027 | 2026-04-11 |
+| Deal | Type | TM | Status | Last Note | Last Updated |
+|---|---|---|---|---|---|
+| WOH1 | Renewal | Max Madani | Ongoing | LOI out; followed up with LL 4/17 | 2026-04-17 |
+| DCM5 | Renewal | Rachel Sohlstrom | On Hold | On Hold until early 2027 | 2026-04-11 |
 
 ---
 
 ## Quick Commerce (Active / Ongoing)
 
-| Site Code | Pin | City | Last Note | Last Updated |
-|---|---|---|---|---|
-| ZCL2 | University Heights | Cleveland, OH | LOA sent to LL; power inquiry out; follow up 4/28 | 2026-04-21 |
-| ZCM2 | German Village | Columbus, OH | Confirmed Ongoing — Amazon moving forward; CAR approval email pending | 2026-04-19 |
-| ZMO3 | DT Kansas City | Kansas City, MO | Updated lease sent to LL; follow up **overdue** (4/22) | 2026-04-16 |
-| DT Indianapolis | DT Indianapolis | Indianapolis, IN | No notes — placeholder | — |
-| Fishers | Fishers | Indianapolis, IN | No notes — placeholder | — |
-| Fishers-a | Noblesville, IN | Indianapolis, IN | No notes — placeholder | — |
-| Armour Fields | Armour Fields | Kansas City, MO | No notes — placeholder | — |
-| DT Minneapolis | DT Minneapolis | Minneapolis, MN | No notes — placeholder | — |
-| Maple Grove | Maple Grove | Minneapolis, MN | No notes — placeholder | — |
+| Site Code | Pin | City | Status | Last Note | Last Updated |
+|---|---|---|---|---|---|
+| ZCL2 | University Heights | Cleveland, OH | Ongoing | LOA sent to LL; power inquiry out; follow up 4/28 | 2026-04-21 |
+| ZCM2 | German Village | Columbus, OH | Ongoing | Confirmed Ongoing — Amazon moving forward; CAR approval email pending | 2026-04-19 |
+| ZMO3 | DT Kansas City | Kansas City, MO | Ongoing | Updated lease sent to LL; follow up **overdue** (4/22) | 2026-04-16 |
+| DT Indianapolis | DT Indianapolis | Indianapolis, IN | Ongoing | No notes — placeholder | — |
+| Fishers | Fishers | Indianapolis, IN | Ongoing | No notes — placeholder | — |
+| Fishers-a | Noblesville, IN | Indianapolis, IN | Ongoing | No notes — placeholder | — |
+| Armour Fields | Armour Fields | Kansas City, MO | Ongoing | No notes — placeholder | — |
+| DT Minneapolis | DT Minneapolis | Minneapolis, MN | Ongoing | No notes — placeholder | — |
+| Maple Grove | Maple Grove | Minneapolis, MN | Ongoing | No notes — placeholder | — |
 
 ### QC — Selected / Short Listed (not Ongoing)
 | Site Code | Pin | City | Status | Last Note |
