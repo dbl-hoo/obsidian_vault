@@ -19,8 +19,8 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] Check status of ZDT5 (DT Detroit) — cert of compliance follow-up was open at cancellation 📅 2026-04-24
-- [ ] Follow up with LL re: certificate of compliance 📅 2026-04-24
+- [x] Check status of ZDT5 (DT Detroit) — cert of compliance follow-up was open at cancellation 📅 2026-04-24 ✅ 2026-04-24
+- [x] Follow up with LL re: certificate of compliance 📅 2026-04-24 ✅ 2026-04-24
 
 ## Notes
 

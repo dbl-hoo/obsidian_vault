@@ -8,7 +8,7 @@ last_updated: 2026-04-17
 ---
 
 ## Tasks
-- [ ] Follow up on revised lease amendment 📅 2026-04-24
+- [x] Follow up on revised lease amendment 📅 2026-04-24 ✅ 2026-04-24
 
 ## Notes
 2026-04-17 - Revised lease amendment and circulated.
