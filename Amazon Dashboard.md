@@ -3,7 +3,7 @@ tags: [synthesis, amazon]
 last_updated: 2026-04-23
 ---
 
-# Amazon Portfolio Overview
+# Amazon Dashboard
 
 *Maintained by Jack. Rebuilt on every deal update. As of 2026-04-23.*
 

@@ -52,7 +52,7 @@ Templates/           ← Note templates
 Team Meeting/        ← Weekly team meeting agendas (dated: YYYY-MM-DD Team Meeting.md)
 Open Tasks.md        ← All open tasks (Tasks plugin query)
 KBC/NDA Log.md       ← NDA tracking (flat table)
-Amazon/Portfolio Overview.md ← Synthesis page — current state of all active Amazon deals
+Amazon Dashboard.md ← Synthesis page — current state of all active Amazon deals
 ```
 
 ### Amazon Sub-Programs
@@ -187,7 +187,7 @@ When Jason dumps call notes:
 4. Update `last_updated:` in YAML to today's date
 5. Update `status:` if it changed; update other YAML fields if clearly warranted
 6. **Cascade to person pages:** If the note contains intel about a person who has a page in `People/`, update their page. If a name appears for the first time across 2+ deals, consider creating a page (ask Jason if unsure).
-7. **Cascade to Portfolio Overview:** If this is an Amazon deal, rebuild `Amazon/Portfolio Overview.md` from scratch.
+7. **Cascade to Portfolio Overview:** If this is an Amazon deal, rebuild `Amazon Dashboard.md` from scratch.
 
 When asked "where do things stand" or similar: read all `status: Ongoing` deal files, pull the most recent Notes entry and open tasks from each, surface overdue tasks or no update in >30 days.
 
@@ -201,7 +201,7 @@ Handled by the `/weekly-review` skill. See `.claude/skills/weekly-review/SKILL.m
 Handled by the `/eod` skill. See `.claude/skills/eod/SKILL.md` for the full workflow.
 
 ### Portfolio Overview Maintenance
-`Amazon/Portfolio Overview.md` is a living synthesis of the entire Amazon book. Always rebuild it from scratch — never patch incrementally. Rebuild on any Amazon deal update or when Jason asks.
+`Amazon Dashboard.md` is a living synthesis of the entire Amazon book. Always rebuild it from scratch — never patch incrementally. Rebuild on any Amazon deal update or when Jason asks.
 
 ### NDA Log
 `KBC/NDA Log.md` is a flat table tracking NDAs. When logging an NDA:
