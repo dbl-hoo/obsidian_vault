@@ -122,14 +122,17 @@ last_updated: 2026-04-23
 
 | Site Code | Pin | City | Status | Last Note | Last Updated |
 |---|---|---|---|---|---|
+| TBD | Country Club Plaza | Kansas City, MO | Surveying | New site search — prior KCC site (ZMO2) cancelled | — |
+| TBD | Summit Hills | Minneapolis, MN | Surveying | New site search — prior Summit Hills site cancelled | — |
 | ZCL2 | University Heights | Cleveland, OH | Selected | LOA sent to LL; power inquiry out; follow up 4/28 | 2026-04-21 |
 | ZCM2 | German Village | Columbus, OH | Selected | Confirmed — Amazon moving forward; CAR approval email pending | 2026-04-19 |
+| ZDT2 | Ann Arbor | Detroit, MI | Selected | — | — |
 | ZDT6 | Royal Oak | Detroit, MI | Selected | Updated draft from LL; sent to Susan; submitted for tax/accounting approvals | 2026-04-23 |
 | ZIN1 | Meridian-Kessler | Indianapolis, IN | Selected | Call w/ LL's counsel; two open items (payment system, assignment guarantee) | 2026-04-14 |
 | ZIN3 | Carmel | Indianapolis, IN | Selected | June suite available; additional demo needed; email to econ dev needed | 2026-04-23 |
 | ZLI1 | DT Clayton | St. Louis, MO | Selected | LL aligned on electrical separation; pre-con issues due 4/28 | 2026-04-21 |
 | ZMO3 | DT Kansas City | Kansas City, MO | Selected | Updated lease sent to LL; follow up **overdue** (4/22) | 2026-04-16 |
-| ZMP1 | Shelard Park | Minneapolis, MN | Short-Listed | Design on hold; site visit needed | 2026-04-15 |
+| ZMP1 | Shelard Park | Minneapolis, MN | Selected | Design on hold; site visit needed | 2026-04-15 |
 | ZMS3 | Uptown Minneapolis | Minneapolis, MN | Selected | LL won't cap Opex; stall signage/location open; addendum pending | 2026-04-21 |
 
 ### QC — Cancelled
@@ -147,7 +150,6 @@ last_updated: 2026-04-23
 | ZCL3 | Lakewood | Cleveland, OH |
 | ZCM1 | Upper Arlington | Columbus, OH |
 | ZCM3 | Short North | Columbus, OH |
-| ZDT2 | Ann Arbor | Detroit, MI |
 | ZDT3 | Birmingham | Detroit, MI |
 | ZDT4 | Grosse Pointe | Detroit, MI |
 | ZDT5 | DT Detroit | Detroit, MI |
