@@ -4,14 +4,16 @@ status: Ongoing
 area: KBC
 office: Atlanta
 tags: [kbc]
-last_updated: 2026-04-16
+last_updated: 2026-04-23
 ---
 
 ## Tasks
 
-- [x] Review Ferguson MSA redlines and respond with critical comments 📅 2026-04-23 ✅ 2026-04-23
+- [ ] Follow up with team on Ferguson MSA 📅 2026-04-30
 
 ## Notes
+
+2026-04-23 - Updated MSA sent to team.
 
 2026-04-16 - Email from Randy Hogan (Ferguson) to Todd Steffen, forwarded for review. Randy attached clean and redlined versions of MSA with Ferguson's comments. Todd met with Randy Hogan in Atlanta this week — Randy then went to HQ in Newport News to further discuss scope areas; expecting to hear back on where they start.
 

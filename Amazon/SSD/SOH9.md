@@ -10,16 +10,17 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-17
+last_updated: 2026-04-23
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
-- [x] Follow up with internal team re: ES and exhibits 📅 2026-04-21 ✅ 2026-04-20
-- [x] Follow up with Manish on high security fencing plan 📅 2026-04-21 ✅ 2026-04-20
+- [ ] Follow up with LL on SNDA 📅 2026-04-30
 
 ## Notes
+
+2026-04-23 - SNDA sent to LL; follow up next week. Call w/ Manish, Patrick, Caleb, Adam (TM), and Allison. Allison: electrical engineer onboard, expecting load letter next week. Adam: wants to leave electrical out of the lease. GC selected — Manish to introduce. Curbs/access/fencing: attach approved tenant modifications; won't require AHJ or WPI approvals. Site plans expected EOD 4/24 — will show access and fencing.
 
 2026-04-17 - Emailed Stonemount re: electrical upgrade as part of LL's work.
 

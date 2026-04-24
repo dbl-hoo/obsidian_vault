@@ -17,7 +17,7 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with Charles Rodriguez re: survey 📅 2026-04-24
+- [x] Follow up with Charles Rodriguez re: survey 📅 2026-04-24 ✅ 2026-04-24
 
 ## Notes
 

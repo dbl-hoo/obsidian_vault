@@ -9,9 +9,11 @@ last_updated: 2026-04-23
 
 ## Tasks
 
-- [x] 🔺 Revise CMA and send to High Street 📅 2026-04-23 ✅ 2026-04-23
+- [ ] Follow up with High Street on CMA 📅 2026-04-30
 
 ## Notes
+
+2026-04-23 - Updated draft sent to High Street; follow up one week.
 
 2026-04-23 - Reviewed agreement; marked up to remove limitation of liability provision.
 
