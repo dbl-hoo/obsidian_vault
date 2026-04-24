@@ -12,24 +12,24 @@ last_updated: 2026-04-23
 ## Flagged
 
 ### Overdue
-| Deal | Task | Due |
-|---|---|---|
+| Deal | Task                       | Due        |
+| ---- | -------------------------- | ---------- |
 | ZMO3 | Follow up with LL on lease | 2026-04-22 |
 
 ### Due This Week (2026-04-24 to 2026-04-25)
-| Deal | Task | Due |
-|---|---|---|
-| ZCL2 | Follow up with Chatman Young on lease | 2026-04-24 |
-| WOH1 | Follow up with LL | 2026-04-24 |
-| TOLx_Relo | 🔺 Cash flow | 2026-04-24 |
-| TOLx_Relo | 🔺 Alternative options survey (pricing + disqualification rationale) | 2026-04-24 |
-| ZDT5 | Check status — cert of compliance follow-up open at cancellation | 2026-04-24 |
-| ZDT5 | Follow up with LL re: certificate of compliance | 2026-04-24 |
-| DSB2 | 🔺 CAR inputs due | 2026-04-25 |
-| TBD_Ashland | Follow up on surveys | 2026-04-25 |
-| TBD_Findlay | Follow up on survey | 2026-04-25 |
-| SSD_SOHx | Follow up with Mackenzie Floyd on flash enviro submission | 2026-04-25 |
-| ZCM2 | Email Chatman Young and Flor Ponce re: CAR approval | 2026-04-25 |
+| Deal        | Task                                                                 | Due        |
+| ----------- | -------------------------------------------------------------------- | ---------- |
+| ZCL2        | Follow up with Chatman Young on lease                                | 2026-04-24 |
+| WOH1        | Follow up with LL                                                    | 2026-04-24 |
+| TOLx_Relo   | 🔺 Cash flow                                                         | 2026-04-24 |
+| TOLx_Relo   | 🔺 Alternative options survey (pricing + disqualification rationale) | 2026-04-24 |
+| ZDT5        | Check status — cert of compliance follow-up open at cancellation     | 2026-04-24 |
+| ZDT5        | Follow up with LL re: certificate of compliance                      | 2026-04-24 |
+| DSB2        | 🔺 CAR inputs due                                                    | 2026-04-25 |
+| TBD_Ashland | Follow up on surveys                                                 | 2026-04-25 |
+| TBD_Findlay | Follow up on survey                                                  | 2026-04-25 |
+| SSD_SOHx    | Follow up with Mackenzie Floyd on flash enviro submission            | 2026-04-25 |
+| ZCM2        | Email Chatman Young and Flor Ponce re: CAR approval                  | 2026-04-25 |
 
 ### Upcoming Critical Dates
 | Deal | Milestone | Date |

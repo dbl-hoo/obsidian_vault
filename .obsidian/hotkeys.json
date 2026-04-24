@@ -48,5 +48,13 @@
       ],
       "key": "Z"
     }
+  ],
+  "editor:set-heading-2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
   ]
 }

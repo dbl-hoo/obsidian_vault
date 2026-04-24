@@ -16,29 +16,12 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Get proposal from American Eagle for 3200A power upgrade; get load sheet and ramp-up schedule 📅 2026-04-28
-- [ ] Determine who is doing security fencing; get final site plan 📅 2026-04-28
-
 ## Notes
 
 2026-04-21 - House panel is on Amazon side; 800A going to WPI; need to add 3200A panel on Amazon side. Need proposal from American Eagle for power upgrade — doing the work together would be more efficient; 3-month timeline. Need load sheet and ramp-up.
 LL Work SOW: (1) power upgrade; (2) southern curb cut; (3) truck access. Need bids and documented expenses; will need to revise the Work Letter. Per Tadeu Velloso, will need costs. Need to determine who is doing security fencing and get final site plan.
 
 2026-04-17 - Looped in Kyle (econdev) on incentives.
-
-2026-04-15 - Port Authority Sales Tax Exemption — Research Summary
-
-Worth $.17 PSF on 378K SF building ($13M over the term)
-
-**The Structure:** Ohio port authorities are political subdivisions. Under ORC §5739.02(B)(13), sales to political subdivisions are exempt from Ohio sales tax (state 5.75% + county; combined rate ~8% in Cuyahoga County). A port authority can pass that exemption to a private developer via a lease-leaseback structure, exempting construction materials from sales tax.
-
-**How the Structure Works:**
-1. Port authority enters into a project agreement with the developer/owner
-2. Port authority takes a nominal interest in the project (typically via ground lease from landowner)
-3. Port authority is the party of record on the construction contract — purchases construction materials in its name under exemption certificates (Ohio Admin Code §5703-9-14)
-4. After construction, property is leased back to developer/Amazon; eventually conveyed to end owner
-5. Exemption is limited to materials incorporated into the structure — not labor (typically ~50% of construction cost is labor, ineligible)
-
 
 2026-04-08 - Call with Tim Elam. Cleveland options: likely to sign BTS for 645K SF on Walton Hills; could still do ~200K SF. Twinsburg — unlikely to do spec, would do BTS. Access is challenging.
 
