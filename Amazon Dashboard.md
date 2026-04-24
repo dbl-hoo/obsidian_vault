@@ -123,6 +123,7 @@ last_updated: 2026-04-23
 | Site Code | Pin | City | Status | Last Note | Last Updated |
 |---|---|---|---|---|---|
 | TBD | Country Club Plaza | Kansas City, MO | Surveying | New site search — prior KCC site (ZMO2) cancelled | — |
+| TBD | DT St. Louis | St. Louis, MO | Surveying | New site search — prior DT St. Louis site (ZLI2) cancelled | — |
 | TBD | Summit Hills | Minneapolis, MN | Surveying | New site search — prior Summit Hills site cancelled | — |
 | ZCL2 | University Heights | Cleveland, OH | Selected | LOA sent to LL; power inquiry out; follow up 4/28 | 2026-04-21 |
 | ZCM2 | German Village | Columbus, OH | Selected | Confirmed — Amazon moving forward; CAR approval email pending | 2026-04-19 |
