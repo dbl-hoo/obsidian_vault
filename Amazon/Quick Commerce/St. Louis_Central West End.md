@@ -13,6 +13,7 @@ loi_final: No
 loi_prepared: No
 site_selection_date: ""
 area: Amazon
+last_updated: 2026-04-23
 tags: [deal, amazon, quick-commerce]
 ---
 
@@ -32,6 +33,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-04-23 - Removed from 2026 QC POR.
 
 February 11, 2026 - LOI out.
 This is a great Building very well maintained by the owner. It contains approx. 3,000 SF of finished office space, plus a set up for a printing shop, the building is 100% air conditioned with 75+ secured parking spaces plus street parking and additional parking available should it be needed. There are exhaust fans, 3 phase 2,000 AMP service, air lines & electric drops throughout.

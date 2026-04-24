@@ -5,11 +5,11 @@ city: Minneapolis
 state: MN
 deal_type: New Lease
 business_unit: QC
-status: Ongoing
+status: Cancelled
 tm: Jason Kirkham
 pcm:
 launch_date: 2026-08-01
-last_updated: 2026-04-07
+last_updated: 2026-04-23
 loi_final: No
 loi_prepared: No
 area: Amazon
@@ -23,3 +23,5 @@ local_broker: Alex Funk | Senior Associate
 ## Tasks
 
 ## Notes
+
+2026-04-23 - Removed from 2026 QC POR.

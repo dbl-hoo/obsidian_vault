@@ -12,7 +12,7 @@ local_broker: "Cole KronekerSales Associate"
 loi_final: No
 loi_prepared: Yes
 site_selection_date: "March 3, 2026"
-last_updated: 2026-04-03
+last_updated: 2026-04-23
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
@@ -33,6 +33,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-04-23 - Removed from 2026 QC POR.
 
 March 3, 2026 - LOI sent
 

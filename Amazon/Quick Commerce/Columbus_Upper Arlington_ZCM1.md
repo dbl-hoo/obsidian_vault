@@ -13,6 +13,7 @@ loi_final: No
 loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
+last_updated: 2026-04-23
 tags: [deal, amazon, quick-commerce]
 ---
 
@@ -32,6 +33,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-04-23 - Removed from 2026 QC POR.
 
 February 24, 2026 - looking for new options
 

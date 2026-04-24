@@ -7,21 +7,24 @@ city: Detroit
 state: MI
 deal_type: New Lease
 business_unit: QC
-status: Ongoing
+status: Cancelled
 local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-04-10
+last_updated: 2026-04-23
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
 
 ## Tasks
 
+- [ ] Check status of ZDT5 (DT Detroit) — cert of compliance follow-up was open at cancellation 📅 2026-04-24
 - [ ] Follow up with LL re: certificate of compliance 📅 2026-04-24
 
 ## Notes
+
+2026-04-23 - Removed from 2026 QC POR.
 
 2026-04-10 - Requested LL to provide certificate of compliance for code issue.
 

@@ -7,19 +7,23 @@ city: Detroit
 state: MI
 deal_type: New Lease
 business_unit: QC
-status: Ongoing
+status: Cancelled
 local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
-last_updated: 2026-04-08
+last_updated: 2026-04-23
 tags: [deal, amazon, quick-commerce]
 ---
 
 ## Tasks
 
+- [ ] Check status of ZDT3 (Birmingham) — lease was in progress at cancellation 📅 2026-04-30
+
 ## Notes
+
+2026-04-23 - Removed from 2026 QC POR.
 
 2026-04-08 - NNN charges: 2025 Taxes $1.48/sf. Market for like-kind industrial/flex ~$3.00–$3.50/sf. Rough estimates (subject to use/occupancy): Insurance $0.40/sf, Landscaping $0.15/sf, Snow Removal $0.15/sf, Taxes $1.48/sf, Operating & Maintenance $0.55/sf, Parking Lot Repairs $0.10/sf.
 

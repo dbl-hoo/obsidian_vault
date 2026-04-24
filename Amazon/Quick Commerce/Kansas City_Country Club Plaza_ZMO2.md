@@ -8,7 +8,7 @@ state: MO
 deal_type: New Lease
 business_unit: QC
 status: Dead
-last_updated: 2026-04-14
+last_updated: 2026-04-23
 local_broker: "MATT VAUPELL, MANAGING PARTNER"
 loi_final: No
 loi_prepared: Yes
@@ -19,7 +19,11 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
+- [ ] Find new location for Kansas City Country Club Plaza (ZMO2) — site removed from POR, need replacement 📅 2026-04-30
+
 ## Notes
+
+2026-04-23 - Site removed from 2026 QC POR; POR shows Country Club Plaza with no site code assigned. Need to find new location.
 
 2026-04-14 - Deal cancelled. Flor said approval unlikely due to CapEx; explored TIA increase with LL. Decision made to cancel.
 
