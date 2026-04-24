@@ -10,14 +10,14 @@ end_date:
 local_broker: "Charles Rodriguez, R&R Commercial Realty"
 area: Amazon
 last_updated: 2026-04-17
+last_note: "Local broker engaged: Charles Rodriguez; survey request sent."
+next_due:
 tags:
   - deal
   - amazon
 ---
 
 ## Tasks
-
-- [x] Follow up with Charles Rodriguez re: survey 📅 2026-04-24 ✅ 2026-04-24
 
 ## Notes
 

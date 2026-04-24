@@ -11,6 +11,8 @@ local_broker: Matt Anderson
 area: Amazon
 tags: [deal, amazon]
 last_updated: 2026-04-12
+last_note: "Site plan being updated to reflect ROW change; PSA pending with Hope Mothershead."
+next_due:
 ---
 
 ## Tasks

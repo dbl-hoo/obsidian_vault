@@ -1,9 +1,17 @@
 ---
 tags: [knowledgebase, amazon, gcf]
-last_updated: 2026-04-23
+last_updated: 2026-04-24
 ---
 
 # GCF — Knowledge Base
+
+## Design Standards
+
+### Dock Spacing
+
+Minimum 13' dock spacing required.
+
+---
 
 ## Resources
 

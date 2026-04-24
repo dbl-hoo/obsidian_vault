@@ -15,6 +15,8 @@ loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
 last_updated: 2026-04-15
+last_note: "Design on hold; site visit needed to collect info; egress issues flagged by Core States."
+next_due:
 tags: [deal, amazon, quick-commerce]
 ---
 

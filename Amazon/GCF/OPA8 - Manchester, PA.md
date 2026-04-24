@@ -10,6 +10,8 @@ end_date:
 local_broker: KBC
 area: Amazon
 last_updated: 2026-04-24
+last_note: "TM updated to Phil Ristevski."
+next_due: 2026-05-04
 tags:
   - deal
   - amazon
@@ -17,7 +19,6 @@ tags:
 
 ## Tasks
 
-- [x] 🔺 Call Mark Chub re: OPA8 📅 2026-04-21 ✅ 2026-04-20
 - [ ] Follow up with Kirk Shephard / MetEd re: PM assignment 📅 2026-05-04
 ## Notes
 

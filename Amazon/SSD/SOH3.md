@@ -11,6 +11,8 @@ end_date:
 local_broker: KBC
 area: Amazon
 last_updated: 2026-04-20
+last_note: "Lease amendment form approved."
+next_due:
 tags: [deal, amazon]
 ---
 

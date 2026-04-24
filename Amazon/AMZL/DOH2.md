@@ -10,13 +10,14 @@ start_date: 2025-07-31
 end_date: 
 local_broker: KBC
 last_updated: 2026-04-21
+last_note: "PSA sent to seller. Follow up 1 week."
+next_due: 2026-04-28
 area: Amazon
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
-- [x] Follow up on PSA internal review 📅 2026-04-21 ✅ 2026-04-22
 - [ ] Follow up with seller on PSA 📅 2026-04-28
 
 ## Related Notes

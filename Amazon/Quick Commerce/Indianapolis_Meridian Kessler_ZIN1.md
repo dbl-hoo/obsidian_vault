@@ -13,6 +13,8 @@ loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-01-27
 last_updated: 2026-04-14
+last_note: "Call with LL's counsel; two open items: payment system; assignment must include limited parent guarantee."
+next_due:
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---

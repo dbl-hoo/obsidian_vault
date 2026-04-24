@@ -12,17 +12,20 @@ local_broker: "Alex Funk | Senior Associate"
 loi_final: No
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-04-21
+last_updated: 2026-04-24
+last_note: "Email to Funk re parking and termination option; ROM capex $540,850."
+next_due: 2026-04-28
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
 
 ## Tasks
 
-- [x] Follow up on open items (Opex cap, stall location/signage, addendum) 📅 2026-04-22 ✅ 2026-04-23
 - [ ] Get signage for 10 exclusive stalls 📅 2026-04-28
 
 ## Notes
+
+2026-04-24 - Email to Funk re: parking and termination option. ROM costs at total capex of $540,850.11.
 
 2026-04-21 - LL won't agree to cap on controllable Opex. Will designate 10 exclusive stalls but location is disputed. Need signage for stalls. Need to follow up on addendum. Termination right limited to redevelopment.
 

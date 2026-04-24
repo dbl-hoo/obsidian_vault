@@ -10,6 +10,8 @@ end_date:
 local_broker: KBC
 area: Amazon
 last_updated: 2026-04-20
+last_note: "Deal will move slowly until Amazon assigns a TM; approvals period expires 9/30."
+next_due:
 tags: [deal, amazon]
 ---
 

@@ -10,6 +10,8 @@ end_date:
 local_broker: Matt Eastin - Cushman
 area: Amazon
 last_updated: 2026-04-09
+last_note: "On autopilot. Targeting closing May 7, 2026."
+next_due:
 tags: [deal, amazon]
 ---
 

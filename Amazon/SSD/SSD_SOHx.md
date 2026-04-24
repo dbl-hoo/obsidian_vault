@@ -14,6 +14,8 @@ tags:
   - deal
   - amazon
 last_updated: 2026-04-21
+last_note: "Sent site to Mackenzie Floyd for entry into site selection tool; follow up on flash enviro submission."
+next_due: 2026-04-25
 ---
 
 ## Tasks

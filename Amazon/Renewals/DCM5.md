@@ -11,6 +11,8 @@ end_date:
 local_broker: KBC
 area: Amazon
 last_updated: 2026-04-11
+last_note: "Per Rachel Sohlstrom — on hold until early 2027."
+next_due:
 tags: [deal, amazon]
 ---
 

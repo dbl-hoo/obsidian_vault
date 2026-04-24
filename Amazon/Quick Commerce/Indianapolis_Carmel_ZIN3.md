@@ -13,6 +13,8 @@ loi_final: No
 loi_prepared: No
 site_selection_date: 2026-01-30
 last_updated: 2026-04-23
+last_note: "Another suite coming available in June; additional demo required; need to email econ dev."
+next_due: 2026-04-30
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---

@@ -10,6 +10,8 @@ end_date:
 local_broker: Jeff Bender - Cushman
 area: Amazon
 last_updated: 2026-04-20
+last_note: "On Hold pending business engagement."
+next_due:
 tags:
   - deal
   - amazon

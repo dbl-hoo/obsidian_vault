@@ -8,7 +8,9 @@ state: MO
 deal_type: New Lease
 business_unit: QC
 status: Ongoing
-last_updated: 2026-04-16
+last_updated: 2026-04-24
+last_note: "Lease to Susan; LL accepted all changes except HVAC (split cost last 2 yrs of term)."
+next_due:
 local_broker: "MATT VAUPELL, MANAGING PARTNER"
 loi_final: No
 loi_prepared: No
@@ -18,9 +20,9 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] Follow up with LL on lease 📅 2026-04-22 ✅ 2026-04-24
-
 ## Notes
+
+2026-04-24 - Updated lease to Susan. LL accepted all of our changes except HVAC replacement — LL willing to split cost of HVAC replacement in the last 2 years of the term.
 
 2026-04-12 - Updated lease sent to LL last week. Follow up Wednesday.
 

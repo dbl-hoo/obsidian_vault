@@ -1,39 +1,30 @@
 ---
 tags: [synthesis, amazon]
-last_updated: 2026-04-23
+last_updated: 2026-04-24
 ---
 
 # Amazon Dashboard
 
-*Maintained by Jack. Rebuilt on every deal update. As of 2026-04-23.*
+*Maintained by Jack. As of 2026-04-24. For live deal tables → [[Amazon Deals.base]].*
 
 ---
 
 ## Flagged
 
-### Overdue
-| Deal | Task                       | Due        |
-| ---- | -------------------------- | ---------- |
-| ZMO3 | Follow up with LL on lease | 2026-04-22 |
-
-### Due This Week (2026-04-24 to 2026-04-25)
-| Deal        | Task                                                                 | Due        |
-| ----------- | -------------------------------------------------------------------- | ---------- |
-| ZCL2        | Follow up with Chatman Young on lease                                | 2026-04-24 |
-| WOH1        | Follow up with LL                                                    | 2026-04-24 |
-| TOLx_Relo   | 🔺 Cash flow                                                         | 2026-04-24 |
-| TOLx_Relo   | 🔺 Alternative options survey (pricing + disqualification rationale) | 2026-04-24 |
-| ZDT5        | Check status — cert of compliance follow-up open at cancellation     | 2026-04-24 |
-| ZDT5        | Follow up with LL re: certificate of compliance                      | 2026-04-24 |
-| DSB2        | 🔺 CAR inputs due                                                    | 2026-04-25 |
-| TBD_Ashland | Follow up on surveys                                                 | 2026-04-25 |
-| TBD_Findlay | Follow up on survey                                                  | 2026-04-25 |
-| SSD_SOHx    | Follow up with Mackenzie Floyd on flash enviro submission            | 2026-04-25 |
-| ZCM2        | Email Chatman Young and Flor Ponce re: CAR approval                  | 2026-04-25 |
+### Due Today / Overdue
+| Deal | Task | Due |
+| ---- | ---- | --- |
+| TOLx_Relo | 🔺 Cash flow | 2026-04-24 |
+| TOLx_Relo | 🔺 Alternative options survey (pricing + disqualification rationale) | 2026-04-24 |
 
 ### Upcoming Critical Dates
 | Deal | Milestone | Date |
 |---|---|---|
+| DSB2 | 🔺 CAR inputs due | 2026-04-25 |
+| TBD_Ashland | Follow up on surveys | 2026-04-25 |
+| TBD_Findlay | Follow up on survey | 2026-04-25 |
+| SSD_SOHx | Follow up with Mackenzie Floyd on flash enviro submission | 2026-04-25 |
+| ZCM2 | Email Chatman Young and Flor Ponce re: CAR approval | 2026-04-25 |
 | DKE3 | Inspection Period Expiration — waiving termination contingency | 2026-04-28 |
 | DOH2 | Follow up with seller on PSA | 2026-04-28 |
 | ZLI1 | 🔺 Resolve pre-con issues (gas, electrical, drain lines, door hardware) | 2026-04-28 |
@@ -41,10 +32,11 @@ last_updated: 2026-04-23
 | SOHC | Determine who is doing security fencing; get final site plan | 2026-04-28 |
 | ZMS3 | Get signage for 10 exclusive stalls | 2026-04-28 |
 | ZCL2 | Follow up with LL on LOA and power inquiry | 2026-04-28 |
+| ZIN3 | Email econ dev re: June suite option and city's zoning position | 2026-04-30 |
 | SOH9 | Follow up with LL on SNDA | 2026-04-30 |
 | ZDT3 | Check status — lease was in progress at cancellation | 2026-04-30 |
 | ZMO2 | Find new location for Kansas City Country Club Plaza | 2026-04-30 |
-| ZIN3 | Email econ dev re: June suite option and city's zoning position | 2026-04-30 |
+| WOH1 | Follow up with LL | 2026-05-01 |
 | OPA8 | Follow up with Kirk Shephard / MetEd re: PM assignment | 2026-05-04 |
 | DSB2 | CSM Approval | 2026-05-04 |
 | DOM8 | Targeting Closing | 2026-05-07 |
@@ -79,7 +71,7 @@ last_updated: 2026-04-23
 
 | Deal | Type | TM | Status | Last Note | Last Updated |
 |---|---|---|---|---|---|
-| 29_ARS_3 St. Louis | Purchase | Phil Ristevski | Ongoing | TriStar at $1.32/SF incl. borrow pit; site tour with Phil 4/22 | 2026-04-19 |
+| 29_ARS_3 St. Louis | Purchase | Phil Ristevski | Ongoing | Enterprise zone extension expected June 2026; road won't connect to Chain of Rocks; LOI bumped to Phil; detailed site notes logged | 2026-04-24 |
 | ACY4 | Purchase | Steve Perkins | Ongoing | CAR narrative drafted; outside closing 9/15; Land CAR approval needed by 5/22 | 2026-04-19 |
 | CAK5 | Purchase | Arman Fashandi | Ongoing | Scott M to present at next site selection | 2026-04-10 |
 | CMH8 | Purchase | TBD | Ongoing | Deal moving slowly until TM assigned; approvals period expires 9/30 | 2026-04-20 |
@@ -94,7 +86,7 @@ last_updated: 2026-04-23
 | Deal | Type | TM | Status | Last Note | Last Updated |
 |---|---|---|---|---|---|
 | CVG47 | Purchase | Phillip Perri | **On Hold** | On Hold pending business engagement | 2026-04-20 |
-| TOLx_Relo | Purchase | Phillip Perri | Ongoing | Scott Sanders out, Pat Walsh in; PSA back; adjacent parcel contacts identified | 2026-04-21 |
+| TOLx_Relo | Purchase | Phillip Perri | Ongoing | Langan test fit doesn't fit; sent Ambrose test fit to see if will work | 2026-04-24 |
 
 ---
 
@@ -103,7 +95,7 @@ last_updated: 2026-04-23
 | Deal | Type | TM | Status | Last Note | Last Updated |
 |---|---|---|---|---|---|
 | SOH3 | Renewal | Max Madani | Ongoing | Lease amendment form approved | 2026-04-20 |
-| SOH9 | New Lease | Adam Knoll | Ongoing | SNDA sent to LL; call w/ Manish/Adam/Allison; GC selected; site plans expected 4/24 | 2026-04-23 |
+| SOH9 | New Lease | Adam Knoll | Ongoing | CAR fully approved; ES about to be launched | 2026-04-24 |
 | SOHC | Purchase | Adam Knoll | Ongoing | Power upgrade 3200A needed; Work Letter revision pending; fencing/site plan TBD | 2026-04-21 |
 | SSD_SOHx | BTS-Lease | Adam Knoll | Ongoing | Flash enviro follow-up 4/25 | 2026-04-21 |
 
@@ -113,28 +105,28 @@ last_updated: 2026-04-23
 
 | Deal | Type | TM | Status | Last Note | Last Updated |
 |---|---|---|---|---|---|
-| WOH1 | Renewal | Max Madani | Ongoing | LOI out; followed up with LL 4/17 | 2026-04-17 |
+| WOH1 | Renewal | Max Madani | Ongoing | Followed up with LL; follow up 5/1 | 2026-04-24 |
 | DCM5 | Renewal | Rachel Sohlstrom | On Hold | On Hold until early 2027 | 2026-04-11 |
 
 ---
 
 ## Quick Commerce
 
-| Site Code | Pin | City | Status | Last Note | Last Updated |
-|---|---|---|---|---|---|
-| TBD | Country Club Plaza | Kansas City, MO | Surveying | New site search — prior KCC site (ZMO2) cancelled | — |
-| TBD | DT St. Louis | St. Louis, MO | Surveying | New site search — prior DT St. Louis site (ZLI2) cancelled | — |
-| TBD | Summit Hills | Minneapolis, MN | Surveying | New site search — prior Summit Hills site cancelled | — |
-| ZCL2 | University Heights | Cleveland, OH | Selected | LOA sent to LL; power inquiry out; follow up 4/28 | 2026-04-21 |
-| ZCM2 | German Village | Columbus, OH | Selected | Confirmed — Amazon moving forward; CAR approval email pending | 2026-04-19 |
-| ZDT2 | Ann Arbor | Detroit, MI | Selected | — | — |
-| ZDT6 | Royal Oak | Detroit, MI | Selected | Updated draft from LL; sent to Susan; submitted for tax/accounting approvals | 2026-04-23 |
-| ZIN1 | Meridian-Kessler | Indianapolis, IN | Selected | Call w/ LL's counsel; two open items (payment system, assignment guarantee) | 2026-04-14 |
-| ZIN3 | Carmel | Indianapolis, IN | Selected | June suite available; additional demo needed; email to econ dev needed | 2026-04-23 |
-| ZLI1 | DT Clayton | St. Louis, MO | Selected | LL aligned on electrical separation; pre-con issues due 4/28 | 2026-04-21 |
-| ZMO3 | DT Kansas City | Kansas City, MO | Selected | Updated lease sent to LL; follow up **overdue** (4/22) | 2026-04-16 |
-| ZMP1 | Shelard Park | Minneapolis, MN | Selected | Design on hold; site visit needed | 2026-04-15 |
-| ZMS3 | Uptown Minneapolis | Minneapolis, MN | Selected | LL won't cap Opex; stall signage/location open; addendum pending | 2026-04-21 |
+| Site Code | Pin                | City             | Status    | Last Note                                                                           | Last Updated |
+| --------- | ------------------ | ---------------- | --------- | ----------------------------------------------------------------------------------- | ------------ |
+| TBD       | Country Club Plaza | Kansas City, MO  | Surveying | New site search — prior KCC site (ZMO2) cancelled                                   | —            |
+| TBD       | DT St. Louis       | St. Louis, MO    | Surveying | New site search — prior DT St. Louis site (ZLI2) cancelled                          | —            |
+| TBD       | Summit Hills       | Minneapolis, MN  | Surveying | New site search — prior Summit Hills site cancelled                                 | —            |
+| ZCL2      | University Heights | Cleveland, OH    | Selected  | Updated draft to LL                                                                 | 2026-04-24   |
+| ZCM2      | German Village     | Columbus, OH     | Selected  | Confirmed — Amazon moving forward; CAR approval email pending                       | 2026-04-19   |
+| ZDT2      | Ann Arbor          | Detroit, MI      | Selected  | —                                                                                   | —            |
+| ZDT6      | Royal Oak          | Detroit, MI      | Selected  | Per Susan, post-assignment liability is business issue; lease should be final       | 2026-04-24   |
+| ZIN1      | Meridian-Kessler   | Indianapolis, IN | Selected  | Call w/ LL's counsel; two open items (payment system, assignment guarantee)         | 2026-04-14   |
+| ZIN3      | Carmel             | Indianapolis, IN | Selected  | June suite available; additional demo needed; email to econ dev needed              | 2026-04-23   |
+| ZLI1      | DT Clayton         | St. Louis, MO    | Selected  | LL aligned on electrical separation; pre-con issues due 4/28                        | 2026-04-21   |
+| ZMO3      | DT Kansas City     | Kansas City, MO  | Selected  | Lease to Susan; LL accepted all changes except HVAC (split cost last 2 yrs of term) | 2026-04-24   |
+| ZMP1      | Shelard Park       | Minneapolis, MN  | Selected  | Design on hold; site visit needed                                                   | 2026-04-15   |
+| ZMS3      | Uptown Minneapolis | Minneapolis, MN  | Selected  | Email to Funk re parking and termination option; ROM capex $540,850                 | 2026-04-24   |
 
 ### QC — Cancelled
 | Site Code | Pin | City |
@@ -164,6 +156,14 @@ last_updated: 2026-04-23
 
 | Deal | Update | Date |
 |---|---|---|
+| TOLx_Relo | Langan test fit doesn't fit; sent Ambrose test fit to see if will work | 2026-04-24 |
+| ZDT6 | Per Susan, post-assignment liability is business issue; lease should be final | 2026-04-24 |
+| 29_ARS_3 | Enterprise zone extension expected June 2026; road won't connect to Chain of Rocks; LOI back to Phil | 2026-04-24 |
+| ZCL2 | Updated draft to LL | 2026-04-24 |
+| ZMO3 | Lease to Susan; LL accepted all changes except HVAC (split cost last 2 yrs) | 2026-04-24 |
+| ZMS3 | Email to Funk re parking and termination option; ROM capex $540,850 | 2026-04-24 |
+| SOH9 | CAR fully approved; ES about to be launched | 2026-04-24 |
+| WOH1 | Followed up with LL; follow up 5/1 | 2026-04-24 |
 | SOH9 | SNDA sent to LL; call w/ Manish/Patrick/Caleb/Adam/Allison; GC selected; site plans expected 4/24 | 2026-04-23 |
 | ZIN3 | June suite available (additional demo needed); email to econ dev needed on option and zoning position | 2026-04-23 |
 | ZDT6 | Updated draft from LL; sent to Susan; submitted for tax and accounting approvals | 2026-04-23 |

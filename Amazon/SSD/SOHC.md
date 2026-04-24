@@ -11,6 +11,8 @@ end_date:
 local_broker: None
 area: Amazon
 last_updated: 2026-04-21
+last_note: "Need proposal from American Eagle for power upgrade; Work Letter revision needed; determine security fencing and get final site plan."
+next_due:
 tags: [deal, amazon]
 ---
 

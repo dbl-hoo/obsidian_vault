@@ -12,7 +12,9 @@ local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-04-23
+last_updated: 2026-04-24
+last_note: "Per Susan, post-assignment liability is business issue; lease should be final."
+next_due:
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
@@ -33,6 +35,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-04-24 - Per Susan, post-assignment liability is a business issue; lease should be final.
 
 2026-04-23 - Updated draft from LL; sent to Susan. Submitted for tax and accounting approvals.
 

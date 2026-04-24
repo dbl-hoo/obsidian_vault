@@ -111,6 +111,8 @@ local_broker:
 area:            # Amazon | KBC | Kirkham Law | Personal
 tags: [deal, amazon]
 last_updated:    # YYYY-MM-DD
+last_note:       # One-line summary of most recent Notes entry — update on every note write
+next_due:        # ISO date of earliest open task (YYYY-MM-DD) — update when tasks change; blank if none
 ```
 
 **KBC deal files:**
@@ -186,8 +188,10 @@ When Jason dumps call notes:
 3. Extract action items as `- [ ]` tasks into `## Tasks`
 4. Update `last_updated:` in YAML to today's date
 5. Update `status:` if it changed; update other YAML fields if clearly warranted
-6. **Cascade to person pages:** If the note contains intel about a person who has a page in `People/`, update their page. If a name appears for the first time across 2+ deals, consider creating a page (ask Jason if unsure).
-7. **Cascade to Portfolio Overview:** If this is an Amazon deal, rebuild `Amazon Dashboard.md` from scratch.
+6. Update `last_note:` to a one-line summary of the new Notes entry
+7. Update `next_due:` to the ISO date of the earliest open task (blank if none)
+8. **Cascade to person pages:** If the note contains intel about a person who has a page in `People/`, update their page. If a name appears for the first time across 2+ deals, consider creating a page (ask Jason if unsure).
+9. **Cascade to Portfolio Overview:** If this is an Amazon deal, rebuild `Amazon Dashboard.md` from scratch.
 
 When asked "where do things stand" or similar: read all `status: Ongoing` deal files, pull the most recent Notes entry and open tasks from each, surface overdue tasks or no update in >30 days.
 

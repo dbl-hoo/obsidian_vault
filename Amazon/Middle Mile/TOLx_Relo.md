@@ -9,7 +9,9 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-21
+last_updated: 2026-04-24
+last_note: "Langan test fit doesn't fit; sent Ambrose test fit to see if will work."
+next_due: 2026-04-24
 tags:
   - deal
   - amazon
@@ -21,6 +23,8 @@ tags:
 - [ ] 🔺 Alternative options survey (pricing + disqualification rationale) 📅 2026-04-24
 
 ## Notes
+
+2026-04-24 - Langan says test fit doesn't fit; sent Ambrose test fit to see if will work.
 
 2026-04-21 - Scott Sanders leaving; Pat Walsh taking over Amazon account relationship. PSA is back; getting contacts for adjacent parcels.
 - Rex Huffman (rhuffman@spitlerhuffmanlaw.com) — Attorney for Port Authority

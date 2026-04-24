@@ -10,6 +10,8 @@ business_unit: QC
 status: Selected
 local_broker: "Meghan Donovan, NAI DESCO St. Louis"
 last_updated: 2026-04-21
+last_note: "LL conceptually aligned with separating electrical; pre-con issues due 4/28."
+next_due: 2026-04-28
 loi_final: No
 loi_prepared: Yes
 site_selection_date: 2026-02-13

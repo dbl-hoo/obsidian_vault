@@ -11,6 +11,8 @@ end_date:
 local_broker: KBC
 area: Amazon
 last_updated: 2026-04-24
+last_note: "TM updated to Rachel Elliott."
+next_due:
 tags:
   - deal
   - amazon

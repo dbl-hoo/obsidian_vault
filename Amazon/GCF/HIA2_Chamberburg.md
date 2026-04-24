@@ -8,6 +8,8 @@ pcm:
 launch_date: 2029-06-01
 end_date:
 last_updated: 2026-04-21
+last_note: "Phil R. considering self-develop; May 18-19 site visit; township may want a park."
+next_due:
 local_broker: 
 area: Amazon
 tags: [deal, amazon]
@@ -44,8 +46,6 @@ tags: [deal, amazon]
 | Rep/Warranty claims deadline | 6 months post-Closing |
 
 ## Tasks
-
-- [x] Schedule interviews with Panattoni and Suncap 📅 2026-04-21 ✅ 2026-04-21
 
 ## Notes
 

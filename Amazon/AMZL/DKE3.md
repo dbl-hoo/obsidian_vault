@@ -10,6 +10,8 @@ end_date:
 local_broker: Nick Unger
 area: Amazon
 last_updated: 2026-04-19
+last_note: "4/28 is inspection period expiration; plan to waive termination contingency."
+next_due: 2026-04-28
 tags: [deal, amazon]
 ---
 

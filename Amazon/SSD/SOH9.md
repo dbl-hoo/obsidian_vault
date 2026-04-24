@@ -10,7 +10,9 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-23
+last_updated: 2026-04-24
+last_note: "CAR fully approved; ES about to be launched."
+next_due: 2026-04-30
 tags: [deal, amazon]
 ---
 
@@ -19,6 +21,8 @@ tags: [deal, amazon]
 - [ ] Follow up with LL on SNDA 📅 2026-04-30
 
 ## Notes
+
+2026-04-24 - CAR fully approved. ES about to be launched.
 
 2026-04-23 - SNDA sent to LL; follow up next week. Call w/ Manish, Patrick, Caleb, Adam (TM), and Allison. Allison: electrical engineer onboard, expecting load letter next week. Adam: wants to leave electrical out of the lease. GC selected — Manish to introduce. Curbs/access/fencing: attach approved tenant modifications; won't require AHJ or WPI approvals. Site plans expected EOD 4/24 — will show access and fencing.
 

@@ -4,13 +4,15 @@ status: Ongoing
 area: KBC
 office: Houston
 tags: [kbc]
-last_updated: 2026-04-17
+last_updated: 2026-04-24
 ---
 
 ## Tasks
-- [x] Follow up on revised lease amendment 📅 2026-04-24 ✅ 2026-04-24
+- [ ] Follow up with LL 📅 2026-05-01
 
 ## Notes
+2026-04-24 - Followed up with LL. Follow up 1 week.
+
 2026-04-17 - Revised lease amendment and circulated.
 
 2026-04-17 - Source: email. Matter opened. John Ferruzzo (KBC) forwarded Dan Boyles' (Partners Real Estate) redlined comments on Amendment 1 to the Park Towers office lease. Dan's comment: entire work letter needs to flip to Tenant-controlled process; landlord will need to redraft. Ken to handle TI again per original lease arrangement.

@@ -10,6 +10,8 @@ end_date:
 local_broker: Matt Clackson
 area: Amazon
 last_updated: 2026-04-10
+last_note: "Scott M to present at next site selection."
+next_due:
 tags:
   - deal
   - amazon

@@ -9,6 +9,8 @@ launch_date: 2028-05-01
 end_date:
 local_broker: KBC
 last_updated: 2026-04-19
+last_note: "CAR narrative drafted; outside closing 9/15; Land CAR approval needed by 5/22."
+next_due: 2026-05-22
 area: Amazon
 tags:
   - deal
@@ -18,7 +20,6 @@ tags:
 ## Tasks
 
 - [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
-- [x] 🔺 Draft CAR narrative for Steve Perkins 📅 2026-04-20 ✅ 2026-04-20
 ## Notes
 
 2026-04-13 - Transaction call. Outside closing date on main parcel: 2026-09-15. Joe P. working on adverse possession memo (Liepe parcel) — nearing completion, targeting Wednesday 4/15.

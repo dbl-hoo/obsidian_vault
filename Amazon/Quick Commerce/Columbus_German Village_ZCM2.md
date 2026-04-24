@@ -13,6 +13,8 @@ loi_final: Yes
 loi_prepared: Yes
 site_selection_date: "January 23, 2026"
 last_updated: 2026-04-19
+last_note: "Potentially back on. Amazon considering moving this forward."
+next_due: 2026-04-25
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---

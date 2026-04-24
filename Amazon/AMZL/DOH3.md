@@ -12,6 +12,8 @@ local_broker: KBC
 area: Amazon
 tags: [deal, amazon]
 last_updated: 2026-04-22
+last_note: "Revised LOI for Franklin Vista Farms to include entire parcel; sent to Jeff Baumgarten."
+next_due:
 ---
 ## Tasks
 

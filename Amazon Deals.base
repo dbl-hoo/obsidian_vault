@@ -1,0 +1,140 @@
+filters: 'file.path.startsWith("Amazon/")'
+
+formulas:
+  days_until_due: 'if(next_due, (date(next_due) - today()).days, "")'
+
+properties:
+  file.name:
+    displayName: "Deal"
+  site_code:
+    displayName: "Site Code"
+  deal_type:
+    displayName: "Type"
+  business_unit:
+    displayName: "BU"
+  status:
+    displayName: "Status"
+  tm:
+    displayName: "TM"
+  last_note:
+    displayName: "Last Note"
+  next_due:
+    displayName: "Next Due"
+  formula.days_until_due:
+    displayName: "Days"
+  last_updated:
+    displayName: "Last Updated"
+
+views:
+  - type: table
+    name: "All Active"
+    filters:
+      or:
+        - 'status == "Ongoing"'
+        - 'status == "On Hold"'
+        - 'status == "Short Listed"'
+        - 'status == "Selected"'
+    order:
+      - file.name
+      - deal_type
+      - business_unit
+      - status
+      - tm
+      - last_note
+      - next_due
+      - formula.days_until_due
+      - last_updated
+
+  - type: table
+    name: "AMZL"
+    filters: 'file.folder.contains("AMZL")'
+    order:
+      - file.name
+      - deal_type
+      - status
+      - tm
+      - last_note
+      - next_due
+      - formula.days_until_due
+      - last_updated
+
+  - type: table
+    name: "GCF"
+    filters: 'file.folder.contains("GCF")'
+    order:
+      - file.name
+      - deal_type
+      - status
+      - tm
+      - last_note
+      - next_due
+      - formula.days_until_due
+      - last_updated
+
+  - type: table
+    name: "Middle Mile"
+    filters: 'file.folder.contains("Middle Mile")'
+    order:
+      - file.name
+      - deal_type
+      - status
+      - tm
+      - last_note
+      - next_due
+      - formula.days_until_due
+      - last_updated
+
+  - type: table
+    name: "SSD"
+    filters: 'file.folder.contains("SSD")'
+    order:
+      - file.name
+      - deal_type
+      - status
+      - tm
+      - last_note
+      - next_due
+      - formula.days_until_due
+      - last_updated
+
+  - type: table
+    name: "Renewals"
+    filters: 'file.folder.contains("Renewals")'
+    order:
+      - file.name
+      - deal_type
+      - status
+      - tm
+      - last_note
+      - next_due
+      - formula.days_until_due
+      - last_updated
+
+  - type: table
+    name: "Quick Commerce"
+    filters:
+      and:
+        - 'file.folder.contains("Quick Commerce")'
+        - 'status != "Cancelled"'
+        - 'status != "Dead"'
+    order:
+      - file.name
+      - site_code
+      - status
+      - tm
+      - last_note
+      - next_due
+      - formula.days_until_due
+      - last_updated
+
+  - type: table
+    name: "Overdue / Due Soon"
+    filters: 'next_due != null'
+    order:
+      - file.name
+      - status
+      - tm
+      - next_due
+      - formula.days_until_due
+      - last_note
+      - last_updated
