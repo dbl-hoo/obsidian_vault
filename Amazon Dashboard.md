@@ -118,46 +118,42 @@ last_updated: 2026-04-23
 
 ---
 
-## Quick Commerce (Active / Ongoing)
+## Quick Commerce
 
 | Site Code | Pin | City | Status | Last Note | Last Updated |
 |---|---|---|---|---|---|
-| ZCL2 | University Heights | Cleveland, OH | Ongoing | LOA sent to LL; power inquiry out; follow up 4/28 | 2026-04-21 |
-| ZCM2 | German Village | Columbus, OH | Ongoing | Confirmed Ongoing — Amazon moving forward; CAR approval email pending | 2026-04-19 |
-| ZMO3 | DT Kansas City | Kansas City, MO | Ongoing | Updated lease sent to LL; follow up **overdue** (4/22) | 2026-04-16 |
-| DT Indianapolis | DT Indianapolis | Indianapolis, IN | Ongoing | No notes — placeholder | — |
-| Fishers | Fishers | Indianapolis, IN | Ongoing | No notes — placeholder | — |
-| Fishers-a | Noblesville, IN | Indianapolis, IN | Ongoing | No notes — placeholder | — |
-| Armour Fields | Armour Fields | Kansas City, MO | Ongoing | No notes — placeholder | — |
-| DT Minneapolis | DT Minneapolis | Minneapolis, MN | Ongoing | No notes — placeholder | — |
-| Maple Grove | Maple Grove | Minneapolis, MN | Ongoing | No notes — placeholder | — |
+| ZCL2 | University Heights | Cleveland, OH | Selected | LOA sent to LL; power inquiry out; follow up 4/28 | 2026-04-21 |
+| ZCM2 | German Village | Columbus, OH | Selected | Confirmed — Amazon moving forward; CAR approval email pending | 2026-04-19 |
+| ZDT6 | Royal Oak | Detroit, MI | Selected | Updated draft from LL; sent to Susan; submitted for tax/accounting approvals | 2026-04-23 |
+| ZIN1 | Meridian-Kessler | Indianapolis, IN | Selected | Call w/ LL's counsel; two open items (payment system, assignment guarantee) | 2026-04-14 |
+| ZIN3 | Carmel | Indianapolis, IN | Selected | June suite available; additional demo needed; email to econ dev needed | 2026-04-23 |
+| ZLI1 | DT Clayton | St. Louis, MO | Selected | LL aligned on electrical separation; pre-con issues due 4/28 | 2026-04-21 |
+| ZMO3 | DT Kansas City | Kansas City, MO | Selected | Updated lease sent to LL; follow up **overdue** (4/22) | 2026-04-16 |
+| ZMP1 | Shelard Park | Minneapolis, MN | Short-Listed | Design on hold; site visit needed | 2026-04-15 |
+| ZMS3 | Uptown Minneapolis | Minneapolis, MN | Selected | LL won't cap Opex; stall signage/location open; addendum pending | 2026-04-21 |
 
-### QC — Selected / Short Listed (not Ongoing)
-| Site Code | Pin | City | Status | Last Note |
-|---|---|---|---|---|
-| ZDT6 | Royal Oak | Detroit, MI | Selected | Updated draft from LL; sent to Susan; submitted for tax/accounting approvals |
-| ZIN1 | Meridian-Kessler | Indianapolis, IN | Selected | Call w/ LL's counsel; two open items (payment system, assignment guarantee) |
-| ZIN3 | Carmel | Indianapolis, IN | Selected (cancel pending) | June suite available; additional demo needed; email to econ dev needed |
-| ZLI1 | DT Clayton | St. Louis, MO | Selected | LL aligned on electrical separation; pre-con issues due 4/28 |
-| ZMP1 | Shelard Park | Minneapolis, MN | Short Listed | Design on hold; site visit needed |
-| ZMS3 | Uptown Minneapolis | Minneapolis, MN | Selected | LL won't cap Opex; stall signage/location open; addendum pending |
-
-### QC — Cancelled / On Hold / Dead
-| Site Code | Pin | City | Status |
-|---|---|---|---|
-| ZDT2 | Ann Arbor | Detroit, MI | On Hold |
-| ZDT3 | Birmingham | Detroit, MI | Cancelled (2026-04-23) |
-| ZDT5 | DT Detroit | Detroit, MI | Cancelled (2026-04-23) |
-| ZLI2 | DT St. Louis | St. Louis, MO | On Hold |
-| ZMO2 | Country Club Plaza | Kansas City, MO | Dead — need new KCC location |
-| ZCL3 | Lakewood | Cleveland, OH | Cancelled |
-| DT Cleveland | DT Cleveland | Cleveland, OH | Cancelled |
-| ZCM1 | Upper Arlington | Columbus, OH | Cancelled |
-| ZCM3 | Short North | Columbus, OH | Cancelled |
-| ZDT4 | Grosse Pointe | Detroit, MI | Cancelled |
-| ZKC1 | North Kansas City | Kansas City, MO | Cancelled |
-| Summit Hills | Summit Hills | St. Paul, MN | Cancelled |
-| Central West End | Central West End | St. Louis, MO | Cancelled |
+### QC — Cancelled
+| Site Code | Pin | City |
+|---|---|---|
+| Armour Fields | Armour Fields | Kansas City, MO |
+| Central West End | Central West End | St. Louis, MO |
+| DT Cleveland | DT Cleveland | Cleveland, OH |
+| DT Indianapolis | DT Indianapolis | Indianapolis, IN |
+| DT Minneapolis | DT Minneapolis | Minneapolis, MN |
+| Fishers | Fishers | Indianapolis, IN |
+| Fishers-a | Noblesville, IN | Indianapolis, IN |
+| Maple Grove | Maple Grove | Minneapolis, MN |
+| Summit Hills | Summit Hills | St. Paul, MN |
+| ZCL3 | Lakewood | Cleveland, OH |
+| ZCM1 | Upper Arlington | Columbus, OH |
+| ZCM3 | Short North | Columbus, OH |
+| ZDT2 | Ann Arbor | Detroit, MI |
+| ZDT3 | Birmingham | Detroit, MI |
+| ZDT4 | Grosse Pointe | Detroit, MI |
+| ZDT5 | DT Detroit | Detroit, MI |
+| ZKC1 | North Kansas City | Kansas City, MO |
+| ZLI2 | DT St. Louis | St. Louis, MO |
+| ZMO2 | Country Club Plaza | Kansas City, MO |
 
 ---
 
