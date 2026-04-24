@@ -44,8 +44,9 @@ For each deal identified:
 3. **Only create tasks if the note explicitly calls for one** — e.g., "follow up next week", "send X by Friday", "need to do Y". Do NOT infer tasks from note content (e.g., "sent EAA to sellers" does NOT become a follow-up task). If a task is warranted but no date is given, default to 1 week from today.
    - `- [ ] Task description 📅 YYYY-MM-DD`
    - `- [ ] 🔺 High priority task 📅 YYYY-MM-DD`
-4. Update `last_updated:` to today's date
-5. Update `status:` if it changed
+4. **Delete all completed tasks** — remove any `- [x]` lines from `## Tasks`. Completed tasks are deleted, not kept.
+5. Update `last_updated:` to today's date
+6. Update `status:` if it changed
 
 ### Step 5 — Stamp the daily note
 Replace `<!-- EOD_PENDING -->` with:

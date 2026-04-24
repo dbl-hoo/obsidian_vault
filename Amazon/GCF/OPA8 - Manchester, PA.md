@@ -9,7 +9,7 @@ launch_date: 2027-06-22
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-19
+last_updated: 2026-04-24
 tags:
   - deal
   - amazon
@@ -20,6 +20,8 @@ tags:
 - [x] 🔺 Call Mark Chub re: OPA8 📅 2026-04-21 ✅ 2026-04-20
 - [ ] Follow up with Kirk Shephard / MetEd re: PM assignment 📅 2026-05-04
 ## Notes
+
+2026-04-24 - TM updated to Phil Ristevski.
 
 2026-04-16 - Revised lease received from LL; ball in Amazon's court.
 

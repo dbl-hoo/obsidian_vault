@@ -10,7 +10,7 @@ start_date: 2025-12-17
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-15
+last_updated: 2026-04-24
 tags:
   - deal
   - amazon
@@ -20,6 +20,8 @@ tags:
 
 
 ## Notes
+
+2026-04-24 - TM updated to Rachel Elliott.
 
 2026-04-15 - Transaction call.
 

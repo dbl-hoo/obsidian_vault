@@ -84,8 +84,8 @@ last_updated: 2026-04-23
 | CAK5 | Purchase | Arman Fashandi | Scott M to present at next site selection | 2026-04-10 |
 | CMH8 | Purchase | TBD | Deal moving slowly until TM assigned; approvals period expires 9/30 | 2026-04-20 |
 | HIA2 Chambersburg | Purchase | Phil Ristevski | Phil R. considering self-develop; May 18-19 site visit; township may want a park | 2026-04-21 |
-| OPA7 Mahanoy, PA | Lease | Phil Perri | Transaction call 4/15; CAR routing next; TOM/SAFETY review pending | 2026-04-15 |
-| OPA8 Manchester, PA | Lease | Phil Perri | Revised lease from LL; power/MetEd open; ball in Amazon's court | 2026-04-19 |
+| OPA7 Mahanoy, PA | Lease | Rachel Elliott | Transaction call 4/15; CAR routing next; TOM/SAFETY review pending | 2026-04-15 |
+| OPA8 Manchester, PA | Lease | Phil Ristevski | Revised lease from LL; power/MetEd open; ball in Amazon's court | 2026-04-19 |
 
 ---
 
@@ -158,17 +158,6 @@ last_updated: 2026-04-23
 | ZKC1 | North Kansas City | Kansas City, MO | Cancelled |
 | Summit Hills | Summit Hills | St. Paul, MN | Cancelled |
 | Central West End | Central West End | St. Louis, MO | Cancelled |
-
----
-
-## Project A (all On Hold)
-
-| Deal | Address | State | Broker |
-|---|---|---|---|
-| Farmington — 1000 East Main Fredericktown | 1000 East Main | OH | Matt Eastin |
-| Louisa — 515 W 8th Ave W | 515 W 8th Ave W | KY | Quintie Smith |
-| Sheboygan — 200 Industrial Dr | 200 Industrial Dr | WI | Nick Unger |
-| Sheboygan — 4117 Playbird Rd | 4117 Playbird Rd | WI | Nick Unger |
 
 ---
 
