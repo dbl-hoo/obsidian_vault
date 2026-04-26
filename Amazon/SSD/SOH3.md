@@ -2,7 +2,7 @@
 site_code: SOH3
 deal_type: Renewal
 business_unit: SSD
-status: Ongoing
+status: Selected
 tm: Max Madani
 pcm: 
 launch_date: 

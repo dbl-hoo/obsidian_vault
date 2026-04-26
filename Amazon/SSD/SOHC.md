@@ -2,7 +2,7 @@
 site_code: SOHC
 deal_type: Purchase
 business_unit: SDD
-status: Ongoing
+status: Selected
 tm: Adam Knoll
 pcm: 
 launch_date: 2028-01-01

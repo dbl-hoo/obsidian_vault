@@ -2,7 +2,7 @@
 site_code: DOH3
 deal_type: Purchase
 business_unit: AMZL
-status: Ongoing
+status: Selected
 tm: Al Patel
 pcm: Albert Chon
 launch_date: 2028-08-01

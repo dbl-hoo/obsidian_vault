@@ -2,7 +2,7 @@
 site_code: WKM2
 deal_type: Purchase
 business_unit: AMZL
-status: Ongoing
+status: Selected
 tm: Kristen DeFamio
 pcm: Gaby Jiyoung Song
 launch_date: 2027-08-15

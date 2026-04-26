@@ -2,7 +2,7 @@
 site_code: CAK5
 deal_type: Purchase
 business_unit: GCF
-status: Ongoing
+status: Selected
 tm: Arman Fashandi
 pcm: Jorge Cornet
 launch_date: 2028-04-25

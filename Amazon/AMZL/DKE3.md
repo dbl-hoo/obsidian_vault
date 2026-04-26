@@ -2,7 +2,7 @@
 site_code: DKE3
 deal_type: Purchase
 business_unit: AMZL
-status: Ongoing
+status: Selected
 tm: Richard Corley
 launch_date: 2027-01-01
 start_date: 2025-06-06

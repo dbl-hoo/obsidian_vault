@@ -2,7 +2,7 @@
 site_code: WOH1
 deal_type: Renewal
 business_unit: RSR
-status: Ongoing
+status: Selected
 tm: Max Madani
 pcm:
 launch_date:

@@ -2,7 +2,7 @@
 site_code: ACY4
 deal_type: Purchase
 business_unit: GCF
-status: Ongoing
+status: Selected
 tm: Steve Perkins
 pcm: Gary Gallagher
 launch_date: 2028-05-01

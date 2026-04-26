@@ -11,7 +11,7 @@ This is interactive — work through deals one at a time, wait for Jason's input
 
 ## Step 1 — Load the queue
 
-Read all deal files with `status: Ongoing` across `Amazon/`, `Amazon/Quick Commerce/`, `Amazon/Project A/`, and `KBC/`. Build two lists:
+Read all deal files with `status: Surveying` or `status: Selected` across `Amazon/`, `Amazon/Quick Commerce/`, `Amazon/Project A/`, and `KBC/`. Build two lists:
 - **Needs attention:** overdue tasks (due date < today) OR no update in >14 days
 - **Everything else:** active deals, sorted by `last_updated` ascending (stalest first)
 
@@ -44,9 +44,8 @@ After all deals:
 1. Report what was updated (deal name + what changed)
 2. Flag any deals Jason skipped that are >30 days stale — surface them so he can decide if they're dead or just quiet
 3. **Delete completed tasks** — scan all deal files for `- [x]` tasks and remove them. Report count deleted.
-4. Rebuild `Amazon Dashboard.md` from scratch
-5. Run Vault Lint and report results
-6. Suggest any `CLAUDE.md` improvements if the review surfaced gaps
+4. Run Vault Lint and report results
+5. Suggest any `CLAUDE.md` improvements if the review surfaced gaps
 
 ## Rules
 - Apply updates in real time — don't batch at the end

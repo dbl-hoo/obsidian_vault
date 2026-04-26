@@ -2,7 +2,7 @@
 site_code: CMH8
 deal_type: Purchase
 business_unit: GCF
-status: Ongoing
+status: Selected
 tm: TBD
 pcm: Jacob Cooper-bennett
 launch_date: 2028-05-09

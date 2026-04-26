@@ -2,7 +2,7 @@
 site_code: OPA7 - Mahanoy, PA
 deal_type: Lease
 business_unit: GCF
-status: Ongoing
+status: Selected
 tm: Rachel Elliott
 pcm:
 launch_date:

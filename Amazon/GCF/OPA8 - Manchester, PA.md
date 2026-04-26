@@ -2,7 +2,7 @@
 site_code: OPA8 - Manchester, PA
 deal_type: Lease
 business_unit: GCF
-status: Ongoing
+status: Selected
 tm: Phil Ristevski
 pcm: Maria Albulescu
 launch_date: 2027-06-22

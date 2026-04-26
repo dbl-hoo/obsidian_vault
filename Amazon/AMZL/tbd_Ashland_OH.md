@@ -2,7 +2,7 @@
 site_code: TBD_Ashland
 deal_type: New Lease
 business_unit: AMZL
-status: Ongoing
+status: Surveying
 tm: Al Patel
 launch_date: 2028-01-01
 start_date:

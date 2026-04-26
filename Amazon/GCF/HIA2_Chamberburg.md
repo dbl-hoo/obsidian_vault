@@ -2,7 +2,7 @@
 site_code: HIA2_Chamberburg
 deal_type: Purchase
 business_unit: GCF
-status: Ongoing
+status: Selected
 tm: Phil Ristevski
 pcm: 
 launch_date: 2029-06-01

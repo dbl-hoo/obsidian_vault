@@ -2,7 +2,7 @@
 site_code: TBD_Findlay
 deal_type: New Lease
 business_unit: AMZL
-status: Ongoing
+status: Surveying
 tm: Kristen DeFamio
 launch_date: 2028-01-01
 start_date:

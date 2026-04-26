@@ -52,7 +52,6 @@ Templates/           ← Note templates
 Team Meeting/        ← Weekly team meeting agendas (dated: YYYY-MM-DD Team Meeting.md)
 Open Tasks.md        ← All open tasks (Tasks plugin query)
 KBC/NDA Log.md       ← NDA tracking (flat table)
-Amazon Dashboard.md ← Synthesis page — current state of all active Amazon deals
 ```
 
 ### Amazon Sub-Programs
@@ -102,7 +101,7 @@ Each deal has one file named after the deal (e.g., `CVG47.md`, `Action - MSA.md`
 site_code:
 deal_type:       # Purchase | Lease | BTS | etc.
 business_unit:   # SORT | GCF | IXD | etc.
-status:          # Ongoing | On Hold | Closed | Dead
+status:          # Surveying | Selected | On Hold | Completed | Cancelled
 tm:              # Amazon Transaction Manager
 launch_date:     # N/A for Renewals
 start_date:
@@ -191,9 +190,7 @@ When Jason dumps call notes:
 6. Update `last_note:` to a one-line summary of the new Notes entry
 7. Update `next_due:` to the ISO date of the earliest open task (blank if none)
 8. **Cascade to person pages:** If the note contains intel about a person who has a page in `People/`, update their page. If a name appears for the first time across 2+ deals, consider creating a page (ask Jason if unsure).
-9. **Cascade to Portfolio Overview:** If this is an Amazon deal, rebuild `Amazon Dashboard.md` from scratch.
-
-When asked "where do things stand" or similar: read all `status: Ongoing` deal files, pull the most recent Notes entry and open tasks from each, surface overdue tasks or no update in >30 days.
+When asked "where do things stand" or similar: read all `status: Surveying` and `status: Selected` deal files, pull the most recent Notes entry and open tasks from each, surface overdue tasks or no update in >30 days.
 
 ### New Deals
 When creating a deal file, also create the matching docs folder at the relevant `*_DOCS` path (see Paths section).
@@ -203,9 +200,6 @@ Handled by the `/weekly-review` skill. See `.claude/skills/weekly-review/SKILL.m
 
 ### EOD Processing
 Handled by the `/eod` skill. See `.claude/skills/eod/SKILL.md` for the full workflow.
-
-### Portfolio Overview Maintenance
-`Amazon Dashboard.md` is a living synthesis of the entire Amazon book. Always rebuild it from scratch — never patch incrementally. Rebuild on any Amazon deal update or when Jason asks.
 
 ### NDA Log
 `KBC/NDA Log.md` is a flat table tracking NDAs. When logging an NDA:
@@ -225,13 +219,12 @@ Add new entries at the **top** of the table (newest first).
 A non-interactive health check. Run on demand ("lint the vault", "health check") or as part of weekly review wrap-up.
 
 **Checks:**
-1. **Stale deals** — `status: Ongoing` with `last_updated` >30 days ago
+1. **Stale deals** — `status: Surveying` or `status: Selected` with `last_updated` >30 days ago
 2. **Overdue tasks** — tasks with due dates in the past, across all active deal files
 3. **YAML gaps** — required fields that are blank or missing (per the conventions above)
 4. **Orphan files** — files in deal folders that don't match any convention
 5. **Person page staleness** — people in `People/` whose `deals:` list references closed/dead deals
 6. **Cross-reference gaps** — TMs or brokers named in deal YAML who don't have a person page (and appear in 2+ deals)
-7. **Portfolio Overview drift** — check if the overview matches current deal file state
 
 **Output format:** Bulleted report grouped by category. Flag severity:
 - `🔴` Action needed (overdue tasks, stale deals)

@@ -2,7 +2,7 @@
 site_code: TOLx_Relo
 deal_type: Purchase
 business_unit: GCF
-status: Ongoing
+status: Selected
 tm: Phillip Perri
 pcm: Stacey Pryor
 launch_date: 2029-03-01

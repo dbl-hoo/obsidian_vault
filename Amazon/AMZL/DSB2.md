@@ -2,7 +2,7 @@
 site_code: DSB2
 deal_type: New Lease
 business_unit: AMZL
-status: Ongoing
+status: Selected
 tm: Richard Corley
 pcm: Jerry Wang
 launch_date: 2027-01-01

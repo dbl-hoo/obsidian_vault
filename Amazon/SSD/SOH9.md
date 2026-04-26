@@ -2,7 +2,7 @@
 site_code: SOH9
 deal_type: New Lease
 business_unit: SDD
-status: Ongoing
+status: Selected
 tm: Adam Knoll
 pcm: Manish Singh
 launch_date: 2027-04-01

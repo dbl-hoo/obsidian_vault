@@ -2,7 +2,7 @@
 site_code: DOM8
 deal_type: Purchase
 business_unit: AMZL
-status: Ongoing
+status: Selected
 tm: Dave Rende
 pcm: Dheeraj Grover
 launch_date: 2027-08-15

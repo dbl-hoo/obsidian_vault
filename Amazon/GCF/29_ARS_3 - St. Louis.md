@@ -2,7 +2,7 @@
 site_code: 29_ARS_3
 deal_type: Purchase
 business_unit: GCF
-status: Ongoing
+status: Selected
 tm: Phil Ristevski
 pcm: 
 launch_date:

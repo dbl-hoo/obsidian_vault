@@ -2,7 +2,7 @@
 site_code: SSD_SOHx
 deal_type: BTS-Lease
 business_unit: SSD
-status: Ongoing
+status: Selected
 tm: Adam Knoll
 pcm:
 launch_date:
