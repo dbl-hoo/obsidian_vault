@@ -14,12 +14,12 @@ tags:
   - amazon
 last_updated: 2026-04-19
 last_note: Deal opened. New Launch 2028. RSR/2W2F AMZL. ~97K SF.
-next_due: 2026-04-25
+next_due: 2026-04-27
 ---
 
 ## Tasks
 
-- [ ] Follow up on survey 📅 2026-04-25
+- [ ] Send surveys to Amazon 📅 2026-04-27
 
 ## Notes
 

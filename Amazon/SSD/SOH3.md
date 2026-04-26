@@ -10,15 +10,19 @@ start_date: 2025-07-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-20
-last_note: "Lease amendment form approved."
-next_due:
+last_updated: 2026-04-26
+last_note: Waiting on CAR approval.
+next_due: 2026-05-17
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
+- [ ] Follow up on CAR approval 📅 2026-05-17
+
 ## Notes
+
+2026-04-26 - Waiting on CAR approval.
 
 2026-04-20 - Lease amendment form approved.
 

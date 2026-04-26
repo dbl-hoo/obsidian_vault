@@ -3,14 +3,16 @@ project: Flexport MSA
 status: Ongoing
 area: KBC
 tags: [kbc]
-last_updated: 2026-04-19
+last_updated: 2026-04-26
 ---
 
 ## Tasks
 
-- [ ] Follow up on Flexport MSA execution 📅 2026-04-26
+- [ ] Follow up on Flexport MSA execution 📅 2026-05-01
 
 ## Notes
+
+2026-04-26 - Signature pending.
 
 2026-04-19 - O'Leary approved last edits. Final MSA circulated for execution. Follow up 4/26.
 

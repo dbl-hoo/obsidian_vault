@@ -1,10 +1,10 @@
 ---
 project: Batavia Logistics Capital Call
-status: Ongoing
+status: Closed
 area: KBC
 office: Dallas
 tags: [kbc]
-last_updated: 2026-04-19
+last_updated: 2026-04-26
 ---
 
 ## Reference

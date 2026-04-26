@@ -9,7 +9,7 @@ last_updated: 2026-04-20
 
 ## Tasks
 
-- [ ] Define scope and begin licensing research 📅 2026-04-27
+- [ ] Define scope and begin licensing research 📅 2026-04-28
 
 ## Notes
 

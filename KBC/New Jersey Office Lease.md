@@ -4,7 +4,7 @@ status: Ongoing
 area: KBC
 office: New Jersey
 tags: [kbc]
-last_updated: 2026-04-20
+last_updated: 2026-04-26
 ---
 
 ## Deal Sheet
@@ -16,10 +16,11 @@ last_updated: 2026-04-20
 
 ## Tasks
 
-- [ ] 🔺 Review LL comments on NJ Office Lease 📅 2026-04-22
-- [x] Follow up with Sean Kelly on revised lease 📅 2026-04-22 ✅ 2026-04-22
+- [ ] Follow up with team on revised NJ Office Lease draft 📅 2026-05-01
 
 ## Notes
+
+2026-04-26 - Revised draft sent back to team last week. Follow up Friday.
 
 2026-04-20 - Received LL comments. Need to include installation of key card reader.
 

@@ -9,8 +9,9 @@ launch_date: 2028-08-01
 end_date:
 local_broker: Charles Rodriguez, R&R Commercial Realty
 area: Amazon
-last_updated: 2026-04-17
-last_note: "Local broker engaged: Charles Rodriguez; survey request sent."
+last_updated: 2026-04-26
+last_note: Survey sent to Al Patel; reviewing next week.
+next_due: 2026-05-01
 next_due:
 tags:
   - deal
@@ -19,7 +20,11 @@ tags:
 
 ## Tasks
 
+- [ ] Review survey with Al Patel 📅 2026-05-01
+
 ## Notes
+
+2026-04-26 - Survey sent to Al Patel; will review next week.
 
 2026-04-17 - Local broker engaged: Charles Rodriguez, R&R Commercial Realty, Inc., 46 S. State St., Dover, DE 19901 — (O) 302-674-3400 / (C) 302-423-3400 / ccrod1@aol.com. Sent survey request.
 

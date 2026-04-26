@@ -1,16 +1,17 @@
 ---
 project: Medline MSA
-status: Ongoing
+status: Closed
 area: KBC
-last_updated: 2026-04-19
+last_updated: 2026-04-26
 tags: [kbc]
 ---
 
 ## Tasks
 
-- [ ] Follow up on Work Order 📅 2026-04-25
 
 ## Notes
+
+2026-04-26 - Matter closed.
 
 2026-04-19 - MSA signed. Work Order pending — follow up EOW.
 

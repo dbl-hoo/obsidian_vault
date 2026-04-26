@@ -12,8 +12,8 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-04-12
-last_note: Site plan being updated to reflect ROW change; PSA pending with Hope Mothershead.
+last_updated: 2026-04-26
+last_note: PSA signed; site plan finalized.
 next_due:
 ---
 
@@ -22,6 +22,8 @@ next_due:
 ## Notes
 
 2026-04-02 - Transaction call. Sales and Use Tax incentive — city looking for way to recoup funds and share savings with City of Park Hills; potentially $400K in savings. EconDev: "no — not worth the effort." Schedule risk for CAR delay — a lot of site work; no winter conditions built into GMP; current plan assumes all paving down before plants close; have a couple of weeks. Targeting CAR approval by July 22.
+
+2026-04-26 - PSA signed; site plan finalized.
 
 2026-04-12 - Site plan being updated to reflect ROW change.
 

@@ -2,14 +2,13 @@
 project: Subpoena - 1001 Expressway Dr. v. WF Industrial XII LLC
 status: Ongoing
 area: KBC
-last_updated: 2026-04-21
+last_updated: 2026-04-26
 tags: [kbc]
 ---
 
 ## Tasks
 
-- [ ] 🔺 Follow up with outside counsel on whether KBC action required 📅 2026-04-25
-- [ ] 🔺 Monitor/respond to subpoena — deadline 2026-05-01 📅 2026-05-01
+- [ ] Follow up with Gabe Tempkin 📅 2026-04-27
 ## Notes
 
 2026-04-21 - LL denied motion to squash. Alerted Andrew Alberg about the subpoena.

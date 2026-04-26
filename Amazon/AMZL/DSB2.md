@@ -11,7 +11,7 @@ local_broker: Nick Unger
 area: Amazon
 last_updated: 2026-04-20
 last_note: "CAR submission 4/21; target closing date 2026-06-23."
-next_due: 2026-04-25
+next_due:
 tags:
   - deal
   - amazon
@@ -32,7 +32,6 @@ tags:
 
 ## Tasks
 
-- [ ] 🔺 CAR inputs due 📅 2026-04-25
 
 ## Notes
 
