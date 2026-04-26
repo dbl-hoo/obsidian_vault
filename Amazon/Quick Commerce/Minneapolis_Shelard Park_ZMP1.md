@@ -2,37 +2,24 @@
 site_code: ZMP1
 launch_date: 2026-08-01
 pin: "Shelard Park"
-address: "8357 10th Avenue N
-Golden Valley, MN"
+address: "8357 10th Avenue N, Golden Valley, MN"
 city: Minneapolis
 state: MN
 deal_type: New Lease
 business_unit: QC
-status: Short Listed
+status: Selected
 local_broker: "Alex Funk | Senior Associate"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
-last_updated: 2026-04-15
+last_updated: 2026-04-26
 last_note: "Design on hold; site visit needed to collect info; egress issues flagged by Core States."
 next_due:
 tags: [deal, amazon, quick-commerce]
 ---
 
 # Shelard Park
-
-| Field | Value |
-|-------|-------|
-| **Address** | 8357 10th Avenue N
-Golden Valley, MN |
-| **City** | Minneapolis, MN |
-| **Site Code** | TBD |
-| **Status** | Short Listed |
-| **LOI Final** | Yes |
-| **LOI Prepared** | Yes |
-| **Site Selection Date** |  |
-| **Local Broker** | Alex Funk | Senior Associate |
 
 ## Tasks
 
@@ -52,17 +39,16 @@ Key contacts: Brody Peterson (Core States) bpeterson@core-states.com | Omar Sali
 
 2026-04-12 - Lease call with LL scheduled 2026-04-14.
 
-04-02-2026 - Site code confirmed: ZMP1. Lease comments received 3/28; sending to Susan Jenkins today. Lease sent back to LL. Follow up next week.
+2026-04-02 - Site code confirmed: ZMP1. Lease comments received 3/28; sending to Susan Jenkins today. Lease sent back to LL. Follow up next week.
 
-March 30, 2026 - Lease received from LL. Need to review.
+2026-03-30 - Lease received from LL. Need to review.
 
-March 16, 2026 - should be at go/no go this week
+2026-03-16 - should be at go/no go this week
 
-March 5, 2026 - followed up with LL
-.
+2026-03-05 - followed up with LL
 
-February 24, 2026 - lease to LL
+2026-02-24 - lease to LL
 
-February 1, 2026 - LOI final - need to draft lease
+2026-02-01 - LOI final - need to draft lease
 
-January 29, 2026 - LOI back to LL
+2026-01-29 - LOI back to LL
