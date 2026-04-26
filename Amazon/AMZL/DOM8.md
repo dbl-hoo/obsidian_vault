@@ -1,18 +1,20 @@
 ---
 site_code: DOM8
 deal_type: Purchase
-business_unit: RSR
+business_unit: AMZL
 status: Ongoing
 tm: Dave Rende
 pcm: Dheeraj Grover
 launch_date: 2027-08-15
-end_date: 
+end_date:
 local_broker: Matt Eastin - Cushman
 area: Amazon
 last_updated: 2026-04-09
-last_note: "On autopilot. Targeting closing May 7, 2026."
+last_note: On autopilot. Targeting closing May 7, 2026.
 next_due:
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 ---
 
 ## Tasks

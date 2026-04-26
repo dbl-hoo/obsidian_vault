@@ -1,13 +1,13 @@
 ---
 site_code: DDL7
 deal_type: Purchase
-business_unit: RSR
+business_unit: AMZL
 status: Ongoing
 tm: Al Patel
 pcm: Ankit Mandawewala
 launch_date: 2028-08-01
 end_date:
-local_broker: "Charles Rodriguez, R&R Commercial Realty"
+local_broker: Charles Rodriguez, R&R Commercial Realty
 area: Amazon
 last_updated: 2026-04-17
 last_note: "Local broker engaged: Charles Rodriguez; survey request sent."

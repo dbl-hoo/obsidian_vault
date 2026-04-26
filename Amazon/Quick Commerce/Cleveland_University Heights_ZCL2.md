@@ -7,7 +7,7 @@ city: Cleveland
 state: OH
 deal_type: New Lease
 business_unit: QC
-status: Ongoing
+status: Selected
 local_broker: Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate
 loi_final: Yes
 loi_prepared: Yes
@@ -19,7 +19,7 @@ tags:
   - amazon
   - quick-commerce
 tm: Chatman Young
-last_note: "Updated draft to LL."
+last_note: Updated draft to LL.
 next_due: 2026-04-28
 ---
 

@@ -1,22 +1,25 @@
 ---
 site_code: ZCM2
 launch_date: 2026-08-01
-pin: "German Village"
-address: "865 Parsons Avenue, Columbus, OH"
+pin: German Village
+address: 865 Parsons Avenue, Columbus, OH
 city: Columbus
 state: OH
 deal_type: New Lease
 business_unit: QC
-status: Ongoing
-local_broker: "KBC-OH"
+status: Selected
+local_broker: KBC-OH
 loi_final: Yes
 loi_prepared: Yes
-site_selection_date: "January 23, 2026"
+site_selection_date: January 23, 2026
 last_updated: 2026-04-19
-last_note: "Potentially back on. Amazon considering moving this forward."
+last_note: Potentially back on. Amazon considering moving this forward.
 next_due: 2026-04-25
 area: Amazon
-tags: [deal, amazon, quick-commerce]
+tags:
+  - deal
+  - amazon
+  - quick-commerce
 ---
 
 # German Village (ZCM2)

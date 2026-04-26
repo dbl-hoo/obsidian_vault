@@ -1,17 +1,19 @@
 ---
 site_code: WKM2
 deal_type: Purchase
-business_unit: RSR
+business_unit: AMZL
 status: Ongoing
 tm: Kristen DeFamio
 pcm: Gaby Jiyoung Song
 launch_date: 2027-08-15
-end_date: 
+end_date:
 local_broker: Matt Anderson
 area: Amazon
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 last_updated: 2026-04-12
-last_note: "Site plan being updated to reflect ROW change; PSA pending with Hope Mothershead."
+last_note: Site plan being updated to reflect ROW change; PSA pending with Hope Mothershead.
 next_due:
 ---
 

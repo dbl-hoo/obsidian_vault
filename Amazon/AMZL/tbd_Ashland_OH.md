@@ -1,7 +1,7 @@
 ---
 site_code: TBD_Ashland
 deal_type: New Lease
-business_unit: RSR
+business_unit: AMZL
 status: Ongoing
 tm: Al Patel
 launch_date: 2028-01-01
@@ -9,9 +9,11 @@ start_date:
 end_date:
 local_broker: KBC
 area: Amazon
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 last_updated: 2026-04-19
-last_note: "Deal opened. New Launch 2028. RSR/1W1F AMZL. ~80K SF."
+last_note: Deal opened. New Launch 2028. RSR/1W1F AMZL. ~80K SF.
 next_due: 2026-04-25
 ---
 

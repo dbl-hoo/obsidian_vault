@@ -1,39 +1,36 @@
-filters: 'file.path.startsWith("Amazon/")'
-
+filters: file.path.startsWith("Amazon/")
 formulas:
-  days_until_due: 'if(next_due, (date(next_due) - today()).days, "")'
-
+  days_until_due: if(next_due, (date(next_due) - today()).days, "")
 properties:
   file.name:
-    displayName: "Deal"
+    displayName: Deal
   site_code:
-    displayName: "Site Code"
+    displayName: Site Code
   deal_type:
-    displayName: "Type"
+    displayName: Type
   business_unit:
-    displayName: "BU"
+    displayName: BU
   status:
-    displayName: "Status"
+    displayName: Status
   tm:
-    displayName: "TM"
+    displayName: TM
   last_note:
-    displayName: "Last Note"
+    displayName: Last Note
   next_due:
-    displayName: "Next Due"
+    displayName: Next Due
   formula.days_until_due:
-    displayName: "Days"
+    displayName: Days
   last_updated:
-    displayName: "Last Updated"
-
+    displayName: Last Updated
 views:
   - type: table
-    name: "All Active"
+    name: All Active
     filters:
       or:
-        - 'status == "Ongoing"'
-        - 'status == "On Hold"'
-        - 'status == "Short Listed"'
-        - 'status == "Selected"'
+        - status == "Ongoing"
+        - status == "On Hold"
+        - status == "Short Listed"
+        - status == "Selected"
     order:
       - file.name
       - deal_type
@@ -44,10 +41,12 @@ views:
       - next_due
       - formula.days_until_due
       - last_updated
-
+    sort:
+      - property: business_unit
+        direction: ASC
   - type: table
-    name: "AMZL"
-    filters: 'file.folder.contains("AMZL")'
+    name: AMZL
+    filters: file.folder.contains("AMZL")
     order:
       - file.name
       - deal_type
@@ -57,10 +56,9 @@ views:
       - next_due
       - formula.days_until_due
       - last_updated
-
   - type: table
-    name: "GCF"
-    filters: 'file.folder.contains("GCF")'
+    name: GCF
+    filters: file.folder.contains("GCF")
     order:
       - file.name
       - deal_type
@@ -70,10 +68,9 @@ views:
       - next_due
       - formula.days_until_due
       - last_updated
-
   - type: table
-    name: "Middle Mile"
-    filters: 'file.folder.contains("Middle Mile")'
+    name: Middle Mile
+    filters: file.folder.contains("Middle Mile")
     order:
       - file.name
       - deal_type
@@ -83,10 +80,9 @@ views:
       - next_due
       - formula.days_until_due
       - last_updated
-
   - type: table
-    name: "SSD"
-    filters: 'file.folder.contains("SSD")'
+    name: SSD
+    filters: file.folder.contains("SSD")
     order:
       - file.name
       - deal_type
@@ -96,10 +92,9 @@ views:
       - next_due
       - formula.days_until_due
       - last_updated
-
   - type: table
-    name: "Renewals"
-    filters: 'file.folder.contains("Renewals")'
+    name: Renewals
+    filters: file.folder.contains("Renewals")
     order:
       - file.name
       - deal_type
@@ -109,14 +104,13 @@ views:
       - next_due
       - formula.days_until_due
       - last_updated
-
   - type: table
-    name: "Quick Commerce"
+    name: Quick Commerce
     filters:
       and:
-        - 'file.folder.contains("Quick Commerce")'
-        - 'status != "Cancelled"'
-        - 'status != "Dead"'
+        - file.folder.contains("Quick Commerce")
+        - status != "Cancelled"
+        - status != "Dead"
     order:
       - file.name
       - site_code
@@ -126,10 +120,9 @@ views:
       - next_due
       - formula.days_until_due
       - last_updated
-
   - type: table
-    name: "Overdue / Due Soon"
-    filters: 'next_due != null'
+    name: Overdue / Due Soon
+    filters: next_due != null
     order:
       - file.name
       - status
