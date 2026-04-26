@@ -1,21 +1,24 @@
 ---
 site_code: ZMO3
 launch_date: 2026-08-01
-pin: "1814 Oak Street"
-address: "1814 Oak Street"
+pin: 1814 Oak Street
+address: 1814 Oak Street
 city: Kansas City
 state: MO
 deal_type: New Lease
 business_unit: QC
-status: Ongoing
+status: Selected
 last_updated: 2026-04-24
-last_note: "Lease to Susan; LL accepted all changes except HVAC (split cost last 2 yrs of term)."
+last_note: Lease to Susan; LL accepted all changes except HVAC (split cost last 2 yrs of term).
 next_due:
-local_broker: "MATT VAUPELL, MANAGING PARTNER"
+local_broker: MATT VAUPELL, MANAGING PARTNER
 loi_final: No
 loi_prepared: No
 area: Amazon
-tags: [deal, amazon, quick-commerce]
+tags:
+  - deal
+  - amazon
+  - quick-commerce
 ---
 
 ## Tasks

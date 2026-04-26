@@ -1,20 +1,23 @@
 ---
 site_code: ZLI2
 launch_date: 2026-08-01
-pin: "DT St Louis"
-address: "2800 Clark Ave"
+pin: DT St Louis
+address: 2800 Clark Ave
 city: St. Louis
 state: MO
 deal_type: New Lease
 business_unit: QC
-status: On Hold
-local_broker: "Tim Cribbin"
+status: Selected
+local_broker: Tim Cribbin
 loi_final: No
 loi_prepared: No
-site_selection_date: "February 13, 2026"
+site_selection_date: February 13, 2026
 last_updated: 2026-04-23
 area: Amazon
-tags: [deal, amazon, quick-commerce]
+tags:
+  - deal
+  - amazon
+  - quick-commerce
 ---
 
 # DT St Louis (ZLI2)

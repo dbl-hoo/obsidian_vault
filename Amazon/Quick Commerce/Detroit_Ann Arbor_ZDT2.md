@@ -1,22 +1,25 @@
 ---
 site_code: ZDT2
 launch_date: 2026-08-01
-pin: "Ann Arbor"
-address: "1400 Eisenhower Place"
+pin: Ann Arbor
+address: 1400 Eisenhower Place
 city: Detroit
 state: MI
 deal_type: New Lease
 business_unit: QC
-status: On Hold
-local_broker: "Tony Schmitt"
+status: Selected
+local_broker: Tony Schmitt
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
 last_updated: 2026-04-03
-last_note: "Off the POR; status moved to On Hold."
+last_note: Off the POR; status moved to On Hold.
 next_due:
 area: Amazon
-tags: [deal, amazon, quick-commerce]
+tags:
+  - deal
+  - amazon
+  - quick-commerce
 ---
 
 # Ann Arbor (ZDT2)

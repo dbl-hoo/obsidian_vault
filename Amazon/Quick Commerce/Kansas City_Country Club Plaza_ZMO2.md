@@ -1,20 +1,23 @@
 ---
 site_code: ZMO2
 launch_date: 2026-08-01
-pin: "Country Club Plaza"
-address: "835 W 39th Street"
+pin: Country Club Plaza
+address: 835 W 39th Street
 city: Kansas City
 state: MO
 deal_type: New Lease
 business_unit: QC
-status: Dead
+status: Selected
 last_updated: 2026-04-23
-local_broker: "MATT VAUPELL, MANAGING PARTNER"
+local_broker: MATT VAUPELL, MANAGING PARTNER
 loi_final: No
 loi_prepared: Yes
 site_selection_date: 2026-01-29
 area: Amazon
-tags: [deal, amazon, quick-commerce]
+tags:
+  - deal
+  - amazon
+  - quick-commerce
 ---
 
 ## Tasks
