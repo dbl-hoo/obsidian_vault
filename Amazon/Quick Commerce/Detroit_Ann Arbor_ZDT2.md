@@ -12,8 +12,8 @@ local_broker: Tony Schmitt
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-04-03
-last_note: Off the POR; status moved to On Hold.
+last_updated: 2026-04-26
+last_note: Selected.
 next_due:
 area: Amazon
 tags:
