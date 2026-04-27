@@ -25,7 +25,7 @@ next_due: 2026-04-28
 
 ## Tasks
 
-- [ ] Follow up with LL on LOA and power inquiry 📅 2026-04-28
+- [x] Follow up with LL on LOA and power inquiry 📅 2026-04-28 ✅ 2026-04-27
 
 ## Notes
 

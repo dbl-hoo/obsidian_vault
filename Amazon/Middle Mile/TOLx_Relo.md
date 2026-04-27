@@ -11,7 +11,7 @@ local_broker: KBC
 area: Amazon
 last_updated: 2026-04-24
 last_note: "Langan test fit doesn't fit; sent Ambrose test fit to see if will work."
-next_due: 2026-05-01
+next_due: 2026-04-27
 tags:
   - deal
   - amazon
@@ -19,6 +19,8 @@ tags:
 
 ## Tasks
 
+- [ ] Review SEW 📅 2026-04-27
+- [ ] Review white paper 📅 2026-04-27
 - [ ] Site Selection Prep 📅 2026-05-01
 
 ## Notes

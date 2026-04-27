@@ -8,9 +8,9 @@ pcm: Gary Gallagher
 launch_date: 2028-05-01
 end_date:
 local_broker: KBC
-last_updated: 2026-04-19
-last_note: "CAR narrative drafted; outside closing 9/15; Land CAR approval needed by 5/22."
-next_due: 2026-05-22
+last_updated: 2026-04-27
+last_note: "Liepe PSA critical dates logged — Inspection Period expires 2026-05-09, Approval Notice required."
+next_due: 2026-05-09
 area: Amazon
 tags:
   - deal
@@ -19,8 +19,20 @@ tags:
 
 ## Tasks
 
+- [ ] 🔺 Send Approval Notice on Liepe PSA (Inspection Period expires) 📅 2026-05-09
 - [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
 ## Notes
+
+2026-04-27 - Liepe PSA critical dates (2600 Leipzig Ave, Hamilton Twp, Atlantic County NJ — 22.21 ac, Block 1135.01 Lot 11)
+- Effective Date: 2026-01-09 (sellers signed 1/9; Amazon signed 1/5)
+- Purchase Price: ~$577,460 ($26,000/ac × 22.21 ac, subject to final survey acreage)
+- Earnest Money: $25,000 — due by 2026-01-26 [past]; non-refundable after Approval Notice
+- Title Review Period: expired 2026-03-10 (60 days from Effective Date) [past]
+- **Inspection Period: expires 2026-05-09** (120 days from Effective Date, 11:59 PM PT) — must deliver written Approval Notice before expiry or contract terminates and EM is returned
+- Closing Date: Purchaser's choice with 10 business days' written notice; outside date 2026-06-30
+- Title Co: Acres Land Title Agency, Inc. — Diane Lebenson (dlebenson@acrestitle.com); Chicago Title — Darnella Ward
+- Sellers' counsel: Steven Abramoff (abralaw@comcast.net), 1555 Zion Rd Suite 102, Northfield NJ
+- KBC commission: 4% of Purchase Price (~$23,098)
 
 2026-04-13 - Transaction call. Outside closing date on main parcel: 2026-09-15. Joe P. working on adverse possession memo (Liepe parcel) — nearing completion, targeting Wednesday 4/15.
 

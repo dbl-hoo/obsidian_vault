@@ -24,7 +24,7 @@ tags:
 
 ## Tasks
 
-- [ ] Email Chatman Young and Flor Ponce re: CAR approval 📅 2026-04-25
+- [x] Email Chatman Young and Flor Ponce re: CAR approval 📅 2026-04-25 ✅ 2026-04-27
 
 ## Notes
 

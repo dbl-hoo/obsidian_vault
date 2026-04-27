@@ -21,7 +21,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] Get signage for 10 exclusive stalls 📅 2026-04-28
+- [x] Get signage for 10 exclusive stalls 📅 2026-04-28 ✅ 2026-04-27
 
 ## Notes
 

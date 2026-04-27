@@ -21,7 +21,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] 🔺 Resolve ZLI1 pre-con issues: gas payment, electrical separation, drain lines, basement door hardware (2-way access) 📅 2026-04-28
+- [x] 🔺 Resolve ZLI1 pre-con issues: gas payment, electrical separation, drain lines, basement door hardware (2-way access) 📅 2026-04-28 ✅ 2026-04-27
 
 ## Notes
 

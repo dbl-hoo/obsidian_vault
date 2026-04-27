@@ -20,7 +20,7 @@ next_due: 2026-04-28
 
 ## Tasks
 
-- [ ] Follow up with Mackenzie Floyd on flash enviro submission 📅 2026-04-28
+- [x] Follow up with Mackenzie Floyd on flash enviro submission 📅 2026-04-28 ✅ 2026-04-27
 
 ## Notes
 
