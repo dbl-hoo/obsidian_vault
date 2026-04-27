@@ -10,9 +10,8 @@ end_date:
 local_broker: Charles Rodriguez, R&R Commercial Realty
 area: Amazon
 last_updated: 2026-04-26
-last_note: Survey sent to Al Patel; reviewing next week.
+last_note: "Survey sent to Al Patel; reviewing next week."
 next_due: 2026-05-01
-next_due:
 tags:
   - deal
   - amazon
