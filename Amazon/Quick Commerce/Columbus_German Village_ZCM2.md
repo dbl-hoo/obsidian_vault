@@ -11,9 +11,9 @@ status: Selected
 local_broker: KBC-OH
 loi_final: Yes
 loi_prepared: Yes
-site_selection_date: January 23, 2026
-last_updated: 2026-04-19
-last_note: Potentially back on. Amazon considering moving this forward.
+site_selection_date: 2026-01-23
+last_updated: 2026-04-26
+last_note: Selected. CAR approval pending.
 next_due: 2026-04-25
 area: Amazon
 tags:
@@ -22,30 +22,18 @@ tags:
   - quick-commerce
 ---
 
-# German Village (ZCM2)
-
-| Field | Value |
-|-------|-------|
-| **Address** | 865 Parsons Avenue, Columbus, OH |
-| **City** | Columbus, OH |
-| **Site Code** | ZCM2 |
-| **Status** | Ongoing |
-| **LOI Final** | Yes |
-| **LOI Prepared** | Yes |
-| **Site Selection Date** | January 23, 2026 |
-| **Local Broker** | KBC-OH |
-
 ## Tasks
 
 - [ ] Email Chatman Young and Flor Ponce re: CAR approval 📅 2026-04-25
 
 ## Notes
 
+2026-04-26 - Selected. CAR approval pending.
+
 2026-04-13 - Potentially back on. Amazon considering moving this forward.
 
-February 5, 2026 - lease back to LL
+2026-02-05 - lease back to LL
 
-February 1, 2026 - lease back from LL
+2026-02-01 - lease back from LL
 
-January 27, 2026 - lease to LL
-865 Parsons Avenue, Columbus, OH
+2026-01-27 - lease to LL
