@@ -1,9 +1,13 @@
 ---
 tags: [knowledgebase, amazon, amzl]
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 ---
 
 # AMZL — Knowledge Base
+
+## Resources
+
+- [[RSR Delivery Station Attributes Table Rev 1.5.xlsx]]
 
 ## BTS Station Design Specs (DRS 15.0)
 
