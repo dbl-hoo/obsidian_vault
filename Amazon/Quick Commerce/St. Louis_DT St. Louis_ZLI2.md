@@ -19,20 +19,6 @@ tags:
   - amazon
   - quick-commerce
 ---
-
-# DT St Louis (ZLI2)
-
-| Field | Value |
-|-------|-------|
-| **Address** | 2800 Clark Ave |
-| **City** | St. Louis, MO |
-| **Site Code** | ZLI2 |
-| **Status** | Selected |
-| **LOI Final** | No |
-| **LOI Prepared** | No |
-| **Site Selection Date** | February 13, 2026 |
-| **Local Broker** | Tim Cribbin |
-
 ## Tasks
 
 - [ ] Find new location for DT St. Louis (ZLI2) — LL passed, site removed from POR, need replacement 📅 2026-04-30
