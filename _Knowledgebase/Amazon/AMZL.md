@@ -1,6 +1,6 @@
 ---
 tags: [knowledgebase, amazon, amzl]
-last_updated: 2026-04-16
+last_updated: 2026-04-27
 ---
 
 # AMZL — Knowledge Base
@@ -33,3 +33,7 @@ last_updated: 2026-04-16
 | **Total Parking** | 182 | 280 | 414 | 410 | 701 | 698 | 864 | 1,031 | 1,212 | 1,560 |
 | **Total AA (Sort + P&S)** | 30 | 49 | 65 | 65 | 115 | 115 | 143 | 172 | 200 | 258 |
 | **Bathroom Fixtures** | 8 | 5 | 5 | 8 | 9 | 14 | 16 | 16 | 28 | 28 |
+
+## Program Intel
+
+2026-04-27 - New MHE system: Tetramino. $70–80M investment.
