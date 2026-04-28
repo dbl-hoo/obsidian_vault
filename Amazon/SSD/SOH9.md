@@ -18,7 +18,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Follow up with LL on SNDA 📅 2026-04-30
+- [x] Follow up with LL on SNDA 📅 2026-04-30 ✅ 2026-04-28
 
 ## Notes
 

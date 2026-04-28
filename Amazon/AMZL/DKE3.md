@@ -17,7 +17,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Inspection Period Expiration — waiving termination contingency 📅 2026-04-28
+- [x] Inspection Period Expiration — waiving termination contingency 📅 2026-04-28 ✅ 2026-04-28
 - [ ] First Extension Expiration 📅 2026-05-28
 - [ ] Second Extension Expiration 📅 2026-06-27
 - [ ] Closing Deadline 📅 2026-07-27

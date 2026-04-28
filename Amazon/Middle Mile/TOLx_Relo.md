@@ -19,9 +19,9 @@ tags:
 
 ## Tasks
 
-- [ ] Review SEW 📅 2026-04-27
-- [ ] Review white paper 📅 2026-04-27
-- [ ] Site Selection Prep 📅 2026-05-01
+- [x] Review SEW 📅 2026-04-27 ✅ 2026-04-28
+- [x] Review white paper 📅 2026-04-27 ✅ 2026-04-28
+- [x] Site Selection Prep 📅 2026-05-01 ✅ 2026-04-28
 
 ## Notes
 

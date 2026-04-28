@@ -19,7 +19,7 @@ next_due: 2026-04-27
 
 ## Tasks
 
-- [ ] Send surveys to Amazon 📅 2026-04-27
+- [x] Send surveys to Amazon 📅 2026-04-27 ✅ 2026-04-28
 
 ## Notes
 

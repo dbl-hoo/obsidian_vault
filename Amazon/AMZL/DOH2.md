@@ -18,7 +18,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Follow up with seller on PSA 📅 2026-04-28
+- [x] Follow up with seller on PSA 📅 2026-04-28 ✅ 2026-04-28
 
 ## Related Notes
 

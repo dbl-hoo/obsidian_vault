@@ -8,7 +8,7 @@ tags: [kbc]
 
 ## Tasks
 
-- [ ] Follow up with Gabe Tempkin 📅 2026-04-27
+- [x] Follow up with Gabe Tempkin 📅 2026-04-27 ✅ 2026-04-28
 ## Notes
 
 2026-04-21 - LL denied motion to squash. Alerted Andrew Alberg about the subpoena.
