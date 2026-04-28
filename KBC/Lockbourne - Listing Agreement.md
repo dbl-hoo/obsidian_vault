@@ -1,17 +1,17 @@
 ---
 project: Listing Agreement - Lockbourne
-status: Ongoing
+status: Closed
 area: KBC
 office: Columbus
 tags: [kbc]
-last_updated: 2026-04-19
+last_updated: 2026-04-27
 ---
 
 ## Tasks
 
-- [x] Follow up on listing agreement comments 📅 2026-04-26 ✅ 2026-04-27
-
 ## Notes
+
+2026-04-27 - Followed up with Beau Taggart and Kelly Bright. Matter closed.
 
 2026-04-19 - Reviewed and sent comments. Follow up one week (4/26).
 

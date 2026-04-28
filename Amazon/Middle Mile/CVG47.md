@@ -9,8 +9,8 @@ launch_date: 2026-08-01
 end_date:
 local_broker: Jeff Bender - Cushman
 area: Amazon
-last_updated: 2026-04-20
-last_note: "On Hold pending business engagement."
+last_updated: 2026-04-27
+last_note: "Graves family came back at $400K per acre. Informed Amazon."
 next_due:
 tags:
   - deal
@@ -21,6 +21,8 @@ tags:
 
 
 ## Notes
+
+2026-04-27 - Graves family came back at $400K per acre. Informed Amazon. No follow up.
 
 2026-04-20 - On Hold pending business engagement.
 

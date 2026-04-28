@@ -12,22 +12,24 @@ local_broker: Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-03-03
-last_updated: 2026-04-24
+last_updated: 2026-04-27
 area: Amazon
 tags:
   - deal
   - amazon
   - quick-commerce
 tm: Chatman Young
-last_note: Updated draft to LL.
-next_due: 2026-04-28
+last_note: LL accepted edits; lease final; asked legal to add notaries.
+next_due: 2026-05-04
 ---
 
 ## Tasks
 
-- [x] Follow up with LL on LOA and power inquiry 📅 2026-04-28 ✅ 2026-04-27
+- [ ] Follow up on CAR 📅 2026-05-04
 
 ## Notes
+
+2026-04-27 - LL accepted our edits. Lease is final. Asked legal to add notaries.
 
 2026-04-24 - Updated draft to LL.
 

@@ -9,8 +9,8 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-24
-last_note: "Langan test fit doesn't fit; sent Ambrose test fit to see if will work."
+last_updated: 2026-04-27
+last_note: "Ambrose sent comments to NP; CRA issue; tracking Mathis Group; asked Camdem to look into Mathes parcel."
 next_due: 2026-04-27
 tags:
   - deal
@@ -24,6 +24,8 @@ tags:
 - [ ] Site Selection Prep 📅 2026-05-01
 
 ## Notes
+
+2026-04-27 - Ambrose sent comments back to NP; CRA is an issue; CRA documents have been requested. Still trying to track down Mathis Group; have had some communications with Premier Farm; asked Camdem to look into Mathes parcel.
 
 2026-04-24 - Langan says test fit doesn't fit; sent Ambrose test fit to see if will work.
 

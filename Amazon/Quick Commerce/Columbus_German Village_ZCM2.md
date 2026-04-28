@@ -12,9 +12,9 @@ local_broker: KBC-OH
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-01-23
-last_updated: 2026-04-26
-last_note: Selected. CAR approval pending.
-next_due: 2026-04-25
+last_updated: 2026-04-27
+last_note: Emailed Flor/Chatman re: CAR approval; follow up during weekly review.
+next_due: 2026-05-04
 area: Amazon
 tags:
   - deal
@@ -24,9 +24,11 @@ tags:
 
 ## Tasks
 
-- [x] Email Chatman Young and Flor Ponce re: CAR approval 📅 2026-04-25 ✅ 2026-04-27
+- [ ] Follow up with Chatman Young and Flor Ponce re: CAR approval (weekly review) 📅 2026-05-04
 
 ## Notes
+
+2026-04-27 - Emailed Flor Ponce and Chatman Young re: CAR approval. Follow up during weekly review.
 
 2026-04-26 - Selected. CAR approval pending.
 

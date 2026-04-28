@@ -9,7 +9,7 @@ launch_date: 2028-05-01
 end_date:
 local_broker: KBC
 last_updated: 2026-04-27
-last_note: "Liepe PSA critical dates logged — Inspection Period expires 2026-05-09, Approval Notice required."
+last_note: "8th amendment pending; legal wants to strike enviro clause; legal scheduling call."
 next_due: 2026-05-09
 area: Amazon
 tags:
@@ -22,6 +22,8 @@ tags:
 - [ ] 🔺 Send Approval Notice on Liepe PSA (Inspection Period expires) 📅 2026-05-09
 - [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
 ## Notes
+
+2026-04-27 - 8th amendment still pending. Open issue: clause on enviro obligations of underlying seller — legal wants to strike. Joe P. prepared adverse possession memo. Legal scheduling a call.
 
 2026-04-27 - Liepe PSA critical dates (2600 Leipzig Ave, Hamilton Twp, Atlantic County NJ — 22.21 ac, Block 1135.01 Lot 11)
 - Effective Date: 2026-01-09 (sellers signed 1/9; Amazon signed 1/5)

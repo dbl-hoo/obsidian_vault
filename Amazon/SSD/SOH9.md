@@ -10,8 +10,8 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-24
-last_note: "CAR fully approved; ES about to be launched."
+last_updated: 2026-04-27
+last_note: "Demising wall at CL 14 — will increase sq footage, amount TBD."
 next_due: 2026-04-30
 tags: [deal, amazon]
 ---
@@ -21,6 +21,8 @@ tags: [deal, amazon]
 - [ ] Follow up with LL on SNDA 📅 2026-04-30
 
 ## Notes
+
+2026-04-27 - Demising wall is at CL 14, which will result in an increase to square footage — amount TBD.
 
 2026-04-24 - CAR fully approved. ES about to be launched.
 

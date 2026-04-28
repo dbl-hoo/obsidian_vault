@@ -7,9 +7,9 @@ city: Kansas City
 state: MO
 deal_type: New Lease
 business_unit: QC
-status: Selected
-last_updated: 2026-04-24
-last_note: Lease to Susan; LL accepted all changes except HVAC (split cost last 2 yrs of term).
+status: Cancelled
+last_updated: 2026-04-27
+last_note: LL signed with different tenant — deal dead at this site. Potential alternate site.
 next_due:
 local_broker: MATT VAUPELL, MANAGING PARTNER
 loi_final: No
@@ -24,6 +24,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-04-27 - LL signed a lease with a different tenant. Informed team. LL has a potential alternate site.
 
 2026-04-24 - Updated lease to Susan. LL accepted all of our changes except HVAC replacement — LL willing to split cost of HVAC replacement in the last 2 years of the term.
 
