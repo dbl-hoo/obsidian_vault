@@ -7,7 +7,7 @@ city: Detroit
 state: MI
 deal_type: New Lease
 business_unit: QC
-status: On Hold
+status: Selected
 local_broker: Tony Schmitt
 loi_final: Yes
 loi_prepared: Yes
