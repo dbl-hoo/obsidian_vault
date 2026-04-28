@@ -7,13 +7,13 @@ city: Detroit
 state: MI
 deal_type: New Lease
 business_unit: QC
-status: Selected
+status: On Hold
 local_broker: Tony Schmitt
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-04-26
-last_note: Selected.
+last_updated: 2026-04-28
+last_note: "Lease is final."
 next_due:
 area: Amazon
 tags:
@@ -22,29 +22,18 @@ tags:
   - quick-commerce
 ---
 
-# Ann Arbor (ZDT2)
-
-| Field | Value |
-|-------|-------|
-| **Address** | 1400 Eisenhower Place |
-| **City** | Detroit, MI |
-| **Site Code** | ZDT2 |
-| **Status** | On Hold |
-| **LOI Final** | Yes |
-| **LOI Prepared** | Yes |
-| **Site Selection Date** |  |
-| **Local Broker** | Tony Schmitt |
-
 ## Tasks
 
 ## Notes
 
-February 16, 2026 - lease bck to LL
+2026-04-28 - Lease is final.
 
-January 23, 2026 - followed up
+2026-04-03 - Off the POR; status moved to On Hold. LL reached out — told them we are going through an internal exercise.
 
-January 14, 2026 - response back out
+2026-02-16 - lease bck to LL
 
-January 8, 2026 - received response
+2026-01-23 - followed up
 
-04-03-2026 - Off the POR; status moved to On Hold. LL reached out — told them we are going through an internal exercise.
+2026-01-14 - response back out
+
+2026-01-08 - received response
