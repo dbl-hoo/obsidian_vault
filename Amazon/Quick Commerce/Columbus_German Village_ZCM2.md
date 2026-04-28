@@ -13,7 +13,7 @@ loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-01-23
 last_updated: 2026-04-27
-last_note: Emailed Flor/Chatman re: CAR approval; follow up during weekly review.
+last_note: "Emailed Flor/Chatman re: CAR approval; follow up during weekly review."
 next_due: 2026-05-04
 area: Amazon
 tags:
