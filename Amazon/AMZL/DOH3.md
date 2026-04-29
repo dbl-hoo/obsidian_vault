@@ -11,14 +11,17 @@ end_date:
 local_broker: KBC
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-04-22
-last_note: "Revised LOI for Franklin Vista Farms to include entire parcel; sent to Jeff Baumgarten."
-next_due:
+last_updated: 2026-04-28
+last_note: "Followed up with sellers. Follow up Friday (5/1)."
+next_due: 2026-05-01
 ---
 ## Tasks
 
+- [ ] Follow up with sellers 📅 2026-05-01
 
 ## Notes
+
+2026-04-28 - Followed up with sellers. Follow up Friday (5/1).
 
 2026-04-22 - Revised LOI for Franklin Vista Farms to include the entire parcel; sent to Jeff Baumgarten.
 

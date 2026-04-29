@@ -12,8 +12,8 @@ local_broker: "Shannon Hunt | Vice President | Veritas Realty"
 loi_final: No
 loi_prepared: No
 site_selection_date: 2026-01-30
-last_updated: 2026-04-23
-last_note: "Another suite coming available in June; additional demo required; need to email econ dev."
+last_updated: 2026-04-28
+last_note: "LL offered 2 alternative suites: Suite 873 (7,400 SF, avail July) and Suite 879 (3,789 SF, avail now). Amazon considering."
 next_due: 2026-04-30
 area: Amazon
 tags: [deal, amazon, quick-commerce]
@@ -24,6 +24,8 @@ tags: [deal, amazon, quick-commerce]
 - [ ] Email econ dev re: June suite option and city's zoning position 📅 2026-04-30
 
 ## Notes
+
+2026-04-28 - LL offered 2 potential alternative suites: Suite 873 (7,400 SF, available July) and Suite 879 (3,789 SF, available now). Amazon is considering.
 
 2026-04-23 - Another suite coming available in June; will require additional demo. Need to email econ dev explaining option and questioning city's position.
 

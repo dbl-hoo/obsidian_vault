@@ -9,16 +9,16 @@ launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date: 
 local_broker: KBC
-last_updated: 2026-04-21
-last_note: "PSA sent to seller. Follow up 1 week."
-next_due: 2026-04-28
+last_updated: 2026-04-28
+last_note: "PSA back from seller; sent to Amazon. Follow up Monday (5/4)."
+next_due: 2026-05-04
 area: Amazon
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
-- [x] Follow up with seller on PSA 📅 2026-04-28 ✅ 2026-04-28
+- [ ] Follow up with Amazon on PSA 📅 2026-05-04
 
 ## Related Notes
 
@@ -27,6 +27,8 @@ tags: [deal, amazon]
 - [[Northpoint - MW]] (Reference)
 
 ## Notes
+
+2026-04-28 - PSA back from seller; sent to Amazon. Follow up Monday (5/4).
 
 2026-04-21 - PSA sent to seller. Follow up 1 week.
 

@@ -34,6 +34,7 @@ Read through the note and identify:
 - **Notes to log** — what happened, who was called, what was discussed
 - **Tasks to extract** — action items, follow-ups, deadlines
 - **Status changes** — if a deal closed, went on hold, etc.
+- **Extra WikiLink Place Holders** - skip any empty wikilink lines; they are harmless
 
 Group content by deal. If a chunk of content can't be matched to a deal, **stop and ask** — never skip silently.
 
