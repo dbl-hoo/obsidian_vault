@@ -13,4 +13,4 @@ last_updated: 2026-04-27
 
 ## Notes
 
-Local broker on WKM2 (Park Hills, MO/KY area).
+Local broker on WKM2 .
