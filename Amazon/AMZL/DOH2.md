@@ -9,8 +9,8 @@ launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date: 
 local_broker: KBC
-last_updated: 2026-04-28
-last_note: "PSA back from seller; sent to Amazon. Follow up Monday (5/4)."
+last_updated: 2026-04-29
+last_note: "Reviewed and responded to OC's questions on PSA. Property subject to Community Reinvestment Agreement."
 next_due: 2026-05-04
 area: Amazon
 tags: [deal, amazon]
@@ -27,6 +27,8 @@ tags: [deal, amazon]
 - [[Northpoint - MW]] (Reference)
 
 ## Notes
+
+2026-04-29 - Reviewed and responded to OC's questions on PSA. Note: property is subject to a Community Reinvestment Agreement.
 
 2026-04-28 - PSA back from seller; sent to Amazon. Follow up Monday (5/4).
 

@@ -2,15 +2,15 @@
 site_code: CAK5
 deal_type: Purchase
 business_unit: GCF
-status: Selected
+status: Cancelled
 tm: Arman Fashandi
 pcm: Jorge Cornet
 launch_date: 2028-04-25
 end_date:
 local_broker: Matt Clackson
 area: Amazon
-last_updated: 2026-04-26
-last_note: "Scott M to present at next site selection."
+last_updated: 2026-04-29
+last_note: "Amazon decided to terminate the PSA."
 next_due:
 tags:
   - deal
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-04-29 - Amazon decided to terminate the PSA.
 
 2026-04-10 - Scott M to present at next site selection.
 

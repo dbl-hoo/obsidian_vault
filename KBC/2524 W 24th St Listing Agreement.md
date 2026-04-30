@@ -4,14 +4,14 @@ status: Ongoing
 area: KBC
 office: Chicago
 tags: [kbc]
-last_updated: 2026-04-21
+last_updated: 2026-04-29
 ---
 
 ## Tasks
 
-- [x] Review Stream listing agreement for 2524 W 24th St 📅 2026-04-28 ✅ 2026-04-29
-
 ## Notes
+
+2026-04-29 - Sent comments to the business.
 
 2026-04-20 - [Source: email] Matter opened. Michael Conway forwarded a listing agreement from Stream (landlord's form) for 2524 W 24th St, Chicago, IL. Asking Jason to review. Reference: signed KBC listing agreement from 815 W Pershing Rd also attached for comparison.
 
