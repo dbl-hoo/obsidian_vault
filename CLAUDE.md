@@ -123,7 +123,7 @@ office:          # List of KBC offices that initiated/are involved — use city 
                  # Atlanta | Austin | Chicago | Columbus | Dallas | Houston
                  # Los Angeles | Manhattan Beach | Nashville | New Jersey | New York
                  # Newport Beach | Oakland | On Location | Philadelphia | Phoenix
-                 # Seattle 238 | Seattle 290 | West Texas
+                 # Seattle | West Texas
                  # Use a YAML list if multiple: [Atlanta, Dallas]
 tags: [kbc]
 last_updated:    # YYYY-MM-DD

@@ -2,7 +2,7 @@
 project: Subagency Agreement - 5900 Core Avenue, North Charleston, SC
 status: Closed
 area: KBC
-office: Seattle 238
+office: Seattle
 counterparty: CBRE, Inc.
 client: Kuhn & Naggle
 tags: [kbc]
