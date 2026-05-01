@@ -13,16 +13,18 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-04-21
-last_note: "Sent site to Mackenzie Floyd for entry into site selection tool; follow up on flash enviro submission."
-next_due: 2026-04-28
+last_updated: 2026-04-30
+last_note: Kicking off flash WHS; follow up in 1 week.
+next_due: 2026-05-07
 ---
 
 ## Tasks
 
-- [x] Follow up with Mackenzie Floyd on flash enviro submission 📅 2026-04-28 ✅ 2026-04-27
+- [ ] Follow up on flash WHS 📅 2026-05-07
 
 ## Notes
+
+2026-04-30 - Kicking off flash WHS. Follow up in 1 week.
 
 2026-04-20 - Environmental summary from VAP NFA documents (KERAMIDA Project 2-11708)
 

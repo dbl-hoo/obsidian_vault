@@ -9,9 +9,9 @@ launch_date: 2027-08-15
 end_date:
 local_broker: Matt Eastin - Cushman
 area: Amazon
-last_updated: 2026-04-26
-last_note: Affidavits of non-production complete. On autopilot for close May 7.
-next_due:
+last_updated: 2026-04-30
+last_note: Per Jess Mitchell — CCRs on site; need property released before closing. Open items: zoning confirmation letter, confirm both parcels rezoned.
+next_due: 2026-05-07
 tags:
   - deal
   - amazon
@@ -19,7 +19,13 @@ tags:
 
 ## Tasks
 
+- [ ] 🔺 Get property released from CCRs before closing 📅 2026-05-07
+- [ ] Obtain zoning confirmation letter 📅 2026-05-07
+- [ ] Confirm both parcels were rezoned 📅 2026-05-07
+
 ## Notes
+
+2026-04-30 - Per Jess Mitchell: CCRs present on the site; need to get property released before closing. Also open: zoning confirmation letter and whether both parcels were rezoned.
 
 2026-04-09 - Follow up next week on affidavits of non-production.
 

@@ -19,7 +19,7 @@ tags:
 
 ## Tasks
 
-- [ ] Review survey with Al Patel 📅 2026-05-01
+- [ ] Review survey with Al Patel 📅 2026-05-08
 
 ## Notes
 

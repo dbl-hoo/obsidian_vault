@@ -17,7 +17,7 @@ next_due: 2026-05-01
 ---
 ## Tasks
 
-- [ ] Follow up with sellers 📅 2026-05-01
+- [x] Follow up with sellers 📅 2026-05-01 ✅ 2026-05-01
 
 ## Notes
 
