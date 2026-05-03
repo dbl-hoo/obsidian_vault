@@ -16,6 +16,7 @@ last_updated: 2026-05-01
 last_note: "Updated lease to LL; email to Funk on termination right, OpEx, parking, addendum."
 next_due:
 area: Amazon
+tm: TBD
 tags: [deal, amazon, quick-commerce]
 ---
 

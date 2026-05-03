@@ -13,6 +13,7 @@ loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
+tm: TBD
 last_updated: 2026-04-26
 last_note: "Design on hold; site visit needed to collect info; egress issues flagged by Core States."
 next_due:

@@ -16,6 +16,7 @@ last_updated: 2026-05-03
 last_note: "Amazon sticking with original space. Need to request additional parking from LL."
 next_due: 2026-05-04
 area: Amazon
+tm: TBD
 tags: [deal, amazon, quick-commerce]
 ---
 

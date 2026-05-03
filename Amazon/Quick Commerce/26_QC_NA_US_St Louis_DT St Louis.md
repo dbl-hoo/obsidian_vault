@@ -12,6 +12,7 @@ local_broker: Matt Eastin
 loi_final: No
 loi_prepared: No
 area: Amazon
+tm: TBD
 tags:
   - deal
   - amazon

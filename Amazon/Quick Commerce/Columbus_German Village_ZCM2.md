@@ -16,6 +16,7 @@ last_updated: 2026-04-27
 last_note: "Emailed Flor/Chatman re: CAR approval; follow up during weekly review."
 next_due: 2026-05-04
 area: Amazon
+tm: TBD
 tags:
   - deal
   - amazon

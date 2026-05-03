@@ -10,6 +10,7 @@ status: Surveying
 last_updated: 2026-05-03
 local_broker: "Brian Doyle / Sam Svendahl, Colliers"
 area: Amazon
+tm: TBD
 tags: [deal, amazon, quick-commerce]
 ---
 

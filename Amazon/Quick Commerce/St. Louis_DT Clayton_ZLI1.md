@@ -16,6 +16,7 @@ loi_final: No
 loi_prepared: Yes
 site_selection_date: 2026-02-13
 area: Amazon
+tm: TBD
 tags: [deal, amazon, quick-commerce]
 ---
 

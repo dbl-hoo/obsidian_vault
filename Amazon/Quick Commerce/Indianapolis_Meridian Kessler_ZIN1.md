@@ -16,6 +16,7 @@ last_updated: 2026-05-03
 last_note: "Updated lease received; Amazon legal flagged potential environmental issue. Follow up Monday."
 next_due: 2026-05-04
 area: Amazon
+tm: TBD
 tags: [deal, amazon, quick-commerce]
 ---
 

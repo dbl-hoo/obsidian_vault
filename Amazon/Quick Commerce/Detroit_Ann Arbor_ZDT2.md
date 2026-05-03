@@ -16,6 +16,7 @@ last_updated: 2026-04-28
 last_note: "Lease is final."
 next_due:
 area: Amazon
+tm: TBD
 tags:
   - deal
   - amazon

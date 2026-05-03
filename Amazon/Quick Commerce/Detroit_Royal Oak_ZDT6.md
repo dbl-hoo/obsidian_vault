@@ -16,6 +16,7 @@ last_updated: 2026-05-03
 last_note: "Amazon OK with assignment. Lease final. Waiting for CAR approval."
 next_due:
 area: Amazon
+tm: TBD
 tags: [deal, amazon, quick-commerce]
 ---
 
