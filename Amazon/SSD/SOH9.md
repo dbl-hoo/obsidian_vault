@@ -10,19 +10,22 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-27
-last_note: "Demising wall at CL 14 — will increase sq footage, amount TBD."
-next_due: 2026-04-30
+last_updated: 2026-05-03
+last_note: "SNDA post-lease signing. Waiting on Amazon to launch ES."
+next_due:
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
-- [x] Follow up with LL on SNDA 📅 2026-04-30 ✅ 2026-04-28
-
 ## Notes
 
+2026-05-03 - SNDA will be post-lease signing. Open item: ES launch — waiting on Amazon.
+
 2026-04-27 - Demising wall is at CL 14, which will result in an increase to square footage — amount TBD.
+
+2026-04-21 - House panel is on Amazon side; 800A going to WPI; need to add 3200A panel on Amazon side. Need proposal from American Eagle for power upgrade — doing the work together would be more efficient; 3-month timeline. Need load sheet and ramp-up.
+LL Work SOW: (1) power upgrade; (2) southern curb cut; (3) truck access. Need bids and documented expenses; will need to revise the Work Letter. Per Tadeu Velloso, will need costs. Need to determine who is doing security fencing and get final site plan.
 
 2026-04-24 - CAR fully approved. ES about to be launched.
 

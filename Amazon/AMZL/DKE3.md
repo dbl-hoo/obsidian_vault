@@ -9,20 +9,21 @@ start_date: 2025-06-06
 end_date: 
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-04-19
-last_note: "4/28 is inspection period expiration; plan to waive termination contingency."
-next_due: 2026-04-28
+last_updated: 2026-05-03
+last_note: "Termination contingency waived. On track for closing."
+next_due: 2026-05-28
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
-- [x] Inspection Period Expiration — waiving termination contingency 📅 2026-04-28 ✅ 2026-04-28
 - [ ] First Extension Expiration 📅 2026-05-28
 - [ ] Second Extension Expiration 📅 2026-06-27
 - [ ] Closing Deadline 📅 2026-07-27
 
 ## Notes
+
+2026-05-03 - Termination contingency waived. On auto for closing.
 
 2026-04-19 - 4/28 date is inspection period expiration, not PSA expiration. Plan to waive termination contingency.
 

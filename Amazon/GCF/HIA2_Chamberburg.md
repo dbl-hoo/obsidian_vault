@@ -7,8 +7,8 @@ tm: Phil Ristevski
 pcm: 
 launch_date: 2029-06-01
 end_date:
-last_updated: 2026-04-21
-last_note: "Phil R. considering self-develop; May 18-19 site visit; township may want a park."
+last_updated: 2026-05-03
+last_note: "Pending developer selection by Amazon. May 18-19 site visit scheduled."
 next_due:
 local_broker: 
 area: Amazon
@@ -48,6 +48,8 @@ tags: [deal, amazon]
 ## Tasks
 
 ## Notes
+
+2026-05-03 - Pending developer selection by Amazon.
 
 2026-04-21 - Phil R. considering self-developing ("Project Beaver"). May 18-19 site visit scheduled. Per Maura Kennedy (Amazon EconDev): township may want a park as part of the project.
 - L. Michael Ross, President, Franklin County Area Development Corporation — 1900 Wayne Road, Chambersburg, PA 17202 — P: 717-263-8282 | M: 717-816-2964 | mike@fcadc.com

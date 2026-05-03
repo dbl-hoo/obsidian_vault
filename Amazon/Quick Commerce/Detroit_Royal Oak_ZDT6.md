@@ -12,8 +12,8 @@ local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-04-24
-last_note: "Per Susan, post-assignment liability is business issue; lease should be final."
+last_updated: 2026-05-03
+last_note: "Amazon OK with assignment. Lease final. Waiting for CAR approval."
 next_due:
 area: Amazon
 tags: [deal, amazon, quick-commerce]
@@ -35,6 +35,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-05-03 - Amazon OK with assignment. Lease final. Waiting for CAR approval.
 
 2026-04-24 - Per Susan, post-assignment liability is a business issue; lease should be final.
 

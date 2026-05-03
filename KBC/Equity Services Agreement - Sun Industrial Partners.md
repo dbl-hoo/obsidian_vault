@@ -4,7 +4,7 @@ status: Ongoing
 area: KBC
 office: Phoenix
 tags: [kbc]
-last_updated: 2026-04-19
+last_updated: 2026-05-03
 ---
 
 ## Contacts
@@ -14,6 +14,8 @@ last_updated: 2026-04-19
 ## Tasks
 
 ## Notes
+
+2026-05-03 - Followed up with Kirk Kuller.
 
 2026-04-19 - Edits reviewed. Waiting for Phoenix office (Kirk Kuller) to respond.
 

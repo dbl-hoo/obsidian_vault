@@ -8,9 +8,9 @@ pcm: Gary Gallagher
 launch_date: 2028-05-01
 end_date:
 local_broker: KBC
-last_updated: 2026-04-27
-last_note: "8th amendment pending; legal wants to strike enviro clause; legal scheduling call."
-next_due: 2026-05-09
+last_updated: 2026-05-03
+last_note: "Need to call Monday to get extension on Liepe PSA inspection period (expires 5/9)."
+next_due: 2026-05-04
 area: Amazon
 tags:
   - deal
@@ -19,9 +19,11 @@ tags:
 
 ## Tasks
 
-- [ ] 🔺 Send Approval Notice on Liepe PSA (Inspection Period expires) 📅 2026-05-09
+- [ ] 🔺 Call to get extension on Liepe PSA inspection period (expires 5/9) 📅 2026-05-04
 - [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
 ## Notes
+
+2026-05-03 - Need to call Monday (5/4) to get extension on Liepe PSA inspection period — expires 5/9.
 
 2026-04-27 - 8th amendment still pending. Open issue: clause on enviro obligations of underlying seller — legal wants to strike. Joe P. prepared adverse possession memo. Legal scheduling a call.
 

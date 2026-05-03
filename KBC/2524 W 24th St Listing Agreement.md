@@ -4,10 +4,12 @@ status: Ongoing
 area: KBC
 office: Chicago
 tags: [kbc]
-last_updated: 2026-04-29
+last_updated: 2026-05-03
 ---
 
 ## Tasks
+
+- [ ] Follow up with Conway on 2524 W 24th St listing agreement 📅 2026-05-08
 
 ## Notes
 

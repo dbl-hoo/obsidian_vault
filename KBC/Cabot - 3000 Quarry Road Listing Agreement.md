@@ -4,14 +4,14 @@ status: Ongoing
 area: KBC
 office: Philadelphia
 tags: [kbc]
-last_updated: 2026-04-22
+last_updated: 2026-05-03
 ---
 
 ## Tasks
 
-- [ ] Review Cabot listing agreement redlines and confirm no issues / insurance compliance 📅 2026-04-29
-
 ## Notes
+
+2026-05-03 - Reviewed redlines. Emailed Mark Chubb — draft looks OK.
 
 2026-04-22 - [Source: email] Matter opened. Mark Chubb forwarded Cabot's redlined exclusive agency agreement for 3000 Quarry Road, Telford, PA. Cabot's attorney incorporated KBC's prior comments plus minor clean-ups. Mark asking Jason to (1) confirm no issues and (2) confirm compliance with KBC insurance requirements. Agreement modeled on existing KBC–TX (3800 N I-45, Willmer) listing agreement.
 

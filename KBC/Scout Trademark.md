@@ -2,7 +2,7 @@
 project: Scout Trademark
 status: Ongoing
 area: KBC
-last_updated: 2026-04-19
+last_updated: 2026-05-03
 tags: [kbc]
 ---
 
@@ -20,6 +20,8 @@ Scalable, self-service, designed to grow with KBC.
 ## Tasks
 
 ## Notes
+
+2026-05-03 - Still waiting on reschedule with Steve Coates.
 
 2026-04-19 - Steve Coates call cancelled — waiting on reschedule.
 

@@ -12,16 +12,20 @@ local_broker: "Shannon Hunt | Vice President | Veritas Realty"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-01-27
-last_updated: 2026-04-14
-last_note: "Call with LL's counsel; two open items: payment system; assignment must include limited parent guarantee."
-next_due:
+last_updated: 2026-05-03
+last_note: "Updated lease received; Amazon legal flagged potential environmental issue. Follow up Monday."
+next_due: 2026-05-04
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
 
 ## Tasks
 
+- [ ] 🔺 Follow up on ZIN1 environmental issue 📅 2026-05-04
+
 ## Notes
+
+2026-05-03 - Updated lease received. Amazon legal flagged potential environmental issue. Follow up Monday (5/4).
 
 2026-04-14 - Call with LL's counsel. Two open items: (1) need details on electronic payment system; (2) assignment must include limited parent guarantee.
 

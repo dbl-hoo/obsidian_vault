@@ -9,8 +9,8 @@ launch_date: 2028-05-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-20
-last_note: "Deal will move slowly until Amazon assigns a TM; approvals period expires 9/30."
+last_updated: 2026-05-03
+last_note: "On agenda for weekly Amazon meeting — suggest preparing CAR for October closing."
 next_due:
 tags: [deal, amazon]
 ---
@@ -38,6 +38,8 @@ tags: [deal, amazon]
 **Outside Closing Date:** October 30, 2026
 
 ## Notes
+
+2026-05-03 - On agenda for weekly Amazon meeting — suggest preparing CAR for October closing.
 
 2026-04-20 - Deal will move slowly until Amazon assigns a TM. TM updated to TBD.
 

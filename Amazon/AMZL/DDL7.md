@@ -9,9 +9,9 @@ launch_date: 2028-08-01
 end_date:
 local_broker: Charles Rodriguez, R&R Commercial Realty
 area: Amazon
-last_updated: 2026-04-26
-last_note: "Survey sent to Al Patel; reviewing next week."
-next_due: 2026-05-01
+last_updated: 2026-05-03
+last_note: "LOI back to Jesse Parks (seller); follow up Monday (5/4)."
+next_due: 2026-05-04
 tags:
   - deal
   - amazon
@@ -19,9 +19,12 @@ tags:
 
 ## Tasks
 
+- [ ] Follow up with Jesse Parks on LOI 📅 2026-05-04
 - [ ] Review survey with Al Patel 📅 2026-05-08
 
 ## Notes
+
+2026-05-03 - LOI back to Jesse Parks (seller). Follow up Monday (5/4).
 
 2026-04-26 - Survey sent to Al Patel; will review next week.
 

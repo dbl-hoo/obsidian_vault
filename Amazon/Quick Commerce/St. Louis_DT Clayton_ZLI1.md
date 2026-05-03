@@ -9,9 +9,9 @@ deal_type: New Lease
 business_unit: QC
 status: Selected
 local_broker: "Meghan Donovan, NAI DESCO St. Louis"
-last_updated: 2026-04-21
-last_note: "LL conceptually aligned with separating electrical; pre-con issues due 4/28."
-next_due: 2026-04-28
+last_updated: 2026-05-03
+last_note: "Pending pre-con direction and cost estimate."
+next_due:
 loi_final: No
 loi_prepared: Yes
 site_selection_date: 2026-02-13
@@ -21,9 +21,9 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] 🔺 Resolve ZLI1 pre-con issues: gas payment, electrical separation, drain lines, basement door hardware (2-way access) 📅 2026-04-28 ✅ 2026-04-27
-
 ## Notes
+
+2026-05-03 - Pending pre-con direction and cost estimate.
 
 2026-04-21 - LL conceptually aligned with separating electrical. Emailing Omar Salim.
 

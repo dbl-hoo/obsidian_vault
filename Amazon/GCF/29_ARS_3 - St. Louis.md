@@ -12,7 +12,7 @@ local_broker: Matt Eastin
 area: Amazon
 last_updated: 2026-05-01
 last_note: "LOI back to seller; follow up Tuesday (5/5)."
-next_due: 2026-05-05
+next_due: 2026-05-06
 tags:
   - deal
   - amazon
@@ -20,7 +20,7 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with seller on LOI 📅 2026-05-05
+- [ ] Follow up with seller on LOI 📅 2026-05-06
 
 ## Notes
 
