@@ -7,12 +7,20 @@ city: St. Louis
 state: MO
 deal_type: New Lease
 business_unit: QC
+<<<<<<< HEAD
+status: Cancelled
+=======
 status: Selected
+>>>>>>> origin/main
 local_broker: Tim Cribbin
 loi_final: No
 loi_prepared: No
 site_selection_date: February 13, 2026
+<<<<<<< HEAD
+last_updated: 2026-05-01
+=======
 last_updated: 2026-04-23
+>>>>>>> origin/main
 area: Amazon
 tags:
   - deal
@@ -21,10 +29,17 @@ tags:
 ---
 ## Tasks
 
+<<<<<<< HEAD
+## Notes
+
+2026-05-01 - Site cancelled.
+
+=======
 - [ ] Find new location for DT St. Louis (ZLI2) — LL passed, site removed from POR, need replacement 📅 2026-04-30
 
 ## Notes
 
+>>>>>>> origin/main
 2026-04-23 - Site removed from 2026 QC POR; POR shows DT St. Louis with no site code assigned. LL passed on 4/10; need new location.
 
 2026-04-10 - LL passing on the deal. Let team know; asked Matt Eastin to find alternatives.

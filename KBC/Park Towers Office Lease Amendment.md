@@ -8,7 +8,11 @@ last_updated: 2026-04-24
 ---
 
 ## Tasks
+<<<<<<< HEAD
+- [x] Follow up with LL 📅 2026-05-01 ✅ 2026-05-01
+=======
 - [ ] Follow up with LL 📅 2026-05-01
+>>>>>>> origin/main
 
 ## Notes
 2026-04-24 - Followed up with LL. Follow up 1 week.

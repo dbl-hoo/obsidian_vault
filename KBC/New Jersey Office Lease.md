@@ -16,7 +16,11 @@ last_updated: 2026-04-26
 
 ## Tasks
 
+<<<<<<< HEAD
+- [x] Follow up with team on revised NJ Office Lease draft 📅 2026-05-01 ✅ 2026-05-01
+=======
 - [ ] Follow up with team on revised NJ Office Lease draft 📅 2026-05-01
+>>>>>>> origin/main
 
 ## Notes
 

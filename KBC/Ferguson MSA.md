@@ -2,8 +2,14 @@
 project: Ferguson MSA
 status: Ongoing
 area: KBC
+<<<<<<< HEAD
+office: Chicago
+tags:
+  - kbc
+=======
 office: Atlanta
 tags: [kbc]
+>>>>>>> origin/main
 last_updated: 2026-04-23
 ---
 
