@@ -10,8 +10,8 @@ start_date: 2025-12-17
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-24
-last_note: "TM updated to Rachel Elliott."
+last_updated: 2026-05-01
+last_note: "Noise study received — Low Risk; no detailed study needed; no abatement required. Updated in Shield/WD."
 next_due:
 tags:
   - deal
@@ -22,6 +22,12 @@ tags:
 
 
 ## Notes
+
+2026-05-01 - Noise study received; updated in Shield and WD.
+- Risk Level: Low Risk
+- Detailed Noise Study Recommended: No
+- Abatement Recommendations: N/A
+- Operational noise levels at receptors around the site anticipated to remain below the nighttime project noise goal
 
 2026-04-24 - TM updated to Rachel Elliott.
 

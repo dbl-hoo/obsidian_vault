@@ -4,7 +4,7 @@ status: Ongoing
 area: KBC
 office: New Jersey
 tags: [kbc]
-last_updated: 2026-04-26
+last_updated: 2026-05-01
 ---
 
 ## Deal Sheet
@@ -16,13 +16,11 @@ last_updated: 2026-04-26
 
 ## Tasks
 
-<<<<<<< HEAD
-- [x] Follow up with team on revised NJ Office Lease draft 📅 2026-05-01 ✅ 2026-05-01
-=======
-- [ ] Follow up with team on revised NJ Office Lease draft 📅 2026-05-01
->>>>>>> origin/main
+- [ ] Follow up on NJ Office Lease 📅 2026-05-08
 
 ## Notes
+
+2026-05-01 - Reviewed lease; email to team on issues — recommended we sign. Follow up 1 week.
 
 2026-04-26 - Revised draft sent back to team last week. Follow up Friday.
 

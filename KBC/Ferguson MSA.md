@@ -10,14 +10,14 @@ tags:
 office: Atlanta
 tags: [kbc]
 >>>>>>> origin/main
-last_updated: 2026-04-23
+last_updated: 2026-05-01
 ---
 
 ## Tasks
 
-- [ ] Follow up with team on Ferguson MSA 📅 2026-04-30
-
 ## Notes
+
+2026-05-01 - Rose following up with Todd S.
 
 2026-04-23 - Updated MSA sent to team.
 

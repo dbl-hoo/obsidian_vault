@@ -3,14 +3,14 @@ project: Flexport MSA
 status: Ongoing
 area: KBC
 tags: [kbc]
-last_updated: 2026-04-26
+last_updated: 2026-05-01
 ---
 
 ## Tasks
 
-- [ ] Follow up on Flexport MSA execution 📅 2026-05-01
-
 ## Notes
+
+2026-05-01 - MSA signed. Work order still needs to be signed. Rose following up.
 
 2026-04-26 - Signature pending.
 

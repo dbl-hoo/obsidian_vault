@@ -4,17 +4,16 @@ status: Ongoing
 area: KBC
 office: Houston
 tags: [kbc]
-last_updated: 2026-04-24
+last_updated: 2026-05-01
 ---
 
 ## Tasks
-<<<<<<< HEAD
-- [x] Follow up with LL 📅 2026-05-01 ✅ 2026-05-01
-=======
-- [ ] Follow up with LL 📅 2026-05-01
->>>>>>> origin/main
+
+- [ ] 🔺 Review Park Towers lease amendment 📅 2026-05-04
 
 ## Notes
+2026-05-01 - Revised lease received. Need to review by EOD Monday (5/4).
+
 2026-04-24 - Followed up with LL. Follow up 1 week.
 
 2026-04-17 - Revised lease amendment and circulated.

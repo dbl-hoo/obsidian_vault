@@ -12,22 +12,25 @@ local_broker: Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-03-03
-last_updated: 2026-04-27
+last_updated: 2026-05-01
 area: Amazon
 tags:
   - deal
   - amazon
   - quick-commerce
 tm: Chatman Young
-last_note: LL accepted edits; lease final; asked legal to add notaries.
+last_note: "LL power upgrade proposal received; presented to Amazon; follow up Wed (5/6)."
 next_due: 2026-05-04
 ---
 
 ## Tasks
 
 - [ ] Follow up on CAR 📅 2026-05-04
+- [ ] Follow up with Amazon on ZCL2 power proposal 📅 2026-05-06
 
 ## Notes
+
+2026-05-01 - LL power upgrade proposal received. Initial delivery: 200A 120/240V single-phase + 200A 240V 3-phase (3-wire); upgrade from current 100A/50A; work complete within 60 days. Final phase: additional 200A 240V 3-phase to be installed during tenancy. Presented to Amazon. Follow up Wednesday (5/6).
 
 2026-04-27 - LL accepted our edits. Lease is final. Asked legal to add notaries.
 

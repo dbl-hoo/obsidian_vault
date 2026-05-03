@@ -12,18 +12,22 @@ local_broker: "Alex Funk | Senior Associate"
 loi_final: No
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-04-24
-last_note: "Email to Funk re parking and termination option; ROM capex $540,850."
-next_due: 2026-04-28
+last_updated: 2026-05-01
+last_note: "Updated lease to LL; email to Funk on termination right, OpEx, parking, addendum."
+next_due:
 area: Amazon
 tags: [deal, amazon, quick-commerce]
 ---
 
 ## Tasks
 
-- [x] Get signage for 10 exclusive stalls 📅 2026-04-28 ✅ 2026-04-27
-
 ## Notes
+
+2026-05-01 - Updated lease sent to LL. Email to Funk on open issues:
+1. Termination right: Amazon willing to accept LL termination option — must be after initial term; at least 1 year notice; only in connection with building redevelopment.
+2. Opex: Agreeing to deleting the 5% cap on controllable increases.
+3. Parking: Need 10 designated spaces with Amazon Flex driver use signs; LL can relocate but must be within 100' of entrance.
+4. Addendum: Amazon legal revising to accept as many of LL's proposed changes as possible.
 
 2026-04-24 - Email to Funk re: parking and termination option. ROM costs at total capex of $540,850.11.
 

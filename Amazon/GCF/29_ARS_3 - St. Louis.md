@@ -10,9 +10,9 @@ start_date: 2026-03-27
 end_date:
 local_broker: Matt Eastin
 area: Amazon
-last_updated: 2026-04-24
-last_note: "Enterprise zone extension expected June 2026; road won't connect to Chain of Rocks; LOI bumped to Phil."
-next_due:
+last_updated: 2026-05-01
+last_note: "LOI back to seller; follow up Tuesday (5/5)."
+next_due: 2026-05-05
 tags:
   - deal
   - amazon
@@ -20,8 +20,11 @@ tags:
 
 ## Tasks
 
+- [ ] Follow up with seller on LOI 📅 2026-05-05
 
 ## Notes
+
+2026-05-01 - LOI back to seller. Follow up Tuesday (5/5).
 
 2026-04-24 - Site notes:
 - Proposed Gateway Commerce Center Drive Extension does not need to be extended south to connect with Chain of Rocks Rd.  Preferably, it is not extended to Chain of Rocks Rd because that will trigger improvements/expansion required to Chain of Rocks Rd if it is.

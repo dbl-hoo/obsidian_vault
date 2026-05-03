@@ -11,15 +11,15 @@ end_date:
 local_broker: KBC
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-04-28
-last_note: "Followed up with sellers. Follow up Friday (5/1)."
-next_due: 2026-05-01
+last_updated: 2026-05-01
+last_note: "Updated LOIs received; farm leases in place (terminate upon sale); crops $725/acre."
+next_due:
 ---
 ## Tasks
 
-- [x] Follow up with sellers 📅 2026-05-01 ✅ 2026-05-01
-
 ## Notes
+
+2026-05-01 - Updated LOIs received. Farm leases in place; can be terminated upon sale. Crops at $725/acre.
 
 2026-04-28 - Followed up with sellers. Follow up Friday (5/1).
 

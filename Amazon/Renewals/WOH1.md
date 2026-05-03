@@ -10,9 +10,9 @@ start_date: 2026-03-31
 end_date:
 local_broker: Beau Taggart
 area: Amazon
-last_updated: 2026-04-24
-last_note: "Followed up with LL; follow up 5/1."
-next_due: 2026-05-01
+last_updated: 2026-05-01
+last_note: "Followed up again; follow up Wed (5/6)."
+next_due: 2026-05-06
 tags:
   - deal
   - amazon
@@ -20,9 +20,11 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with LL 📅 2026-05-01
+- [ ] Follow up with LL 📅 2026-05-06
 
 ## Notes
+
+2026-05-01 - Followed up again. Follow up Wednesday (5/6).
 
 2026-04-24 - Followed up with LL. Follow up 1 week.
 

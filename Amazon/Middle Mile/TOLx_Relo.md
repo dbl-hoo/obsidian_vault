@@ -9,9 +9,9 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-27
-last_note: "Ambrose sent comments to NP; CRA issue; tracking Mathis Group; asked Camdem to look into Mathes parcel."
-next_due: 2026-04-27
+last_updated: 2026-05-01
+last_note: "Precon: Walker Olson. Langan engineering: Chris Godwin."
+next_due:
 tags:
   - deal
   - amazon
@@ -19,11 +19,9 @@ tags:
 
 ## Tasks
 
-- [x] Review SEW 📅 2026-04-27 ✅ 2026-04-28
-- [x] Review white paper 📅 2026-04-27 ✅ 2026-04-28
-- [x] Site Selection Prep 📅 2026-05-01 ✅ 2026-04-28
-
 ## Notes
+
+2026-05-01 - Precon manager: Walker Olson. Langan engineering: Chris Godwin.
 
 2026-04-27 - Ambrose sent comments back to NP; CRA is an issue; CRA documents have been requested. Still trying to track down Mathis Group; have had some communications with Premier Farm; asked Camdem to look into Mathes parcel.
 
