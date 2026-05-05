@@ -8,7 +8,7 @@ tags: [kbc]
 
 ## Tasks
 
-- [ ] Follow up with Gabe Tempkin 📅 2026-05-04
+- [x] Follow up with Gabe Tempkin 📅 2026-05-04 ✅ 2026-05-04
 
 ## Notes
 

@@ -19,7 +19,7 @@ tags:
 
 ## Tasks
 
-- [ ] 🔺 Call to get extension on Liepe PSA inspection period (expires 5/9) 📅 2026-05-04
+- [x] 🔺 Call to get extension on Liepe PSA inspection period (expires 5/9) 📅 2026-05-04 ✅ 2026-05-04
 - [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
 ## Notes
 

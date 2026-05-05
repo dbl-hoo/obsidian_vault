@@ -19,7 +19,7 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with Kirk Shephard / MetEd re: PM assignment 📅 2026-05-04
+- [x] Follow up with Kirk Shephard / MetEd re: PM assignment 📅 2026-05-04 ✅ 2026-05-04
 ## Notes
 
 2026-04-24 - TM updated to Phil Ristevski.

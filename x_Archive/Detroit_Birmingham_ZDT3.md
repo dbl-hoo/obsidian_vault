@@ -19,7 +19,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] Check status of ZDT3 (Birmingham) — lease was in progress at cancellation 📅 2026-04-30
+- [x] Check status of ZDT3 (Birmingham) — lease was in progress at cancellation 📅 2026-04-30 ✅ 2026-05-04
 
 ## Notes
 

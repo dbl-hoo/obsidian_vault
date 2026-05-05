@@ -18,8 +18,8 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Follow up with Amazon on PSA 📅 2026-05-04
-- [ ] Follow up with Amazon on DOH2 status 📅 2026-05-06
+- [x] Follow up with Amazon on PSA 📅 2026-05-04 ✅ 2026-05-04
+- [x] Follow up with Amazon on DOH2 status 📅 2026-05-06 ✅ 2026-05-04
 
 ## Related Notes
 

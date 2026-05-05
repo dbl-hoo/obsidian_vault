@@ -22,7 +22,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] 🔺 Follow up on ZIN1 environmental issue 📅 2026-05-04
+- [x] 🔺 Follow up on ZIN1 environmental issue 📅 2026-05-04 ✅ 2026-05-04
 
 ## Notes
 

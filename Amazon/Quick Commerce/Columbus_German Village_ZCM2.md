@@ -25,7 +25,7 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with Chatman Young and Flor Ponce re: CAR approval (weekly review) 📅 2026-05-04
+- [x] Follow up with Chatman Young and Flor Ponce re: CAR approval (weekly review) 📅 2026-05-04 ✅ 2026-05-04
 
 ## Notes
 

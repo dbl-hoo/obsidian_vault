@@ -19,7 +19,7 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with Jesse Parks on LOI 📅 2026-05-04
+- [x] Follow up with Jesse Parks on LOI 📅 2026-05-04 ✅ 2026-05-04
 - [ ] Review survey with Al Patel 📅 2026-05-08
 
 ## Notes

@@ -4,23 +4,25 @@ deal_type: Purchase
 business_unit: SDD
 status: Selected
 tm: Adam Knoll
-pcm: 
+pcm:
 launch_date: 2028-01-01
 start_date: 2025-11-05
-end_date: 
+end_date:
 local_broker: None
 area: Amazon
 last_updated: 2026-05-03
-last_note: "Waiting on Flash Environmental."
+last_note: Premier Meeting
 next_due:
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 ---
 
 ## Tasks
 
 ## Notes
 
-2026-05-03 - Waiting on Flash Environmental.
+2026-05-01 - Met with Premier - "We will have a revised drawing showing 4 points of car and truck entry, 304,000 SF, and adding 64 parking spaces in the rear.  We expect to have the Cost Reimbursement items no later than Wednesday of this coming week.  We are removing the land area that fronts on Euclid Ave. from the deal, being about 5 acres, so the economics will improve again."
 
 2026-04-17 - Looped in Kyle (econdev) on incentives.
 
