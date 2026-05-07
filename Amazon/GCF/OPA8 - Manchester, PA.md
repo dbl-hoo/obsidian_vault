@@ -9,9 +9,9 @@ launch_date: 2027-06-22
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-24
-last_note: "TM updated to Phil Ristevski."
-next_due: 2026-05-04
+last_updated: 2026-05-04
+last_note: "Two calls — Kirk (electrical/temp power/MetEd) and transaction call; MetEd complete Q1 2027; site visit likely 5/19."
+next_due:
 tags:
   - deal
   - amazon
@@ -19,8 +19,11 @@ tags:
 
 ## Tasks
 
-- [x] Follow up with Kirk Shephard / MetEd re: PM assignment 📅 2026-05-04 ✅ 2026-05-04
 ## Notes
+
+2026-05-04 - Call with Kirk. Electrical drawings being shared; Amazon working on temp power. Kirk: "round numbers could make this a lot more expensive than it has to be" — makes pricing difficult. Kirk has check-in with Derek. Still waiting on MetEd project manager to be assigned.
+
+2026-05-04 - Transaction call. MetEd 26 months is conservative estimate but assumes a lot of N/A stuff; NP won't give schedule other than NPs; NP owns buildout — NP will build substation; MetEd will be complete Q1 2027 — just needs to drop line and attach meter. Maura Kennedy wants to know if AHJ is open to operating on temp power. Site visit likely May 19.
 
 2026-04-24 - TM updated to Phil Ristevski.
 

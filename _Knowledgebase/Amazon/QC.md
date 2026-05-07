@@ -9,15 +9,15 @@ last_updated: 2026-04-24
 
 208 and 480 are both three-phase/four-wire systems and both work for QC.
 
-| Service | Status |
-|---|---|
-| 200A 208/120 | Usually OK — requires engineering to confirm |
-| 200A 480/277 | Usually OK — requires engineering to confirm |
-| 400A 208/120 | Preferred |
-| 400A 480/277 | Preferred |
-| 200A 120/240 | Not OK (single phase) |
-| 400A 120/240 | Not OK (single phase) |
-| 600–800A 120/240 | Possibly OK — rare |
+| Service          | Status                                       |
+| ---------------- | -------------------------------------------- |
+| 200A 208/120     | Usually OK — requires engineering to confirm |
+| 200A 480/277     | Usually OK — requires engineering to confirm |
+| 400A 208/120     | Preferred                                    |
+| 400A 480/277     | Preferred                                    |
+| 200A 120/240     | Not OK (single phase)                        |
+| 400A 120/240     | Not OK (single phase)                        |
+| 600–800A 120/240 | Possibly OK — rare                           |
 
 **Key principle:** Look for three-phase/four-wire service (480/277V or 208/120V). Single phase (120/240V) will get tapped out unless ~800A. A power upgrade means the utility must evaluate transformer capacity — can take 1+ year and be costly. QC power requirements are small, so most commercial buildings are fine.
 

@@ -8,9 +8,9 @@ pcm: Gary Gallagher
 launch_date: 2028-05-01
 end_date:
 local_broker: KBC
-last_updated: 2026-05-03
-last_note: "Need to call Monday to get extension on Liepe PSA inspection period (expires 5/9)."
-next_due: 2026-05-04
+last_updated: 2026-05-04
+last_note: "Called Liepe; sent email proposing closing extension — $25K additional EM (applicable, non-refundable)."
+next_due: 2026-05-22
 area: Amazon
 tags:
   - deal
@@ -19,9 +19,10 @@ tags:
 
 ## Tasks
 
-- [x] 🔺 Call to get extension on Liepe PSA inspection period (expires 5/9) 📅 2026-05-04 ✅ 2026-05-04
 - [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
 ## Notes
+
+2026-05-04 - Called Liepe; sent email proposing closing extension — $25K additional EM (applicable, non-refundable). Note: Liepe acquired in 2019.
 
 2026-05-03 - Need to call Monday (5/4) to get extension on Liepe PSA inspection period — expires 5/9.
 

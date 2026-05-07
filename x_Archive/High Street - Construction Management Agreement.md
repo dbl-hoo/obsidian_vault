@@ -1,17 +1,17 @@
 ---
 project: High Street - Construction Management Agreement
-status: Ongoing
+status: Closed
 area: KBC
 office: Dallas
 tags: [kbc]
-last_updated: 2026-05-03
+last_updated: 2026-05-04
 ---
 
 ## Tasks
 
-- [ ] Follow up with High Street on CMA 📅 2026-05-10
-
 ## Notes
+
+2026-05-04 - Agreement out for signature. Closing matter.
 
 2026-05-03 - Followed up with team. Follow up 1 week (5/10).
 
