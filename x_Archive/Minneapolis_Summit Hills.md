@@ -6,8 +6,8 @@ city: St. Paul
 state: MN
 deal_type: New Lease
 business_unit: QC
-status: Surveying
-last_updated: 2026-05-03
+status: Cancelled
+last_updated: 2026-05-07
 local_broker: "Brian Doyle / Sam Svendahl, Colliers"
 area: Amazon
 tm: TBD

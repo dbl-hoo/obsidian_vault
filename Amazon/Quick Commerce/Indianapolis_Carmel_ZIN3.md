@@ -22,7 +22,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] 🔺 Request additional parking from LL 📅 2026-05-04
+- [x] 🔺 Request additional parking from LL 📅 2026-05-04 ✅ 2026-05-07
 
 ## Notes
 

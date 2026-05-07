@@ -153,12 +153,21 @@ Add a single placeholder task so the matter appears in Open Tasks:
 
 Do NOT add tasks for substantive legal work beyond what Jason explicitly requests. One task is enough to surface the matter.
 
-### Step 6 — Report back
+### Step 6 — Delete the input file
+Delete the source file from `Inputs/` after all vault files and attachments have been saved:
+```python
+import os
+os.remove('C:/Users/kirkham/Documents/Vault/Inputs/filename.msg')
+```
+Confirm deletion in the report.
+
+### Step 7 — Report back
 Summarize in 3–5 bullet points:
 - Matter created (area, program if Amazon, office if KBC)
 - What arrived (document type, from whom)
 - Attachments saved (filenames) or "no attachments"
 - What's being asked of Jason
+- Input file deleted
 - Any open questions or ambiguities to flag
 - Do NOT offer to do the legal work
 

@@ -19,9 +19,9 @@ tags:
 
 ## Tasks
 
-- [ ] 🔺 Get property released from CCRs before closing 📅 2026-05-07
-- [ ] Obtain zoning confirmation letter 📅 2026-05-07
-- [ ] Confirm both parcels were rezoned 📅 2026-05-07
+- [x] 🔺 Get property released from CCRs before closing 📅 2026-05-07 ✅ 2026-05-07
+- [x] Obtain zoning confirmation letter 📅 2026-05-07 ✅ 2026-05-07
+- [x] Confirm both parcels were rezoned 📅 2026-05-07 ✅ 2026-05-07
 
 ## Notes
 
