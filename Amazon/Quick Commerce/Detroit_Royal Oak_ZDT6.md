@@ -12,8 +12,8 @@ local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-05-03
-last_note: "Amazon OK with assignment. Lease final. Waiting for CAR approval."
+last_updated: 2026-05-07
+last_note: "Requires 35 tons HVAC; may need >400A electrical. Construction team determining load."
 next_due:
 area: Amazon
 tm: TBD
@@ -36,6 +36,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-05-07 - Requires 35 tons of HVAC; may need more than 400A of electrical service. Construction team working on determining required load.
 
 2026-05-03 - Amazon OK with assignment. Lease final. Waiting for CAR approval.
 

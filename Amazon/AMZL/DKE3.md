@@ -9,8 +9,8 @@ start_date: 2025-06-06
 end_date: 
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-05-03
-last_note: "Termination contingency waived. On track for closing."
+last_updated: 2026-05-07
+last_note: "PNZ meeting 5/26; Village Board 6/2. DA received; legal and Ryan reviewing."
 next_due: 2026-05-28
 tags: [deal, amazon]
 ---
@@ -22,6 +22,8 @@ tags: [deal, amazon]
 - [ ] Closing Deadline 📅 2026-07-27
 
 ## Notes
+
+2026-05-07 - PNZ meeting 5/26; Village Board meeting 6/2. No appeal period. DA received from City; legal and Ryan reviewing.
 
 2026-05-03 - Termination contingency waived. On auto for closing.
 

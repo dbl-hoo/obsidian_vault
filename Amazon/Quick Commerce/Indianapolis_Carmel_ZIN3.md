@@ -12,9 +12,9 @@ local_broker: "Shannon Hunt | Vice President | Veritas Realty"
 loi_final: No
 loi_prepared: No
 site_selection_date: 2026-01-30
-last_updated: 2026-05-03
-last_note: "Amazon sticking with original space. Need to request additional parking from LL."
-next_due: 2026-05-04
+last_updated: 2026-05-07
+last_note: "Emailed LL asking for additional parking."
+next_due:
 area: Amazon
 tm: TBD
 tags: [deal, amazon, quick-commerce]
@@ -22,9 +22,9 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] 🔺 Request additional parking from LL 📅 2026-05-04 ✅ 2026-05-07
-
 ## Notes
+
+2026-05-07 - Emailed LL asking for additional parking.
 
 2026-05-03 - Amazon confirmed sticking with original space; not pursuing alternative suites. Need to request additional parking from LL by Monday (5/4).
 

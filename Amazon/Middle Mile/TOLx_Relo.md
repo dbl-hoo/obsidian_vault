@@ -9,8 +9,8 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-01
-last_note: "Precon: Walker Olson. Langan engineering: Chris Godwin."
+last_updated: 2026-05-07
+last_note: "Debrief call — site is selected."
 next_due:
 tags:
   - deal
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-05-07 - Debrief call — site is selected.
 
 2026-05-01 - Precon manager: Walker Olson. Langan engineering: Chris Godwin.
 

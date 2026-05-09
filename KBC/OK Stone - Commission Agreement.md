@@ -4,14 +4,14 @@ status: Ongoing
 area: KBC
 office: Dallas
 tags: [kbc]
-last_updated: 2026-04-29
+last_updated: 2026-05-07
 ---
 
 ## Tasks
 
-- [ ] Review OK Stone commission agreement redlines and flag missing legal language 📅 2026-05-06
-
 ## Notes
+
+2026-05-07 - Sent comments to Nathan Lawrence; he had already proceeded.
 
 2026-04-29 - [Source: email] Matter opened. Nathan Lawrence (KBC Dallas) sent a redlined Standard Leasing Commission Agreement for OK Stone. Asking Jason to review and flag any legal language that may be missing.
 

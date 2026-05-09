@@ -9,9 +9,9 @@ launch_date: 2027-08-15
 end_date:
 local_broker: Matt Eastin - Cushman
 area: Amazon
-last_updated: 2026-04-30
-last_note: Per Jess Mitchell — CCRs on site; need property released before closing. Open items: zoning confirmation letter, confirm both parcels rezoned.
-next_due: 2026-05-07
+last_updated: 2026-05-07
+last_note: "Closing between 15th–22nd. Title co reviewing declaration; seller says amendment (3/4 vote) is doable."
+next_due:
 tags:
   - deal
   - amazon
@@ -19,11 +19,9 @@ tags:
 
 ## Tasks
 
-- [x] 🔺 Get property released from CCRs before closing 📅 2026-05-07 ✅ 2026-05-07
-- [x] Obtain zoning confirmation letter 📅 2026-05-07 ✅ 2026-05-07
-- [x] Confirm both parcels were rezoned 📅 2026-05-07 ✅ 2026-05-07
-
 ## Notes
+
+2026-05-07 - Closing between 15th and 22nd. Jessica Mitchell having title company review title on declaration for purpose of declaration amendment. From seller re: Declaration: original declarant (DrillMO LLC) retains no active control — they no longer own property subject to CC&Rs. No active board; control lies with land owners. Amendments require 3/4 vote — seller says Brock and seller (2/4 owners) could sign off and get another owner; believes they have good relationships. CC&R is in place but seller doesn't think it'll be a big deal to amend to remove this parcel.
 
 2026-04-30 - Per Jess Mitchell: CCRs present on the site; need to get property released before closing. Also open: zoning confirmation letter and whether both parcels were rezoned.
 

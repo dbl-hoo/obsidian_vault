@@ -12,14 +12,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-04-26
-last_note: PSA signed; site plan finalized.
+last_updated: 2026-05-07
+last_note: "Nearby ballfields not in use; Keith proceeding with analysis."
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-05-07 - Re: nearby ballfields — not in use, roughly same shape for years. Outside of mowing and general decay, nothing much has changed. Keith proceeding with analysis.
 
 2026-04-02 - Transaction call. Sales and Use Tax incentive — city looking for way to recoup funds and share savings with City of Park Hills; potentially $400K in savings. EconDev: "no — not worth the effort." Schedule risk for CAR delay — a lot of site work; no winter conditions built into GMP; current plan assumes all paving down before plants close; have a couple of weeks. Targeting CAR approval by July 22.
 
