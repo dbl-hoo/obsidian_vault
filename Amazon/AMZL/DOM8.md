@@ -9,8 +9,8 @@ launch_date: 2027-08-15
 end_date:
 local_broker: Matt Eastin - Cushman
 area: Amazon
-last_updated: 2026-05-07
-last_note: "Closing between 15th–22nd. Title co reviewing declaration; seller says amendment (3/4 vote) is doable."
+last_updated: 2026-05-08
+last_note: "Declaration parties: Lost Creek Props (Brandon Penberthy) is 3rd owner; Lance/Brock/Brandon can sign amendment without Chris Williams (4th owner)."
 next_due:
 tags:
   - deal
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-05-08 - Declaration parties clarified. 3rd owner is Lost Creek Properties, LLC (owned by Brandon Penberthy). Lance, Brock, and Brandon have authority to sign the amendment — no need to involve 4th owner Chris Williams.
 
 2026-05-07 - Closing between 15th and 22nd. Jessica Mitchell having title company review title on declaration for purpose of declaration amendment. From seller re: Declaration: original declarant (DrillMO LLC) retains no active control — they no longer own property subject to CC&Rs. No active board; control lies with land owners. Amendments require 3/4 vote — seller says Brock and seller (2/4 owners) could sign off and get another owner; believes they have good relationships. CC&R is in place but seller doesn't think it'll be a big deal to amend to remove this parcel.
 
