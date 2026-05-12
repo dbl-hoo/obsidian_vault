@@ -20,7 +20,7 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with seller on LOI 📅 2026-05-06
+- [x] Follow up with seller on LOI 📅 2026-05-06 ✅ 2026-05-10
 
 ## Notes
 

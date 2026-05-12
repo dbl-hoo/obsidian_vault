@@ -26,7 +26,7 @@ next_due: 2026-05-04
 ## Tasks
 
 - [x] Follow up on CAR 📅 2026-05-04 ✅ 2026-05-04
-- [ ] Follow up with Amazon on ZCL2 power proposal 📅 2026-05-06
+- [x] Follow up with Amazon on ZCL2 power proposal 📅 2026-05-06 ✅ 2026-05-10
 
 ## Notes
 

@@ -9,7 +9,7 @@ last_updated: 2026-05-01
 
 ## Tasks
 
-- [ ] Draft summary 📅 2026-05-04
+- [x] Draft summary 📅 2026-05-04 ✅ 2026-05-11
 
 ## Notes
 

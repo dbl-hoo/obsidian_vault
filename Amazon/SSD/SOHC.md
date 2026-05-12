@@ -22,6 +22,11 @@ tags:
 
 ## Notes
 
+2026.05.10 - 1. Rent for the 15-year term is $10.23 SF for year 1, and for the 20-year lease term the beginning rent for year 1 will be $9.95 SF.
+2. The Mayor of Wickliffe without knowing any Company details is 100% supportive for a 49% abatement for 10 years minimum and 15 years maximum and is very confident that Council will approve as well.  He said we can start this process now and when the Company is ready to meet and greet, The Mayor and his team will provide a very strong welcoming meeting.
+
+  These buildings are from the 1950’s and it shows.  So, a new facility with the stature of Amazon will be very well received in both the corporate use and the quality of the new facility/campus.
+ 
 2026-05-01 - Met with Premier - "We will have a revised drawing showing 4 points of car and truck entry, 304,000 SF, and adding 64 parking spaces in the rear.  We expect to have the Cost Reimbursement items no later than Wednesday of this coming week.  We are removing the land area that fronts on Euclid Ave. from the deal, being about 5 acres, so the economics will improve again."
 
 2026-04-17 - Looped in Kyle (econdev) on incentives.

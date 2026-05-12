@@ -4,15 +4,15 @@ status: Ongoing
 area: KBC
 office: Chicago
 tags: [kbc]
-last_updated: 2026-05-06
+last_updated: 2026-05-09
 ---
 
 ## Tasks
 
-- [ ] 🔺 Revise listing agreement to remove 10-year cap 📅 2026-05-07
-- [ ] Follow up with Conway on 2524 W 24th St listing agreement 📅 2026-05-08
 
 ## Notes
+
+2026-05-09 - Revised and sent to Michael Conway (KBC).
 
 2026-04-29 - Sent comments to the business.
 

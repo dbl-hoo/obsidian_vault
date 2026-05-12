@@ -20,7 +20,7 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with LL 📅 2026-05-06
+- [x] Follow up with LL 📅 2026-05-06 ✅ 2026-05-11
 
 ## Notes
 

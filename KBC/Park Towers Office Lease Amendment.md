@@ -9,7 +9,7 @@ last_updated: 2026-05-01
 
 ## Tasks
 
-- [ ] 🔺 Review Park Towers lease amendment 📅 2026-05-04
+- [x] 🔺 Review Park Towers lease amendment 📅 2026-05-04 ✅ 2026-05-10
 
 ## Notes
 2026-05-01 - Revised lease received. Need to review by EOD Monday (5/4).

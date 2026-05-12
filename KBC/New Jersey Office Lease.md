@@ -16,7 +16,7 @@ last_updated: 2026-05-01
 
 ## Tasks
 
-- [ ] Follow up on NJ Office Lease 📅 2026-05-08
+- [x] Follow up on NJ Office Lease 📅 2026-05-08 ✅ 2026-05-11
 
 ## Notes
 

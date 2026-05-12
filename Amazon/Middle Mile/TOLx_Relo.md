@@ -9,9 +9,9 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-07
-last_note: "Debrief call — site is selected."
-next_due:
+last_updated: 2026-05-09
+last_note: "Follow up next week on Mathes property and outside counsel assignment."
+next_due: 2026-05-16
 tags:
   - deal
   - amazon
@@ -19,7 +19,12 @@ tags:
 
 ## Tasks
 
+- [ ] Follow up on Mathes property 📅 2026-05-16
+- [ ] Follow up on outside counsel assignment 📅 2026-05-16
+
 ## Notes
+
+2026-05-09 - Follow up next week on Mathes property and outside counsel assignment.
 
 2026-05-07 - Debrief call — site is selected.
 

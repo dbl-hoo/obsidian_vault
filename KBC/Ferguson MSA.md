@@ -4,12 +4,16 @@ status: Ongoing
 area: KBC
 office: Chicago
 tags: [kbc]
-last_updated: 2026-05-01
+last_updated: 2026-05-09
 ---
 
 ## Tasks
 
+- [ ] Follow up on Ferguson MSA 📅 2026-05-12
+
 ## Notes
+
+2026-05-09 - Reviewed and advised business on 1st party indemnity risk.
 
 2026-05-01 - Rose following up with Todd S.
 
