@@ -11,13 +11,15 @@ end_date:
 local_broker: KBC
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-05-01
-last_note: "Updated LOIs received; farm leases in place (terminate upon sale); crops $725/acre."
+last_updated: 2026-05-11
+last_note: "Tetramino: pre-con/design confusion; less land needed; Al escalated, business OK with taking it."
 next_due:
 ---
 ## Tasks
 
 ## Notes
+
+2026-05-11 - Tetramino update: confusion among pre-con/design teams; looks like they need way less land. Al has escalated — thinks the business is OK with taking it.
 
 2026-05-01 - Updated LOIs received. Farm leases in place; can be terminated upon sale. Crops at $725/acre.
 

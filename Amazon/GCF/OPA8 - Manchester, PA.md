@@ -9,9 +9,9 @@ launch_date: 2027-06-22
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-04
-last_note: "Two calls — Kirk (electrical/temp power/MetEd) and transaction call; MetEd complete Q1 2027; site visit likely 5/19."
-next_due:
+last_updated: 2026-05-11
+last_note: "CRA in process — spend schedule/scope approval needed; Landworks to confirm NPDES minor modification; lease CAR fully approved."
+next_due: 2026-05-18
 tags:
   - deal
   - amazon
@@ -19,7 +19,12 @@ tags:
 
 ## Tasks
 
+- [ ] Get spend schedule and scope approved for CRA 📅 2026-05-18
+- [ ] Follow up with Landworks — confirm NPDES modification is minor 📅 2026-05-18
+
 ## Notes
+
+2026-05-11 - CRA in process — need spend schedule and scope approved. Revised NPDES permitting process with new triggers for minor modification; Landworks to confirm it would be a minor modification. Note: lease CAR is fully approved.
 
 2026-05-04 - Call with Kirk. Electrical drawings being shared; Amazon working on temp power. Kirk: "round numbers could make this a lot more expensive than it has to be" — makes pricing difficult. Kirk has check-in with Derek. Still waiting on MetEd project manager to be assigned.
 

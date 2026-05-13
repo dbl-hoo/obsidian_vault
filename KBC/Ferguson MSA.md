@@ -9,7 +9,7 @@ last_updated: 2026-05-09
 
 ## Tasks
 
-- [ ] Follow up on Ferguson MSA 📅 2026-05-12
+- [x] Follow up on Ferguson MSA 📅 2026-05-12 ✅ 2026-05-12
 
 ## Notes
 

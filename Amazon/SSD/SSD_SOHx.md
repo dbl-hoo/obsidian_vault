@@ -20,7 +20,7 @@ next_due: 2026-05-07
 
 ## Tasks
 
-- [ ] Follow up on flash WHS 📅 2026-05-07
+- [x] Follow up on flash WHS 📅 2026-05-07 ✅ 2026-05-12
 
 ## Notes
 

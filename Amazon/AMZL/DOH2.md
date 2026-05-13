@@ -9,17 +9,17 @@ launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date: 
 local_broker: KBC
-last_updated: 2026-05-01
-last_note: "Followed up w/ Amazon on status; farm lease intel (oral, Jason Grant, terminates by Sept 1). Follow up Wed (5/6)."
-next_due: 2026-05-04
+last_updated: 2026-05-11
+last_note: "Finalizing WO for Friday; need to follow up on PSA."
+next_due: 2026-05-15
 area: Amazon
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
-- [x] Follow up with Amazon on PSA 📅 2026-05-04 ✅ 2026-05-04
-- [x] Follow up with Amazon on DOH2 status 📅 2026-05-06 ✅ 2026-05-04
+- [ ] Finalize WO 📅 2026-05-15
+- [ ] Follow up on PSA 📅 2026-05-18
 
 ## Related Notes
 
@@ -28,6 +28,8 @@ tags: [deal, amazon]
 - [[Northpoint - MW]] (Reference)
 
 ## Notes
+
+2026-05-11 - Finalizing WO for Friday. Need to follow up on PSA.
 
 2026-05-01 - Followed up with Amazon team on status. Follow up Wednesday (5/6). Farm lease intel: Jason Grant has oral farm lease; just planted corn; alternates corn/soybeans. Ed Boll Jr.: 513-919-1539. Ed Boll III: 513-519-8088. Oral lease in place; can be terminated by giving notice by September 1.
 

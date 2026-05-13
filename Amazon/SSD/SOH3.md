@@ -18,7 +18,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Follow up on CAR approval 📅 2026-05-17
+- [x] Follow up on CAR approval 📅 2026-05-17 ✅ 2026-05-12
 
 ## Notes
 
