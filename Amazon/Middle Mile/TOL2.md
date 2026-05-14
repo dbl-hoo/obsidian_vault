@@ -1,5 +1,5 @@
 ---
-site_code: TOLx_Relo
+site_code: TOL2
 deal_type: Purchase
 business_unit: GCF
 status: Selected
@@ -9,7 +9,7 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-12
+last_updated: 2026-05-13
 last_note: "NP DD package received — 22 files (CRA, compensation agreements, drawings, farm leases, Phase 1s, title/survey, will serve letters)."
 next_due: 2026-05-16
 tags:
@@ -24,7 +24,9 @@ tags:
 
 ## Notes
 
-2026-05-12 - NorthPoint DD package received (OneDrive). 22 files saved to `TOLx_Relo\NP DD\`. Includes: CRA agreement and resolution; compensation agreements (North Baltimore + Penta); drawings (OH-18 plan set, SSWR improvement plans); property/op docs (Bishop farm leases, Blake right of entry); reports (Phase 1 ESAs x2, soils report, traffic impact study + ODOT approval); title/survey (commitment, ALTA, survey, as-surveyed description); will serve letters (Hancock Wood electric, KNG Energy, NWWSD water/sewer).
+2026-05-13 - Site code assigned: TOL2 (formerly TOLx_Relo).
+
+2026-05-12 - NorthPoint DD package received (OneDrive). 22 files saved to `TOL2\NP DD\`. Includes: CRA agreement and resolution; compensation agreements (North Baltimore + Penta); drawings (OH-18 plan set, SSWR improvement plans); property/op docs (Bishop farm leases, Blake right of entry); reports (Phase 1 ESAs x2, soils report, traffic impact study + ODOT approval); title/survey (commitment, ALTA, survey, as-surveyed description); will serve letters (Hancock Wood electric, KNG Energy, NWWSD water/sewer).
 
 2026-05-09 - Follow up next week on Mathes property and outside counsel assignment.
 

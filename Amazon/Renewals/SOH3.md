@@ -10,17 +10,18 @@ start_date: 2025-07-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-04-26
-last_note: Waiting on CAR approval.
+last_updated: 2026-05-12
+last_note: Went back to LL with 3-year term at $7.75/SF; LL countered — will only do 5 years.
 next_due: 2026-05-17
 tags: [deal, amazon]
 ---
 
 ## Tasks
 
-- [x] Follow up on CAR approval 📅 2026-05-17 ✅ 2026-05-12
 
 ## Notes
+
+2026-05-12 - Went back to LL with 3 year renewal term at $7.75/SF. LL won't accept — will only do a 5 year deal.
 
 2026-04-26 - Waiting on CAR approval.
 

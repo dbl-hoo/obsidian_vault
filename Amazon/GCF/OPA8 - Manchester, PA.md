@@ -9,8 +9,8 @@ launch_date: 2027-06-22
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-11
-last_note: "CRA in process — spend schedule/scope approval needed; Landworks to confirm NPDES minor modification; lease CAR fully approved."
+last_updated: 2026-05-13
+last_note: "NP power memo (3/27): building gear rated 8K amps but FE restricted to 2,400A pending substation; NP completes Q1 2027; FE 26-month clock starts at CSA execution. Amazon still owes load sheets + ramp-up schedule to size temp power."
 next_due: 2026-05-18
 tags:
   - deal
@@ -23,6 +23,8 @@ tags:
 - [ ] Follow up with Landworks — confirm NPDES modification is minor 📅 2026-05-18
 
 ## Notes
+
+2026-05-13 - Reviewed NP power memo dated 2026-03-27 (Manchester Commerce Center Bldg 2). Building gear rated 8,000A but FE restricted to ~2,000 kVA / 2,400A at 480V while substation is under construction. NP substation buildout projected Q1 2027; FE's 26-month timeline runs from CSA execution (CSA expected delivered 3/27/26) — timeline is conservative since no easements or environmental constraints apply. Critical path: CSA execution → NPD pays FE invoice → FE assigns PM → engineering/procurement → refined schedule. Temp power via generators bridges the gap. Amazon still owes NP: detailed load sheets (panel-by-panel, demand, duty cycle), updated electrical one-line, and power ramp-up schedule before temp power can be sized.
 
 2026-05-11 - CRA in process — need spend schedule and scope approved. Revised NPDES permitting process with new triggers for minor modification; Landworks to confirm it would be a minor modification. Note: lease CAR is fully approved.
 
