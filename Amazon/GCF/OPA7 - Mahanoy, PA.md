@@ -10,8 +10,8 @@ start_date: 2025-12-17
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-01
-last_note: "Noise study received — Low Risk; no detailed study needed; no abatement required. Updated in Shield/WD."
+last_updated: 2026-05-13
+last_note: "Status: lease in LL's court; CAR at L11, approval target 5/25; June 5 lease signing; LERTA approved; 10K amps sufficient to launch; ES target next week."
 next_due:
 tags:
   - deal
@@ -22,6 +22,8 @@ tags:
 
 
 ## Notes
+
+2026-05-13 - Status update: lease draft in LL's court; CAR at L11 level, looking for approval 5/25; June 5 target lease signing; LERTA approved by Amazon; power upgrade (2K amps) — update pending from LL; initial 10K amps delivered with building, additional 2K amps 8 months after (no temp needed; 10K sufficient to launch); CCR estoppel and ZCM pending but in process; targeting launching ES next week.
 
 2026-05-01 - Noise study received; updated in Shield and WD.
 - Risk Level: Low Risk

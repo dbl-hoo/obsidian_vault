@@ -10,7 +10,7 @@ end_date:
 local_broker: KBC
 area: Amazon
 last_updated: 2026-05-13
-last_note: "NP DD package received — 22 files (CRA, compensation agreements, drawings, farm leases, Phase 1s, title/survey, will serve letters)."
+last_note: "Broker land breakdown for Matthes LOI increase; asking for OK to update and send."
 next_due: 2026-05-16
 tags:
   - deal
@@ -21,8 +21,11 @@ tags:
 
 - [ ] Follow up on Mathes property 📅 2026-05-16
 - [ ] Follow up on outside counsel assignment 📅 2026-05-16
+- [ ] Confirm with broker: OK to update Matthes LOI and send back 📅 2026-05-21
 
 ## Notes
+
+2026-05-13 - Received land breakdown from broker on Matthes LOI increase. Premiere cost variance doesn't move the needle on overall basis. Basis looks good — broker asking for confirmation to update Matthes LOI and send back to Matthes.
 
 2026-05-13 - Site code assigned: TOL2 (formerly TOLx_Relo).
 

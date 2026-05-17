@@ -13,16 +13,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-04-30
-last_note: Kicking off flash WHS; follow up in 1 week.
-next_due: 2026-05-07
+last_updated: 2026-05-13
+last_note: Flash WHS DD complete — result is pivot.
+next_due:
 ---
 
 ## Tasks
 
-- [x] Follow up on flash WHS 📅 2026-05-07 ✅ 2026-05-12
-
 ## Notes
+
+2026-05-13 - Flash WHS DD complete: result is pivot.
 
 2026-04-30 - Kicking off flash WHS. Follow up in 1 week.
 
