@@ -12,8 +12,8 @@ local_broker: "Shannon Hunt | Vice President | Veritas Realty"
 loi_final: No
 loi_prepared: No
 site_selection_date: 2026-01-30
-last_updated: 2026-05-07
-last_note: "Emailed LL asking for additional parking."
+last_updated: 2026-05-15
+last_note: "City unresponsive on land use; PreCon instructed to submit permits asserting 'Wholesale' by-right. Burden on City to agree or demand CUP."
 next_due:
 area: Amazon
 tm: TBD
@@ -23,6 +23,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-05-15 - City became unresponsive after repeated requests to make a final land use decision. Instructed PreCon to submit for permits asserting "Wholesale" by-right. Burden is now on the City to either agree or push back and demand a CUP for warehouse.
 
 2026-05-07 - Emailed LL asking for additional parking.
 

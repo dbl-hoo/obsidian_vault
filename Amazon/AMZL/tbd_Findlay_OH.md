@@ -12,14 +12,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-05-03
-last_note: "Surveys sent to Amazon 4/28. Waiting on Kristen DeFamio."
+last_updated: 2026-05-15
+last_note: "Call w/ Kristen DeFamio — WOH1 needs increased capacity; shortlisted sites 1, 3, 4, and 8."
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-05-15 - Call w/ Kristen DeFamio. WOH1 needs increased capacity; shortlisted sites 1, 3, 4, and 8.
 
 2026-05-03 - Waiting on Kristen DeFamio feedback on surveys.
 

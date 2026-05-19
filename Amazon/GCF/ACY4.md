@@ -8,8 +8,8 @@ pcm: Gary Gallagher
 launch_date: 2028-05-01
 end_date:
 local_broker: KBC
-last_updated: 2026-05-04
-last_note: "Called Liepe; sent email proposing closing extension — $25K additional EM (applicable, non-refundable)."
+last_updated: 2026-05-17
+last_note: "Sent PSA amendment to Samantha Liepe. Follow up 1 week."
 next_due: 2026-05-22
 area: Amazon
 tags:
@@ -19,8 +19,12 @@ tags:
 
 ## Tasks
 
-- [ ] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22
+- [x] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22 ✅ 2026-05-18
+- [ ] Follow up w/ Samantha Liepe on PSA amendment 📅 2026-05-20
+
 ## Notes
+
+2026-05-17 - Sent PSA amendment to Samantha Liepe. Follow up 1 week.
 
 2026-05-04 - Called Liepe; sent email proposing closing extension — $25K additional EM (applicable, non-refundable). Note: Liepe acquired in 2019.
 

@@ -19,9 +19,9 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up on Mathes property 📅 2026-05-16
+- [x] Follow up on Mathes property 📅 2026-05-16 ✅ 2026-05-18
 - [ ] Follow up on outside counsel assignment 📅 2026-05-16
-- [ ] Confirm with broker: OK to update Matthes LOI and send back 📅 2026-05-21
+- [x] Confirm with broker: OK to update Matthes LOI and send back 📅 2026-05-21 ✅ 2026-05-18
 
 ## Notes
 

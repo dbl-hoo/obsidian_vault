@@ -20,7 +20,7 @@ next_due: 2026-05-15
 
 ## Tasks
 
-- [ ] Engage on new GCF Flex Shell survey — Mid-Missouri 📅 2026-05-15
+- [x] Engage on new GCF Flex Shell survey — Mid-Missouri 📅 2026-05-15 ✅ 2026-05-18
 
 ## Notes
 

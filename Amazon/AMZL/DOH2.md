@@ -18,8 +18,8 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Finalize WO 📅 2026-05-15
-- [ ] Follow up on PSA 📅 2026-05-18
+- [x] Finalize WO 📅 2026-05-15 ✅ 2026-05-18
+- [x] Follow up on PSA 📅 2026-05-18 ✅ 2026-05-18
 
 ## Related Notes
 

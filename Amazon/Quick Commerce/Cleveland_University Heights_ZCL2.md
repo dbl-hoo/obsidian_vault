@@ -12,23 +12,31 @@ local_broker: Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-03-03
-last_updated: 2026-05-11
+last_updated: 2026-05-15
 area: Amazon
 tags:
   - deal
   - amazon
   - quick-commerce
 tm: Chatman Young
-last_note: "Power call — transformer undersized for 200A 3-phase; First Energy 2-3 months; need 1-line of existing service and pole location."
-next_due: 2026-05-18
+last_note: "Property condition report (ADA sidewalks, hot water heater, RTU reinforcement TBD, AC, garage seals). LL proposal: July 1 commencement, 3-mo opex only then 65% x3 then full rent; power by 12/31/2026."
+next_due:
 ---
 
 ## Tasks
 
-- [x] Get 1-line of existing electrical service 📅 2026-05-18 ✅ 2026-05-12
-- [x] Work out pole location with First Energy 📅 2026-05-18 ✅ 2026-05-12
-
 ## Notes
+
+2026-05-15 - Property condition report:
+1. Front sidewalk at 4' — ADA required at entrance (new sidewalk at 5' depth?). Pics added to ACC.
+2. Bottom of existing heaters at 9'6" — confirmed with drawings.
+3. Hot water tank not producing hot water; breakers were on (not shut off). Plan to replace.
+4. New RTUs — need to assess whether steel roof requires reinforcement.
+5. AC kicks on in office areas but cycling off/on repeatedly — needs service.
+6. Rear entrance also needs ADA — pics added to ACC.
+7. Garage doors showing light around edges — new seals needed.
+8. Main walls newly painted CMU but porous — may need covering for "cleanable surface."
+LL proposal — lease commencement and power upgrade: Fixed July 1 commencement; first 3 months utilities/CAMs/opex only; months 4–6 at 65% Base Rent; full Base Rent thereafter. LL work (400A 208v 3-phase) delivery by 12/31/2026 with penalties if late.
 
 2026-05-11 - Power call. Current service: 200A single-phase + 100A 3-phase. First Energy is utility — transformer too small to provide 200A 3-phase to start. Scott sent 1-line to First Energy (Randal); need to sink a couple of poles (2-3 months); option to pay for overtime. Per Bryan Matthews: not feasible for HVAC — 2 new 7.5-ton units (MCA 43A each, ~30A running, ~70A combined). Coolers on single-phase. Concern over peak draw at startup; can stagger? 2 weeks for design and invoicing to get on schedule. Need to work out pole location. Need to get 1-line of existing service. Amazon needs ~$1.5M for operation setup (interior construction).
 

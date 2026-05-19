@@ -19,8 +19,8 @@ tags:
 
 ## Tasks
 
-- [ ] Get spend schedule and scope approved for CRA 📅 2026-05-18
-- [ ] Follow up with Landworks — confirm NPDES modification is minor 📅 2026-05-18
+- [x] Get spend schedule and scope approved for CRA 📅 2026-05-18 ✅ 2026-05-18
+- [x] Follow up with Landworks — confirm NPDES modification is minor 📅 2026-05-18 ✅ 2026-05-18
 
 ## Notes
 
