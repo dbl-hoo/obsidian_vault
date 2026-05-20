@@ -17,7 +17,6 @@ tags:
   - deal
   - amazon
 ---
-
 ## Tasks
 
 ## Notes

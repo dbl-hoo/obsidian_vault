@@ -42,7 +42,7 @@ Group content by deal. If a chunk of content can't be matched to a deal, **stop 
 For each deal identified:
 1. **Re-read the deal file immediately before writing**
 2. **Prepend** a dated entry to `## Notes` (today's date, ISO format)
-3. **Only create tasks if the note explicitly calls for one** — e.g., "follow up next week", "send X by Friday", "need to do Y". Do NOT infer tasks from note content (e.g., "sent EAA to sellers" does NOT become a follow-up task). If a task is warranted but no date is given, default to 1 week from today.
+3. **Only create tasks if the note explicitly requests one** — e.g., "send X by Friday", "need to do Y", "add a task to Z". Implied follow-ups do NOT become tasks (e.g., "follow up next week", "sent EAA to sellers", "waiting on LL" — none of these create tasks). If a task is warranted but no date is given, default to 1 week from today.
    - `- [ ] Task description 📅 YYYY-MM-DD`
    - `- [ ] 🔺 High priority task 📅 YYYY-MM-DD`
 4. **Delete all completed tasks** — remove any `- [x]` lines from `## Tasks`. Completed tasks are deleted, not kept.
@@ -72,7 +72,7 @@ After processing, suggest specific improvements to `CLAUDE.md` or other system f
 - **Don't create new deal files** during EOD — if a new deal is mentioned, flag it and ask Jason to open it explicitly
 - **Preserve note prose exactly** — don't clean up, rewrite, or summarize what Jason wrote
 - **Tasks go in ## Tasks, notes go in ## Notes** — don't mix them
-- **Only create tasks when notes explicitly call for one** — no inferred follow-ups
+- **Only create tasks when the note explicitly requests one** — implied follow-ups, waiting-on notes, and status updates do NOT become tasks
 - If a deal has `status: Closed` or `status: Dead`, flag it rather than updating silently
 
 ---
