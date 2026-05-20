@@ -9,9 +9,9 @@ launch_date: 2027-06-22
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-13
-last_note: "PreCon call w/ NP and City on temp power; generators planned 2-3 months before launch; site visit 2026-05-19 11 AM."
-next_due: 2026-05-18
+last_updated: 2026-05-18
+last_note: "Noise study results: noise abatement not recommended at this time; screening considered for future."
+next_due:
 tags:
   - deal
   - amazon
@@ -19,10 +19,9 @@ tags:
 
 ## Tasks
 
-- [x] Get spend schedule and scope approved for CRA 📅 2026-05-18 ✅ 2026-05-18
-- [x] Follow up with Landworks — confirm NPDES modification is minor 📅 2026-05-18 ✅ 2026-05-18
-
 ## Notes
+
+2026-05-18 - Noise study results: noise abatement not recommended at this time; based on field observations, screening included as a recommendation for future consideration.
 
 2026-05-13 - PreCon call with NP and City re temp power solution. Plan temp generators 2-3 months before launch. Site visit scheduled 11:00 AM Tuesday 2026-05-19.
 
