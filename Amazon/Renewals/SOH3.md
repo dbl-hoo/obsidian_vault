@@ -10,9 +10,9 @@ start_date: 2025-07-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-12
-last_note: Went back to LL with 3-year term at $7.75/SF; LL countered — will only do 5 years.
-next_due: 2026-05-17
+last_updated: 2026-05-21
+last_note: "Business not decided on 5-year term; want to push out LND (currently 7/4/26)."
+next_due:
 tags: [deal, amazon]
 ---
 
@@ -20,6 +20,8 @@ tags: [deal, amazon]
 
 
 ## Notes
+
+2026-05-21 - Business not yet decided on 5-year term; want to push out the lease notice date (LND). Current LND is 7/4/26.
 
 2026-05-12 - Went back to LL with 3 year renewal term at $7.75/SF. LL won't accept — will only do a 5 year deal.
 

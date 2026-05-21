@@ -10,9 +10,9 @@ start_date: 2026-03-31
 end_date:
 local_broker: Beau Taggart
 area: Amazon
-last_updated: 2026-05-01
-last_note: "Followed up again; follow up Wed (5/6)."
-next_due: 2026-05-06
+last_updated: 2026-05-21
+last_note: "LL response: holding at $7.00/SF, no free rent, open to 3 or 4 renewal options."
+next_due:
 tags:
   - deal
   - amazon
@@ -20,9 +20,15 @@ tags:
 
 ## Tasks
 
-- [x] Follow up with LL 📅 2026-05-06 ✅ 2026-05-11
-
 ## Notes
+
+2026-05-21 - LL response received. Holding firm at $7.00/SF:
+• Maintain $7.00/SF for renewal term
+• No free rent concession
+• Open to 4 renewal terms or keeping existing 3-option structure (as in First Amendment)
+• Maintain current lease framework
+LL rationale: current rate already negotiated up from ~$4.97/SF; free rent not justified for existing tenant; assignment rights already broad under Section 17(a); 90% FMV renewal right supports $7.00/SF given inflation, industrial demand, and replacement costs.
+Context: we agreed to $7.00/SF for renewal June 26–May 27; had proposed $5.95/SF for 3-year renewal with 2% bumps.
 
 2026-05-01 - Followed up again. Follow up Wednesday (5/6).
 

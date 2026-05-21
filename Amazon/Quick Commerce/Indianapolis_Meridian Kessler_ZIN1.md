@@ -12,9 +12,9 @@ local_broker: "Shannon Hunt | Vice President | Veritas Realty"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-01-27
-last_updated: 2026-05-03
-last_note: "Updated lease received; Amazon legal flagged potential environmental issue. Follow up Monday."
-next_due: 2026-05-04
+last_updated: 2026-05-21
+last_note: "Lease final. CAR approval pending."
+next_due:
 area: Amazon
 tm: TBD
 tags: [deal, amazon, quick-commerce]
@@ -22,9 +22,9 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] 🔺 Follow up on ZIN1 environmental issue 📅 2026-05-04 ✅ 2026-05-04
-
 ## Notes
+
+2026-05-21 - Lease final. CAR approval pending.
 
 2026-05-03 - Updated lease received. Amazon legal flagged potential environmental issue. Follow up Monday (5/4).
 

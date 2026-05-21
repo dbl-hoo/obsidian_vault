@@ -12,20 +12,22 @@ local_broker: Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-03-03
-last_updated: 2026-05-15
+last_updated: 2026-05-21
 area: Amazon
 tags:
   - deal
   - amazon
   - quick-commerce
 tm: Chatman Young
-last_note: "Property condition report (ADA sidewalks, hot water heater, RTU reinforcement TBD, AC, garage seals). LL proposal: July 1 commencement, 3-mo opex only then 65% x3 then full rent; power by 12/31/2026."
+last_note: "Lease back to LL and Amazon."
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-05-21 - Lease back to LL and Amazon.
 
 2026-05-15 - Property condition report:
 1. Front sidewalk at 4' — ADA required at entrance (new sidewalk at 5' depth?). Pics added to ACC.

@@ -8,9 +8,9 @@ pcm: Gary Gallagher
 launch_date: 2028-05-01
 end_date:
 local_broker: KBC
-last_updated: 2026-05-17
-last_note: "Sent PSA amendment to Samantha Liepe. Follow up 1 week."
-next_due: 2026-05-22
+last_updated: 2026-05-21
+last_note: "Updated PSA amendment sent to Liepe. Follow up 2026-05-28."
+next_due: 2026-05-28
 area: Amazon
 tags:
   - deal
@@ -19,10 +19,11 @@ tags:
 
 ## Tasks
 
-- [x] Land CAR approval needed for 8th amendment extension deposit 🔺 📅 2026-05-22 ✅ 2026-05-18
-- [ ] Follow up w/ Samantha Liepe on PSA amendment 📅 2026-05-20
+- [ ] Follow up w/ Samantha Liepe on PSA amendment 📅 2026-05-28
 
 ## Notes
+
+2026-05-21 - Updated PSA amendment sent to Liepe. Follow up 1 week.
 
 2026-05-17 - Sent PSA amendment to Samantha Liepe. Follow up 1 week.
 
