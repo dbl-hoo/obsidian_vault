@@ -9,8 +9,8 @@ start_date: 2025-06-06
 end_date: 
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-05-07
-last_note: "PNZ meeting 5/26; Village Board 6/2. DA received; legal and Ryan reviewing."
+last_updated: 2026-05-20
+last_note: "Amazon exercising 2nd (final) 30-day DD extension; DD expires June 29; $25K deposit to Chicago Title by June 2."
 next_due: 2026-05-28
 tags: [deal, amazon]
 ---
@@ -22,6 +22,8 @@ tags: [deal, amazon]
 - [ ] Closing Deadline 📅 2026-07-27
 
 ## Notes
+
+2026-05-20 - Amazon will exercise 2nd (and final) 30-day DD Period extension; DD Period expires June 29 (rather than May 28). Extending requires $25K deposit with Chicago Title by June 2nd. FYI only.
 
 2026-05-07 - PNZ meeting 5/26; Village Board meeting 6/2. No appeal period. DA received from City; legal and Ryan reviewing.
 

@@ -9,8 +9,8 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-13
-last_note: "Broker land breakdown for Matthes LOI increase; asking for OK to update and send."
+last_updated: 2026-05-20
+last_note: "Deal structure: Ambrose handing NP 131-acre site to Amazon at par ($40K/acre) via PSA assignment; 2 additional parcels same structure; Work Order pre-close, DSA at closing."
 next_due: 2026-05-16
 tags:
   - deal
@@ -19,11 +19,11 @@ tags:
 
 ## Tasks
 
-- [x] Follow up on Mathes property 📅 2026-05-16 ✅ 2026-05-18
 - [ ] Follow up on outside counsel assignment 📅 2026-05-16
-- [x] Confirm with broker: OK to update Matthes LOI and send back 📅 2026-05-21 ✅ 2026-05-18
 
 ## Notes
+
+2026-05-20 - Deal structure summary: Ambrose was pursuing main 131-acre site (owned by Northpoint) before Amazon's interest. To win TOL2 development work, Ambrose willing to hand land to Amazon at par ($40K/acre); has already executed PSA with Northpoint. Plan: Ambrose assigns PSA to Amazon at closing; Amazon closes and funds purchase price. Ambrose also pursuing 2 additional parcels — LOIs attached; same structure, assigned to Amazon at closing at par. Before closing: Work Order with budget/schedule forthcoming. At closing: Development Services Agreement.
 
 2026-05-13 - Received land breakdown from broker on Matthes LOI increase. Premiere cost variance doesn't move the needle on overall basis. Basis looks good — broker asking for confirmation to update Matthes LOI and send back to Matthes.
 

@@ -10,8 +10,8 @@ start_date: 2025-12-17
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-13
-last_note: "Status: lease in LL's court; CAR at L11, approval target 5/25; June 5 lease signing; LERTA approved; 10K amps sufficient to launch; ES target next week."
+last_updated: 2026-05-20
+last_note: "Power: outside date Q4 2027 for 10K amps; 4K amps available Q1/Q2; PNK open to temp power permitting to bridge; 10K amps needed by 3/31/27."
 next_due:
 tags:
   - deal
@@ -22,6 +22,8 @@ tags:
 
 
 ## Notes
+
+2026-05-20 - Power update: outside date now Q4 2027 for 10K amps of power; will have 4K amps Q1/Q2 — have transformer but need to erect 10-12 poles through private contractor. PNK open to looking into permitting for temp power to bridge. Need temp power by first receive; 10K amps by 3/31/27.
 
 2026-05-13 - Status update: lease draft in LL's court; CAR at L11 level, looking for approval 5/25; June 5 target lease signing; LERTA approved by Amazon; power upgrade (2K amps) — update pending from LL; initial 10K amps delivered with building, additional 2K amps 8 months after (no temp needed; 10K sufficient to launch); CCR estoppel and ZCM pending but in process; targeting launching ES next week.
 
