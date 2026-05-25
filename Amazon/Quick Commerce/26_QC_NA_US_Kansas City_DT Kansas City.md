@@ -17,12 +17,14 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-05-06
-last_note: "Punted to CJ Bowles; on hold."
+last_updated: 2026-05-25
+last_note: "Task added: draft LOI due 5/26."
 next_due:
 ---
 
 ## Tasks
+
+- [ ] Draft LOI for DT Kansas City 📅 2026-05-26
 
 ## Notes
 

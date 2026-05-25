@@ -11,13 +11,15 @@ end_date:
 local_broker: KBC
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-05-20
-last_note: "CAUV amounts: Parcel 0426200030 (Franklin Vista) $6,036.74; Parcel 0426200025 (Franklin Vista) $19,234.10; Parcel 04201010120 (FWF) $77,011.34."
+last_updated: 2026-05-25
+last_note: "PSA to sellers. Follow up in 1 week."
 next_due:
 ---
 ## Tasks
 
 ## Notes
+
+2026-05-25 - PSA to sellers. Follow up in 1 week.
 
 2026-05-20 - CAUV amounts:
 - Parcel 0426200030 (Franklin Vista) = $6,036.74

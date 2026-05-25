@@ -12,8 +12,8 @@ local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-05-07
-last_note: "Requires 35 tons HVAC; may need >400A electrical. Construction team determining load."
+last_updated: 2026-05-25
+last_note: "Electrical confirmed: 400A/120-208V/3-phase; HVAC 181A, refrigeration 64.7A, lighting 64.1A, receptacles 33.3A."
 next_due:
 area: Amazon
 tm: TBD
@@ -25,6 +25,13 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-05-25 - Electrical team (Bryan Matthews, ADA Architects) confirmed: service upgrade to 400A, 120/208V, 3-phase required.
+Preliminary load breakdown:
+- HVAC: 181.2A
+- Refrigeration (cooler/freezer): 64.7A
+- Lighting: 64.1A
+- Receptacles: 33.3A
 
 2026-05-07 - Requires 35 tons of HVAC; may need more than 400A of electrical service. Construction team working on determining required load.
 
