@@ -10,8 +10,8 @@ start_date: 2025-07-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-21
-last_note: "Business not decided on 5-year term; want to push out LND (currently 7/4/26)."
+last_updated: 2026-05-22
+last_note: "Renewal deadline extended to 8/4/26."
 next_due:
 tags: [deal, amazon]
 ---
@@ -20,6 +20,8 @@ tags: [deal, amazon]
 
 
 ## Notes
+
+2026-05-22 - Renewal deadline extended to 8/4/26.
 
 2026-05-21 - Business not yet decided on 5-year term; want to push out the lease notice date (LND). Current LND is 7/4/26.
 

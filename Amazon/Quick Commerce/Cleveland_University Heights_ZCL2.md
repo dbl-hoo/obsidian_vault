@@ -12,20 +12,22 @@ local_broker: Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-03-03
-last_updated: 2026-05-21
+last_updated: 2026-05-22
 area: Amazon
 tags:
   - deal
   - amazon
   - quick-commerce
 tm: Chatman Young
-last_note: "Lease back to LL and Amazon."
+last_note: "Opex amounts: $1.91 Taxes, $0.17 Insurance, $0.92 CAM."
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-05-22 - Opex amounts: $1.91 Taxes, $0.17 Insurance, $0.92 CAM (total $3.00/SF NNN).
 
 2026-05-21 - Lease back to LL and Amazon.
 

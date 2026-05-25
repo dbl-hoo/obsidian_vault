@@ -10,8 +10,8 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-05-21
-last_note: "Sent update to Knoll — Prologis offers; recommending $9.75/2.5% on 15yr, $9.52 on 20yr."
+last_updated: 2026-05-22
+last_note: "Per Knoll: max 238 months; target $9.50/2.5%; cap 330K SF."
 next_due:
 tags:
   - deal
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-05-22 - Per Knoll: if 20-year deal, need at least a 15-year out. Max 238 months including free rent — keep entire term under 238 months. Target $9.50 rent with 2.50% escalation. Does not want to go above 330K SF — too much mothball.
 
 2026-05-21 - Update to Knoll. Prologis latest offers (305K SF):
 - 15-year: $10.23/SF, 2.75% escalations, $7 TIA

@@ -22,17 +22,6 @@ tags: [deal, amazon, quick-commerce]
 
 # Royal Oak (ZDT6)
 
-| Field | Value |
-|-------|-------|
-| **Address** | 409 East Hudson Avenue, Building C |
-| **City** | Detroit, MI |
-| **Site Code** | ZDT6 |
-| **Status** | Selected |
-| **LOI Final** | No |
-| **LOI Prepared** | Yes |
-| **Site Selection Date** |  |
-| **Local Broker** | Tony Schmitt |
-
 ## Tasks
 
 ## Notes
