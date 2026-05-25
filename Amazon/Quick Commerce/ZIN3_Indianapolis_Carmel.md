@@ -1,4 +1,5 @@
 ---
+aliases: ["Indianapolis_Carmel_ZIN3"]
 site_code: ZIN3
 launch_date: 2026-08-01
 pin: "Carmel"

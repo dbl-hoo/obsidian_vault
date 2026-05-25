@@ -1,4 +1,5 @@
 ---
+aliases: ["St. Louis_DT Clayton_ZLI1"]
 site_code: ZLI1
 launch_date: 2026-08-01
 pin: "DT Clayton"

@@ -1,4 +1,5 @@
 ---
+aliases: ["Columbus_German Village_ZCM2"]
 site_code: ZCM2
 launch_date: 2026-08-01
 pin: German Village

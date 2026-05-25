@@ -1,4 +1,5 @@
 ---
+aliases: ["Minneapolis_Shelard Park_ZMP1"]
 site_code: ZMP1
 launch_date: 2026-08-01
 pin: "Shelard Park"

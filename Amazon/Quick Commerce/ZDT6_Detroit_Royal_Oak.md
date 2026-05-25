@@ -1,4 +1,5 @@
 ---
+aliases: ["Detroit_Royal Oak_ZDT6"]
 site_code: ZDT6
 launch_date: 2026-08-01
 pin: "Royal Oak"

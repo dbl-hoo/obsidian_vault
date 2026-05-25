@@ -290,7 +290,7 @@ Body excerpt:
 Jason — LL came back at $9.25/SF NNN, 10-year term, holding on TI. Attached is their redline of our LOI. Let me know how you want to respond.
 ```
 
-**Step C1:** "Matched to ZDT6 → `Amazon/Quick Commerce/Detroit_Royal Oak_ZDT6.md`."
+**Step C1:** "Matched to ZDT6 → `Amazon/Quick Commerce/ZDT6_Detroit_Royal_Oak.md`."
 
 **Step C2:** Re-reads deal file.
 

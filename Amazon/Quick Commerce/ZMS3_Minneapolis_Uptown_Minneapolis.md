@@ -1,4 +1,5 @@
 ---
+aliases: ["Minneapolis_Uptown Minneapolis_ZMS3"]
 site_code: ZMS3
 launch_date: 2026-08-01
 pin: "Uptown Minneapolis"

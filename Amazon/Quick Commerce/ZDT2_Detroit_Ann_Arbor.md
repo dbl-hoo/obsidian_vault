@@ -1,4 +1,5 @@
 ---
+aliases: ["Detroit_Ann Arbor_ZDT2"]
 site_code: ZDT2
 launch_date: 2026-08-01
 pin: Ann Arbor

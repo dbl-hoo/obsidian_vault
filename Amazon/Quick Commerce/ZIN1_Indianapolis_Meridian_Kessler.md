@@ -1,4 +1,5 @@
 ---
+aliases: ["Indianapolis_Meridian Kessler_ZIN1"]
 site_code: ZIN1
 launch_date: 2026-08-01
 pin: "Meridian-Kessler"
