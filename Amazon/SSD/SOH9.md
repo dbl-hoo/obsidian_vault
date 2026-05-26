@@ -15,7 +15,6 @@ last_note: "SNDA post-lease signing. Waiting on Amazon to launch ES."
 next_due:
 tags: [deal, amazon]
 ---
-
 ## Tasks
 
 ## Notes

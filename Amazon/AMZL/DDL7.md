@@ -9,8 +9,8 @@ launch_date: 2028-08-01
 end_date:
 local_broker: Charles Rodriguez, R&R Commercial Realty
 area: Amazon
-last_updated: 2026-05-03
-last_note: "LOI back to Jesse Parks (seller); follow up Monday (5/4)."
+last_updated: 2026-05-26
+last_note: "Survey review completed — 5 sites assessed: Fork Branch, Cooper Farm, Conner Family Land, Papein, Mall Site."
 next_due: 2026-05-04
 tags:
   - deal
@@ -20,9 +20,26 @@ tags:
 ## Tasks
 
 - [x] Follow up with Jesse Parks on LOI 📅 2026-05-04 ✅ 2026-05-04
-- [ ] Review survey with Al Patel 📅 2026-05-08
+- [x] Review survey with Al Patel 📅 2026-05-08 ✅ 2026-05-26
+- [ ] Charlie — get DelDOT timing on Conner Family Land bypass 📅 2026-06-02
+- [ ] Al — run flash diligence on Cooper Farm 📅 2026-06-02
+- [ ] Al — run flash diligence on Conner Family Land 📅 2026-06-02
+- [ ] Charlie — follow up on Papein availability 📅 2026-06-02
+- [ ] Charlie — send wetlands delineation for Mall Site 📅 2026-06-02
 
 ## Notes
+
+2026-05-26 - Survey review — 5 sites assessed with Al Patel and Charlie Rodriguez.
+
+**Fork Branch:** 4,000 SF existing building on site; internal roads are internal only and can be developed over. Monitoring wells present due to environmental hot spots — Charlie getting more enviro info; Al to run flash enviro once received. 22 acres to south being sold to a church.
+
+**Cooper Farm (Camden):** 6 acres under contract with separate buyer for mini hospital. Land to east zoned C-2 (multifamily); City of Camden wants more industrial. Some concern re: traffic from medical facility. Al to run flash diligence.
+
+**Conner Family Land:** Bypass road being developed adjacent to site — Charlie to provide update on DelDOT timing. Zoned R but Camden not wanting more apartments. Elementary school to south of site; access would be off new bypass. Al to run flash diligence (?).
+
+**Papein:** Owners not typically sellers; not on market. Zoned R-20 — rezone required, allow 6+ months. Comp: box plant caddy-corner paid ~$80K/acre a couple years ago. Charlie to follow up on availability.
+
+**Mall Site:** Two parcels, 85 acres total, ~53 developable. NASCAR track nearby, active ~once/year. 50K SF warehouse laid out on site. Macy's trying to sell its parcel (across from Delaware State University). Shared access with mall is a concern. Charlie to send wetlands delineation.
 
 2026-05-03 - LOI back to Jesse Parks (seller). Follow up Monday (5/4).
 

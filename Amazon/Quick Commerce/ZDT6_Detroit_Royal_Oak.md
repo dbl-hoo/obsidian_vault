@@ -13,9 +13,9 @@ local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-05-25
-last_note: "Electrical confirmed: 400A/120-208V/3-phase; HVAC 181A, refrigeration 64.7A, lighting 64.1A, receptacles 33.3A."
-next_due:
+last_updated: 2026-05-26
+last_note: "LL broker (Kepic/Colliers) confirmed LL was already planning for 400A power upgrade."
+next_due: 2026-05-26
 area: Amazon
 tm: TBD
 tags: [deal, amazon, quick-commerce]
@@ -25,7 +25,11 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
+- [x] 🔺 Update ZDT6 lease and circulate 📅 2026-05-26 ✅ 2026-05-26
+
 ## Notes
+
+2026-05-26 - Email from Peter Kepic (LL broker / Colliers). Confirmed LL was already planning for the 400A power upgrade — no new action needed.
 
 2026-05-25 - Electrical team (Bryan Matthews, ADA Architects) confirmed: service upgrade to 400A, 120/208V, 3-phase required.
 Preliminary load breakdown:

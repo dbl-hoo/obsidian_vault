@@ -9,8 +9,8 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-20
-last_note: "Deal structure: Ambrose handing NP 131-acre site to Amazon at par ($40K/acre) via PSA assignment; 2 additional parcels same structure; Work Order pre-close, DSA at closing."
+last_updated: 2026-05-26
+last_note: "Northpoint PSA critical dates logged: inspection expires 11/2/26 (initial), latest closing 12/2/26; two extensions available through 4/5/27."
 next_due: 2026-05-16
 tags:
   - deal
@@ -19,9 +19,17 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up on outside counsel assignment 📅 2026-05-16
+- [x] Follow up on outside counsel assignment 📅 2026-05-16 ✅ 2026-05-26
 
 ## Notes
+
+2026-05-26 - Northpoint PSA critical dates (main 131-acre parcel):
+
+| Milestone | Notice By | Extension Fee By | Inspection Period Expires | Latest Closing |
+|---|---|---|---|---|
+| Initial Contract | — | — | 2026-11-02 | 2026-12-02 |
+| 1st Extension | 2026-11-02 | 2026-11-05 | 2027-01-04 | 2027-02-03 |
+| 2nd Extension | 2027-01-04 | 2027-01-07 | 2027-03-05 | 2027-04-05 |
 
 2026-05-20 - Deal structure summary: Ambrose was pursuing main 131-acre site (owned by Northpoint) before Amazon's interest. To win TOL2 development work, Ambrose willing to hand land to Amazon at par ($40K/acre); has already executed PSA with Northpoint. Plan: Ambrose assigns PSA to Amazon at closing; Amazon closes and funds purchase price. Ambrose also pursuing 2 additional parcels — LOIs attached; same structure, assigned to Amazon at closing at par. Before closing: Work Order with budget/schedule forthcoming. At closing: Development Services Agreement.
 

@@ -7,8 +7,8 @@ tm: Phil Ristevski
 pcm: 
 launch_date: 2029-06-01
 end_date:
-last_updated: 2026-05-13
-last_note: "Maura Kennedy + Mike Roth: twp receptive, no LERTA, wants recreational property; Mike surveying parcels."
+last_updated: 2026-05-26
+last_note: "Survey update: surveyors on site early May, expected ready early June."
 next_due:
 local_broker: 
 area: Amazon
@@ -48,6 +48,8 @@ tags: [deal, amazon]
 ## Tasks
 
 ## Notes
+
+2026-05-26 - Survey update: surveyors were on site early May; survey expected ready early June.
 
 2026-05-13 - Maura Kennedy update: call w/ Mike Roth (Franklin County). Twp getting more receptive to Amazon ownership. No LERTA available but will help with ratables/school taxes. Twp wants a recreational property — looking at parcel in Guilford Twp; industrial agency looking to donate park; Green Twp will supply funding. Mike surveying parcels attractive to twp.
 

@@ -64,23 +64,61 @@ If any required fields can't be determined, ask before creating the file.
 **Kirkham Law matters:** flat file at `Kirkham Law/{Matter Name}.md`, docs folder at equivalent path
 
 ### Step 3b — Extract and save attachments
-After the docs folder exists, extract attachments from the source file using Python:
+After the docs folder exists, extract attachments from the source file using Python.
+
+**Filename convention for saved attachments:**
+
+The `{stem}` differs by area:
+
+| Area | Stem format | Example |
+|---|---|---|
+| Amazon | `{site_code} - {address}` (address if available) | `DOM9 - 1234 Morse Rd Columbus OH` |
+| KBC / Kirkham Law | `{matter_type} - {address}` (address required — see below) | `Listing Agreement - 456 Oak Ave Atlanta GA` |
+
+Full filename: `{stem} - {YYYY.MM.DD}.{ext}`
+
+- `YYYY.MM.DD` = today's date (from the system), dots as separators
+- Omit the address segment (and its ` - ` separator) only if it truly cannot be found
+- Sanitize all parts: replace `\ / * ? : " < > |` with `_` and strip leading/trailing spaces
+
+**KBC/Kirkham Law matter types** — use the most specific type that fits:
+`Lease` | `Lease Renewal` | `Listing Agreement` | `Purchase Agreement` | `PSA` | `MSA` | `NDA` | `Amendment` | `Assignment` | `Sublease` | `Engagement Agreement` | `Other`
+
+**Address extraction for KBC/Kirkham Law matters** — scan the email body and attachment filenames (and attachment content if a .docx or .pdf is already extracted) for a street address. Look for patterns like `123 Main St`, `456 Oak Ave, Atlanta, GA`, property names tied to a known address, or any explicit address reference. If found, use the shortest unambiguous form (street + city, no zip needed). If genuinely not findable, use just the matter type as the stem and flag the gap in the report.
 
 **.msg files** — use `extract-msg`:
 ```python
-import extract_msg
+import extract_msg, os, re
+
+def sanitize(s):
+    return re.sub(r'[\\/*?:"<>|]', '_', s).strip()
+
 msg = extract_msg.Message('C:/Users/kirkham/Documents/Vault/Inputs/filename.msg')
+date_str = '2026.05.26'         # today's date from system, dots as separators
+
+# Amazon:  stem = sanitize('DOM9 - 1234 Morse Rd Columbus OH')
+# KBC:     stem = sanitize('Listing Agreement - 456 Oak Ave Atlanta GA')
+stem = sanitize('<stem>')
+
+SKIP_EXTS = {'.png', '.jpg', '.jpeg', '.gif', '.bmp', '.ico', '.tiff'}
+
 for att in msg.attachments:
-    att.save(customPath='<docs_folder_path>/')
+    orig = att.longFilename or att.shortFilename or 'attachment'
+    _, ext = os.path.splitext(orig)
+    if ext.lower() in SKIP_EXTS:
+        continue
+    new_name = f'{stem} - {date_str}{ext}'
+    with open(os.path.join('<docs_folder_path>', new_name), 'wb') as f:
+        f.write(att.data)
 ```
 
-**.pdf files** — use `pymupdf` to extract embedded attachments (if any); the PDF itself is the document, copy it to the docs folder directly.
+**.pdf files** — use `pymupdf` to extract embedded attachments (if any); the PDF itself is the document, copy it to the docs folder using the same naming convention.
 
-**.eml files** — use `extract-msg` or Python's `email` stdlib to extract attachments.
+**.eml files** — use Python's `email` stdlib to extract attachments; apply the same renaming logic.
 
 **After extraction:**
-- Note all saved filenames in the intake note (e.g. "Attachments saved: redlined_amendment.docx")
-- If an attachment filename reveals the property name or matter name more precisely than the email subject, update the matter name before creating the vault file
+- Note all saved filenames in the intake note (e.g. "Attachments saved: Listing Agreement - 456 Oak Ave Atlanta GA - 2026.05.26.docx")
+- If an attachment filename reveals the property address or matter type more precisely than the email subject, update the stem before saving
 - Skip image attachments (inline logos, signatures) — only save substantive documents
 - If no attachments, note that explicitly
 

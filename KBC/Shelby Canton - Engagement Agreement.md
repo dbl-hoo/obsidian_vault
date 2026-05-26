@@ -9,7 +9,7 @@ last_updated: 2026-05-07
 
 ## Tasks
 
-- [ ] Follow up with Bo Mills on engagement agreement 📅 2026-05-14
+- [x] Follow up with Bo Mills on engagement agreement 📅 2026-05-14 ✅ 2026-05-26
 
 ## Notes
 

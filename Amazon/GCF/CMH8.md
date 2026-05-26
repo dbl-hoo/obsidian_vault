@@ -9,8 +9,8 @@ launch_date: 2028-05-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-03
-last_note: "On agenda for weekly Amazon meeting — suggest preparing CAR for October closing."
+last_updated: 2026-05-26
+last_note: "5/15/25 site status sheet logged — contract with Core5, $27.125M, 9/30/26 inspection expiry, multiple test fits, open DD items."
 next_due:
 tags: [deal, amazon]
 ---
@@ -39,6 +39,8 @@ tags: [deal, amazon]
 **Outside Closing Date:** October 30, 2026
 
 ## Notes
+
+2025-05-15 - Site status sheet (5/15/25 snapshot). Amazon under contract with Core5 since 6/13/25. Purchase price $27.125M ($212,079/ac, $4.87/SF); EM $650K ($350K non-refundable). 127.9 ac at SWC US 40 & Gateway Drive, West Jefferson OH. Pad ready with on-site detention. Test fits: ARS Gen14 1.22M SF, IXD Gen5 933K SF, 1DC 1.24M SF, RDC 1.19M SF, RELO 1.29M SF. Inspection period expires 9/30/26; outside closing 10/30/26. Completed DD: Phase 1 (WHS approved), flood plain/historical/endangered species clearances, ALTA survey, wet utilities. Sound study: 2000 LF sound wall required along north property line (adjacent residential). Open DD: wetlands (USACE non-jurisdictional; ARS would disturb wetland #3, need isolated permit), title (seller incentive agreements to assign/cancel), traffic study needed, geotech needed, AEP will serve 3MW (additional power subject to load study/approved building type). Entitlements: annexed and zoned, all approvals at staff level. Arch review required under CC&Rs (declarant: Core5). Incentives: CRA 15-yr tax abatement to be assigned from Core5 to Amazon; potential port incentive for sales tax on construction. Offsites: Gateway Drive left turn lane at Amazon's cost (~$200K engineer estimate).
 
 2026-05-03 - On agenda for weekly Amazon meeting — suggest preparing CAR for October closing.
 
