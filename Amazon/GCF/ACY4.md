@@ -19,7 +19,7 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up w/ Samantha Liepe on PSA amendment 📅 2026-05-28
+- [x] Follow up w/ Samantha Liepe on PSA amendment 📅 2026-05-28 ✅ 2026-05-27
 
 ## Notes
 

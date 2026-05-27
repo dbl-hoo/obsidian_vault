@@ -2,7 +2,7 @@
 site_code: TBD_Findlay
 deal_type: New Lease
 business_unit: AMZL
-status: Surveying
+status: On Hold
 tm: Kristen DeFamio
 launch_date: 2028-01-01
 start_date:
@@ -12,14 +12,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-05-15
-last_note: "Call w/ Kristen DeFamio — WOH1 needs increased capacity; shortlisted sites 1, 3, 4, and 8."
+last_updated: 2026-05-27
+last_note: "Deal placed on hold."
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-05-27 - Deal placed on hold.
 
 2026-05-15 - Call w/ Kristen DeFamio. WOH1 needs increased capacity; shortlisted sites 1, 3, 4, and 8.
 

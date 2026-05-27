@@ -20,6 +20,8 @@ tags:
 
 ## Tasks
 
+- [ ] Reply to LL — counter per Max: $6.75/SF, flat, 3 years 📅 2026-06-03
+
 ## Notes
 
 2026-05-21 - LL response received. Holding firm at $7.00/SF:

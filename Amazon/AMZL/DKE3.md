@@ -17,7 +17,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] First Extension Expiration 📅 2026-05-28
+- [x] First Extension Expiration 📅 2026-05-28 ✅ 2026-05-27
 - [ ] Second Extension Expiration 📅 2026-06-27
 - [ ] Closing Deadline 📅 2026-07-27
 

@@ -19,14 +19,6 @@ tags: [deal, amazon]
 
 120-acre former Chambersburg Mall site in Chambersburg, PA. GCF acquisition at $18M ($150K/acre). Currently in 24-month PAP (through March 2028). PILOT incentive pursuit underway — timeline clocked to 9/1 launch, will pull left if PILOT approved and final. Land CAR required for 8th amendment extension deposit; CAR approval needed by 5/8/2026.
 
-## Contacts
-
-| Role | Name |
-|------|------|
-| Transaction Manager | Arman Fashandi |
-| Seller | Igal Namdar |
-| Amazon OC | Kimberley Davis |
-
 ## Critical Dates
 
 | Milestone | Date |

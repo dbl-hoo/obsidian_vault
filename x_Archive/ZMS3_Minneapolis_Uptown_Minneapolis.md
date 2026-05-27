@@ -8,13 +8,13 @@ city: Minneapolis
 state: MN
 deal_type: New Lease
 business_unit: QC
-status: Selected
+status: Cancelled
 local_broker: "Alex Funk | Senior Associate"
 loi_final: No
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-05-01
-last_note: "Updated lease to LL; email to Funk on termination right, OpEx, parking, addendum."
+last_updated: 2026-05-27
+last_note: "Killed — cost and lack of LL cooperation."
 next_due:
 area: Amazon
 tm: TBD
@@ -24,6 +24,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-05-27 - Deal killed. Cost and lack of LL cooperation. Summit Hills (240 Maryland Ave E, St. Paul) advanced as ZMS5 pivot replacement.
 
 2026-05-01 - Updated lease sent to LL. Email to Funk on open issues:
 1. Termination right: Amazon willing to accept LL termination option — must be after initial term; at least 1 year notice; only in connection with building redevelopment.

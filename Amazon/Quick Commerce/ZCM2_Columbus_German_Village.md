@@ -8,14 +8,14 @@ city: Columbus
 state: OH
 deal_type: New Lease
 business_unit: QC
-status: Selected
+status: Completed
 local_broker: KBC-OH
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-01-23
-last_updated: 2026-04-27
-last_note: "Emailed Flor/Chatman re: CAR approval; follow up during weekly review."
-next_due: 2026-05-04
+last_updated: 2026-05-27
+last_note: "Lease signed."
+next_due:
 area: Amazon
 tm: TBD
 tags:
@@ -29,6 +29,8 @@ tags:
 - [x] Follow up with Chatman Young and Flor Ponce re: CAR approval (weekly review) 📅 2026-05-04 ✅ 2026-05-04
 
 ## Notes
+
+2026-05-27 - Lease signed.
 
 2026-04-27 - Emailed Flor Ponce and Chatman Young re: CAR approval. Follow up during weekly review.
 
