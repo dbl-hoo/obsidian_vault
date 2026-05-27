@@ -14,7 +14,7 @@ loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
 last_updated: 2026-05-26
-last_note: "LL broker (Kepic/Colliers) confirmed LL was already planning for 400A power upgrade."
+last_note: "Updated lease sent to Amazon for internal review; legal approved; sent to LL."
 next_due: 2026-05-26
 area: Amazon
 tm: TBD
@@ -25,9 +25,9 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] 🔺 Update ZDT6 lease and circulate 📅 2026-05-26 ✅ 2026-05-26
-
 ## Notes
+
+2026-05-26 - Updated lease sent to Amazon team for internal review. Legal approved. Sent to LL.
 
 2026-05-26 - Email from Peter Kepic (LL broker / Colliers). Confirmed LL was already planning for the 400A power upgrade — no new action needed.
 

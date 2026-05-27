@@ -10,7 +10,7 @@ end_date:
 local_broker: KBC
 area: Amazon
 last_updated: 2026-05-26
-last_note: "Northpoint PSA critical dates logged: inspection expires 11/2/26 (initial), latest closing 12/2/26; two extensions available through 4/5/27."
+last_note: "Ambrose: close by 2026-11-30 achievable if CAR approval moves aggressively; shell completion 2028-01-26."
 next_due: 2026-05-16
 tags:
   - deal
@@ -19,9 +19,9 @@ tags:
 
 ## Tasks
 
-- [x] Follow up on outside counsel assignment 📅 2026-05-16 ✅ 2026-05-26
-
 ## Notes
+
+2026-05-26 - Entitlements path is straightforward. Ambrose estimates close by 2026-11-30 if moving aggressively on CAR approval — would allow shell completion by 2028-01-26.
 
 2026-05-26 - Northpoint PSA critical dates (main 131-acre parcel):
 

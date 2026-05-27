@@ -8,13 +8,13 @@ city: Detroit
 state: MI
 deal_type: New Lease
 business_unit: QC
-status: Selected
+status: Completed
 local_broker: Tony Schmitt
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-05-07
-last_note: "Reached out to LL re: lease execution. No Exhibit C-1 — as is."
+last_updated: 2026-05-26
+last_note: "Lease signed. Marked complete."
 next_due:
 area: Amazon
 tm: TBD
@@ -27,6 +27,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-05-26 - Lease signed. Marked complete.
 
 2026-05-07 - Reached out to LL re: lease execution; asked business for description of tenant work. Need Exhibit C-1 (LL work) and Exhibit D (Tenant Work). Per call with LL — no Exhibit C-1. As is.
 

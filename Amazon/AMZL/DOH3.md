@@ -11,13 +11,15 @@ end_date:
 local_broker: KBC
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-05-25
-last_note: "PSA to sellers. Follow up in 1 week."
+last_updated: 2026-05-26
+last_note: "Jeff B: one investor not satisfied with LOI terms; Farm Manager pausing Early Access docs pending syndication vote."
 next_due:
 ---
 ## Tasks
 
 ## Notes
+
+2026-05-26 - Update from Jeff Baumgardner (seller's broker): One primary investor (involved in both parcels) is not satisfied with the proposed LOI terms and has indicated the group should not agree as written. No alternative terms or revisions received yet. Farm Manager does not want to execute Early Access documents or have Amazon incur additional costs until syndication vote is completed. Investor letter for the syndication vote is being prepared.
 
 2026-05-25 - PSA to sellers. Follow up in 1 week.
 
