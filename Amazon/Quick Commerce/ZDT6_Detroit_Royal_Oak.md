@@ -13,9 +13,9 @@ local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-05-26
-last_note: "Updated lease sent to Amazon for internal review; legal approved; sent to LL."
-next_due: 2026-05-26
+last_updated: 2026-05-27
+last_note: "LL accepted changes to the lease."
+next_due:
 area: Amazon
 tm: TBD
 tags: [deal, amazon, quick-commerce]
@@ -26,6 +26,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-05-27 - LL accepted changes to the lease.
 
 2026-05-26 - Updated lease sent to Amazon team for internal review. Legal approved. Sent to LL.
 

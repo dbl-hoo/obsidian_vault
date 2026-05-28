@@ -17,7 +17,7 @@ next_due: 2026-05-29
 ---
 
 ## Tasks
-- [ ] 🔺 Get up to speed on DII9 (Project Kanawha) — confirm PSA extension and prep for SHPO meeting next week 📅 2026-05-29
+- [x] 🔺 Get up to speed on DII9 (Project Kanawha) — confirm PSA extension and prep for SHPO meeting next week 📅 2026-05-29 ✅ 2026-05-28
 
 ## Notes
 2026-05-27 - CEC memo (352-622, dated 05/22/26): Section 106 Adverse Effect confirmed on Alexander-Caldwell House and Farm (PU-41-121). USACE and WV SHPO findings locked — now in MOA development phase.

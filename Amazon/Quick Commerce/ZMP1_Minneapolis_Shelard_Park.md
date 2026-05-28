@@ -15,9 +15,9 @@ loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-04-26
-last_note: "Design on hold; site visit needed to collect info; egress issues flagged by Core States."
-next_due:
+last_updated: 2026-05-27
+last_note: "Updated lease sent to LL; follow up EOW."
+next_due: 2026-05-30
 tags: [deal, amazon, quick-commerce]
 ---
 
@@ -25,7 +25,11 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
+- [ ] Follow up with LL re: lease 📅 2026-05-30
+
 ## Notes
+
+2026-05-27 - Updated lease sent to LL.
 
 2026-04-15 - Remodel/design thread (Core States — Brody Peterson, Amazon WWE&I — Omar Salim). Design on hold: LL couldn't provide as-builts; site visit needed to collect gas meter location/size, HVAC/roof equipment, incoming water size/location, DHW heater, restroom exhaust.
 
