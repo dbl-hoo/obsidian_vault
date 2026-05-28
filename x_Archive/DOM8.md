@@ -2,15 +2,15 @@
 site_code: DOM8
 deal_type: Purchase
 business_unit: AMZL
-status: Selected
+status: Completed
 tm: Dave Rende
 pcm: Dheeraj Grover
 launch_date: 2027-08-15
-end_date:
+end_date: 2026-05-28
 local_broker: Matt Eastin - Cushman
 area: Amazon
-last_updated: 2026-05-08
-last_note: "Declaration parties: Lost Creek Props (Brandon Penberthy) is 3rd owner; Lance/Brock/Brandon can sign amendment without Chris Williams (4th owner)."
+last_updated: 2026-05-28
+last_note: "Deal closed 2026-05-28."
 next_due:
 tags:
   - deal
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-05-28 - Deal closed.
 
 2026-05-08 - Declaration parties clarified. 3rd owner is Lost Creek Properties, LLC (owned by Brandon Penberthy). Lance, Brock, and Brandon have authority to sign the amendment — no need to involve 4th owner Chris Williams.
 

@@ -9,7 +9,7 @@ last_updated: 2026-05-03
 
 ## Tasks
 
-- [ ] Follow up with Conway on Lagunitas sublease listing agreement 📅 2026-05-10
+- [x] Follow up with Conway on Lagunitas sublease listing agreement 📅 2026-05-10 ✅ 2026-05-28
 
 ## Notes
 

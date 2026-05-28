@@ -11,8 +11,8 @@ end_date:
 local_broker: Jacob Holdeman (Scannell Properties)
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-05-27
-last_note: CEC memo — Adverse Effect confirmed on Alexander-Caldwell Farm; MOA process starts; 6-9 month timeline to signatures
+last_updated: 2026-05-28
+last_note: Caldwell/Thaxton family (active opponents) behind Jason Miller outreach; plan to acknowledge + direct to USACE/SHPO comment process
 next_due: 2026-05-29
 ---
 
@@ -20,6 +20,16 @@ next_due: 2026-05-29
 - [x] 🔺 Get up to speed on DII9 (Project Kanawha) — confirm PSA extension and prep for SHPO meeting next week 📅 2026-05-29 ✅ 2026-05-28
 
 ## Notes
+2026-05-28 - [Jacob background] Jason Miller is related to/representing the Caldwell/Thaxton family — Karen Thaxton (Once Upon a Farm) and Charles Caldwell — whose property is directly across the street from the site. Their home (Alexander-Caldwell Farm, PU-41-121) is the subject property in the SHPO/Section 106 process; SHPO is posturing it may be NRHP-eligible. They were notified as part of the public consulting period USACE/SHPO initiated, which sent notices to neighboring property owners to solicit comments/concerns that could require mitigation before USACE releases the nationwide wetlands permit.
+
+This family was a primary opponent during the rezone process — filed suit against Putnam County Commission claiming illegal spot zoning of the 36-acre C1→C2 rezoning along WV Route 817. Judge Joseph Reeder dismissed the petition (August 2024), ruling county acted properly. Note: David Hobba (property owner/seller) recused himself from Planning Commission votes on the rezoning; Hobba separately filed a defamation suit against the petition group (pending trial). 
+
+Article: [WV Gazette — judge dismisses Fraziers Bottom petition](https://www.wvgazettemail.com/business/development-can-move-forward-as-judge-dismisses-fraziers-bottom-residents-petition/article_694edd50-8cbf-11ef-9d03-4387e7771e15.html)
+
+Jacob's proposed response approach: acknowledge outreach, direct Miller/family to submit comments and concerns through the USACE/SHPO process, where the team will review and address per USACE/SHPO guidance.
+
+2026-05-28 - [Email] Team aligning on Jason Miller response. Danielle Aristy (Amazon Econ Dev, Sr. Manager Economic Development Policy) looped in with Kristie from Comm Ops for guidance. Kate Bagwell (legal): "Aligned, but defer to Econ Dev." Jacob Holdeman's proposed approach — respond cordially directing Miller to submit comments through USACE/SHPO process — has team buy-in pending Econ Dev confirmation. Timing TBD; may hold response until after next week's USACE/SHPO meeting. Danielle's framing: Amazon under PSA (site not yet owned); public review process recently completed soliciting feedback from interested parties — Miller appears to be one of those parties.
+
 2026-05-27 - CEC memo (352-622, dated 05/22/26): Section 106 Adverse Effect confirmed on Alexander-Caldwell House and Farm (PU-41-121). USACE and WV SHPO findings locked — now in MOA development phase.
 
 **Timeline summary (rough sequencing from May 14 Adverse Effect notice):**
