@@ -7,8 +7,8 @@ tm: Phil Ristevski
 pcm: 
 launch_date: 2029-06-01
 end_date:
-last_updated: 2026-05-26
-last_note: "Survey update: surveyors on site early May, expected ready early June."
+last_updated: 2026-05-28
+last_note: "Survey update: field work complete; surveyor finalizing, expects to send by end of next week."
 next_due:
 local_broker: 
 area: Amazon
@@ -40,6 +40,8 @@ tags: [deal, amazon]
 ## Tasks
 
 ## Notes
+
+2026-05-28 - Survey update: field work fully complete; surveyor working to finalize, expects to send by end of next week.
 
 2026-05-26 - Survey update: surveyors were on site early May; survey expected ready early June.
 

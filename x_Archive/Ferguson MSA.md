@@ -1,10 +1,10 @@
 ---
 project: Ferguson MSA
-status: Ongoing
+status: Closed
 area: KBC
 office: Chicago
 tags: [kbc]
-last_updated: 2026-05-09
+last_updated: 2026-05-29
 ---
 
 ## Tasks
@@ -12,6 +12,8 @@ last_updated: 2026-05-09
 - [x] Follow up on Ferguson MSA 📅 2026-05-12 ✅ 2026-05-12
 
 ## Notes
+
+2026-05-29 - MSA signed. Matter closed.
 
 2026-05-09 - Reviewed and advised business on 1st party indemnity risk.
 

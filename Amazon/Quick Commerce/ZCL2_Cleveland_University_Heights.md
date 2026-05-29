@@ -13,20 +13,22 @@ local_broker: Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-03-03
-last_updated: 2026-05-22
+last_updated: 2026-05-28
 area: Amazon
 tags:
   - deal
   - amazon
   - quick-commerce
 tm: Chatman Young
-last_note: "Opex amounts: $1.91 Taxes, $0.17 Insurance, $0.92 CAM."
+last_note: "Amazon new proposal: rent/term start upon substantial completion of LL power upgrade."
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-05-28 - Amazon new proposal: rent/term start upon substantial completion of LL's power upgrade.
 
 2026-05-22 - Opex amounts: $1.91 Taxes, $0.17 Insurance, $0.92 CAM (total $3.00/SF NNN).
 

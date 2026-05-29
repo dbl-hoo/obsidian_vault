@@ -9,8 +9,8 @@ launch_date: 2027-06-22
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-18
-last_note: "Noise study results: noise abatement not recommended at this time; screening considered for future."
+last_updated: 2026-05-28
+last_note: "PCM flagged HIGH risks: power shortage (est. Q2 2028 substation, 14-36mo temp generators) and roof (45-mil TPO, snow load, structural concerns)."
 next_due:
 tags:
   - deal
@@ -20,6 +20,39 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-05-28 - Building condition risks flagged by PCM:
+
+**RISK 1: POWER SHORTAGE (HIGH)**
+
+- Utility cannot support full load (12,000A). Only 2,000 kVA serving 2 of 3 switchboards; third not energized.
+- On-site substation required. **Delivery not confirmed**; est. Q2 2028, could be longer per Met-Ed experience.
+- We estimate between **14-36 months on temp generators**
+- Lithium-ion vs. Hydrogen pending leadership decision
+- All switchboards are non-standard; **full replacement required**.
+
+**RISK 2: ROOF (HIGH)**
+
+- 45-mil TPO, no cover board (standard: 60-mil). **Fails hail resistance.** Poorly welded, minimal attachment; flapping observed on site.
+- **Severe snow load zone** (61 psf per ASCE) with moderate weather hazard exposure. WHS requesting confirmation roof meets structural standards, especially at drift-prone elevation changes.
+- Lightweight roof joists add complexity to hanging utilities (sprinkler, etc.).
+- Lease; **cannot modify roof**. LL responsible for repairs. Structural engineer verifying load capacity.
+- R-20 insulation (standard: R-30); requires upsized HVAC or thicker wall insulation.
+- No parapets; fall protection needed along ~90% of perimeter.
+
+**OTHER CONDITIONS**
+
+- **HVAC:** Gas-fired units to be replaced with ~33 electric heat-pump RTUs.
+- **Plumbing:** Domestic water upsizing (2" to 4"). Sprinkler mods require structural reinforcement due to lightweight joists.
+- **Dock doors:** Layout pending composite (end of July). KO panels may need cutting; levelers need hydraulic conversion.
+- **Fire/sprinkler:** Fire alarm replacement (Edwards EST). ESFR heads may need replacement pending racking config.
+
+**PROJECT STATUS**
+
+- **Permit:** Submitted 5/26
+- **GC RFP:** This Friday or early next week
+- **Temp power:** Generators location and cost evaluation in progress
+- **First Receive:** 5/17/2027
 
 2026-05-18 - Noise study results: noise abatement not recommended at this time; based on field observations, screening included as a recommendation for future consideration.
 

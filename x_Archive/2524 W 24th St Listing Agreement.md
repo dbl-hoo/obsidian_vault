@@ -1,16 +1,18 @@
 ---
 project: 2524 W 24th St Listing Agreement
-status: Ongoing
+status: Closed
 area: KBC
 office: Chicago
 tags: [kbc]
-last_updated: 2026-05-09
+last_updated: 2026-05-28
 ---
 
 ## Tasks
 
 
 ## Notes
+
+2026-05-28 - Per Conway — matter complete. Closing and archiving.
 
 2026-05-09 - Revised and sent to Michael Conway (KBC).
 
