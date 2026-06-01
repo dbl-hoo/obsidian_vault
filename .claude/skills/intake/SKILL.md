@@ -135,7 +135,7 @@ status: Surveying
 tm:
 pcm:
 launch_date:
-start_date:
+start_date:     # today's date (date file is created)
 end_date:
 local_broker:
 area: Amazon
