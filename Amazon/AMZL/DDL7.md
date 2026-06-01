@@ -9,8 +9,8 @@ launch_date: 2028-08-01
 end_date:
 local_broker: Charles Rodriguez, R&R Commercial Realty
 area: Amazon
-last_updated: 2026-05-26
-last_note: "Survey review completed — 5 sites assessed: Fork Branch, Cooper Farm, Conner Family Land, Papein, Mall Site."
+last_updated: 2026-06-01
+last_note: "Phase I ESA reviewed — Fork Branch: CRECs only, COCRs issued, AULs recorded, vapor mitigation req'd in OU-2. New Phase I needed for Amazon diligence."
 next_due: 2026-05-04
 tags:
   - deal
@@ -28,6 +28,28 @@ tags:
 - [ ] Charlie — send wetlands delineation for Mall Site 📅 2026-06-02
 
 ## Notes
+
+2026-06-01 - Phase I ESA review — Fork Branch (144 Fork Branch Rd, Dover/Cheswold, DE).
+
+Report prepared by Environmental Alliance, Inc. for Artisans' Bank (Jan 24, 2022; inspection Jan 6, 2022). **Note: report is ~4.5 years old — ASTM database search validity is 180 days; a new Phase I will be required for Amazon's diligence.**
+
+**Site background:** ~115 acres, currently vacant (warehouse + guardhouse). Former Reichhold Chemical plant (styrene butadiene/polyvinyl acetate emulsions), operated 1957–2008. Currently owned by Maxim Industries LLC, zoned CVAC (Commercial Vacant Land).
+
+**Finding: Controlled RECs (CRECs) only — no active RECs.** DNREC issued Certificates of Completion of Remedy (COCRs) for both operable units:
+- OU-1: COCR July 22, 2016
+- OU-2: COCR January 16, 2018
+
+**Activity & Use Limitations (AULs) recorded via Environmental Covenant — must run with the land:**
+- Non-residential use only (commercial/industrial/manufacturing)
+- No groundwater wells without prior DNREC approval
+- Vapor mitigation system required for any building constructed in OU-2
+- No soil disturbing/excavation without prior DNREC approval
+- Must comply with CMMPs
+- Semi-annual groundwater monitoring ongoing (OU-2 LTS Plan)
+
+**Vapor encroachment:** VEC confirmed in OU-2 portion; OU-1 is clear. New construction in OU-2 requires vapor mitigation system.
+
+**Takeaway:** Site is workable for industrial use as long as AULs are respected. Vapor system adds cost for OU-2 buildings. New Phase I needed before closing. No Phase II recommended at this time.
 
 2026-05-26 - Survey review — 5 sites assessed with Al Patel and Charlie Rodriguez.
 

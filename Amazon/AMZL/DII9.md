@@ -11,8 +11,8 @@ end_date:
 local_broker: Jacob Holdeman (Scannell Properties)
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-05-28
-last_note: Caldwell/Thaxton family (active opponents) behind Jason Miller outreach; plan to acknowledge + direct to USACE/SHPO comment process
+last_updated: 2026-06-01
+last_note: Official handoff from Andrea Roy confirmed; SHPO requiring side agreement with opposition group; deal feels close per Andrea
 next_due: 2026-05-29
 ---
 
@@ -20,6 +20,9 @@ next_due: 2026-05-29
 - [x] 🔺 Get up to speed on DII9 (Project Kanawha) — confirm PSA extension and prep for SHPO meeting next week 📅 2026-05-29 ✅ 2026-05-28
 
 ## Notes
+
+2026-06-01 - Official handoff from Andrea Roy confirmed per 2026-06-01 spreadsheet review. Per Andrea: SHPO is requiring a side agreement with the opposition group (connected to the wedding venue across the street). Deal feels like it's coming to an end — her words. No new action items beyond what's already in flight.
+
 2026-05-28 - [Jacob background] Jason Miller is related to/representing the Caldwell/Thaxton family — Karen Thaxton (Once Upon a Farm) and Charles Caldwell — whose property is directly across the street from the site. Their home (Alexander-Caldwell Farm, PU-41-121) is the subject property in the SHPO/Section 106 process; SHPO is posturing it may be NRHP-eligible. They were notified as part of the public consulting period USACE/SHPO initiated, which sent notices to neighboring property owners to solicit comments/concerns that could require mitigation before USACE releases the nationwide wetlands permit.
 
 This family was a primary opponent during the rezone process — filed suit against Putnam County Commission claiming illegal spot zoning of the 36-acre C1→C2 rezoning along WV Route 817. Judge Joseph Reeder dismissed the petition (August 2024), ruling county acted properly. Note: David Hobba (property owner/seller) recused himself from Planning Commission votes on the rezoning; Hobba separately filed a defamation suit against the petition group (pending trial). 

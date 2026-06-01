@@ -9,8 +9,8 @@ launch_date: 2027-06-22
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-28
-last_note: "PCM flagged HIGH risks: power shortage (est. Q2 2028 substation, 14-36mo temp generators) and roof (45-mil TPO, snow load, structural concerns)."
+last_updated: 2026-05-31
+last_note: "NPDES amendment confirmed minor modification by York County Conservation District; submittal checklist received."
 next_due:
 tags:
   - deal
@@ -19,7 +19,19 @@ tags:
 
 ## Tasks
 
+- [ ] 🔺 Submit NPDES minor amendment package to York County Conservation District (hard copy): Application for District Services (no fee), NOI form, updated PNDI receipt (expired), revised E&S and PCSM plan drawings for Bldg 2 affected sheets, PCSM calcs verifying SCM capacity with increased impervious 📅 2026-06-07
+
 ## Notes
+
+2026-05-31 - NPDES amendment confirmed minor modification by York County Conservation District (Liz Sweitzer). Hard copy submittal required:
+- Application for District Services (no fee)
+- NOI form
+- PNDI receipt — **expired, need updated**
+- Revised E&S and PCSM plan drawings for Bldg 2 affected sheets only
+- PCSM calcs verifying SCMs can handle increased impervious as designed
+- If earth disturbance required: E&S plan must address BMP protection of downslope MRC basins
+
+2026-05-29 - GC RFP submitting next week; several weeks expected to get results. Blocker: must live with OP2 budget to use long lead CAR. Phil not aligned on moving forward.
 
 2026-05-28 - Building condition risks flagged by PCM:
 

@@ -10,8 +10,8 @@ start_date: 2026-03-27
 end_date:
 local_broker: Matt Eastin
 area: Amazon
-last_updated: 2026-05-01
-last_note: "LOI back to seller; follow up Tuesday (5/5)."
+last_updated: 2026-05-31
+last_note: "Phase I came back clean."
 next_due: 2026-05-06
 tags:
   - deal
@@ -23,6 +23,8 @@ tags:
 - [x] Follow up with seller on LOI 📅 2026-05-06 ✅ 2026-05-10
 
 ## Notes
+
+2026-05-31 - Phase I came back clean.
 
 2026-05-01 - LOI back to seller. Follow up Tuesday (5/5).
 
