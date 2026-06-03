@@ -11,7 +11,7 @@ next_due: 2026-05-16
 
 ## Tasks
 
-- [ ] Follow up on AWS Arbor Place CA comments 📅 2026-05-16
+- [x] Follow up on AWS Arbor Place CA comments 📅 2026-05-16 ✅ 2026-06-02
 
 ## Notes
 

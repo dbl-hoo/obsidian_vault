@@ -18,7 +18,7 @@ last_updated: 2026-05-26
 
 ## Tasks
 
-- [ ] Review 2nd amendment to lease renewal (KBC 2nd Amemndment.docx) 📅 2026-06-02
+- [x] Review 2nd amendment to lease renewal (KBC 2nd Amemndment.docx) 📅 2026-06-02 ✅ 2026-06-02
 
 ## Notes
 

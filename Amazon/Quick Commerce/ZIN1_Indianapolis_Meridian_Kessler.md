@@ -13,8 +13,8 @@ local_broker: "Shannon Hunt | Vice President | Veritas Realty"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-01-27
-last_updated: 2026-05-21
-last_note: "Lease final. CAR approval pending."
+last_updated: 2026-06-02
+last_note: "Pending L10 CAR approval."
 next_due:
 area: Amazon
 tm: TBD
@@ -23,7 +23,11 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
+- [ ] Follow up on L10 CAR approval 📅 2026-06-05
+
 ## Notes
+
+2026-06-02 - Pending L10 CAR approval.
 
 2026-05-21 - Lease final. CAR approval pending.
 

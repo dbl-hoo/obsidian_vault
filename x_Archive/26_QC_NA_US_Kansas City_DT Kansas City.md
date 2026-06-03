@@ -24,7 +24,7 @@ next_due:
 
 ## Tasks
 
-- [ ] Draft LOI for DT Kansas City 📅 2026-05-26
+- [x] Draft LOI for DT Kansas City 📅 2026-05-26
 
 ## Notes
 

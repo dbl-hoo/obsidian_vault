@@ -1,5 +1,6 @@
 ---
-site_code: OPA8 - Manchester, PA
+site_code: OPA8
+aliases: ["OPA8 - Manchester, PA"]
 deal_type: Lease
 business_unit: GCF
 status: Selected
@@ -9,8 +10,8 @@ launch_date: 2027-06-22
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-31
-last_note: "NPDES amendment confirmed minor modification by York County Conservation District; submittal checklist received."
+last_updated: 2026-06-01
+last_note: "Project call: substation Q2 2027, PM assignment end of June, permits submitted, GC RFPs due 6/22, Exhibit K and WL schedule remain open."
 next_due:
 tags:
   - deal
@@ -19,9 +20,18 @@ tags:
 
 ## Tasks
 
-- [ ] 🔺 Submit NPDES minor amendment package to York County Conservation District (hard copy): Application for District Services (no fee), NOI form, updated PNDI receipt (expired), revised E&S and PCSM plan drawings for Bldg 2 affected sheets, PCSM calcs verifying SCM capacity with increased impervious 📅 2026-06-07
+- [x] 🔺 Submit NPDES minor amendment package to York County Conservation District (hard copy): Application for District Services (no fee), NOI form, updated PNDI receipt (expired), revised E&S and PCSM plan drawings for Bldg 2 affected sheets, PCSM calcs verifying SCM capacity with increased impervious 📅 2026-06-07 ✅ 2026-06-02
 
 ## Notes
+
+2026-06-01 - Project call. Key updates:
+- Substation complete Q2 2027; NP constructing, MetEd providing transmission. PM to be assigned end of June; switchgear all ordered.
+- Building permits submitted 5/26; $195K fee to be paid through AOR coordination (no GC selected yet).
+- GC RFPs sent to 5 contractors; proposals due 6/22; interviews/award to follow ~1 week after deadline.
+- Open lease items: Exhibit K (utility provision/services agreement) and work letter schedule alignment. NP to turn next draft with those updates.
+- Lease structure: Amazon purchases power directly (not as NP pass-through).
+- HVAC gas→electric conversion per Amazon standards requires additional lease language for gas line provider agreements.
+- Philip working on lease execution approvals with indicative costing.
 
 2026-05-31 - NPDES amendment confirmed minor modification by York County Conservation District (Liz Sweitzer). Hard copy submittal required:
 - Application for District Services (no fee)

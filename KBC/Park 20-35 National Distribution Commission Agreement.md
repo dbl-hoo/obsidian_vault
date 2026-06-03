@@ -9,7 +9,7 @@ last_updated: 2026-05-12
 
 ## Tasks
 
-- [ ] Review commission agreement and advise Nathan Lawrence 📅 2026-05-19
+- [x] Review commission agreement and advise Nathan Lawrence 📅 2026-05-19 ✅ 2026-06-02
 
 ## Notes
 

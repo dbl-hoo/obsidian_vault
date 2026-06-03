@@ -25,6 +25,8 @@ last_note: Knoll approved 45-day IP extension; in process — new IP expiry ~202
 
 ## Notes
 
+2026-06-01 - Project call. Target closing July 24 pending three permit approvals: KYTC design review (full approval expected July), development plan approval (expected 7/24), and early grading permit. Car routing approved; car budget approval ~6 weeks from submission. Easement language approval pending from one remaining group — expected in next 1-2 days. Development agreement exhibits being prepared; Caleb to notify Tadeu when uploaded.
+
 2026-06-01 - Adam Knoll approved the 45-day inspection period extension; in process. New IP expiry ~2026-07-23; closing ~2026-08-07 if no further extensions. $50K Additional Extension Fee applies (non-refundable; credited to purchase price at closing).
 
 2026-06-01 - PSA abstract — two-parcel assemblage (main + smaller parcel). Reviewed executed PSAs and First Amendment.

@@ -25,14 +25,14 @@ next_due: 2026-06-03
 
 ## Tasks
 
-- [ ] Negotiate outbound man door as LL scope 📅 2026-06-03
-- [ ] Confirm LL scope and delivery conditions 📅 2026-06-03
-- [ ] Matterport scan — ~5,000 SF NE corner 📅 2026-06-03
-- [ ] Complete P0 inputs 📅 2026-06-03
-- [ ] Confirm co-tenants 📅 2026-06-03
-- [ ] Confirm shared restroom location 📅 2026-06-03
-- [ ] Confirm mop sink 📅 2026-06-03
-- [ ] Confirm suite number once LL demise complete 📅 2026-06-03
+- [x] Negotiate outbound man door as LL scope 📅 2026-06-03 ✅ 2026-06-02
+- [x] Confirm LL scope and delivery conditions 📅 2026-06-03 ✅ 2026-06-02
+- [x] Matterport scan — ~5,000 SF NE corner 📅 2026-06-03 ✅ 2026-06-02
+- [x] Complete P0 inputs 📅 2026-06-03 ✅ 2026-06-02
+- [x] Confirm co-tenants 📅 2026-06-03 ✅ 2026-06-02
+- [x] Confirm shared restroom location 📅 2026-06-03 ✅ 2026-06-02
+- [x] Confirm mop sink 📅 2026-06-03 ✅ 2026-06-02
+- [x] Confirm suite number once LL demise complete 📅 2026-06-03 ✅ 2026-06-02
 
 ## Notes
 

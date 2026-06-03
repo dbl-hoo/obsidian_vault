@@ -9,7 +9,7 @@ last_updated: 2026-05-26
 
 ## Tasks
 
-- [ ] Close and archive Shelby Canton - Engagement Agreement if no response from Bo Mills 📅 2026-05-31
+- [x] Close and archive Shelby Canton - Engagement Agreement if no response from Bo Mills 📅 2026-05-31 ✅ 2026-06-02
 
 ## Notes
 

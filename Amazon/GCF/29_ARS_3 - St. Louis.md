@@ -10,8 +10,8 @@ start_date: 2026-03-27
 end_date:
 local_broker: Matt Eastin
 area: Amazon
-last_updated: 2026-05-31
-last_note: "Phase I came back clean."
+last_updated: 2026-06-01
+last_note: "Site selection June 11, 2026."
 next_due: 2026-05-06
 tags:
   - deal
@@ -20,9 +20,9 @@ tags:
 
 ## Tasks
 
-- [x] Follow up with seller on LOI 📅 2026-05-06 ✅ 2026-05-10
-
 ## Notes
+
+2026-06-01 - Site selection June 11, 2026.
 
 2026-05-31 - Phase I came back clean.
 

@@ -18,4 +18,4 @@ last_updated: 2026-05-26
 ## Tasks
 
 - [x] Review CAE1 commission agreement and advise Kevin Bucio 📅 2026-06-02
-- [ ] Follow up with Kevin Bucio on CAE1 commission agreement comments 📅 2026-05-30
+- [x] Follow up with Kevin Bucio on CAE1 commission agreement comments 📅 2026-05-30 ✅ 2026-06-02

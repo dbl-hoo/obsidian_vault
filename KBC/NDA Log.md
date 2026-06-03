@@ -8,6 +8,7 @@ tags: [kbc, nda]
 
 | Date Received | Counterparty | Type | Status | Date Reviewed | Notes |
 |---------------|--------------|------|--------|---------------|-------|
+| 2026-06-02 | Douglas Elliman Real Estate | One-Way | Reviewed | 2026-06-02 | 2 flags: fill Disclosing Party blanks; add commercially reasonable care floor |
 | 2026-04-22 | Poolside Infrastructure | Mutual | Reviewed | 2026-04-22 | No issues |
 | 2026-04-17 | Venn Strategy Group | One-Way | Reviewed | 2026-04-17 | Sent comments to Todd Steffan |
 | 2026-04-10 | NDV Energy Pte Ltd | — | Reviewed | 2026-04-10 | — |

@@ -13,20 +13,22 @@ local_broker: Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-03-03
-last_updated: 2026-05-28
+last_updated: 2026-06-01
 area: Amazon
 tags:
   - deal
   - amazon
   - quick-commerce
 tm: Chatman Young
-last_note: "Amazon new proposal: rent/term start upon substantial completion of LL power upgrade."
+last_note: "Revised lease so that rent commences upon completion of LL's work; sent revised draft to Amazon."
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-06-01 - Revised lease so that rent commences upon completion of LL's work; sent revised draft to Amazon.
 
 2026-05-28 - Amazon new proposal: rent/term start upon substantial completion of LL's power upgrade.
 

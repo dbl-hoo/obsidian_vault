@@ -8,8 +8,8 @@ last_updated: 2026-05-27
 
 ## Tasks
 
-- [ ] Send engagement letter to Heidelberg Distributing for signature 📅 2026-05-28
-- [ ] Draft PSA for 3535 St Johns Road Lima OH sale to Nickolas LLC 📅 2026-06-03
+- [x] Send engagement letter to Heidelberg Distributing for signature 📅 2026-05-28 ✅ 2026-06-02
+- [x] Draft PSA for 3535 St Johns Road Lima OH sale to Nickolas LLC 📅 2026-06-03 ✅ 2026-06-02
 
 ## Notes
 

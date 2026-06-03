@@ -3,14 +3,16 @@ site_code: DLE5-1
 deal_type: Purchase
 business_unit: AMZL
 status: Surveying
-tm:
+tm: Frank Taylor
 pcm:
 launch_date: 2028-01-01
 start_date:
 end_date:
 local_broker: David Graves, Cypress
 area: Amazon
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 last_updated: 2026-06-01
 last_note: Transitioned from Andrea Roy; new POR, pin on existing facility, topology re-running with Richmond KY pin relocation
 ---

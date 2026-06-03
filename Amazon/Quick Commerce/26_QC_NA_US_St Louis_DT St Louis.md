@@ -24,12 +24,12 @@ next_due: 2026-06-03
 
 ## Tasks
 
-- [ ] Finalize rent and send LOI 📅 2026-06-03
-- [ ] Matterport scan — Suite C 📅 2026-06-03
-- [ ] Complete P0 inputs 📅 2026-06-03
-- [ ] Confirm power capacity / LL upgrade to 400A 📅 2026-06-03
-- [ ] Confirm location of exclusive parking stalls 📅 2026-06-03
-- [ ] Flooring work scope — confirm what LL will address 📅 2026-06-03
+- [x] Finalize rent and send LOI 📅 2026-06-03 ✅ 2026-06-02
+- [x] Matterport scan — Suite C 📅 2026-06-03 ✅ 2026-06-02
+- [x] Complete P0 inputs 📅 2026-06-03 ✅ 2026-06-02
+- [x] Confirm power capacity / LL upgrade to 400A 📅 2026-06-03 ✅ 2026-06-02
+- [x] Confirm location of exclusive parking stalls 📅 2026-06-03 ✅ 2026-06-02
+- [x] Flooring work scope — confirm what LL will address 📅 2026-06-03 ✅ 2026-06-02
 - [x] Schedule debrief on St. Louis DT survey 📅 2026-05-10 ✅ 2026-05-27
 
 ## Notes

@@ -1,15 +1,19 @@
 ---
 project: Listing Agreement - Lockbourne
-status: Closed
+status: Ongoing
 area: KBC
 office: Columbus
 tags: [kbc]
-last_updated: 2026-04-27
+last_updated: 2026-06-02
 ---
 
 ## Tasks
 
+- [ ] Follow up with Beau Taggart on redline comments 📅 2026-06-06
+
 ## Notes
+
+2026-06-02 - Sent redline review to Beau Taggart. Two material issues flagged: (1) Stockbridge deleted language requiring market commission if they sell to a prospective tenant instead of leasing — Jason no strong view; (2) Stockbridge requiring prospective waiver of broker lien rights — Jason recommended against agreeing to this, noted it's a real but rare risk and the lien is a meaningful remedy. Awaiting Beau's direction.
 
 2026-04-27 - Followed up with Beau Taggart and Kelly Bright. Matter closed.
 

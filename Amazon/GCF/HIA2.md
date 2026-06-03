@@ -1,5 +1,6 @@
 ---
-site_code: HIA2_Chamberburg
+site_code: HIA2
+aliases: ["HIA2_Chamberburg"]
 deal_type: Purchase
 business_unit: GCF
 status: Selected
@@ -7,8 +8,8 @@ tm: Phil Ristevski
 pcm: 
 launch_date: 2029-06-01
 end_date:
-last_updated: 2026-05-28
-last_note: "Survey update: field work complete; surveyor finalizing, expects to send by end of next week."
+last_updated: 2026-06-01
+last_note: "ALTA survey received."
 next_due:
 local_broker: 
 area: Amazon
@@ -40,6 +41,8 @@ tags: [deal, amazon]
 ## Tasks
 
 ## Notes
+
+2026-06-01 - ALTA survey received.
 
 2026-05-28 - Survey update: field work fully complete; surveyor working to finalize, expects to send by end of next week.
 

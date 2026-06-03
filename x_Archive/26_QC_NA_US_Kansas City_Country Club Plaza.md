@@ -1,5 +1,5 @@
 ---
-site_code: 26_QC_NA_US_Kansas City_Country Club Plaza
+site_code: TBD_Country_Club_Plaza
 launch_date: 2026-08-01
 pin: Country Club Plaza
 city: Kansas City

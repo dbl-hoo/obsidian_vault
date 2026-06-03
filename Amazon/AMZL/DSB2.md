@@ -9,8 +9,8 @@ launch_date: 2027-01-01
 end_date:
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-04-20
-last_note: "CAR submission 4/21; target closing date 2026-06-23."
+last_updated: 2026-06-02
+last_note: "Confirmed on track for closing 2026-06-23."
 next_due:
 tags:
   - deal
@@ -34,6 +34,8 @@ tags:
 
 
 ## Notes
+
+2026-06-02 - Confirmed on track for closing 2026-06-23.
 
 2026-04-20 - Target closing date: 2026-06-23.
 

@@ -15,9 +15,9 @@ loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-05-27
+last_updated: 2026-06-02
 last_note: "Updated lease sent to LL; follow up EOW."
-next_due: 2026-05-30
+next_due: 2026-06-02
 tags: [deal, amazon, quick-commerce]
 ---
 
@@ -25,7 +25,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] Follow up with LL re: lease 📅 2026-05-30
+- [ ] Follow up with LL re: lease 📅 2026-06-02
 
 ## Notes
 

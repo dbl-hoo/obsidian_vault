@@ -11,8 +11,8 @@ end_date:
 local_broker: Jacob Holdeman (Scannell Properties)
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-06-01
-last_note: Official handoff from Andrea Roy confirmed; SHPO requiring side agreement with opposition group; deal feels close per Andrea
+last_updated: 2026-06-02
+last_note: PSA amendment received — two additional 30-day extensions at $10k each (NR/NA); seller signed counterpart returned; pending authorization to release fully executed copy
 next_due: 2026-05-29
 ---
 
@@ -20,6 +20,8 @@ next_due: 2026-05-29
 - [x] 🔺 Get up to speed on DII9 (Project Kanawha) — confirm PSA extension and prep for SHPO meeting next week 📅 2026-05-29 ✅ 2026-05-28
 
 ## Notes
+
+2026-06-02 - PSA amendment received granting two additional 30-day extensions at $10k additional deposit each (both NR/NA to Purchase Price at Closing). Seller signed and returned counterpart. Scannell requesting confirmation of any questions/comments and authorization to release fully executed copy.
 
 2026-06-01 - Official handoff from Andrea Roy confirmed per 2026-06-01 spreadsheet review. Per Andrea: SHPO is requiring a side agreement with the opposition group (connected to the wedding venue across the street). Deal feels like it's coming to an end — her words. No new action items beyond what's already in flight.
 

@@ -1,5 +1,6 @@
 ---
-site_code: OPA7 - Mahanoy, PA
+site_code: OPA7
+aliases: ["OPA7 - Mahanoy, PA"]
 deal_type: Lease
 business_unit: GCF
 status: Selected

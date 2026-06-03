@@ -70,6 +70,7 @@ KBC_DOCS:         C:\Users\kirkham\Documents\KBC Legal
 _Knowledgebase/      ← Reference docs, organized by area
   Amazon/            ← Amazon design standards (AMZL.md, QC.md, SSD.md)
   KBC/               ← KBC legal and deal reference
+                        KBC Legal Entities and Signatories.md ← entity names, incorporation types, signatories, and addresses by office/jurisdiction — use for contract execution, NDA signing blocks, MSAs
   Personal/          ← Personal reference
 Amazon/              ← Active Amazon deals, organized by program type
   AMZL/              ← AMZL delivery station deals

@@ -10,7 +10,7 @@ end_date:
 local_broker: KBC
 area: Amazon
 last_updated: 2026-06-01
-last_note: "On agenda for weekly Amazon meeting — suggest preparing CAR for October closing"
+last_note: "Zoning: Amazon uses consistent with Core5 approved dev plan; all approvals at staff level."
 next_due:
 tags: [deal, amazon]
 ---
@@ -18,6 +18,8 @@ tags: [deal, amazon]
 ## Tasks
 
 ## Notes
+
+2026-06-01 - Zoning update: site is in the Planned Commerce District in the Village of West Jefferson, OH. Code requires Village Board approval of a final development plan for new projects. Core5 obtained the final development plan for a 1.5 MSF spec building. Met with Village representatives re CMH8 — Village determined proposed Amazon facilities (IXD, One DC, RDC, Relo, ARS) are consistent with Core5's approved final development plan; all approvals would be at staff level.
 
 2026-05-03 - On agenda for weekly Amazon meeting — suggest preparing CAR for October closing.
 
