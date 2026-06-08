@@ -13,8 +13,8 @@ local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-05-27
-last_note: "LL accepted changes to the lease."
+last_updated: 2026-06-02
+last_note: "Fire pump maintenance open issue; asked LL for maintenance contract"
 next_due:
 area: Amazon
 tm: TBD
@@ -26,6 +26,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-06-02 - Open issue: fire pump maintenance — who will maintain. Asked LL if they have the maintenance contract.
 
 2026-05-27 - LL accepted changes to the lease.
 

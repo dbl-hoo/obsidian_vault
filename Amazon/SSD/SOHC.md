@@ -10,8 +10,8 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-05-28
-last_note: "Landlord LOI counter: 330K SF, $9.50 NNN / 2.5%, 238 mo / 4 mo free, $7 TI w/ CM fee, no termination option, no permit contingency."
+last_updated: 2026-06-04
+last_note: "LOI back to LL: 184 mo term, $9.25 PSF NNN, 2.5% escalations."
 next_due:
 tags:
   - deal
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-06-04 - LOI back to LL. Terms: 184-month term, $9.25 PSF NNN, 2.5% annual escalations.
 
 2026-05-28 - Landlord LOI counter received (dated May 28, 2026). Terms: ~330,120 SF on 27.5 acres; lease to be modeled on SOR2 (Clackamas, WA) as template; Amazon.com, Inc. as guarantor. Schedule: CRA execution June 15, 2026; lease execution August 31, 2026; early access September 1, 2027; substantial completion October 31, 2027 (lease commences on substantial completion). Term: 238 months, 4 months free Base Rent only (OpEx not abated). Base Rent: $9.50 PSF NNN commencing month 13, 2.5% annual escalations. TI: $7.00/SF, Landlord-managed with a construction management fee. Renewals: 4 x 5-year options at 100% FMV with FMV annual escalations. Termination option (Year 10): declined. Permit contingency: declined. Exclusivity: agreed, but only after both LOI and CRA are fully executed. Commission: market rate per separate agreement. Tax abatement available; Landlord will process application. Partial grant previously provided to demo building #1 (not #2). Response open 15 days, subject to Premier Development and Prologis investment committee approval.
 

@@ -9,7 +9,7 @@ state: MN
 deal_type: New Lease
 business_unit: QC
 status: Selected
-local_broker:
+local_broker: Shannon Strock Farrand (shannon@cegspaces.com)
 loi_final: No
 loi_prepared: No
 area: Amazon
@@ -18,13 +18,14 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-05-27
+last_updated: 2026-06-04
 last_note: "Debrief 5/13 — shortlisted as ZMS5 pivot; ~5,000 SF, asking $52,500/yr; no HVAC/sprinklers; alcohol likely N/A"
 next_due: 2026-06-03
 ---
 
 ## Tasks
 
+- [ ] Follow up with broker (Shellard) 📅 2026-06-10
 - [x] Negotiate outbound man door as LL scope 📅 2026-06-03 ✅ 2026-06-02
 - [x] Confirm LL scope and delivery conditions 📅 2026-06-03 ✅ 2026-06-02
 - [x] Matterport scan — ~5,000 SF NE corner 📅 2026-06-03 ✅ 2026-06-02

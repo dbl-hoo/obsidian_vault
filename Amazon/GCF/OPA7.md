@@ -11,8 +11,8 @@ start_date: 2025-12-17
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-20
-last_note: "Power: outside date Q4 2027 for 10K amps; 4K amps available Q1/Q2; PNK open to temp power permitting to bridge; 10K amps needed by 3/31/27."
+last_updated: 2026-06-08
+last_note: "PPL EU power timeline: 1.5MVA 9/15/26, 4MVA 4/1/27, 7.5MVA 12/1/27 (full 12KA at 10MVA by 5/1/28 for ~$1.5M upfront). No distribution ESAs."
 next_due:
 tags:
   - deal
@@ -21,8 +21,20 @@ tags:
 
 ## Tasks
 
+- [ ] Get Amazon's answers to PPL EU load diversification questions (anticipated peak coincident usage; equipment list per pp. 5-7 of PPL secondary app) — needed to potentially accelerate power timeline 📅 2026-06-15
 
 ## Notes
+
+2026-06-08 - PPL EU power update — Tyler Glueck, Senior Distribution Engineer (tglueck@pplweb.com, 484-866-0027)
+- **Load diversification ask:** PPL needs Amazon to answer two things to potentially accelerate timeline: (1) anticipated peak coincident usage (Amazon requested 12,000A total connected load, but utility needs expected actual peak); (2) equipment list per pages 5-7 of PPL secondary application document.
+- **ESA clarification:** No distribution-level ESAs. Distribution service (what OPA7 takes) is governed by different tariff than transmission (69kV+). Transmission ESAs allow up to 3 years to ramp to utilization; distribution customers expected at peak load within ~1 year of interconnection.
+- **Speculative load tariff:** If Amazon reserves more capacity than anticipated peak, the excess is "speculative load" and all reinforcement costs for that excess are billed upfront. Reserve held for 5-year initial term with annual review thereafter.
+- **Power availability timeline:**
+  - 9/15/2026 — 1.5MVA / 1,800A: pending 2,500kVA padmount transformer (customer site)
+  - 4/1/2027 — 4MVA / 4,800A: pending ~1.5mi line extension + new capacitor; tentative pending ROW assessment
+  - 12/1/2027 — 7.5MVA / 9,000A: pending new feeder; gating item is railroad crossing permit (1-year min lead time)
+  - 5/1/2028 — 10MVA / 12,000A (full connected load): optional; ~$1.5M upfront billable to Amazon as speculative load cost
+- Next coordination call: Wednesday
 
 2026-05-20 - Power update: outside date now Q4 2027 for 10K amps of power; will have 4K amps Q1/Q2 — have transformer but need to erect 10-12 poles through private contractor. PNK open to looking into permitting for temp power to bridge. Need temp power by first receive; 10K amps by 3/31/27.
 

@@ -8,8 +8,8 @@ tm: Phil Ristevski
 pcm: 
 launch_date: 2029-06-01
 end_date:
-last_updated: 2026-06-01
-last_note: "ALTA survey received."
+last_updated: 2026-06-02
+last_note: "Initial project call w/ Panattoni; 2029 GCF target; critical path rezoning + traffic"
 next_due:
 local_broker: 
 area: Amazon
@@ -40,7 +40,11 @@ tags: [deal, amazon]
 
 ## Tasks
 
+- [ ] Share PSA contract with Panattoni team 📅 2026-06-09
+
 ## Notes
+
+2026-06-02 - Initial project call with Panattoni development team. Amazon + Panattoni kicked off entitlements and diligence work for 2029 GCF at former Chambersburg Mall site. Critical path: rezoning and traffic studies — need flash traffic study and test fit before engaging jurisdiction officials. Maura Kennedy: prep call w/ Economic Development head early next week; jurisdiction meetings targeted last week of July. First Energy serves area; power procurement to follow jurisdiction engagement. Local officials previously anti-warehouse but political climate has shifted; distressed site status provides cover. LL may request on-site recreational facility — plan to demonstrate incompatibility via test fit. Contract diligence through August; EM goes hard September; full entitlements payment due March 2028.
 
 2026-06-01 - ALTA survey received.
 

@@ -11,13 +11,17 @@ end_date:
 local_broker: Powell Spears, JLL
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-06-01
-last_note: Transitioned from Andrea Roy; new POR, centroid on two existing leased facilities, no clear direction on placement
+last_updated: 2026-06-02
+last_note: "Survey re-snap pending; send survey + background to Demco by EOW"
 ---
 
 ## Tasks
 
+- [ ] Send survey and background to Demco 📅 2026-06-06
+
 ## Notes
+
+2026-06-02 - Survey re-snap pending. Need to send survey and background to Demco by EOW.
 
 2026-06-01 - Transitioned from Andrea Roy (departing KBC Nashville). Handoff per 2026-06-01 spreadsheet review.
 

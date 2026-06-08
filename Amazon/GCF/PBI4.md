@@ -12,13 +12,24 @@ end_date:
 local_broker: Hassan Mamoud, KBC
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-06-01
-last_note: Matter opened — TNS→ARS conversion (PBI3→PBI4); ~10 yrs lease remaining; Amazon wants to buy driven by ARS investment; Nuveen (Louis Bauer) LL; Hassan in contact
+last_updated: 2026-06-03
+last_note: Nuveen intel — owns via open-end fund, purchased from Seefried; lease through 2028 at $200 PSF low-4 cap; thinks deal can get done at ~$215 PSF
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-06-03 - Nuveen/ownership intel (meeting notes)
+- Nuveen is owner — purchased from Seefried; owns in open-end (long-term) fund; have been cash-flowing for 4-5 years; can sell
+- Lease runs through 2028; $200 PSF at low-4 cap ($214 PSF)
+- Building comps at $222 PSF ($240M) — there is room; replacement cost ~$110M
+- Won't be able to comp on rent for a BTS — high rent, bulk limited in SFI market
+- Market cap rates sub-5%, esp. Miami/Dade; Ft. Pierce/Port St. Lucie at ~5.25%
+- Prob. ~$160M in rent left on the lease
+- Nuveen thinks deal can be done at ~$215 PSF
+- PNC — no contact with LL yet
+- Louis Bower → new co-head in Nuveen Logistix platform; will invest almost $500M
 
 2026-06-01 - Additional contacts: Clay Thompson, Seefried (developer, TI project); Jason Bergman (PCM).
 

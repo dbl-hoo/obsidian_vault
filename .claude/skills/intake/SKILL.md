@@ -36,6 +36,7 @@ Parse the source for:
 
 **KBC-specific fields to extract:**
 - **KBC office** — infer from which KBC broker is involved or where the deal is located
+- **Property address** — extract from the document body or attachment content; this drives the matter name and folder name. Look for patterns like `123 Main St`, `456 Oak Ave, Atlanta, GA`, or a property name tied to a known address. If not findable, ask before proceeding — do not fall back to a subject-line or company name.
 
 If any required fields can't be determined, ask before creating the file.
 
@@ -59,7 +60,10 @@ If any required fields can't be determined, ask before creating the file.
   - Quick Commerce: `AMAZON_QC_DOCS\{site_code}\`
   - Project A: `AMAZON_PA_DOCS\{site_code}\`
 
-**KBC matters:** flat file at `KBC/{Matter Name}.md`, docs folder at `KBC_DOCS\{Matter Name}\`
+**KBC matters:** flat file at `KBC/{address} - {matter_type}.md`, docs folder at `KBC_DOCS\{address} - {matter_type}\`
+- `{address}` = street address extracted from the document (e.g., `312 Clay St Columbus OH`)
+- `{matter_type}` = most specific type that fits (same list used for attachment stems)
+- If the address cannot be determined from the document, **ask Jason before creating the file** — do not use the email subject, company name, or a generic placeholder
 
 **Kirkham Law matters:** flat file at `Kirkham Law/{Matter Name}.md`, docs folder at equivalent path
 
@@ -227,16 +231,16 @@ Summarize in 3–5 bullet points:
 **KBC input:** Email saved to `Inputs/FW KBC Ferguson MSA comments.msg`
 
 **Jack does:**
-1. Extracts: matter = "Ferguson MSA", area = KBC, office = Atlanta, contacts = Randy Hogan (Ferguson) + Todd Steffen (KBC)
-2. Creates `KBC/Ferguson MSA.md` and `KBC Legal\Ferguson MSA\`
+1. Extracts: area = KBC, office = Atlanta, contacts = Randy Hogan (Ferguson) + Todd Steffen (KBC); reads attachment to find property address → `456 Peachtree St NE Atlanta GA`
+2. Creates `KBC/456 Peachtree St NE Atlanta GA - MSA.md` and `KBC Legal\456 Peachtree St NE Atlanta GA - MSA\`
 3. Logs note: email from Randy Hogan with clean + redlined MSA; Todd asking Jason to review and return critical redlines
-4. Adds task: `- [ ] Review Ferguson MSA redlines and respond with critical comments 📅 2026-04-23`
+4. Adds task: `- [ ] Review MSA redlines and respond with critical comments 📅 2026-04-23`
 
 **Jack reports:**
-> Matter created: Ferguson MSA (KBC / Atlanta).
+> Matter created: 456 Peachtree St NE Atlanta GA - MSA (KBC / Atlanta).
 > - Randy Hogan (Ferguson) sent clean + redlined MSA; forwarded by Todd Steffen for Jason's review
 > - Task added due 4/23
-> - Docs folder created at KBC Legal\Ferguson MSA\
+> - Docs folder created at KBC Legal\456 Peachtree St NE Atlanta GA - MSA\
 
 ---
 

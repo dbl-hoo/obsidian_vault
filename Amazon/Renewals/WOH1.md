@@ -20,7 +20,7 @@ tags:
 
 ## Tasks
 
-- [ ] Reply to LL — counter per Max: $6.75/SF, flat, 3 years 📅 2026-06-03
+- [x] Reply to LL — counter per Max: $6.75/SF, flat, 3 years 📅 2026-06-03 ✅ 2026-06-03
 
 ## Notes
 

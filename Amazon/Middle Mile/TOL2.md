@@ -9,8 +9,8 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-26
-last_note: "Ambrose: close by 2026-11-30 achievable if CAR approval moves aggressively; shell completion 2028-01-26."
+last_updated: 2026-06-02
+last_note: "Mathes confirmed: want $85K/acre vs. help with 1031 exchange"
 next_due: 2026-05-16
 tags:
   - deal
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-06-02 - Mathes confirmed: want $85K per acre vs. help with a 1031 exchange.
 
 2026-05-26 - Entitlements path is straightforward. Ambrose estimates close by 2026-11-30 if moving aggressively on CAR approval — would allow shell completion by 2028-01-26.
 
