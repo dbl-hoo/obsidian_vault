@@ -9,7 +9,7 @@ last_updated: 2026-06-02
 
 ## Tasks
 
-- [ ] Follow up with Beau Taggart on redline comments 📅 2026-06-08
+- [x] Follow up with Beau Taggart on redline comments 📅 2026-06-08 ✅ 2026-06-09
 
 ## Notes
 

@@ -17,8 +17,8 @@ last_note: Transitioned from Andrea Roy; site adjacent to Back River WWTP under 
 
 ## Tasks
 
-- [ ] Obtain air quality test results (30-day test recently completed) 📅 2026-06-08
-- [ ] Request all-hands with RREEF/DWS to finalize terms before handoff 📅 2026-06-08
+- [x] Obtain air quality test results (30-day test recently completed) 📅 2026-06-08 ✅ 2026-06-09
+- [x] Request all-hands with RREEF/DWS to finalize terms before handoff 📅 2026-06-08 ✅ 2026-06-09
 
 ## Notes
 

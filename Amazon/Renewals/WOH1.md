@@ -10,8 +10,8 @@ start_date: 2026-03-31
 end_date:
 local_broker: Beau Taggart
 area: Amazon
-last_updated: 2026-05-21
-last_note: "LL response: holding at $7.00/SF, no free rent, open to 3 or 4 renewal options."
+last_updated: 2026-06-08
+last_note: "LL accepted $6.75/SF but counter-proposed 5-year term with 2% annual escalations."
 next_due:
 tags:
   - deal
@@ -20,9 +20,10 @@ tags:
 
 ## Tasks
 
-- [x] Reply to LL — counter per Max: $6.75/SF, flat, 3 years 📅 2026-06-03 ✅ 2026-06-03
 
 ## Notes
+
+2026-06-08 - LL responded — accepted $6.75/SF but counter-proposed 5-year term with 2% annual escalations.
 
 2026-05-21 - LL response received. Holding firm at $7.00/SF:
 • Maintain $7.00/SF for renewal term

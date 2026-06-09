@@ -9,8 +9,8 @@ launch_date: 2028-05-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-01
-last_note: "Zoning: Amazon uses consistent with Core5 approved dev plan; all approvals at staff level."
+last_updated: 2026-06-08
+last_note: "DD material expiration status logged — environmental Flash Study considered expired; wetlands good to 1/22/2031; CRA expires if not exercised by 2040."
 next_due:
 tags: [deal, amazon]
 ---
@@ -18,6 +18,17 @@ tags: [deal, amazon]
 ## Tasks
 
 ## Notes
+
+2026-06-08 - DD material expiration status (informational):
+- Geotech: no expiration; soil composition stable; recommend redo if a few years old
+- Cultural Resources / Historical Study (CESO, 7/31/2025): no expiration; likely acceptable ~2 years, may require update at ~3-year mark — good until ~Dec 2027
+- Endangered Species Study (CESO, 8/25/2025): no expiration; same ~3-year assumption — good until ~Dec 2027
+- Environmental: no formal report done; WHS Flash Study (3/25/2025) assumed ~1-year validity — consider already expired
+- Traffic Report (Flash, 4/11/2025): internal purposes only; no expiration; would need to be repeated for any future project
+- Wetland (USACE determination, 1/23/2026): 5-year validity; expires 1/22/2031
+- TIF (created 2021): no expiration date; various caveats apply
+- Intergovernmental Real Property Tax Abatement Agreement (West Jefferson / School District): no expiration
+- Community Reinvestment Area Agreement: expires if not exercised by 2040
 
 2026-06-01 - Zoning update: site is in the Planned Commerce District in the Village of West Jefferson, OH. Code requires Village Board approval of a final development plan for new projects. Core5 obtained the final development plan for a 1.5 MSF spec building. Met with Village representatives re CMH8 — Village determined proposed Amazon facilities (IXD, One DC, RDC, Relo, ARS) are consistent with Core5's approved final development plan; all approvals would be at staff level.
 

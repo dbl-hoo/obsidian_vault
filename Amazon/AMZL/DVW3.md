@@ -20,7 +20,7 @@ next_due: 2026-06-02
 
 ## Tasks
 
-- [ ] Follow up on DVW3 ownership research and assess viability 📅 2026-06-02
+- [x] Follow up on DVW3 ownership research and assess viability 📅 2026-06-02 ✅ 2026-06-09
 
 ## Notes
 

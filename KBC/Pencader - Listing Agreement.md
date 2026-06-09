@@ -9,7 +9,7 @@ last_updated: 2026-06-02
 
 ## Tasks
 
-- [ ] Review Stoltz redlines to Pencader listing agreement — flag deal killers and must-push provisions for Mark Chubb 📅 2026-06-09
+- [x] Review Stoltz redlines to Pencader listing agreement — flag deal killers and must-push provisions for Mark Chubb 📅 2026-06-09 ✅ 2026-06-09
 
 ## Notes
 

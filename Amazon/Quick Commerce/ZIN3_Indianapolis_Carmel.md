@@ -23,7 +23,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] Follow up on L10 CAR approval 📅 2026-06-05
+- [x] Follow up on L10 CAR approval 📅 2026-06-05 ✅ 2026-06-09
 
 ## Notes
 

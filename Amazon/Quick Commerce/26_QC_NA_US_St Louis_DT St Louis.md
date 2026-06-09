@@ -24,7 +24,7 @@ next_due: 2026-06-03
 
 ## Tasks
 
-- [ ] Follow up with Matt Eastin (broker) 📅 2026-06-09
+- [x] Follow up with Matt Eastin (broker) 📅 2026-06-09 ✅ 2026-06-09
 - [x] Follow up with Matt Eastin (broker) 📅 2026-06-10 ✅ 2026-06-04
 - [x] Finalize rent and send LOI 📅 2026-06-03 ✅ 2026-06-02
 - [x] Matterport scan — Suite C 📅 2026-06-03 ✅ 2026-06-02

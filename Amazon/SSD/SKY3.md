@@ -19,7 +19,7 @@ last_note: Knoll approved 45-day IP extension; in process — new IP expiry ~202
 
 ## Tasks
 
-- [ ] Confirm extension notice + $50K deposit completed 📅 2026-06-08
+- [x] Confirm extension notice + $50K deposit completed 📅 2026-06-08 ✅ 2026-06-09
 - [ ] Track KYTC approval (forecast ~2026-07-04) 📅 2026-07-04
 - [ ] Inspection period expiry — go firm or terminate 📅 2026-07-23
 

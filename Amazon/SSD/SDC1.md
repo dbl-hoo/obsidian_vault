@@ -17,7 +17,7 @@ last_note: Transitioned from Andrea Roy; 10-yr renewal + expansion rights agreed
 
 ## Tasks
 
-- [ ] 🔺 Get up to speed on Daikin relocation status and re-engage Christie Lee (CBRE) 📅 2026-06-08
+- [x] 🔺 Get up to speed on Daikin relocation status and re-engage Christie Lee (CBRE) 📅 2026-06-08 ✅ 2026-06-09
 
 ## Notes
 

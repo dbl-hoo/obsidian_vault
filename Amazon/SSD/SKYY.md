@@ -17,8 +17,8 @@ last_note: Transitioned from Andrea Roy; in CAR, lease substantially complete, Z
 
 ## Tasks
 
-- [ ] File ZCL with Louisville Airport for zoning clearance 📅 2026-06-08
-- [ ] Confirm precon has reviewed base building drawings 📅 2026-06-08
+- [x] File ZCL with Louisville Airport for zoning clearance 📅 2026-06-08 ✅ 2026-06-09
+- [x] Confirm precon has reviewed base building drawings 📅 2026-06-08 ✅ 2026-06-09
 
 ## Notes
 

@@ -40,7 +40,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Share PSA contract with Panattoni team 📅 2026-06-09
+- [x] Share PSA contract with Panattoni team 📅 2026-06-09 ✅ 2026-06-09
 
 ## Notes
 

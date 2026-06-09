@@ -8,7 +8,7 @@ last_updated: 2026-06-02
 
 ## Tasks
 
-- [ ] Review and respond to NDA 📅 2026-06-09
+- [x] Review and respond to NDA 📅 2026-06-09 ✅ 2026-06-09
 
 ## Notes
 

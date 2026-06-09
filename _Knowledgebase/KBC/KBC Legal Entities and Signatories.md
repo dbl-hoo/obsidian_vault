@@ -2,39 +2,39 @@
 
 Reference for contract execution — use to select the correct legal entity, incorporation type, signatories, and address for a given office/jurisdiction.
 
-| Office / Jurisdiction | Legal Entity | Incorporation Type | Signatories | Office Address |
-|---|---|---|---|---|
-| AMZN | KBC Advisors, LLC | a Washington limited liability company | Zach Bode, Mandy Mota, Matt O'Brien | 5628 Airport Way S, Suite 238, Seattle, WA 98108 |
-| Alabama | KBC Advisors Services, LLC | a Delaware limited liability company | Jay Padgett | 5628 Airport Way S, Suite 238, Seattle, WA 98108 |
-| Atlanta | KBC Advisors - Georgia, LLC | a Washington limited liability company | Paul Roeser, Hassan Mahmood, Jay Padgett, Mandy Mota | 1776 Peachtree Street NW, Suite 120S, Atlanta, GA 30309 |
-| Austin | KBC Advisors - Austin, LLC | a Delaware limited liability company | Mo Green, Ryan Keiser | 5000 Plaza on the Lake, Suite 225, Austin, TX 78746 |
-| Chicago | KBC Advisors - Illinois, LLC | a Washington limited liability company | Ryan O'Leary, Jeff Fischer, Todd Steffen | 2 Mid America Plaza, Suite 1050, Oakbrook Terrace, IL 60181 |
-| Colorado | KBC Advisors Services, LLC | a Delaware limited liability company | Mandy Mota | 5628 Airport Way S, Suite 238, Seattle, WA 98108 |
-| Connecticut | KBC Advisors Services, LLC | a Delaware limited liability company | Mandy Mota | 5628 Airport Way S, Suite 238, Seattle, WA 98108 |
-| Dallas | KBC Advisors - Texas, LLC | a Washington limited liability company | Ryan Keiser, Tony Creme, Nathan Lawrence | 2828 N Harwood Street, Suite 1900, Dallas, TX 75201 |
-| Dallas (development) | KBC TX Development, LLC | a Texas limited liability company | Ryan Keiser, Tony Creme | 2828 N Harwood Street, Suite 1900, Dallas, TX 75201 |
-| Delaware | KBC Advisors Services, LLC | a Delaware limited liability company | Zach Bode, Kristina Madayag, Mandy Mota, Matt O'Brien | 5628 Airport Way S, Suite 238, Seattle, WA 98108 |
-| Florida | KBC Advisors - Florida, LLC | a Washington limited liability company | Mandy Mota | 5628 Airport Way S, Suite 238, Seattle, WA 98108 |
-| Houston | KBC Advisors - Houston TX, LLC | a Delaware limited liability company | John Ferruzzo, Ryan Keiser | 1233 West Loop S, Suite 1270, Houston, TX 77027 |
-| Los Angeles | KBC Advisors - Capital Markets, Inc. | a Washington corporation | Bo Mills, Ryan Bos | 1901 Avenue of the Stars, Suite 931, Los Angeles, CA 90067 |
-| Manhattan Beach | KBC Advisors - California, Inc. | a Washington corporation | Ryan Bos, Colin MacMillan | 1201 Morningside Drive, Suite 300, Manhattan Beach, CA 90266 |
-| Maryland | KBC Advisors - Georgia, LLC | a Washington limited liability company | Mandy Mota | 1776 Peachtree Street NW, Suite 120S, Atlanta, GA 30309 |
-| Massachusetts | KBC Advisors Services, LLC | a Delaware limited liability company | Mandy Mota | 5628 Airport Way S, Suite 238, Seattle, WA 98108 |
-| Midland | KBC Advisors - Midland, LLC | a Delaware limited liability company | Alex Perry, Ryan Keiser | 3300 N. A Street, Bldg 4, Suite 210, Midland, TX 79705 |
-| Nashville | KBC Advisors - Tennessee, LLC | a Washington limited liability company | Chad Tuck, Bo Fulk | 611 Merritt Avenue, Suite 100, Nashville, TN 37203 |
-| Nevada | KBC Advisors - Nevada, LLC | a Delaware limited liability company | Mandy Mota | 1 East Liberty Street, Suite 628, Reno, NV 89501 |
-| New Jersey | KBC Advisors - New Jersey, LLC | a New Jersey limited liability company | Jason Goldman, Michael Kimmel, Marc Petrella, Andrew Siemsen | 90 Woodbridge Center Drive, Suite 110, Woodbridge, NJ 07095 |
-| New York | KBC Advisors - New York, LLC | a Washington limited liability company | Gabe Temkin | 215 Park Ave S, Suite 1805, New York, NY 10003 |
-| Newport Beach | KBC Advisors - California, Inc. | a Washington corporation | Colin MacMillan, Ryan Bos | 2230 Newport Boulevard, Suite 101, Newport Beach, CA 92663 |
-| Oakland | KBC Advisors - NorCal, Inc. | a Washington corporation | Tom Damaschino, Sam Higgins, Ryan Bos | 312 Clay Street, Suite 180, Oakland, CA 94607 |
-| Ohio | KBC Advisors - Ohio, LLC | a Delaware limited liability company | Beau Taggart, Joe Kimener, Mandy Mota | 1086 N 4th Street, Suite 111, Columbus, OH 43201 |
-| Oregon | KBC Advisors Services, LLC | a Delaware limited liability company | Mandy Mota | 5628 Airport Way S, Suite 238, Seattle, WA 98108 |
-| Philadelphia | KBC Advisors - Georgia, LLC | a Washington limited liability company | Mark Chubb, Summer Coulter, Michael Zerbe, Jason Webb, Mandy Mota | 775 E Lancaster Avenue, Suite 225, Villanova, PA 19085 |
-| Phoenix | KBC Advisors - Arizona, LLC | a Washington limited liability company | Mike Freret | 2425 E Camelback Road, Suite 1080, Phoenix, AZ 85016 |
-| Seattle / Georgetown | KBC Advisors - Washington, LLC | a Washington limited liability company | Matt Wood, Mike Roy, Kevin Skillestad, Casey Trees | 5628 Airport Way S, Suite 238, Seattle, WA 98108 |
-| South Carolina | KBC Advisors Services, LLC | a Delaware limited liability company | Mandy Mota, Jay Padgett | 5628 Airport Way S, Suite 238, Seattle, WA 98108 |
-| Virginia | KBC Advisors Services, LLC | a Delaware limited liability company | Mandy Mota | 5628 Airport Way S, Suite 238, Seattle, WA 98108 |
-| Washington (non-Amazon, non-Seattle) | KBC Advisors Services, LLC | a Delaware limited liability company | Kristina Madayag, Mandy Mota | 5628 Airport Way S, Suite 238, Seattle, WA 98108 |
+| Office / Jurisdiction                | Legal Entity                         | Incorporation Type                     | Signatories                                                       | Office Address                                               |
+| ------------------------------------ | ------------------------------------ | -------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------ |
+| AMZN                                 | KBC Advisors, LLC                    | a Washington limited liability company | Zach Bode, Mandy Mota, Matt O'Brien                               | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
+| Alabama                              | KBC Advisors Services, LLC           | a Delaware limited liability company   | Jay Padgett                                                       | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
+| Atlanta                              | KBC Advisors - Georgia, LLC          | a Washington limited liability company | Paul Roeser, Hassan Mahmood, Jay Padgett, Mandy Mota              | 1776 Peachtree Street NW, Suite 120S, Atlanta, GA 30309      |
+| Austin                               | KBC Advisors - Austin, LLC           | a Delaware limited liability company   | Mo Green, Ryan Keiser                                             | 5000 Plaza on the Lake, Suite 225, Austin, TX 78746          |
+| Chicago                              | KBC Advisors - Illinois, LLC         | a Washington limited liability company | Ryan O'Leary, Jeff Fischer, Todd Steffen                          | 2 Mid America Plaza, Suite 1050, Oakbrook Terrace, IL 60181  |
+| Colorado                             | KBC Advisors Services, LLC           | a Delaware limited liability company   | Mandy Mota                                                        | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
+| Connecticut                          | KBC Advisors Services, LLC           | a Delaware limited liability company   | Mandy Mota                                                        | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
+| Dallas                               | KBC Advisors - Texas, LLC            | a Washington limited liability company | Ryan Keiser, Tony Creme, Nathan Lawrence                          | 2828 N Harwood Street, Suite 1900, Dallas, TX 75201          |
+| Dallas (development)                 | KBC TX Development, LLC              | a Texas limited liability company      | Ryan Keiser, Tony Creme                                           | 2828 N Harwood Street, Suite 1900, Dallas, TX 75201          |
+| Delaware                             | KBC Advisors Services, LLC           | a Delaware limited liability company   | Zach Bode, Kristina Madayag, Mandy Mota, Matt O'Brien             | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
+| Florida                              | KBC Advisors - Florida, LLC          | a Washington limited liability company | Mandy Mota                                                        | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
+| Houston                              | KBC Advisors - Houston TX, LLC       | a Delaware limited liability company   | John Ferruzzo, Ryan Keiser                                        | 1233 West Loop S, Suite 1270, Houston, TX 77027              |
+| Los Angeles                          | KBC Advisors - Capital Markets, Inc. | a Washington corporation               | Bo Mills, Ryan Bos                                                | 1901 Avenue of the Stars, Suite 931, Los Angeles, CA 90067   |
+| Manhattan Beach                      | KBC Advisors - California, Inc.      | a Washington corporation               | Ryan Bos, Colin MacMillan                                         | 1201 Morningside Drive, Suite 300, Manhattan Beach, CA 90266 |
+| Maryland                             | KBC Advisors - Georgia, LLC          | a Washington limited liability company | Mandy Mota                                                        | 1776 Peachtree Street NW, Suite 120S, Atlanta, GA 30309      |
+| Massachusetts                        | KBC Advisors Services, LLC           | a Delaware limited liability company   | Mandy Mota                                                        | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
+| Midland                              | KBC Advisors - Midland, LLC          | a Delaware limited liability company   | Alex Perry, Ryan Keiser                                           | 3300 N. A Street, Bldg 4, Suite 210, Midland, TX 79705       |
+| Nashville                            | KBC Advisors - Tennessee, LLC        | a Washington limited liability company | Chad Tuck, Bo Fulk                                                | 611 Merritt Avenue, Suite 100, Nashville, TN 37203           |
+| Nevada                               | KBC Advisors - Nevada, LLC           | a Delaware limited liability company   | Mandy Mota                                                        | 1 East Liberty Street, Suite 628, Reno, NV 89501             |
+| New Jersey                           | KBC Advisors - New Jersey, LLC       | a New Jersey limited liability company | Jason Goldman, Michael Kimmel, Marc Petrella, Andrew Siemsen      | 90 Woodbridge Center Drive, Suite 110, Woodbridge, NJ 07095  |
+| New York                             | KBC Advisors - New York, LLC         | a Washington limited liability company | Gabe Temkin                                                       | 215 Park Ave S, Suite 1805, New York, NY 10003               |
+| Newport Beach                        | KBC Advisors - California, Inc.      | a Washington corporation               | Colin MacMillan, Ryan Bos                                         | 2230 Newport Boulevard, Suite 101, Newport Beach, CA 92663   |
+| Oakland                              | KBC Advisors - NorCal, Inc.          | a Washington corporation               | Tom Damaschino, Sam Higgins, Ryan Bos                             | 312 Clay Street, Suite 180, Oakland, CA 94607                |
+| Ohio                                 | KBC Advisors - Ohio, LLC             | a Delaware limited liability company   | Beau Taggart, Joe Kimener, Mandy Mota                             | 1086 N 4th Street, Suite 111, Columbus, OH 43201             |
+| Oregon                               | KBC Advisors Services, LLC           | a Delaware limited liability company   | Mandy Mota                                                        | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
+| Philadelphia                         | KBC Advisors - Georgia, LLC          | a Washington limited liability company | Mark Chubb, Summer Coulter, Michael Zerbe, Jason Webb, Mandy Mota | 775 E Lancaster Avenue, Suite 225, Villanova, PA 19085       |
+| Phoenix                              | KBC Advisors - Arizona, LLC          | a Washington limited liability company | Mike Freret                                                       | 2425 E Camelback Road, Suite 1080, Phoenix, AZ 85016         |
+| Seattle / Georgetown                 | KBC Advisors - Washington, LLC       | a Washington limited liability company | Matt Wood, Mike Roy, Kevin Skillestad, Casey Trees                | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
+| South Carolina                       | KBC Advisors Services, LLC           | a Delaware limited liability company   | Mandy Mota, Jay Padgett                                           | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
+| Virginia                             | KBC Advisors Services, LLC           | a Delaware limited liability company   | Mandy Mota                                                        | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
+| Washington (non-Amazon, non-Seattle) | KBC Advisors Services, LLC           | a Delaware limited liability company   | Kristina Madayag, Mandy Mota                                      | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
 
 ## Notes
 

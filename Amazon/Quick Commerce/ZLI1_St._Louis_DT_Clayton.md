@@ -10,8 +10,8 @@ deal_type: New Lease
 business_unit: QC
 status: Selected
 local_broker: "Meghan Donovan, NAI DESCO St. Louis"
-last_updated: 2026-05-03
-last_note: "Pending pre-con direction and cost estimate."
+last_updated: 2026-06-08
+last_note: "Electrical cost estimate received ($65,294.12 total); follow up tomorrow on design meeting."
 next_due:
 loi_final: No
 loi_prepared: Yes
@@ -23,7 +23,19 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
+- [x] Follow up on design meeting 📅 2026-06-09 ✅ 2026-06-09
+
 ## Notes
+
+2026-06-08 - Electrical cost estimate received. Breakdown:
+1. Power Distribution / Panel Work — $4,044.12 (tie-ins, minor breaker adds, circuit extensions)
+2. Lighting (Inspection + Minor Modifications) — $3,250 (inspection, re-lamping, switching rework, emergency/exit verification)
+3. Receptacles & Equipment Circuits — $16,000 (new outlets, dedicated circuits, panel extensions)
+4. Conduit & Wiring — $22,500 (branch circuit routing, panel re-feeds, ceiling work)
+5. HVAC Electrical Connections — $5,200 (disconnects, whips, final tie-ins)
+6. Low Voltage / Data Rough-In — $1,950 (conduit + boxes only)
+7. General Conditions / Misc — $12,350 (permits, supervision, troubleshooting, unknowns, coordination)
+Total: $65,294.12
 
 2026-05-03 - Pending pre-con direction and cost estimate.
 

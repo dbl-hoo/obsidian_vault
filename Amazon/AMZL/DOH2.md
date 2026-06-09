@@ -10,7 +10,7 @@ start_date: 2025-07-31
 end_date: 
 local_broker: KBC
 last_updated: 2026-06-08
-last_note: "Confirmed alignment w/ Amazon on PSA threshold issues (farm lease, reps/warranties); email to Ed Boll sent; next draft expected ~week of June 15."
+last_note: "Bryan Blade back early next week; revised PSA expected then; follow up 6/11."
 next_due: 2026-06-15
 area: Amazon
 tags: [deal, amazon]
@@ -18,10 +18,9 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [x] Finalize WO 📅 2026-05-15 ✅ 2026-05-18
-- [x] Follow up on PSA 📅 2026-05-18 ✅ 2026-05-18
 - [ ] Await updated PSA draft from sellers' counsel (Ed Boll / Bryan Blade) 📅 2026-06-15
 - [ ] Schedule call w/ sellers' counsel after next round of PSA comments 📅 2026-06-15
+- [ ] Follow up w/ Bryan Blade on revised PSA 📅 2026-06-11
 
 ## Related Notes
 
@@ -30,6 +29,8 @@ tags: [deal, amazon]
 - [[Northpoint - MW]] (Reference)
 
 ## Notes
+
+2026-06-08 - Bryan Blade (Anchor Properties GC) back early next week; will follow up with revised PSA then.
 
 2026-06-08 - Confirmed alignment with Amazon (Kate Bagwell) on two threshold PSA issues raised by Bryan Blade (Anchor Properties GC) and Ed Boll (Dinsmore, sellers' counsel): (1) Farm lease — sellers to deliver termination of Jason Grant's oral farm lease at closing, with written acknowledgment from Grant in a form acceptable to the title company. (2) Reps/warranties — 12-month survival period acceptable; Amazon ok limiting seller's liability where a rep becomes untrue pre-closing through no fault of seller (e.g., offsite contamination migrating onto property), provided seller confirms reps at closing and Amazon retains right to terminate and recover EM. Email sent to Ed Boll conveying alignment. Ed out of town (wife's 60th); next PSA draft expected ~week of June 15. Expect a call after next round of comments.
 
