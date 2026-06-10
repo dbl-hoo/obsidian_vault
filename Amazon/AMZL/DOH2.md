@@ -18,9 +18,9 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Await updated PSA draft from sellers' counsel (Ed Boll / Bryan Blade) 📅 2026-06-15
-- [ ] Schedule call w/ sellers' counsel after next round of PSA comments 📅 2026-06-15
-- [ ] Follow up w/ Bryan Blade on revised PSA 📅 2026-06-11
+- [x] Await updated PSA draft from sellers' counsel (Ed Boll / Bryan Blade) 📅 2026-06-15 ✅ 2026-06-10
+- [x] Schedule call w/ sellers' counsel after next round of PSA comments 📅 2026-06-15 ✅ 2026-06-10
+- [ ] Follow up w/ Bryan Blade on revised PSA 📅 2026-06-15
 
 ## Related Notes
 

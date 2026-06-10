@@ -9,9 +9,11 @@ last_updated: 2026-06-09
 
 ## Tasks
 
-- [ ] Review Prologis listing agreement (Meacham 3 & 4) and respond to Whit 📅 2026-06-16
+- [ ] Follow up with Whit Maddox on listing agreement comments 📅 2026-06-16
 
 ## Notes
+
+2026-06-09 - Sent comments to Whit Maddox.
 
 2026-06-09 - [Source: email] Matter opened. Whit Maddox sent Prologis exclusive leasing listing agreement for Meacham 3 & 4 (4101 & 4151 Northern Cross Blvd., Haltom City, TX 76117) — project KBC developed and recently sold. Whit asking Jason for a quick review.
 

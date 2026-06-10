@@ -87,7 +87,7 @@ x_Archive/           ← Completed/dead deals & deprecated programs — don't su
 Daily Notes/         ← Daily capture notes
 Templates/           ← Note templates
 Team Meeting/        ← Weekly team meeting agendas (dated: YYYY-MM-DD Team Meeting.md)
-Open Tasks.md        ← All open tasks (Tasks plugin query)
+_Open Tasks.md       ← All open tasks (Tasks plugin query)
 KBC/NDA Log.md       ← NDA tracking (flat table)
 ```
 
@@ -117,6 +117,7 @@ name:
 role:              # Amazon TM | Local Broker | Landlord Counsel | Landlord | Other
 organization:
 email:             # optional
+phone:             # optional
 title:             # optional — job title
 timezone:          # optional — e.g. East Coast, Central, Pacific
 deals: []          # List of deal site codes / matter names this person is involved in
@@ -208,8 +209,8 @@ Prepend new entries at the **top** of the `## Notes` section (newest first).
 - Tasks live under `## Tasks` at the bottom of the deal file
 - Open: `- [ ] Task description 📅 YYYY-MM-DD`
 - High priority: `- [ ] 🔺 Task description 📅 YYYY-MM-DD`
-- **Completed tasks are checked off (`- [x]`), not deleted.** This preserves the audit trail. The Tasks plugin / `Open Tasks.md` query filters checked tasks out of the open view, so they stay in the file but out of sight.
-- When you need open tasks, use `Open Tasks.md` (Dataview/Tasks output) as the **index** to find which files have them, then **read those files directly** for full context. (Read the files for the surrounding context — not because grep can't match the lines, but because a matching line alone isn't enough to act on.)
+- **Completed tasks are checked off (`- [x]`), not deleted.** This preserves the audit trail. The Tasks plugin / `_Open Tasks.md` query filters checked tasks out of the open view, so they stay in the file but out of sight.
+- When you need open tasks, use `_Open Tasks.md` (Dataview/Tasks output) as the **index** to find which files have them, then **read those files directly** for full context. (Read the files for the surrounding context — not because grep can't match the lines, but because a matching line alone isn't enough to act on.)
 
 ## Tooling
 

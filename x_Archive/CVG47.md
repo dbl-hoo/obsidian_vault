@@ -2,15 +2,15 @@
 site_code: CVG47
 deal_type: Purchase
 business_unit: SORT
-status: On Hold
+status: Cancelled
 tm: Phillip Perri
 pcm: Tannaz H
 launch_date: 2026-08-01
 end_date:
 local_broker: Jeff Bender - Cushman
 area: Amazon
-last_updated: 2026-04-27
-last_note: "Graves family came back at $400K per acre. Informed Amazon."
+last_updated: 2026-06-10
+last_note: "Deal cancelled."
 next_due:
 tags:
   - deal
@@ -21,6 +21,8 @@ tags:
 
 
 ## Notes
+
+2026-06-10 - Deal cancelled.
 
 2026-04-27 - Graves family came back at $400K per acre. Informed Amazon. No follow up.
 

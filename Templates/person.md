@@ -2,6 +2,7 @@
 name: "{{name}}"
 role: ""
 organization: ""
+phone: ""
 deals: []
 area: ""
 tags: [person]

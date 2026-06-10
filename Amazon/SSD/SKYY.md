@@ -11,16 +11,15 @@ end_date:
 local_broker: Powell Spears, JLL
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-06-01
-last_note: Transitioned from Andrea Roy; in CAR, lease substantially complete, ZCL filing issue at Louisville Airport
+last_updated: 2026-06-09
+last_note: "LL broker contact captured (Robert Walker). Followed up on title report and base building plans."
 ---
 
 ## Tasks
 
-- [x] File ZCL with Louisville Airport for zoning clearance 📅 2026-06-08 ✅ 2026-06-09
-- [x] Confirm precon has reviewed base building drawings 📅 2026-06-08 ✅ 2026-06-09
-
 ## Notes
+
+2026-06-09 - LL broker contact confirmed: Robert B. Walker SIOR, CCIM, Executive Managing Director, Commercial Kentucky — Cell: +1 502 298 9255 | Direct: +1 502 719 3254 | rwalker@commercialkentucky.com. Followed up on title report and base building plans.
 
 2026-06-01 - Transitioned from Andrea Roy (departing KBC Nashville). Handoff per 2026-06-01 spreadsheet review.
 

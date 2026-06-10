@@ -5,6 +5,7 @@ organization: Boerke
 email: nunger@boerke.com
 title: Principal
 timezone:
+phone: +1 262-352-6943
 deals: [DKE3, DSB2]
 area: Amazon
 tags: [person]

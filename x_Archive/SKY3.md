@@ -2,7 +2,7 @@
 site_code: SKY3
 deal_type: Purchase
 business_unit: SSD
-status: Selected
+status: Cancelled
 tm: Adam Knoll
 pcm:
 launch_date: 2027-01-01
@@ -13,17 +13,19 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-06-01
-last_note: Knoll approved 45-day IP extension; in process — new IP expiry ~2026-07-23, closing ~2026-08-07
+last_updated: 2026-06-10
+last_note: Reassigned to another broker — deal closed out
 ---
 
 ## Tasks
 
 - [x] Confirm extension notice + $50K deposit completed 📅 2026-06-08 ✅ 2026-06-09
-- [ ] Track KYTC approval (forecast ~2026-07-04) 📅 2026-07-04
-- [ ] Inspection period expiry — go firm or terminate 📅 2026-07-23
+- [x] Track KYTC approval (forecast ~2026-07-04) 📅 2026-07-04 ✅ 2026-06-10
+- [x] Inspection period expiry — go firm or terminate 📅 2026-07-23 ✅ 2026-06-10
 
 ## Notes
+
+2026-06-10 - Reassigned to another broker. Deal closed out.
 
 2026-06-01 - Project call. Target closing July 24 pending three permit approvals: KYTC design review (full approval expected July), development plan approval (expected 7/24), and early grading permit. Car routing approved; car budget approval ~6 weeks from submission. Easement language approval pending from one remaining group — expected in next 1-2 days. Development agreement exhibits being prepared; Caleb to notify Tadeu when uploaded.
 

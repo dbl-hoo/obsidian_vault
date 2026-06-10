@@ -5,6 +5,7 @@ organization: R&R Commercial Realty, Inc.
 email: ccrod1@aol.com
 title:
 timezone:
+phone: 302-674-3400 (office) / 302-423-3400 (cell)
 deals: [DDL7]
 area: Amazon
 tags: [person]

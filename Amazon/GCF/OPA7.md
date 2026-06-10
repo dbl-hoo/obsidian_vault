@@ -11,8 +11,8 @@ start_date: 2025-12-17
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-08
-last_note: "PPL EU power timeline: 1.5MVA 9/15/26, 4MVA 4/1/27, 7.5MVA 12/1/27 (full 12KA at 10MVA by 5/1/28 for ~$1.5M upfront). No distribution ESAs."
+last_updated: 2026-06-10
+last_note: "PPL confirmed 4MW by 4/1/27 (ROW-contingent); revised 5.5MW diversified load yields only 5.15MW by 12/1/27 (down from 7.5MW previously discussed) - 0.35MW short of stated need."
 next_due:
 tags:
   - deal
@@ -21,9 +21,14 @@ tags:
 
 ## Tasks
 
-- [ ] Get Amazon's answers to PPL EU load diversification questions (anticipated peak coincident usage; equipment list per pp. 5-7 of PPL secondary app) — needed to potentially accelerate power timeline 📅 2026-06-15
+- [ ] Resolve 0.35MW shortfall (5.15MW vs. 5.5MW need) at 12/1/27 milestone w/ Amazon — confirm acceptable or identify how gap gets closed 📅 2026-06-17
+- [x] Get Amazon's answers to PPL EU load diversification questions (anticipated peak coincident usage; equipment list per pp. 5-7 of PPL secondary app) — needed to potentially accelerate power timeline 📅 2026-06-15 ✅ 2026-06-10
 
 ## Notes
+
+2026-06-10 - PPL confirmed power numbers on call. 4MW available by 4/1/2027 confirmed, contingent on ROW completion (consistent w/ prior 4MVA milestone). Amazon's revised diversified load requirement of 5.5MW changes the 12/1/2027 milestone from the previously discussed 7.5MW down to **5.15MW** — a 0.35MW shortfall vs. the 5.5MW stated need. Open question: is 5.15MW acceptable, or does the gap need to be closed (different equipment mix, or rely on the 5/1/2028 milestone for the remainder)?
+- PPL also clarified: unlike transmission-level ESAs, distribution service operates under PPL's approved tariff with a **Letter of Authorization** (no separate ESA).
+- PPL explained their **Line Extension Guarantee** process: customers may face **annual true-up billing** if actual usage falls below contracted amounts, with the guarantee period lasting up to **5 years** depending on cost recovery calculations.
 
 2026-06-08 - PPL EU power update — Tyler Glueck, Senior Distribution Engineer (tglueck@pplweb.com, 484-866-0027)
 - **Load diversification ask:** PPL needs Amazon to answer two things to potentially accelerate timeline: (1) anticipated peak coincident usage (Amazon requested 12,000A total connected load, but utility needs expected actual peak); (2) equipment list per pages 5-7 of PPL secondary application document.

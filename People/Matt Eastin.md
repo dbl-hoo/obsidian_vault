@@ -5,6 +5,7 @@ organization: Cushman & Wakefield
 email: matt.eastin@cushwake.com
 title: Executive Director, SIOR, CCIM
 timezone: Central
+phone: 314-746-0350 (direct) / 636-399-4453 (mobile)
 deals: [DOM8, 29_ARS_3]
 area: Amazon
 tags: [person]

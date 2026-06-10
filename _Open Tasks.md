@@ -6,7 +6,7 @@ tags: [tasks]
 
 ```tasks
 not done
-tag does not include #checklist
+heading includes Tasks
 due before tomorrow
 sort by due
 ```
@@ -15,7 +15,7 @@ sort by due
 
 ```tasks
 not done
-tag does not include #checklist
+heading includes Tasks
 due after today
 due this week
 sort by due
@@ -25,7 +25,7 @@ sort by due
 
 ```tasks
 not done
-tag does not include #checklist
+heading includes Tasks
 (due after this week) OR (no due date)
 sort by due
 ```

@@ -1,6 +1,6 @@
 ---
 tags: [knowledgebase, amazon, gcf]
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # GCF — Knowledge Base
@@ -36,28 +36,32 @@ Minimum 13' dock spacing required.
 
 ## Power / Utility Coordination
 
-### Distribution vs. Transmission Services
+### Power Basics: Connected Load vs. Diversified Load, kVA vs. MW vs. Amps
 
-Key distinction when dealing with utilities on GCF power:
+**Connected load vs. diversified (demand) load**
 
-- **Distribution** (sub-69kV): No ESA required. Customer expected to reach peak utilization within ~1 year of interconnection. Governed by distribution tariff.
-- **Transmission** (69kV+): ESA required. May allow up to 3 years to ramp to anticipated utilization rate.
+- **Connected load** = sum of the nameplate ratings of every piece of equipment on site, per NEC. A theoretical ceiling — what the building would draw if everything ran at full rated output simultaneously. Always much higher than actual usage.
+- **Diversified load** (a.k.a. demand load, coincident peak, or "anticipated peak coincident usage") = the realistic peak draw, accounting for the fact that not everything runs full-out at the same time. This is the number utilities actually plan infrastructure around.
+- **Diversity factor** = connected load ÷ diversified load. A factor of 2 means real peak usage is half of the on-paper connected load.
+- Why it matters: utilities size lines, transformers, and feeders to the diversified load (often building to ~75% of connected load as "anticipated"). If Amazon's reserved capacity exceeds its diversified load, the excess is **speculative load** — billed upfront (see below).
 
-When Amazon references "Electric Service Agreements" from other deals, confirm whether those were transmission or distribution — the rules differ substantially. Ask the utility to clarify if unsure.
+**kVA vs. kW/MW vs. Amps — units that get used interchangeably on calls**
 
-### Speculative Load Tariff (PPL EU example; check local tariff)
+- **kW / MW (real power)** — power that actually does work (motors, lights, conveyors). What shows up on the utility bill.
+- **kVA / MVA (apparent power)** — total power the system must be sized for, including "reactive" power (needed to maintain electrical fields in motors/transformers but doesn't do useful work).
+- **Power factor (PF)** = kW ÷ kVA. Industrial sites typically run PF ≈ 0.85–0.95. Utilities may assume their own PF — don't assume it matches Amazon's number without asking.
+- **Amps** = current — how services, conductors, and breakers are rated. Converts to kVA via voltage:
+  - Three-phase: **kVA = (Volts × Amps × √3) ÷ 1,000**
+  - Example: 480V × 12,000A × √3 ÷ 1,000 ≈ 10 MVA — this is where "12,000A = 10MVA" comes from.
 
-If a customer reserves more capacity than its anticipated peak usage, the excess is **speculative load**. Key impacts:
-- Reinforcement costs attributable to the speculative capacity are **billed upfront in full** — not amortized in rates.
-- Speculative capacity reservation held for an initial 5-year term with annual review thereafter.
-- Getting Amazon to provide anticipated peak coincident usage (not just total connected load per NEC) can reduce or eliminate speculative load exposure and may accelerate utility timeline.
+**Quick conversions (480V three-phase, PF ≈ 0.9 — typical industrial)**
 
-### Power Delivery Lead Times — What Drives the Schedule
-
-Common utility milestones and their gating items (timing varies by utility and project):
-- **Padmount transformer installation** (customer site): typically fastest — often 3-6 months
-- **Line extension + capacitor** (~1-2 mi): 6-12 months; may be delayed by ROW assessment
-- **New feeder requiring railroad crossing permit**: railroad permits alone take 1 year minimum, followed by construction — plan for 18+ months total
+| Amps | ≈ kVA/MVA | ≈ kW/MW (at PF 0.9) |
+|---|---|---|
+| 1,800A | 1.5 MVA | ~1.35 MW |
+| 4,800A | 4.0 MVA | ~3.6 MW |
+| 9,000A | 7.5 MVA | ~6.75 MW |
+| 12,000A | 10 MVA | ~9 MW |
 
 Utilities build to 75% of connected load as the "anticipated" level. Building to 100% of connected load is treated as speculative load and costs the difference upfront.
 

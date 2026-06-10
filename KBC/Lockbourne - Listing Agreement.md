@@ -4,14 +4,14 @@ status: Ongoing
 area: KBC
 office: Columbus
 tags: [kbc]
-last_updated: 2026-06-02
+last_updated: 2026-06-09
 ---
 
 ## Tasks
 
-- [x] Follow up with Beau Taggart on redline comments 📅 2026-06-08 ✅ 2026-06-09
-
 ## Notes
+
+2026-06-09 - Out for signature.
 
 2026-06-02 - Sent redline review to Beau Taggart. Two material issues flagged: (1) Stockbridge deleted language requiring market commission if they sell to a prospective tenant instead of leasing — Jason no strong view; (2) Stockbridge requiring prospective waiver of broker lien rights — Jason recommended against agreeing to this, noted it's a real but rare risk and the lien is a meaningful remedy. Awaiting Beau's direction.
 

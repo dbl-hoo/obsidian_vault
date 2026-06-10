@@ -10,8 +10,8 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-06-04
-last_note: "LOI back to LL: 184 mo term, $9.25 PSF NNN, 2.5% escalations."
+last_updated: 2026-06-09
+last_note: "Design updates: increasing parking, building flip needed, ~400 associate spaces. Adam on test fit."
 next_due:
 tags:
   - deal
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-06-09 - Design updates: increasing parking requirements; need to flip the building; associate parking ~400 spaces. Adam working on test fit.
 
 2026-06-04 - LOI back to LL. Terms: 184-month term, $9.25 PSF NNN, 2.5% annual escalations.
 

@@ -10,8 +10,8 @@ start_date: 2026-03-31
 end_date:
 local_broker: Beau Taggart
 area: Amazon
-last_updated: 2026-06-08
-last_note: "LL accepted $6.75/SF but counter-proposed 5-year term with 2% annual escalations."
+last_updated: 2026-06-09
+last_note: "Went back to LL with 3-year term."
 next_due:
 tags:
   - deal
@@ -20,8 +20,11 @@ tags:
 
 ## Tasks
 
+- [ ] Follow up with LL on 3-year term counter 📅 2026-06-16
 
 ## Notes
+
+2026-06-09 - Went back to LL with 3-year term.
 
 2026-06-08 - LL responded — accepted $6.75/SF but counter-proposed 5-year term with 2% annual escalations.
 
