@@ -10,7 +10,7 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-06-09
+last_updated: 2026-06-12
 last_note: "Design updates: increasing parking, building flip needed, ~400 associate spaces. Adam on test fit."
 next_due:
 tags:
@@ -35,7 +35,7 @@ tags:
 Most relevant comp: Cardinal Health (Walton Hills) — $9.73/3% escalations (Dec 2024). Next best alt: Scannell airport site — $9.50 + 2.85% (January). PLD/Premier have higher land basis vs. Scannell (long-term city control at lower basis). Rising treasury rates hurting exit caps; inflationary pressure ongoing.
 Recommendation: go back at $9.75/2.5% on 15-year; $9.52 on 20-year. Room to push further if building expands to ~350K SF (spreads land basis). LOI items still to deal with: permitting contingency; Prologis wants to conform lease to SOR2 — flagged DealGuard challenges.
 
-2026.05.10 - 1. Rent for the 15-year term is $10.23 SF for year 1, and for the 20-year lease term the beginning rent for year 1 will be $9.95 SF.
+2026-05-10 - 1. Rent for the 15-year term is $10.23 SF for year 1, and for the 20-year lease term the beginning rent for year 1 will be $9.95 SF.
 2. The Mayor of Wickliffe without knowing any Company details is 100% supportive for a 49% abatement for 10 years minimum and 15 years maximum and is very confident that Council will approve as well.  He said we can start this process now and when the Company is ready to meet and greet, The Mayor and his team will provide a very strong welcoming meeting.
 
   These buildings are from the 1950’s and it shows.  So, a new facility with the stature of Amazon will be very well received in both the corporate use and the quality of the new facility/campus.

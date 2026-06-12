@@ -15,8 +15,8 @@ loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-06-04
-last_note: "Followed up with LL re: lease. Follow up again Tue 6/9."
+last_updated: 2026-06-12
+last_note: "AoR investigating accessible lift for rear of building in lieu of ramp."
 next_due: 2026-06-09
 tags: [deal, amazon, quick-commerce]
 ---
@@ -25,10 +25,10 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] Follow up with LL re: lease 📅 2026-06-09 ✅ 2026-06-09
-- [x] Follow up with LL re: lease 📅 2026-06-02 ✅ 2026-06-04
 
 ## Notes
+
+2026-06-10 - AoR is investigating an accessible lift for the rear of the building, in lieu of the ramp.
 
 2026-06-04 - Followed up with LL re: lease. No response yet.
 

@@ -9,7 +9,7 @@ launch_date: 2028-08-01
 end_date:
 local_broker: Charles Rodriguez, R&R Commercial Realty
 area: Amazon
-last_updated: 2026-06-01
+last_updated: 2026-06-12
 last_note: "Phase I ESA reviewed — Fork Branch: CRECs only, COCRs issued, AULs recorded, vapor mitigation req'd in OU-2. New Phase I needed for Amazon diligence."
 next_due: 2026-05-04
 tags:
@@ -19,8 +19,6 @@ tags:
 
 ## Tasks
 
-- [x] Follow up with Jesse Parks on LOI 📅 2026-05-04 ✅ 2026-05-04
-- [x] Review survey with Al Patel 📅 2026-05-08 ✅ 2026-05-26
 - [ ] Charlie — get DelDOT timing on Conner Family Land bypass 📅 2026-06-02
 - [ ] Al — run flash diligence on Cooper Farm 📅 2026-06-02
 - [ ] Al — run flash diligence on Conner Family Land 📅 2026-06-02
@@ -116,16 +114,6 @@ Report prepared by Environmental Alliance, Inc. for Artisans' Bank (Jan 24, 2022
 2025-08-12
 
 Called - left message
-
-**Flo Brotzman | Senior Advisor**
-
-Henry Hanna Team
-
-SVN | Miller Commercial Real Estate
-
-206 E. Main St., Salisbury, MD 21801
-
-Phone: 410-543-2440
 
 2025-07-29
 

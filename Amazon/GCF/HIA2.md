@@ -8,7 +8,7 @@ tm: Phil Ristevski
 pcm: 
 launch_date: 2029-06-01
 end_date:
-last_updated: 2026-06-02
+last_updated: 2026-06-12
 last_note: "Initial project call w/ Panattoni; 2029 GCF target; critical path rezoning + traffic"
 next_due:
 local_broker: 
@@ -39,8 +39,6 @@ tags: [deal, amazon]
 | Rep/Warranty claims deadline | 6 months post-Closing |
 
 ## Tasks
-
-- [x] Share PSA contract with Panattoni team 📅 2026-06-09 ✅ 2026-06-09
 
 ## Notes
 

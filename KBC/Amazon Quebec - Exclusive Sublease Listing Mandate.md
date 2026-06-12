@@ -4,21 +4,8 @@ status: Ongoing
 area: KBC
 office: Seattle
 tags: [kbc]
-last_updated: 2026-05-26
+last_updated: 2026-06-12
 ---
-
-## Deal Sheet
-
-| Field | Value |
-|---|---|
-| Project | Exclusive Sublease Listing Mandate — Amazon Quebec Properties |
-| Principal | Amazon Canada Fulfillment Services, ULC |
-| KBC Role | Exclusive agent for Amazon — engaging/negotiating with listing agency |
-| Agency | CBRE Limitée (Ryan Cymet & Jean-Philippe Daunais) |
-| Properties | 6 Quebec industrial properties (see Schedule B) |
-| Term | Through December 31, 2026 |
-| Commission (CBRE) | 5% years 1–3 / 2.5% thereafter; 7.5%/3.75% with cooperating broker |
-| Lease Buyout Fee | $200,000 lump sum if CBRE negotiates cancellation with landlord |
 
 ## Tasks
 

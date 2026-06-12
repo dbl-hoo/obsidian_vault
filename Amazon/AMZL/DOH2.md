@@ -9,7 +9,7 @@ launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date: 
 local_broker: KBC
-last_updated: 2026-06-08
+last_updated: 2026-06-12
 last_note: "Bryan Blade back early next week; revised PSA expected then; follow up 6/11."
 next_due: 2026-06-15
 area: Amazon
@@ -18,15 +18,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [x] Await updated PSA draft from sellers' counsel (Ed Boll / Bryan Blade) 📅 2026-06-15 ✅ 2026-06-10
-- [x] Schedule call w/ sellers' counsel after next round of PSA comments 📅 2026-06-15 ✅ 2026-06-10
 - [ ] Follow up w/ Bryan Blade on revised PSA 📅 2026-06-15
-
-## Related Notes
-
-- [[Call with Norm Khoury]] (Reference)
-- [[Call with Norm Khoury]] (Reference)
-- [[Northpoint - MW]] (Reference)
 
 ## Notes
 
@@ -67,19 +59,3 @@ tags: [deal, amazon]
 2025-08-08 - selection by February next year; will be 2w6f - Cincinnati is urgent; 
 
 2025-07-31 - richard sent updated POR - need to get survey kicked off
-
-Joseph C. Kramer
-
-Associate Broker
-
-Henkle Schueler & Associates
-
-3000G Henkle Dr.
-
-Lebanon, OH 45036
-
-phone: (513)932-6010
-
-mobile: (513)6171085
-
-email: [jkramer@hsabh.com](mailto:jkramer@hsabh.com)

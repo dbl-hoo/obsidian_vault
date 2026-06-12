@@ -4,12 +4,8 @@ status: Ongoing
 area: KBC
 office: Phoenix
 tags: [kbc]
-last_updated: 2026-05-03
+last_updated: 2026-06-12
 ---
-
-## Contacts
-
-- **Kirk Kuller** — KBC Phoenix office contact
 
 ## Tasks
 
@@ -19,4 +15,4 @@ last_updated: 2026-05-03
 
 2026-04-19 - Edits reviewed. Waiting for Phoenix office (Kirk Kuller) to respond.
 
-2026-04-15 - Matter opened. Equity Services Agreement with Sun Industrial Partners. Phoenix office (Kirk Kuller). Initial task: review proposed edits.
+2026-04-15 - Matter opened. Equity Services Agreement with Sun Industrial Partners. Phoenix office (Kirk Kuller). Initial task: review proposed edits. Kirk Kuller (KBC Phoenix) — primary contact.

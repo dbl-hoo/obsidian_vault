@@ -4,12 +4,10 @@ status: Ongoing
 area: KBC
 office: Los Angeles
 tags: [kbc]
-last_updated: 2026-05-26
+last_updated: 2026-06-12
 ---
 
 ## Tasks
-
-- [x] Close and archive Shelby Canton - Engagement Agreement if no response from Bo Mills 📅 2026-05-31 ✅ 2026-06-02
 
 ## Notes
 

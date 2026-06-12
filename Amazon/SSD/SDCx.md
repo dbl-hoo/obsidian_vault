@@ -11,14 +11,12 @@ end_date:
 local_broker: Toby Mink, CBRE
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-06-01
+last_updated: 2026-06-12
 last_note: Transitioned from Andrea Roy; site adjacent to Back River WWTP under consent decree, air quality test results pending, needs site selection
 ---
 
 ## Tasks
 
-- [x] Obtain air quality test results (30-day test recently completed) 📅 2026-06-08 ✅ 2026-06-09
-- [x] Request all-hands with RREEF/DWS to finalize terms before handoff 📅 2026-06-08 ✅ 2026-06-09
 
 ## Notes
 

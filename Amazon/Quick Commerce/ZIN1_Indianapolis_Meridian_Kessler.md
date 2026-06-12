@@ -13,8 +13,8 @@ local_broker: "Shannon Hunt | Vice President | Veritas Realty"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-01-27
-last_updated: 2026-06-02
-last_note: "Pending L10 CAR approval."
+last_updated: 2026-06-12
+last_note: "ZIN1 CAR pending with Udit (final approval)."
 next_due:
 area: Amazon
 tm: TBD
@@ -23,9 +23,9 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] Follow up on L10 CAR approval 📅 2026-06-05 ✅ 2026-06-09
-
 ## Notes
+
+2026-06-10 - ZIN1 CAR is pending with Udit currently (final approval).
 
 2026-06-02 - Pending L10 CAR approval.
 

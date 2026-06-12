@@ -13,7 +13,7 @@ local_broker: "Tony Schmitt"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-06-02
+last_updated: 2026-06-12
 last_note: "Fire pump maintenance open issue; asked LL for maintenance contract"
 next_due:
 area: Amazon
@@ -56,22 +56,22 @@ Preliminary load breakdown:
 
 2026-04-10 - Lease received Tuesday; reviewed by legal today and sent back to LL.
 
-April 1, 2026 - LOI final as of 3/26. Power question out to Flor/Himanshu. Followed up with LL re: lease draft. Follow up again Friday 4/3.  Himanshu confirmed 400amps in one panel, though I am ok with 2 panel with 200amps each if that is time friendly
+2026-04-01 - LOI final as of 3/26. Power question out to Flor/Himanshu. Followed up with LL re: lease draft. Follow up again Friday 4/3.  Himanshu confirmed 400amps in one panel, though I am ok with 2 panel with 200amps each if that is time friendly
 
-February 20, 2026 - LOI back from LL; debriefing today.  Asked LL to provide 7 spots
+2026-02-20 - LOI back from LL; debriefing today.  Asked LL to provide 7 spots
 
-February 16, 2026 - LOI to Tony on new space.
+2026-02-16 - LOI to Tony on new space.
 
-February 5, 2026 - potential alternative from Tony - emailed Nathan.  Need to get on debrief 313 E. Hudson Ave., Royal Oak, MI; will debrief 313 E. Hudson Ave
+2026-02-05 - potential alternative from Tony - emailed Nathan.  Need to get on debrief 313 E. Hudson Ave., Royal Oak, MI; will debrief 313 E. Hudson Ave
 
-February 1, 2026 - need to scheduled call with LL; per notes of G/NG - not selected - following with Kyle on zoning
+2026-02-01 - need to scheduled call with LL; per notes of G/NG - not selected - following with Kyle on zoning
 
-January 29, 2026 - followed up with LL
+2026-01-29 - followed up with LL
 
-January 27, 2026 - went back to LL - asking for 2 suites.
+2026-01-27 - went back to LL - asking for 2 suites.
 
-January 23, 2026 - followed up with Tony
+2026-01-23 - followed up with Tony
 
-January 13, 2026 - revised LOI to listing agent
+2026-01-13 - revised LOI to listing agent
 
-January 12, 2026 - responded to question
+2026-01-12 - responded to question

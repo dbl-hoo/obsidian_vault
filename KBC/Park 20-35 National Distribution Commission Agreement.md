@@ -4,12 +4,10 @@ status: Ongoing
 area: KBC
 office: Dallas
 tags: [kbc]
-last_updated: 2026-05-12
+last_updated: 2026-06-12
 ---
 
 ## Tasks
-
-- [x] Review commission agreement and advise Nathan Lawrence 📅 2026-05-19 ✅ 2026-06-02
 
 ## Notes
 

@@ -4,14 +4,12 @@ status: Ongoing
 area: KBC
 office: Atlanta
 tags: [kbc]
-last_updated: 2026-05-09
+last_updated: 2026-06-12
 last_note: "Comments sent to Dean Dellovade (KBC) on CA."
 next_due: 2026-05-16
 ---
 
 ## Tasks
-
-- [x] Follow up on AWS Arbor Place CA comments 📅 2026-05-16 ✅ 2026-06-02
 
 ## Notes
 

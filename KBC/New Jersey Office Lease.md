@@ -4,19 +4,10 @@ status: Ongoing
 area: KBC
 office: New Jersey
 tags: [kbc]
-last_updated: 2026-05-01
+last_updated: 2026-06-12
 ---
 
-## Deal Sheet
-
-| Field | Detail |
-|---|---|
-| Address | 210 Lake Drive East, Cherry Hill, NJ |
-| Deal Type | Office Lease |
-
 ## Tasks
-
-- [x] Follow up on NJ Office Lease 📅 2026-05-08 ✅ 2026-05-11
 
 ## Notes
 

@@ -13,20 +13,22 @@ local_broker: Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-03-03
-last_updated: 2026-06-01
+last_updated: 2026-06-10
 area: Amazon
 tags:
   - deal
   - amazon
   - quick-commerce
 tm: Chatman Young
-last_note: "Revised lease so that rent commences upon completion of LL's work; sent revised draft to Amazon."
+last_note: "Waiting on GMP (ROM too expensive) before submitting for CAR."
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-06-10 - Waiting on GMP (ROM is too expensive) before submitting for CAR.
 
 2026-06-01 - Revised lease so that rent commences upon completion of LL's work; sent revised draft to Amazon.
 

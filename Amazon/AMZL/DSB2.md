@@ -9,26 +9,13 @@ launch_date: 2027-01-01
 end_date:
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-06-02
+last_updated: 2026-06-12
 last_note: "Confirmed on track for closing 2026-06-23."
 next_due:
 tags:
   - deal
   - amazon
 ---
-
-## Critical Dates
-
-| Milestone | Date |
-|-----------|------|
-| GC Bids Due | 2026-04-08 |
-| GC Interviews | Week of 2026-04-13 |
-| GMP Numbers Due | 2026-04-17 |
-| CAR Submission | 2026-04-21 |
-| CSM Approval | 2026-05-04 |
-| Full CAR Approval | 2026-06-12 |
-| Anticipated Closing | 2026-06-23 |
-| Substantial Completion | 2027-09-07 |
 
 ## Tasks
 

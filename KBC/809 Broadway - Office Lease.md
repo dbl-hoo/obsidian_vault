@@ -4,15 +4,8 @@ status: Ongoing
 area: KBC
 office: New York
 tags: [kbc]
-last_updated: 2026-05-06
+last_updated: 2026-06-12
 ---
-
-## Deal Sheet
-
-| Field | Detail |
-|---|---|
-| Address | 809 Broadway, New York, NY |
-| Deal Type | Office Lease |
 
 ## Tasks
 

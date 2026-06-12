@@ -4,12 +4,10 @@ status: Ongoing
 area: KBC
 office: Philadelphia
 tags: [kbc]
-last_updated: 2026-06-02
+last_updated: 2026-06-12
 ---
 
 ## Tasks
-
-- [x] Review Stoltz redlines to Pencader listing agreement — flag deal killers and must-push provisions for Mark Chubb 📅 2026-06-09 ✅ 2026-06-09
 
 ## Notes
 

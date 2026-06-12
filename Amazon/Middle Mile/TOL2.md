@@ -9,7 +9,7 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-02
+last_updated: 2026-06-12
 last_note: "Mathes confirmed: want $85K/acre vs. help with 1031 exchange"
 next_due: 2026-05-16
 tags:
@@ -93,30 +93,3 @@ tags:
     - 3000 off peak
     - 10K amps
 - Alvordton is the pin?
-
-Debrief Prep
-
-CMH8:
-* Have under contract from Core5 since June 2025
-* PP = $32M; $246K per acre.  130acres
-* originally 1DC, but can accommodate 1.5M and 2M relo design.
-* DD period expires end of September 2026, with closing end of September.  
-* Currently $500K refundable; $350K non-refundable.
-* If we can kick-off full design in August and be able to achieve a first access date in December 2027
-* No wetlands risk; WHS has approved
-
-North Baltimore
-* Excess land from NP project for UPS
-* Ambrose has control for potential BTS, but will pass through at par ($40K per acre)
-* Confirm 25MW of power from coop.
-* No flood; zoned industrial.
-* Ambrose looking to kick off civil design LATE MAY to meet Dec. 2027 shell delivery
-* 36 miles to Toledo.
-* water and sewer lines are available in the frontage.  
-* In Wood County - TOL6 and SOH6 - friendly jurisdiction.  
-
-Van Trust Park 762
-* 2M fits, but trailer parking is across the street
-* Primarily a lease opportunity, but could potentially pursue a purchase
-* Beginning work to prepare the park for spec development.
-* building currently allocated 8K amps of service; additional power is available, but would need to submit application to jurisdiction.

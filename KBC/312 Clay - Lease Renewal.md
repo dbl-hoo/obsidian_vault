@@ -4,21 +4,10 @@ status: Ongoing
 area: KBC
 office: Oakland
 tags: [kbc]
-last_updated: 2026-05-26
+last_updated: 2026-06-12
 ---
 
-## Deal Sheet
-
-| Field        | Value                    |
-| ------------ | ------------------------ |
-| Project      | 312 Clay — Lease Renewal |
-| KBC Broker   | Tom Damaschino           |
-| Counterparty | Metrovation (Sara May)   |
-| Property     | 312 Clay (Oakland, CA)   |
-
 ## Tasks
-
-- [x] Review 2nd amendment to lease renewal (KBC 2nd Amemndment.docx) 📅 2026-06-02 ✅ 2026-06-02
 
 ## Notes
 

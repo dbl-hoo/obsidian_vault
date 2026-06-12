@@ -11,8 +11,8 @@ start_date: 2025-12-17
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-10
-last_note: "PPL confirmed 4MW by 4/1/27 (ROW-contingent); revised 5.5MW diversified load yields only 5.15MW by 12/1/27 (down from 7.5MW previously discussed) - 0.35MW short of stated need."
+last_updated: 2026-06-12
+last_note: "PPL sent cost estimate ($1.44M net) + LEG terms; 12/1/27 milestone now shown at full 5,500kW for +$22K — may resolve shortfall."
 next_due:
 tags:
   - deal
@@ -21,10 +21,16 @@ tags:
 
 ## Tasks
 
-- [ ] Resolve 0.35MW shortfall (5.15MW vs. 5.5MW need) at 12/1/27 milestone w/ Amazon — confirm acceptable or identify how gap gets closed 📅 2026-06-17
-- [x] Get Amazon's answers to PPL EU load diversification questions (anticipated peak coincident usage; equipment list per pp. 5-7 of PPL secondary app) — needed to potentially accelerate power timeline 📅 2026-06-15 ✅ 2026-06-10
-
 ## Notes
+
+2026-06-11 - Email from Tyler Glueck (PPL Senior Distribution Engineer). Follow-up with cost estimate and LEG detail for the 5,500kW project.
+- Transmission vs. distribution clarified further: distribution is taken at ≤12kV and can be primary metered (customer owns infrastructure to facility) or secondary metered (PPL owns equipment through the on-site transformer).
+- Overall project cost estimate: $1,621,200, reduced to $1,438,900 after PPL's standard 2,500' single-phase primary line extension credit.
+- Cost by milestone: 9/15/26 (1,500kW) $105,000; 4/1/27 (4,000kW) $1,311,900; 12/1/27 (5,500kW) incremental $22,000 — note this milestone is now listed at the full 5,500kW (vs. the 5,150kW shortfall discussed 6/10), worth confirming with Amazon whether this resolves the open shortfall question.
+- LEG annual true-up examples: at 5,500kW usage, -$60,172 (PPL credit back to Amazon); at 3,000kW usage, $134,448 (Amazon owes). Scales down between.
+- PPL will prepare formal documentation for signature once Amazon confirms the numbers look good.
+
+2026-06-10 - Diversified load around 5.5MW. Line extension will require Norfolk Southern RR crossing.
 
 2026-06-10 - PPL confirmed power numbers on call. 4MW available by 4/1/2027 confirmed, contingent on ROW completion (consistent w/ prior 4MVA milestone). Amazon's revised diversified load requirement of 5.5MW changes the 12/1/2027 milestone from the previously discussed 7.5MW down to **5.15MW** — a 0.35MW shortfall vs. the 5.5MW stated need. Open question: is 5.15MW acceptable, or does the gap need to be closed (different equipment mix, or rely on the 5/1/2028 milestone for the remainder)?
 - PPL also clarified: unlike transmission-level ESAs, distribution service operates under PPL's approved tariff with a **Letter of Authorization** (no separate ESA).

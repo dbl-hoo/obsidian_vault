@@ -3,12 +3,10 @@ project: Douglas Elliman NDA
 status: Ongoing
 area: KBC
 tags: [kbc]
-last_updated: 2026-06-02
+last_updated: 2026-06-12
 ---
 
 ## Tasks
-
-- [x] Review and respond to NDA 📅 2026-06-09 ✅ 2026-06-09
 
 ## Notes
 

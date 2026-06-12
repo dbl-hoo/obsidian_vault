@@ -10,7 +10,7 @@ deal_type: New Lease
 business_unit: QC
 status: Selected
 local_broker: "Meghan Donovan, NAI DESCO St. Louis"
-last_updated: 2026-06-08
+last_updated: 2026-06-12
 last_note: "Electrical cost estimate received ($65,294.12 total); follow up tomorrow on design meeting."
 next_due:
 loi_final: No
@@ -23,7 +23,6 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [x] Follow up on design meeting 📅 2026-06-09 ✅ 2026-06-09
 
 ## Notes
 

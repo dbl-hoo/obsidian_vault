@@ -10,7 +10,7 @@ start_date: 2025-07-09
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-22
+last_updated: 2026-06-12
 last_note: "Renewal deadline extended to 8/4/26."
 next_due:
 tags: [deal, amazon]
@@ -69,8 +69,6 @@ tags: [deal, amazon]
 2025-07-18 - Beau to send.  July 23, 2025 
 
 2025-07-17 - follow-ed up with Beau.  July 24, 2025 - follow up again
-
-[[SOH3 Comps]]
 
 2025-07-09 
 

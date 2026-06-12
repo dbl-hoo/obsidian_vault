@@ -4,12 +4,10 @@ status: Ongoing
 area: KBC
 office:
 tags: [kbc]
-last_updated: 2026-05-03
+last_updated: 2026-06-12
 ---
 
 ## Tasks
-
-- [x] Define scope and begin licensing research 📅 2026-05-08 ✅ 2026-05-18
 
 ## Notes
 

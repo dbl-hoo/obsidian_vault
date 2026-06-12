@@ -17,24 +17,19 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-06-04
-last_note: "Received LL comments; reviewed and responded to Eastin. Follow up Tue 6/9."
-next_due: 2026-06-03
+last_updated: 2026-06-12
+last_note: "LOI back to LL; follow up Monday."
+next_due: 2026-06-15
 ---
 
 ## Tasks
 
-- [x] Follow up with Matt Eastin (broker) 📅 2026-06-09 ✅ 2026-06-09
-- [x] Follow up with Matt Eastin (broker) 📅 2026-06-10 ✅ 2026-06-04
-- [x] Finalize rent and send LOI 📅 2026-06-03 ✅ 2026-06-02
-- [x] Matterport scan — Suite C 📅 2026-06-03 ✅ 2026-06-02
-- [x] Complete P0 inputs 📅 2026-06-03 ✅ 2026-06-02
-- [x] Confirm power capacity / LL upgrade to 400A 📅 2026-06-03 ✅ 2026-06-02
-- [x] Confirm location of exclusive parking stalls 📅 2026-06-03 ✅ 2026-06-02
-- [x] Flooring work scope — confirm what LL will address 📅 2026-06-03 ✅ 2026-06-02
-- [x] Schedule debrief on St. Louis DT survey 📅 2026-05-10 ✅ 2026-05-27
+- [ ] Follow up with LL re: LOI 📅 2026-06-15
 
 ## Notes
+
+2026-06-10 - LOI back to LL; follow up Monday.
+LL broker: Elise Swanson, Vice President, JLL, 211 N Broadway Suite 2900, St. Louis, MO 63102. T +1 314 338 2083, M +1 636 675 5628, Elise.Swanson@jll.com.
 
 2026-06-04 - Received LL's comments on LOI. Reviewed and responded to Matt Eastin.
 

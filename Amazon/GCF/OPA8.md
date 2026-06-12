@@ -10,7 +10,7 @@ launch_date: 2027-06-22
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-01
+last_updated: 2026-06-12
 last_note: "Project call: substation Q2 2027, PM assignment end of June, permits submitted, GC RFPs due 6/22, Exhibit K and WL schedule remain open."
 next_due:
 tags:
@@ -19,8 +19,6 @@ tags:
 ---
 
 ## Tasks
-
-- [x] 🔺 Submit NPDES minor amendment package to York County Conservation District (hard copy): Application for District Services (no fee), NOI form, updated PNDI receipt (expired), revised E&S and PCSM plan drawings for Bldg 2 affected sheets, PCSM calcs verifying SCM capacity with increased impervious 📅 2026-06-07 ✅ 2026-06-02
 
 ## Notes
 
