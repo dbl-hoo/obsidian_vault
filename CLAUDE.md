@@ -26,7 +26,7 @@ If any of the following are true, **do not proceed — ask Jason first:**
 
 - A referenced deal file or site code doesn't exist in the vault
 - A note could belong to multiple deals
-- Call notes reference something you can't parse or identify
+- Call notes reference something you can't parse or identify — check `_Knowledgebase/Amazon/Glossary.md` first
 - You're unsure which file to update
 - Anything feels off
 

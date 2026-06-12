@@ -12,8 +12,8 @@ end_date:
 local_broker: Powell Spears, JLL
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-06-11
-last_note: "Site code renamed from SKYY to SOU3."
+last_updated: 2026-06-12
+last_note: "Lease signing pushed to July; title via Keith Seo's counsel; Adam working ARC approval (UPS also in ARC)."
 ---
 
 ## Tasks
@@ -23,6 +23,8 @@ last_note: "Site code renamed from SKYY to SOU3."
 - [x] Schedule internal call, include Deborah Massie 📅 2026-06-17 ✅ 2026-06-11
 
 ## Notes
+
+2026-06-12 - Brief call w/ Adam Thomas (LL). Lease can't sign until July — he's hoping for early July but may slip longer. Keith Seo's counsel expected to reach out re: how to handle title (their title company is slow). Adam working on ARC approval; UPS is also in the ARC (FYI).
 
 2026-06-11 - Site code renamed from SKYY to SOU3.
 

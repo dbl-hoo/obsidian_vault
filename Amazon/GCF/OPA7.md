@@ -12,7 +12,7 @@ end_date:
 local_broker: KBC
 area: Amazon
 last_updated: 2026-06-12
-last_note: "PPL sent cost estimate ($1.44M net) + LEG terms; 12/1/27 milestone now shown at full 5,500kW for +$22K — may resolve shortfall."
+last_note: "Comments received on ZCL; PPL sent cost estimate ($1.44M net) + LEG terms; 12/1/27 milestone now shown at full 5,500kW for +$22K — may resolve shortfall."
 next_due:
 tags:
   - deal
@@ -22,6 +22,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-06-11 - Comments received on Zoning Confirmation Letter (ZCL).
 
 2026-06-11 - Email from Tyler Glueck (PPL Senior Distribution Engineer). Follow-up with cost estimate and LEG detail for the 5,500kW project.
 - Transmission vs. distribution clarified further: distribution is taken at ≤12kV and can be primary metered (customer owns infrastructure to facility) or secondary metered (PPL owns equipment through the on-site transformer).
