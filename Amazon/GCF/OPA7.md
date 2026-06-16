@@ -12,7 +12,7 @@ end_date:
 local_broker: KBC
 area: Amazon
 last_updated: 2026-06-12
-last_note: "Comments received on ZCL; PPL sent cost estimate ($1.44M net) + LEG terms; 12/1/27 milestone now shown at full 5,500kW for +$22K — may resolve shortfall."
+last_note: "ZCL approved"
 next_due:
 tags:
   - deal
@@ -22,6 +22,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-06-12 - ZCL approved.
 
 2026-06-11 - Comments received on Zoning Confirmation Letter (ZCL).
 

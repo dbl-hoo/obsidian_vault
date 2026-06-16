@@ -2,7 +2,7 @@
 site_code: SOH9
 deal_type: New Lease
 business_unit: SDD
-status: Selected
+status: Completed
 tm: Adam Knoll
 pcm: Manish Singh
 launch_date: 2027-04-01
@@ -10,14 +10,16 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-05-03
-last_note: "SNDA post-lease signing. Waiting on Amazon to launch ES."
+last_updated: 2026-06-15
+last_note: "Deal closed."
 next_due:
 tags: [deal, amazon]
 ---
 ## Tasks
 
 ## Notes
+
+2026-06-15 - Deal closed.
 
 2026-05-03 - SNDA will be post-lease signing. Open item: ES launch — waiting on Amazon.
 

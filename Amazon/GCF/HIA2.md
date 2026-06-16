@@ -9,7 +9,7 @@ pcm:
 launch_date: 2029-06-01
 end_date:
 last_updated: 2026-06-12
-last_note: "Initial project call w/ Panattoni; 2029 GCF target; critical path rezoning + traffic"
+last_note: "Maura Kennedy / Mike Ross (local EconDev) identified a potential recreation-area site"
 next_due:
 local_broker: 
 area: Amazon
@@ -41,6 +41,8 @@ tags: [deal, amazon]
 ## Tasks
 
 ## Notes
+
+2026-06-12 - Maura Kennedy (Amazon EconDev) - Mike Ross (local EconDev) has identified a potential site for the recreation area.
 
 2026-06-02 - Initial project call with Panattoni development team. Amazon + Panattoni kicked off entitlements and diligence work for 2029 GCF at former Chambersburg Mall site. Critical path: rezoning and traffic studies — need flash traffic study and test fit before engaging jurisdiction officials. Maura Kennedy: prep call w/ Economic Development head early next week; jurisdiction meetings targeted last week of July. First Energy serves area; power procurement to follow jurisdiction engagement. Local officials previously anti-warehouse but political climate has shifted; distressed site status provides cover. LL may request on-site recreational facility — plan to demonstrate incompatibility via test fit. Contract diligence through August; EM goes hard September; full entitlements payment due March 2028.
 
