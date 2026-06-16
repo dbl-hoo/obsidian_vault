@@ -19,11 +19,11 @@ tags:
 
 ## Tasks
 
-- [ ] Charlie — get DelDOT timing on Conner Family Land bypass 📅 2026-06-02
-- [ ] Al — run flash diligence on Cooper Farm 📅 2026-06-02
-- [ ] Al — run flash diligence on Conner Family Land 📅 2026-06-02
-- [ ] Charlie — follow up on Papein availability 📅 2026-06-02
-- [ ] Charlie — send wetlands delineation for Mall Site 📅 2026-06-02
+- [x] Charlie — get DelDOT timing on Conner Family Land bypass 📅 2026-06-02 ✅ 2026-06-16
+- [x] Al — run flash diligence on Cooper Farm 📅 2026-06-02 ✅ 2026-06-16
+- [x] Al — run flash diligence on Conner Family Land 📅 2026-06-02 ✅ 2026-06-16
+- [x] Charlie — follow up on Papein availability 📅 2026-06-02 ✅ 2026-06-16
+- [x] Charlie — send wetlands delineation for Mall Site 📅 2026-06-02 ✅ 2026-06-16
 
 ## Notes
 

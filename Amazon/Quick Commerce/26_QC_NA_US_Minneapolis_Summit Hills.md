@@ -25,6 +25,8 @@ next_due: 2026-06-03
 
 ## Tasks
 
+- [ ] Check status of LOI 📅 2026-06-16
+- [ ] Email team re: power, parking, and doors 📅 2026-06-16
 
 ## Notes
 

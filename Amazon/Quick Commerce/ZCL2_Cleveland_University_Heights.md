@@ -26,6 +26,8 @@ next_due:
 
 ## Tasks
 
+- [ ] Check status w/ Flor 📅 2026-06-16
+
 ## Notes
 
 2026-06-10 - Waiting on GMP (ROM is too expensive) before submitting for CAR.

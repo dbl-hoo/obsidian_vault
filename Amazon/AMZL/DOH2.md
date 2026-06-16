@@ -18,7 +18,7 @@ tags: [deal, amazon]
 
 ## Tasks
 
-- [ ] Follow up w/ Bryan Blade on revised PSA 📅 2026-06-15
+- [x] Follow up w/ Bryan Blade on revised PSA 📅 2026-06-15 ✅ 2026-06-16
 
 ## Notes
 

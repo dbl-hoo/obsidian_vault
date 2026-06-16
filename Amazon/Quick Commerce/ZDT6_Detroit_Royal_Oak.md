@@ -25,6 +25,8 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
+- [ ] 🔺 Complete CAR inputs 📅 2026-06-16
+
 ## Notes
 
 2026-06-02 - Open issue: fire pump maintenance — who will maintain. Asked LL if they have the maintenance contract.
