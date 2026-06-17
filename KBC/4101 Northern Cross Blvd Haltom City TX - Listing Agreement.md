@@ -9,7 +9,7 @@ last_updated: 2026-06-09
 
 ## Tasks
 
-- [ ] Follow up with Whit Maddox on listing agreement comments 📅 2026-06-16
+- [x] Follow up with Whit Maddox on listing agreement comments 📅 2026-06-16 ✅ 2026-06-16
 
 ## Notes
 

@@ -26,7 +26,7 @@ next_due:
 
 ## Tasks
 
-- [ ] Check status w/ Flor 📅 2026-06-16
+- [x] Check status w/ Flor 📅 2026-06-16 ✅ 2026-06-16
 
 ## Notes
 

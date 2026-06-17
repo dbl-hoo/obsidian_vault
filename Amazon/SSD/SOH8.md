@@ -19,13 +19,6 @@ tags:
 ---
 ## Tasks
 
-- [x] Chime Jacob - PP disclosure
-- [x] RFQ - Twinsburg
-- [x] Email Denice/Sean - PP disclosure
-- [x] CAR Inputs - SOH8
-- [x] Follow up on non-contiguous parcels
-- [x] Email David Miller
-
 ## Notes
 
 2026-06-16 - Deal reactivated. Sent updated survey to Dave Chojnowski.

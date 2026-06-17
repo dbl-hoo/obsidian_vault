@@ -24,7 +24,7 @@ next_due: 2026-06-15
 
 ## Tasks
 
-- [ ] Check status of LOI 📅 2026-06-16
+- [x] Check status of LOI 📅 2026-06-16 ✅ 2026-06-16
 
 ## Notes
 
