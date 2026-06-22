@@ -11,13 +11,18 @@ end_date:
 local_broker: KBC
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-05-26
-last_note: "Jeff B: one investor not satisfied with LOI terms; Farm Manager pausing Early Access docs pending syndication vote."
+last_updated: 2026-06-16
+last_note: "Sellers approved PSA; comments received; follow up w/ Amazon legal Monday. Bryan Blade (seller counsel) to send by EOW."
 next_due:
 ---
 ## Tasks
 
+- [x] Follow up with Bryan Blade (seller counsel) re: PSA docs — promised by EOW 6/20 📅 2026-06-22 ✅ 2026-06-22
+- [x] Follow up with Amazon legal on PSA seller comments 📅 2026-06-22 ✅ 2026-06-22
+
 ## Notes
+
+2026-06-16 - Email with Bryan Blade (seller counsel); he will send by EOW. Sellers approved; comments to PSA received; follow up with Amazon legal on Monday.
 
 2026-05-26 - Update from Jeff Baumgardner (seller's broker): One primary investor (involved in both parcels) is not satisfied with the proposed LOI terms and has indicated the group should not agree as written. No alternative terms or revisions received yet. Farm Manager does not want to execute Early Access documents or have Amazon incur additional costs until syndication vote is completed. Investor letter for the syndication vote is being prepared.
 

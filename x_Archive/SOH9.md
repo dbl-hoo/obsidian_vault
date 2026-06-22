@@ -10,14 +10,18 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-15
-last_note: "Deal closed."
+last_updated: 2026-06-22
+last_note: "Additional parking would trigger added entitlements (10-12 wk approval, ~$20K design); follow up w/ Knoll next week."
 next_due:
 tags: [deal, amazon]
 ---
 ## Tasks
 
+- [ ] Follow up with Adam Knoll on additional parking entitlements 📅 2026-06-29
+
 ## Notes
+
+2026-06-22 - Additional parking area would trigger additional entitlements since site plan is changing and we'd be adding more than 10,000 SF of impervious area. City approval timeline ~10-12 weeks from kickoff; all processes run concurrently, all reviews administrative with no public input anticipated. Design cost ~$20,000. Need to follow up with Knoll next week.
 
 2026-06-15 - Deal closed.
 

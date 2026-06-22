@@ -18,7 +18,7 @@ last_note: New site search — SOH8 closed due to bad soils; surveying Akron are
 ## Tasks
 
 - [x] 🔺 Compile survey of potential Akron sites 📅 2026-06-15 ✅ 2026-06-16
-- [ ] Review site survey with Dave Chojnowski 📅 2026-06-19
+- [x] Review site survey with Dave Chojnowski 📅 2026-06-19 ✅ 2026-06-22
 
 ## Notes
 

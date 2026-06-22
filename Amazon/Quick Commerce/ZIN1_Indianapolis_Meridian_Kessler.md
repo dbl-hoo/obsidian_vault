@@ -8,13 +8,13 @@ city: Indianapolis
 state: IN
 deal_type: New Lease
 business_unit: QC
-status: Selected
+status: Completed
 local_broker: "Shannon Hunt | Vice President | Veritas Realty"
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-01-27
-last_updated: 2026-06-12
-last_note: "ZIN1 CAR pending with Udit (final approval)."
+last_updated: 2026-06-16
+last_note: "CAR approved. Lease executed."
 next_due:
 area: Amazon
 tm: TBD
@@ -24,6 +24,8 @@ tags: [deal, amazon, quick-commerce]
 ## Tasks
 
 ## Notes
+
+2026-06-16 - CAR approved. Lease executed.
 
 2026-06-10 - ZIN1 CAR is pending with Udit currently (final approval).
 

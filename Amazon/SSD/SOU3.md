@@ -18,7 +18,7 @@ last_note: "Lease signing pushed to July; title via Keith Seo's counsel; Adam wo
 
 ## Tasks
 
-- [ ] Call Adam Thomas (Louisville Airport Authority) re: architectural review board / CAR launch 📅 2026-06-17
+- [x] Call Adam Thomas (Louisville Airport Authority) re: architectural review board / CAR launch 📅 2026-06-17 ✅ 2026-06-22
 - [x] Get plans to Alex Richardson (PCM) 📅 2026-06-17 ✅ 2026-06-11
 - [x] Schedule internal call, include Deborah Massie 📅 2026-06-17 ✅ 2026-06-11
 

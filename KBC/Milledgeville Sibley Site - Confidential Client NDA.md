@@ -11,8 +11,8 @@ last_note: NDA counter-markup prepared; Section 3 GORA carve-out countered; draf
 
 ## Tasks
 
-- [ ] Send counter-markup to Stephanie Storm with completed email draft 📅 2026-06-17
-- [ ] Confirm client's decision on whether to proceed with submission given GORA risk 📅 2026-06-19
+- [x] Send counter-markup to Stephanie Storm with completed email draft 📅 2026-06-17 ✅ 2026-06-22
+- [x] Confirm client's decision on whether to proceed with submission given GORA risk 📅 2026-06-19 ✅ 2026-06-22
 
 ## Notes
 

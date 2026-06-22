@@ -1,17 +1,17 @@
 ---
 project: Meacham 3 & 4 — Prologis Listing Agreement
-status: Ongoing
+status: Closed
 area: KBC
 office: Dallas
 tags: [kbc]
-last_updated: 2026-06-09
+last_updated: 2026-06-16
 ---
 
 ## Tasks
 
-- [x] Follow up with Whit Maddox on listing agreement comments 📅 2026-06-16 ✅ 2026-06-16
-
 ## Notes
+
+2026-06-16 - Listing agreement completed.
 
 2026-06-09 - Sent comments to Whit Maddox.
 
