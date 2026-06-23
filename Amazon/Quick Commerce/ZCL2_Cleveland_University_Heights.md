@@ -1,5 +1,6 @@
 ---
-aliases: ["Cleveland_University Heights_ZCL2"]
+aliases:
+  - Cleveland_University Heights_ZCL2
 site_code: ZCL2
 launch_date: 2026-08-01
 pin: University Heights
@@ -13,22 +14,22 @@ local_broker: Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-03-03
-last_updated: 2026-06-10
+last_updated: 2026-06-22
 area: Amazon
 tags:
   - deal
   - amazon
   - quick-commerce
 tm: Chatman Young
-last_note: "Waiting on GMP (ROM too expensive) before submitting for CAR."
+last_note: Preliminarily cancelled
 next_due:
 ---
 
 ## Tasks
 
-- [x] Check status w/ Flor 📅 2026-06-16 ✅ 2026-06-16
-
 ## Notes
+
+2026-06-22 - Preliminarily cancelled.
 
 2026-06-10 - Waiting on GMP (ROM is too expensive) before submitting for CAR.
 

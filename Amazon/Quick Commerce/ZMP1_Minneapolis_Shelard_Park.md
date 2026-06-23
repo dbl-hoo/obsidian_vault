@@ -1,24 +1,28 @@
 ---
-aliases: ["Minneapolis_Shelard Park_ZMP1"]
+aliases:
+  - Minneapolis_Shelard Park_ZMP1
 site_code: ZMP1
 launch_date: 2026-08-01
-pin: "Shelard Park"
-address: "8357 10th Avenue N, Golden Valley, MN"
+pin: Shelard Park
+address: 8357 10th Avenue N, Golden Valley, MN
 city: Minneapolis
 state: MN
 deal_type: New Lease
 business_unit: QC
 status: Selected
-local_broker: "Alex Funk | Senior Associate"
+local_broker: Alex Funk | Senior Associate
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-06-12
-last_note: "AoR investigating accessible lift for rear of building in lieu of ramp."
+last_updated: 2026-06-22
+last_note: Updated site plan sent to LL; ramp wont work, reconfiguring
 next_due: 2026-06-09
-tags: [deal, amazon, quick-commerce]
+tags:
+  - deal
+  - amazon
+  - quick-commerce
 ---
 
 # Shelard Park
@@ -27,6 +31,8 @@ tags: [deal, amazon, quick-commerce]
 
 
 ## Notes
+
+2026-06-22 - Updated site plan sent to LL. Proposed ramp will not work; emailed the team about reconfiguring.
 
 2026-06-10 - AoR is investigating an accessible lift for the rear of the building, in lieu of the ramp.
 

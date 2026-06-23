@@ -1,6 +1,7 @@
 ---
 site_code: SOU3
-aliases: ["SKYY"]
+aliases:
+  - SKYY
 deal_type: Lease
 business_unit: SSD
 status: Selected
@@ -11,18 +12,18 @@ start_date:
 end_date:
 local_broker: Powell Spears, JLL
 area: Amazon
-tags: [deal, amazon]
-last_updated: 2026-06-12
-last_note: "Lease signing pushed to July; title via Keith Seo's counsel; Adam working ARC approval (UPS also in ARC)."
+tags:
+  - deal
+  - amazon
+last_updated: 2026-06-22
+last_note: 3rd party architectural approval received; revised lease sent to LL
 ---
 
 ## Tasks
 
-- [x] Call Adam Thomas (Louisville Airport Authority) re: architectural review board / CAR launch 📅 2026-06-17 ✅ 2026-06-22
-- [x] Get plans to Alex Richardson (PCM) 📅 2026-06-17 ✅ 2026-06-11
-- [x] Schedule internal call, include Deborah Massie 📅 2026-06-17 ✅ 2026-06-11
-
 ## Notes
+
+2026-06-22 - Alexandra Richardson is PCM. 3rd party architectural approval received. LL counsel: Greg Ehrhard, Stites & Harbison (https://www.stites.com/attorneys/t-gregory-ehrhard/). Revised lease sent to LL.
 
 2026-06-12 - Brief call w/ Adam Thomas (LL). Lease can't sign until July — he's hoping for early July but may slip longer. Keith Seo's counsel expected to reach out re: how to handle title (their title company is slow). Adam working on ARC approval; UPS is also in the ARC (FYI).
 

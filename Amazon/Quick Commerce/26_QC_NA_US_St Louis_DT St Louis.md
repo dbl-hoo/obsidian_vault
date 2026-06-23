@@ -17,8 +17,8 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-06-12
-last_note: "LOI back to LL; follow up Monday."
+last_updated: 2026-06-22
+last_note: "Revised LOI received; open issues: permit contingency, lease form"
 next_due: 2026-06-15
 ---
 
@@ -27,6 +27,8 @@ next_due: 2026-06-15
 - [x] Check status of LOI 📅 2026-06-16 ✅ 2026-06-16
 
 ## Notes
+
+2026-06-22 - Revised LOI received. Major open issues: permit contingency and lease form.
 
 2026-06-10 - LOI back to LL; follow up Monday.
 LL broker: Elise Swanson, Vice President, JLL, 211 N Broadway Suite 2900, St. Louis, MO 63102. T +1 314 338 2083, M +1 636 675 5628, Elise.Swanson@jll.com.

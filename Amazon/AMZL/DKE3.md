@@ -6,13 +6,15 @@ status: Selected
 tm: Richard Corley
 launch_date: 2027-01-01
 start_date: 2025-06-06
-end_date: 
+end_date:
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-05-20
-last_note: "Amazon exercising 2nd (final) 30-day DD extension; DD expires June 29; $25K deposit to Chicago Title by June 2."
+last_updated: 2026-06-22
+last_note: PSA amendment extends DD period 30 days to 7/27; ACOE wetlands letter a couple weeks out
 next_due: 2026-05-28
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 ---
 
 ## Tasks
@@ -22,6 +24,8 @@ tags: [deal, amazon]
 - [ ] Closing Deadline 📅 2026-07-27
 
 ## Notes
+
+2026-06-22 - PSA amendment circulated to extend DD period by 30 days, to 7/27. A couple weeks out on ACOE letter re: wetlands.
 
 2026-05-20 - Amazon will exercise 2nd (and final) 30-day DD Period extension; DD Period expires June 29 (rather than May 28). Extending requires $25K deposit with Chicago Title by June 2nd. FYI only.
 

@@ -1,30 +1,36 @@
 ---
-aliases: ["Indianapolis_Carmel_ZIN3"]
+aliases:
+  - Indianapolis_Carmel_ZIN3
 site_code: ZIN3
 launch_date: 2026-08-01
-pin: "Carmel"
-address: "12208 Hancock St., Carmel, IN 46032"
+pin: Carmel
+address: 12208 Hancock St., Carmel, IN 46032
 city: Indianapolis
 state: IN
 deal_type: New Lease
 business_unit: QC
 status: Selected
-local_broker: "Shannon Hunt | Vice President | Veritas Realty"
+local_broker: Shannon Hunt | Vice President | Veritas Realty
 loi_final: No
 loi_prepared: No
 site_selection_date: 2026-01-30
-last_updated: 2026-06-16
-last_note: "CAR approved. Leases submitted to be routed for execution."
+last_updated: 2026-06-22
+last_note: AHJ supports Special Use application for BZA; June 29 deadline for July 27 hearing
 next_due:
 area: Amazon
 tm: TBD
-tags: [deal, amazon, quick-commerce]
+tags:
+  - deal
+  - amazon
+  - quick-commerce
 ---
 
 ## Tasks
 
 
 ## Notes
+
+2026-06-22 - Per AHJ: instead, would support a Special Use application being filed for the soonest BZA meeting, to allow a Storage or Distribution Facility in the M3 Zone. Heard by a hearing officer item rather than full board, a +/- 45-day process. Key dates: June 29 is deadline for July 27 BZA Hearing Officer; public notice newspaper deadline July 3. Discuss further on call.
 
 2026-06-16 - CAR approved. Leases submitted to be routed for execution.
 

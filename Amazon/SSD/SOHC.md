@@ -10,8 +10,8 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-06-12
-last_note: "Design updates: increasing parking, building flip needed, ~400 associate spaces. Adam on test fit."
+last_updated: 2026-06-23
+last_note: Recommended holding at $9.50/current terms vs. trading TI/free rent below $9.08 breakeven
 next_due:
 tags:
   - deal
@@ -20,6 +20,10 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-06-23 - Sent Adam Knoll discounted net effective rent analysis on the TI/free-rent-for-lower-rent trade. Ran the numbers in the new comp template: cutting free rent to 2 mo and TI allowance to $2.50/SF only pencils if base rent drops below $9.08/SF (breakeven at our 5% discount rate) — otherwise it's a worse deal than holding at $9.50/$6 TI/4 mo free. Flagged that if Prologis is underwriting at a higher discount rate than us, there may be room to push below $9.08, but a face rent that low could look unappealing to PLD/their capital (comps and IC optics). Given the favorable comp set (Cardinal Health $9.73, other PLD quotes $9.95-10.23), recommended holding at $9.50 with current terms rather than trading away TI/free rent.
+
+2026-06-23 - Sent Adam Knoll the updated Cleveland lease comps (normalized NER methodology) covering Class A comps in the area. Moved the Amazon (CAK4) lease comp below the line — not apples-to-apples, didn't want it skewing finance's read. Flagged that the model's 4% market growth rate looks conservative vs. recent Class A Cleveland rent growth (~7%+ YoY), meaning the comp averages likely understate the comparative value of what we've negotiated with LL so far. Per discussion with Adam, going back to Prologis/PLD for further reduced rent assuming lower TI ($2-3 PSF) and reduced free rent (2 mo vs. 4). Expect rate to fluctuate further once we have a test fit to share.
 
 2026-06-09 - Design updates: increasing parking requirements; need to flip the building; associate parking ~400 spaces. Adam working on test fit.
 

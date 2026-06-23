@@ -25,7 +25,7 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
-- [ ] 🔺 Complete CAR inputs 📅 2026-06-16
+- [x] 🔺 Complete CAR inputs 📅 2026-06-16 ✅ 2026-06-23
 
 ## Notes
 
