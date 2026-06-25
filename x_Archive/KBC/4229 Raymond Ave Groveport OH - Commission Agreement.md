@@ -1,13 +1,15 @@
 ---
 project: 4229 Raymond Ave Groveport OH - Commission Agreement
-status: Ongoing
+status: Closed
 area: KBC
 office: Columbus
 tags: [kbc]
-last_updated: 2026-06-15
+last_updated: 2026-06-23
 ---
 
 ## Notes
+
+2026-06-23 - Completed; closing and archiving matter.
 
 2026-06-15 - Reviewed commission agreement and sent revised draft to Beau Taggart and Kristina Madayag. Following up in 1 week.
 
@@ -20,5 +22,3 @@ last_updated: 2026-06-15
 Attachments saved: Commission Agreement - 4229 Raymond Ave Groveport OH - 2026.06.15.docx (basic details filled in; original was an old binary .doc that Word now refuses to open, so this is a clean recreation of the same text with the requested fields completed)
 
 ## Tasks
-
-- [ ] Follow up w/ Beau/Kristina on revised commission agreement draft 📅 2026-06-22

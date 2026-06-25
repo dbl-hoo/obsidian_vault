@@ -20,8 +20,8 @@ tags:
 ## Tasks
 
 - [x] First Extension Expiration 📅 2026-05-28 ✅ 2026-05-27
-- [ ] Second Extension Expiration 📅 2026-06-27
-- [ ] Closing Deadline 📅 2026-07-27
+- [x] Second Extension Expiration 📅 2026-06-27 ✅ 2026-06-23
+- [x] Closing Deadline 📅 2026-07-27 ✅ 2026-06-23
 
 ## Notes
 

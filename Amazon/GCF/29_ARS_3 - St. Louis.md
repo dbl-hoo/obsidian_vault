@@ -10,8 +10,8 @@ start_date: 2026-03-27
 end_date:
 local_broker: Matt Eastin
 area: Amazon
-last_updated: 2026-06-01
-last_note: "Site selection June 11, 2026."
+last_updated: 2026-06-23
+last_note: "Labor due back 7/3; WHS expected any day; pending Phil decision on LOIs"
 next_due: 2026-05-06
 tags:
   - deal
@@ -21,6 +21,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-06-23 - Labor due back 7/3 and WHS should be back any day. Need to follow up after the 4th. Asked Matt Eastin for information on CRG/Google site. Pending decision from Phil on LOIs. Follow up tomorrow with Kyle D. re: discussion with Edwardsville.
 
 2026-06-01 - Site selection June 11, 2026.
 

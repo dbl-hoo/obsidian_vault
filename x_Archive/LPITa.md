@@ -10,7 +10,7 @@ start_date: 2025-06-06
 end_date: 
 local_broker: Matt Clackson
 area: Amazon
-last_updated: 2026-04-08
+last_updated: 2026-06-24
 tags: [deal, amazon]
 ---
 
@@ -25,6 +25,8 @@ tags: [deal, amazon]
 ## Tasks
 
 ## Notes
+
+2026-06-24 - Deal confirmed terminated. Archiving file.
 
 2026-04-08 - Termination letter sent. Hold file for 2 weeks, then archive.
 

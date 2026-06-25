@@ -36,7 +36,7 @@ Parse the source for:
 
 **KBC-specific fields to extract:**
 - **KBC office** — infer from which KBC broker is involved or where the deal is located
-- **Property address** — extract from the document body or attachment content; this drives the matter name and folder name. Look for patterns like `123 Main St`, `456 Oak Ave, Atlanta, GA`, or a property name tied to a known address. If not findable, ask before proceeding — do not fall back to a subject-line or company name.
+- **Property address** — extract from the document body or attachment content; this drives the matter name and folder name. Look for patterns like `123 Main St`, `456 Oak Ave, Atlanta, GA`, or a property name tied to a known address. If not findable, fall back to the counterparty name (see naming rules below).
 
 If any required fields can't be determined, ask before creating the file.
 
@@ -60,10 +60,10 @@ If any required fields can't be determined, ask before creating the file.
   - Quick Commerce: `AMAZON_QC_DOCS\{site_code}\`
   - Project A: `AMAZON_PA_DOCS\{site_code}\`
 
-**KBC matters:** flat file at `KBC/{address} - {matter_type}.md`, docs folder at `KBC_DOCS\{address} - {matter_type}\`
-- `{address}` = street address extracted from the document (e.g., `312 Clay St Columbus OH`)
+**KBC matters:** flat file at `KBC/{name} - {matter_type}.md`, docs folder at `KBC_DOCS\{name} - {matter_type}\`
+- `{name}` = street address if one can be found (e.g., `312 Clay St Columbus OH`); otherwise the counterparty company name (e.g., `Interchange Co`)
 - `{matter_type}` = most specific type that fits (same list used for attachment stems)
-- If the address cannot be determined from the document, **ask Jason before creating the file** — do not use the email subject, company name, or a generic placeholder
+- If neither an address nor a counterparty name can be determined, ask Jason before creating the file
 
 **Kirkham Law matters:** flat file at `Kirkham Law/{Matter Name}.md`, docs folder at equivalent path
 
@@ -77,7 +77,7 @@ The `{stem}` differs by area:
 | Area | Stem format | Example |
 |---|---|---|
 | Amazon | `{site_code} - {address}` (address if available) | `DOM9 - 1234 Morse Rd Columbus OH` |
-| KBC / Kirkham Law | `{matter_type} - {address}` (address required — see below) | `Listing Agreement - 456 Oak Ave Atlanta GA` |
+| KBC / Kirkham Law | `{matter_type} - {name}` (address if available, otherwise counterparty name) | `Listing Agreement - 456 Oak Ave Atlanta GA` or `Exclusive Services Agreement - Interchange Co` |
 
 Full filename: `{stem} - {YYYY.MM.DD}.{ext}`
 
@@ -88,7 +88,7 @@ Full filename: `{stem} - {YYYY.MM.DD}.{ext}`
 **KBC/Kirkham Law matter types** — use the most specific type that fits:
 `Lease` | `Lease Renewal` | `Listing Agreement` | `Purchase Agreement` | `PSA` | `MSA` | `NDA` | `Amendment` | `Assignment` | `Sublease` | `Engagement Agreement` | `Other`
 
-**Address extraction for KBC/Kirkham Law matters** — scan the email body and attachment filenames (and attachment content if a .docx or .pdf is already extracted) for a street address. Look for patterns like `123 Main St`, `456 Oak Ave, Atlanta, GA`, property names tied to a known address, or any explicit address reference. If found, use the shortest unambiguous form (street + city, no zip needed). If genuinely not findable, use just the matter type as the stem and flag the gap in the report.
+**Name extraction for KBC/Kirkham Law matters** — scan the email body and attachment filenames (and attachment content if a .docx or .pdf is already extracted) for a street address. Look for patterns like `123 Main St`, `456 Oak Ave, Atlanta, GA`, property names tied to a known address, or any explicit address reference. If found, use the shortest unambiguous form (street + city, no zip needed). If no address is findable, use the counterparty company name instead. Only ask Jason if neither can be determined.
 
 **.msg files** — use `extract-msg`:
 ```python

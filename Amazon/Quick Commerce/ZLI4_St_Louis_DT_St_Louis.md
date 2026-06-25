@@ -1,5 +1,6 @@
 ---
-site_code: TBD_St Louis
+site_code: ZLI4
+aliases: ["26_QC_NA_US_St Louis_DT St Louis"]
 launch_date:
 pin: DT St Louis
 address: 2675 Scott Ave., Suite C, St. Louis, MO 63103
@@ -17,16 +18,21 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-06-22
-last_note: "Revised LOI received; open issues: permit contingency, lease form"
+last_updated: 2026-06-24
+last_note: "Alcohol assessment received from Alan — 1,500 SF requirement confirmed"
 next_due: 2026-06-15
 ---
 
 ## Tasks
 
-- [x] Check status of LOI 📅 2026-06-16 ✅ 2026-06-16
-
 ## Notes
+
+2026-06-24 - Alan provided alcohol assessment for ZLI4 (site selected 6/9). 1,500 SF open-to-public requirement holds; products are everyday groceries displayed for sale.
+Alcohol Assessment: (1) Type: B/W/S. (2) Unique requirements: min. 1,500 SF open to public w/ min. 750 separate, distinguishable products on display for sale (excl. tobacco & alcohol). (3) Written zoning guidance: none. (4) Sensitive use restrictions: must be >300 ft from a church or school; license requires support from BOTH a majority of property owners within 350 ft AND a majority of registered voters residing within 350 ft and businesses operating within 350 ft. (5) Timeline: 6 months. (6) Cost to purchase license: N/A.
+
+2026-06-24 - Site code ZLI4 assigned.
+
+2026-06-23 - LOI back to LL; open issues: lease form and permit contingency.
 
 2026-06-22 - Revised LOI received. Major open issues: permit contingency and lease form.
 

@@ -1,6 +1,6 @@
 ---
-site_code:
-aliases: []
+site_code: ZMS6
+aliases: [26_QC_NA_US_Minneapolis_Summit Hills]
 launch_date:
 pin: Summit Hills
 address: 240 Maryland Avenue East, Suite TBD
@@ -18,8 +18,8 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-06-12
-last_note: "Debrief 5/13 — shortlisted as ZMS5 pivot; ~5,000 SF, asking $52,500/yr; no HVAC/sprinklers; alcohol likely N/A"
+last_updated: 2026-06-24
+last_note: "Site code ZMS6 assigned"
 next_due: 2026-06-03
 ---
 
@@ -29,6 +29,8 @@ next_due: 2026-06-03
 - [x] Email team re: power, parking, and doors 📅 2026-06-16 ✅ 2026-06-16
 
 ## Notes
+
+2026-06-24 - Site code ZMS6 assigned.
 
 2026-05-27 - Debrief 5/13. Site at 240 Maryland Ave E, Suite TBD, St. Paul, MN 55117 shortlisted as ZMS5 pivot. Corner unit in multi-tenant warehouse building (LL demising larger unit; suite # TBD). ~5,000 SF, previously warehouse. Inbound: at-grade roll-up door. Outbound: requires new man door (negotiating as LL work). 10 reserved parking stalls. 400A power. No HVAC. No sprinkler system. Concrete floors. ADA restrooms in common area (shared w/ other tenants). Clear height 20'+. Mop sink TBD. Asking $52,500/yr. Zoned I-1 Light Industrial; EDP low risk; zoning allows warehouse/wholesale and retail. Alcohol licensing likely not obtainable — half-mile distance requirement from sensitive uses.
 

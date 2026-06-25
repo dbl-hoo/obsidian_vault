@@ -4,8 +4,8 @@ business_unit: SSD
 area: Amazon
 total_pins_assigned: 41
 tags: [project-mercury, amazon]
-last_updated: 2026-06-23
-last_note: Kickoff email received from Dominic Nicholas; 41 pins assigned across 16 MSAs
+last_updated: 2026-06-24
+last_note: Documented search methodology — per-pin CoStar searches, 3mi radius expanding to 5mi for building and land
 ---
 
 ## Background
@@ -32,6 +32,13 @@ Debriefs expected to start the week of 2026-06-29, prioritizing pins with existi
 | 447k SF | 609 | 98 |
 
 SHIELD tracking: TBD pending direction from Trace.
+
+## Search Methodology
+
+Created one CoStar saved search per pin (38 of 41 unique radii — 3 pin pairs close enough to share a search center). For each pin:
+
+1. Building search — radius 3 miles from pin lat/long. If nothing viable, expand to 5 miles.
+2. Land search — same radius approach (3 miles, expand to 5 if nothing viable).
 
 ## Key Contact
 
@@ -66,7 +73,7 @@ Source spreadsheet and KMZ map stored at `C:\Users\kirkham\Documents\Amazon\Proj
 
 ## Tasks
 
-- [ ] 🔺 Join Project Mercury kickoff call (date TBD — to be circulated) 📅 2026-06-30
+- [x] 🔺 Join Project Mercury kickoff call (date TBD — to be circulated) 📅 2026-06-30 ✅ 2026-06-23
 
 ## Notes
 
