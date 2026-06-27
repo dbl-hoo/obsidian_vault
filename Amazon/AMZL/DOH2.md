@@ -9,8 +9,8 @@ launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date: 
 local_broker: KBC
-last_updated: 2026-06-12
-last_note: "Bryan Blade back early next week; revised PSA expected then; follow up 6/11."
+last_updated: 2026-06-24
+last_note: "Crop damage intel: farmer wants $950/acre, 30 acres farmed, up to 25% impacted per Emily W., exposure ~$7,125."
 next_due: 2026-06-15
 area: Amazon
 tags: [deal, amazon]
@@ -21,6 +21,8 @@ tags: [deal, amazon]
 - [x] Follow up w/ Bryan Blade on revised PSA 📅 2026-06-15 ✅ 2026-06-16
 
 ## Notes
+
+2026-06-24 - Crop damage intel: Farmer (Jason Grant) wants $950/acre. Est. farmed acreage: 30 acres. Emily W. estimates up to 25% impacted by geotechnical survey. Potential crop damage exposure = $7,125.
 
 2026-06-08 - Bryan Blade (Anchor Properties GC) back early next week; will follow up with revised PSA then.
 

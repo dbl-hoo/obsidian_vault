@@ -10,8 +10,8 @@ deal_type: New Lease
 business_unit: QC
 status: Selected
 local_broker: "Meghan Donovan, NAI DESCO St. Louis"
-last_updated: 2026-06-12
-last_note: "Electrical cost estimate received ($65,294.12 total); follow up tomorrow on design meeting."
+last_updated: 2026-06-27
+last_note: "Lease agreed with LL; sent to Susan Jensen for Amazon legal approval."
 next_due:
 loi_final: No
 loi_prepared: Yes
@@ -23,8 +23,11 @@ tags: [deal, amazon, quick-commerce]
 
 ## Tasks
 
+- [x] Update and finalize lease 📅 2026-06-26 ✅ 2026-06-26
 
 ## Notes
+
+2026-06-27 - Lease agreed with LL. Sent to Susan Jensen for Amazon legal approval.
 
 2026-06-08 - Electrical cost estimate received. Breakdown:
 1. Power Distribution / Panel Work — $4,044.12 (tie-ins, minor breaker adds, circuit extensions)

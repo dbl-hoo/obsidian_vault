@@ -25,6 +25,8 @@ next_due: 2026-06-15
 
 ## Tasks
 
+- [ ] Follow up re: LOI 📅 2026-06-26
+
 ## Notes
 
 2026-06-24 - Alan provided alcohol assessment for ZLI4 (site selected 6/9). 1,500 SF open-to-public requirement holds; products are everyday groceries displayed for sale.

@@ -16,8 +16,8 @@ loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-06-22
-last_note: Updated site plan sent to LL; ramp wont work, reconfiguring
+last_updated: 2026-06-27
+last_note: Updated site plan sent to LL; follow up Tuesday on site plan and lease.
 next_due: 2026-06-09
 tags:
   - deal
@@ -29,8 +29,13 @@ tags:
 
 ## Tasks
 
+- [ ] CAR inputs 📅 2026-06-26
+- [ ] Follow up with LL on updated site plan 📅 2026-06-30
+- [ ] Follow up with LL on lease 📅 2026-06-30
 
 ## Notes
+
+2026-06-27 - Sent updated site plan to LL. Follow up Tuesday (6/30) on site plan and lease.
 
 2026-06-22 - Updated site plan sent to LL. Proposed ramp will not work; emailed the team about reconfiguring.
 

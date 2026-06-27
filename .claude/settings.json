@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(obsidian *)",
+      "Bash(git *)",
+      "Bash(python *)",
+      "Bash(python3 *)",
+      "Bash(date *)",
+      "Bash(date)"
+    ]
+  }
+}
