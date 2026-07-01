@@ -73,7 +73,6 @@ Source spreadsheet and KMZ map stored at `C:\Users\kirkham\Documents\Amazon\Proj
 
 ## Tasks
 
-- [x] 🔺 Join Project Mercury kickoff call (date TBD — to be circulated) 📅 2026-06-30 ✅ 2026-06-23
 
 ## Notes
 

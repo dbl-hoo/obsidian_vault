@@ -1,6 +1,7 @@
 ---
 site_code: ZLI4
-aliases: ["26_QC_NA_US_St Louis_DT St Louis"]
+aliases:
+  - 26_QC_NA_US_St Louis_DT St Louis
 launch_date:
 pin: DT St Louis
 address: 2675 Scott Ave., Suite C, St. Louis, MO 63103
@@ -10,7 +11,7 @@ deal_type: New Lease
 business_unit: QC
 status: Selected
 local_broker: Matt Eastin
-loi_final: No
+loi_final: Yes
 loi_prepared: Yes
 area: Amazon
 tm: TBD
@@ -18,16 +19,21 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-06-24
-last_note: "Alcohol assessment received from Alan — 1,500 SF requirement confirmed"
+last_updated: 2026-07-01
+last_note: Final LOI received. Drafting and sending lease next week.
 next_due: 2026-06-15
 ---
 
 ## Tasks
 
-- [ ] Follow up re: LOI 📅 2026-06-26
+- [x] Follow up — Jami Stevenson / LL permit termination right 📅 2026-06-30 ✅ 2026-06-29
+- [ ] Draft and send lease to LL 📅 2026-07-08
 
 ## Notes
+
+2026-07-01 - Final LOI received. Drafting and sending lease next week.
+
+2026-06-26 - LL requested right to terminate if Amazon doesn't apply for permits within 30 days. Escalated to Jami Stevenson.
 
 2026-06-24 - Alan provided alcohol assessment for ZLI4 (site selected 6/9). 1,500 SF open-to-public requirement holds; products are everyday groceries displayed for sale.
 Alcohol Assessment: (1) Type: B/W/S. (2) Unique requirements: min. 1,500 SF open to public w/ min. 750 separate, distinguishable products on display for sale (excl. tobacco & alcohol). (3) Written zoning guidance: none. (4) Sensitive use restrictions: must be >300 ft from a church or school; license requires support from BOTH a majority of property owners within 350 ft AND a majority of registered voters residing within 350 ft and businesses operating within 350 ft. (5) Timeline: 6 months. (6) Cost to purchase license: N/A.

@@ -1,9 +1,11 @@
 ---
 project: Flexport MSA
-status: Ongoing
+status: Closed
 area: KBC
-tags: [kbc]
-last_updated: 2026-05-01
+tags:
+  - kbc
+last_updated: 2026-06-28
+last_note: Matter closed.
 ---
 
 ## Tasks

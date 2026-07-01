@@ -1,6 +1,7 @@
 ---
 site_code: ZMS6
-aliases: [26_QC_NA_US_Minneapolis_Summit Hills]
+aliases:
+  - 26_QC_NA_US_Minneapolis_Summit Hills
 launch_date:
 pin: Summit Hills
 address: 240 Maryland Avenue East, Suite TBD
@@ -18,17 +19,19 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-06-24
-last_note: "Site code ZMS6 assigned"
+last_updated: 2026-06-28
+last_note: Business proceeding with VI Sampling. Draft lease due Monday 6/29.
 next_due: 2026-06-03
 ---
 
 ## Tasks
 
-- [x] Check status of LOI 📅 2026-06-16 ✅ 2026-06-16
-- [x] Email team re: power, parking, and doors 📅 2026-06-16 ✅ 2026-06-16
+- [x] 🔺 Updated and finalize LOI 📅 2026-06-29 ✅ 2026-06-29
+- [x] Follow up — VI Sampling status 📅 2026-07-06 ✅ 2026-07-01
 
 ## Notes
+
+2026-06-28 - Business proceeding with VI Sampling. Draft lease due Monday 6/29.
 
 2026-06-24 - Site code ZMS6 assigned.
 

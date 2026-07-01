@@ -1,10 +1,12 @@
 ---
 project: 1141 N Swift Rd Addison IL - Assignment
-status: Ongoing
+status: Closed
 area: KBC
 office: Chicago
-tags: [kbc]
-last_updated: 2026-06-15
+tags:
+  - kbc
+last_updated: 2026-06-28
+last_note: Matter closed.
 ---
 
 ## Notes

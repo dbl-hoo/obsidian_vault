@@ -3,15 +3,19 @@ project: 2607 W 17th Lagunitas Sublease
 status: Ongoing
 area: KBC
 office: Chicago
-tags: [kbc]
-last_updated: 2026-05-03
+tags:
+  - kbc
+last_updated: 2026-06-30
+last_note: Reviewed Lagunitas revisions; drafted commission agreement for direct deal scenario; sent to Michael Conway
 ---
 
 ## Tasks
 
-- [x] Follow up with Conway on Lagunitas sublease listing agreement 📅 2026-05-10 ✅ 2026-05-28
+- [ ] Follow up with Michael Conway on commission agreement 📅 2026-07-07
 
 ## Notes
+
+2026-06-30 - Reviewed revisions from Lagunitas. Drafted commission agreement covering direct deal scenario (if owner goes direct instead of sublease). Sent to Michael Conway. Follow up in 1 week.
 
 2026-05-03 - Reviewed and revised termination fee language. Sent to Conway. Follow up 1 week (5/10).
 

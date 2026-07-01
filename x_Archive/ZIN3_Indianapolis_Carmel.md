@@ -9,13 +9,13 @@ city: Indianapolis
 state: IN
 deal_type: New Lease
 business_unit: QC
-status: Selected
+status: Completed
 local_broker: Shannon Hunt | Vice President | Veritas Realty
 loi_final: No
 loi_prepared: No
 site_selection_date: 2026-01-30
-last_updated: 2026-06-22
-last_note: AHJ supports Special Use application for BZA; June 29 deadline for July 27 hearing
+last_updated: 2026-06-28
+last_note: Lease signed.
 next_due:
 area: Amazon
 tm: TBD
@@ -26,6 +26,10 @@ tags:
 ---
 
 ## Tasks
+
+## Notes
+
+2026-06-28 - Lease signed. Archived.
 
 
 ## Notes

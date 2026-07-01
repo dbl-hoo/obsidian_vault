@@ -52,6 +52,7 @@ Detection is **just-in-time, not a session ritual.** Only when an action actuall
 
 - **Windows** (default): doc folders are present — create/reference them as listed below.
 - **macOS** (`uname` returns `Darwin`): personal Mac, no doc folders — skip any doc-folder step.
+- **Linux / Dathomir** (homelab server, `uname` returns `Linux`): used for personal vault work; no doc folders — treat same as macOS and skip all doc-folder steps.
 
 ## Paths
 

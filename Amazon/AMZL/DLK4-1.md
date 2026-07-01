@@ -10,14 +10,16 @@ start_date:
 end_date:
 local_broker: Powell Spears, JLL
 area: Amazon
-tags: [deal, amazon]
-last_updated: 2026-06-02
-last_note: "Survey re-snap pending; send survey + background to Demco by EOW"
+tags:
+  - deal
+  - amazon
+last_updated: 2026-06-28
+last_note: Survey re-snap pending; send survey + background to Demco by EOW
 ---
 
 ## Tasks
 
-- [ ] Send survey and background to Demco 📅 2026-06-06
+- [ ] Send survey and background to Demco 📅 2026-07-10
 
 ## Notes
 

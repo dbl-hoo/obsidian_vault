@@ -10,8 +10,8 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-06-23
-last_note: Recommended holding at $9.50/current terms vs. trading TI/free rent below $9.08 breakeven
+last_updated: 2026-06-28
+last_note: Waiting for site selection. Following up 2026-07-06.
 next_due:
 tags:
   - deal
@@ -19,7 +19,12 @@ tags:
 ---
 ## Tasks
 
+- [x] Follow up with Dave Chownoski 📅 2026-06-28 ✅ 2026-06-29
+- [ ] Follow up — site selection status 📅 2026-07-20
+
 ## Notes
+
+2026-06-28 - Waiting for site selection. Following up 2026-07-06.
 
 2026-06-23 - Sent Adam Knoll discounted net effective rent analysis on the TI/free-rent-for-lower-rent trade. Ran the numbers in the new comp template: cutting free rent to 2 mo and TI allowance to $2.50/SF only pencils if base rent drops below $9.08/SF (breakeven at our 5% discount rate) — otherwise it's a worse deal than holding at $9.50/$6 TI/4 mo free. Flagged that if Prologis is underwriting at a higher discount rate than us, there may be room to push below $9.08, but a face rent that low could look unappealing to PLD/their capital (comps and IC optics). Given the favorable comp set (Cardinal Health $9.73, other PLD quotes $9.95-10.23), recommended holding at $9.50 with current terms rather than trading away TI/free rent.
 

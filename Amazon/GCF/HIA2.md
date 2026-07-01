@@ -1,19 +1,22 @@
 ---
 site_code: HIA2
-aliases: ["HIA2_Chamberburg"]
+aliases:
+  - HIA2_Chamberburg
 deal_type: Purchase
 business_unit: GCF
 status: Selected
 tm: Phil Ristevski
-pcm: 
+pcm:
 launch_date: 2029-06-01
 end_date:
-last_updated: 2026-06-12
-last_note: "Maura Kennedy / Mike Ross (local EconDev) identified a potential recreation-area site"
+last_updated: 2026-06-28
+last_note: Maura Kennedy / Mike Ross (local EconDev) identified a potential recreation-area site
 next_due:
-local_broker: 
+local_broker:
 area: Amazon
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 ---
 2026.06.16
 ## Summary

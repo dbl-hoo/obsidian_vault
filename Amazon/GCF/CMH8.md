@@ -6,18 +6,22 @@ status: Selected
 tm: TBD
 pcm: Jacob Cooper-bennett
 launch_date: 2028-05-09
-end_date: 
+end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-08
-last_note: "DD material expiration status logged — environmental Flash Study considered expired; wetlands good to 1/22/2031; CRA expires if not exercised by 2040."
+last_updated: 2026-06-28
+last_note: Rachel Elliott considering whether to pursue.
 next_due:
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-06-28 - Rachel Elliott considering whether to pursue.
 
 2026-06-08 - DD material expiration status (informational):
 - Geotech: no expiration; soil composition stable; recommend redo if a few years old

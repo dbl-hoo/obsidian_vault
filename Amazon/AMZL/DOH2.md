@@ -7,20 +7,24 @@ tm: Al Patel
 pcm: Albert Chon
 launch_date: 2028-08-01
 start_date: 2025-07-31
-end_date: 
+end_date:
 local_broker: KBC
-last_updated: 2026-06-24
-last_note: "Crop damage intel: farmer wants $950/acre, 30 acres farmed, up to 25% impacted per Emily W., exposure ~$7,125."
+last_updated: 2026-06-28
+last_note: PSA back to seller tomorrow (2026-06-29).
 next_due: 2026-06-15
 area: Amazon
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 ---
 
 ## Tasks
 
-- [x] Follow up w/ Bryan Blade on revised PSA 📅 2026-06-15 ✅ 2026-06-16
+- [x] 🔺 Send PSA back to seller 📅 2026-06-29 ✅ 2026-06-29
 
 ## Notes
+
+2026-06-28 - PSA back to seller tomorrow (2026-06-29).
 
 2026-06-24 - Crop damage intel: Farmer (Jason Grant) wants $950/acre. Est. farmed acreage: 30 acres. Emily W. estimates up to 25% impacted by geotechnical survey. Potential crop damage exposure = $7,125.
 

@@ -16,8 +16,8 @@ loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-06-27
-last_note: Updated site plan sent to LL; follow up Tuesday on site plan and lease.
+last_updated: 2026-06-30
+last_note: Followed up with LL on NNN costs, lease comments, and updated site plan; follow up Monday 7/6.
 next_due: 2026-06-09
 tags:
   - deal
@@ -29,11 +29,14 @@ tags:
 
 ## Tasks
 
-- [ ] CAR inputs 📅 2026-06-26
-- [ ] Follow up with LL on updated site plan 📅 2026-06-30
-- [ ] Follow up with LL on lease 📅 2026-06-30
+- [ ] Follow up with LL on NNN costs, lease comments, and updated site plan 📅 2026-07-06
+- [x] CAR inputs 📅 2026-06-26 ✅ 2026-06-30
+- [x] Follow up with LL on updated site plan 📅 2026-06-30 ✅ 2026-06-30
+- [x] Follow up with LL on lease 📅 2026-06-30 ✅ 2026-06-30
 
 ## Notes
+
+2026-06-30 - Followed up with LL on NNN costs, lease comments, and updated site plan. Follow up Monday 7/6.
 
 2026-06-27 - Sent updated site plan to LL. Follow up Tuesday (6/30) on site plan and lease.
 

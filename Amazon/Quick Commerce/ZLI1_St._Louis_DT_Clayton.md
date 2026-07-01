@@ -1,29 +1,32 @@
 ---
-aliases: ["St. Louis_DT Clayton_ZLI1"]
+aliases:
+  - St. Louis_DT Clayton_ZLI1
 site_code: ZLI1
 launch_date: 2026-08-01
-pin: "DT Clayton"
-address: "2335 S. Hanley Rd"
+pin: DT Clayton
+address: 2335 S. Hanley Rd
 city: St. Louis
 state: MO
 deal_type: New Lease
 business_unit: QC
 status: Selected
-local_broker: "Meghan Donovan, NAI DESCO St. Louis"
-last_updated: 2026-06-27
-last_note: "Lease agreed with LL; sent to Susan Jensen for Amazon legal approval."
+local_broker: Meghan Donovan, NAI DESCO St. Louis
+last_updated: 2026-06-28
+last_note: Lease agreed with LL; sent to Susan Jensen for Amazon legal approval.
 next_due:
 loi_final: No
 loi_prepared: Yes
 site_selection_date: 2026-02-13
 area: Amazon
 tm: TBD
-tags: [deal, amazon, quick-commerce]
+tags:
+  - deal
+  - amazon
+  - quick-commerce
 ---
 
 ## Tasks
 
-- [x] Update and finalize lease 📅 2026-06-26 ✅ 2026-06-26
 
 ## Notes
 

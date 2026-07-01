@@ -10,16 +10,25 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-22
-last_note: "Additional parking would trigger added entitlements (10-12 wk approval, ~$20K design); follow up w/ Knoll next week."
+last_updated: 2026-07-01
+last_note: Patrick: additional parking to be Amazon direct-funded, not LL-capitalized in rent.
 next_due:
 tags: [deal, amazon]
 ---
 ## Tasks
 
-- [ ] Follow up with Adam Knoll on additional parking entitlements 📅 2026-06-29
+- [x] Follow up with Caleb on additional parking proposal 📅 2026-07-06 ✅ 2026-07-01
+- [x] Follow up with Adam Knoll on additional parking entitlements 📅 2026-06-29 ✅ 2026-06-30
 
 ## Notes
+
+2026-07-01 - Patrick: additional parking would be structured as Amazon direct funding, not LL capitalizing the cost into rent.
+
+2026-06-30 - Followed up with Caleb re: additional parking proposal. Follow up Monday 7/6.
+- Verbal ROM quote received: **$1.3MM** for parking expansion.
+- Contractor packaging physical budget for Jason's review.
+- Further discussions with contractor this week to refine the number.
+- Jason to forward budget package once received.
 
 2026-06-22 - Additional parking area would trigger additional entitlements since site plan is changing and we'd be adding more than 10,000 SF of impervious area. City approval timeline ~10-12 weeks from kickoff; all processes run concurrently, all reviews administrative with no public input anticipated. Design cost ~$20,000. Need to follow up with Knoll next week.
 

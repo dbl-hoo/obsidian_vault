@@ -1,6 +1,7 @@
 ---
 site_code: OPA7
-aliases: ["OPA7 - Mahanoy, PA"]
+aliases:
+  - OPA7 - Mahanoy, PA
 deal_type: Lease
 business_unit: GCF
 status: Selected
@@ -11,8 +12,8 @@ start_date: 2025-12-17
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-12
-last_note: "ZCL approved"
+last_updated: 2026-06-28
+last_note: ZCL approved
 next_due:
 tags:
   - deal

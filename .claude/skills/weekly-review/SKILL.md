@@ -25,8 +25,8 @@ For each flagged deal, surface:
 - Most recent `## Notes` entry
 - All open tasks with due dates
 
-Ask Jason: *Any updates? Status change? Tasks to close or add?*
-Apply any changes before moving to the next item.
+Ask Jason: *Any updates? Status change? Tasks to close?*
+Apply any changes before moving to the next item. Do NOT create new tasks unless Jason explicitly dictates one.
 
 ## Step 3 — Remaining deals
 
@@ -51,3 +51,4 @@ After all deals:
 - Apply updates in real time — don't batch at the end
 - Re-read each deal file immediately before presenting it and before writing
 - If Jason says a deal is closed/dead, update `status:` immediately
+- **Never create tasks proactively** — only add a task if Jason explicitly dictates one during the session

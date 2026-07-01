@@ -1,10 +1,12 @@
 ---
 project: Saskatuawan Commission Dispute
-status: Ongoing
+status: Closed
 area: KBC
 office: Seattle
-tags: [kbc]
-last_updated: 2026-06-12
+tags:
+  - kbc
+last_updated: 2026-06-28
+last_note: Matter closed.
 ---
 
 ## Tasks

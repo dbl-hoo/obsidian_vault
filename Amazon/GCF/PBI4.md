@@ -1,6 +1,7 @@
 ---
 site_code: PBI4
-aliases: [PBI3]
+aliases:
+  - PBI3
 deal_type: Purchase
 business_unit: ARS
 status: Selected
@@ -11,12 +12,16 @@ start_date: 2026-06-01
 end_date:
 local_broker: Hassan Mamoud, KBC
 area: Amazon
-tags: [deal, amazon]
-last_updated: 2026-06-03
-last_note: Nuveen intel — owns via open-end fund, purchased from Seefried; lease through 2028 at $200 PSF low-4 cap; thinks deal can get done at ~$215 PSF
+tags:
+  - deal
+  - amazon
+last_updated: 2026-06-28
+last_note: Need to draft LOI for purchase — task queued.
 ---
 
 ## Tasks
+
+- [x] Draft LOI for purchase 📅 2026-06-29 ✅ 2026-06-30
 
 ## Notes
 

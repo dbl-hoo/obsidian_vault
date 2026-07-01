@@ -2,15 +2,15 @@
 site_code: DKE3
 deal_type: Purchase
 business_unit: AMZL
-status: Selected
+status: Completed
 tm: Richard Corley
 launch_date: 2027-01-01
 start_date: 2025-06-06
 end_date:
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-06-22
-last_note: PSA amendment extends DD period 30 days to 7/27; ACOE wetlands letter a couple weeks out
+last_updated: 2026-06-28
+last_note: Closed.
 next_due: 2026-05-28
 tags:
   - deal
@@ -18,6 +18,10 @@ tags:
 ---
 
 ## Tasks
+
+## Notes
+
+2026-06-28 - Closed. Archived.
 
 - [x] First Extension Expiration 📅 2026-05-28 ✅ 2026-05-27
 - [x] Second Extension Expiration 📅 2026-06-27 ✅ 2026-06-23

@@ -13,7 +13,7 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-06-12
+last_updated: 2026-06-28
 last_note: Requirement reactivated (was cancelled, now back); all former survey sites have high WHS risk; Huntington + Charleston WV capacity eval in parallel
 next_due: 2026-06-02
 ---

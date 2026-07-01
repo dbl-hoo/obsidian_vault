@@ -8,8 +8,8 @@ pcm: Gary Gallagher
 launch_date: 2028-05-01
 end_date:
 local_broker: KBC
-last_updated: 2026-06-12
-last_note: "Updated PSA amendment sent to Liepe. Follow up 2026-05-28."
+last_updated: 2026-06-28
+last_note: PSA amendment with Liepe signed. On autopilot to closing. No follow-up till EO July.
 next_due: 2026-05-28
 area: Amazon
 tags:
@@ -19,7 +19,11 @@ tags:
 
 ## Tasks
 
+- [ ] Check in — ACY4 closing status 📅 2026-07-31
+
 ## Notes
+
+2026-06-28 - PSA amendment with Liepe signed. On autopilot to closing. No follow-up till EO July.
 
 2026-05-21 - Updated PSA amendment sent to Liepe. Follow up 1 week.
 

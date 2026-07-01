@@ -13,14 +13,14 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-05-08
-last_note: "Matter opened. GCF Flex Shell survey, Mid-Missouri. Local broker Joseph Accurso (C&W), TM Phil Ristevski."
+last_updated: 2026-06-28
+last_note: Matter opened. GCF Flex Shell survey, Mid-Missouri. Local broker Joseph Accurso (C&W), TM Phil Ristevski.
 next_due: 2026-05-15
 ---
 
 ## Tasks
 
-- [x] Engage on new GCF Flex Shell survey — Mid-Missouri 📅 2026-05-15 ✅ 2026-05-18
+- [x] Follow up with Phil Ristevski 📅 2026-06-29 ✅ 2026-06-29
 
 ## Notes
 

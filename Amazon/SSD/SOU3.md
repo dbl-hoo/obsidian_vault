@@ -15,13 +15,18 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-06-22
-last_note: 3rd party architectural approval received; revised lease sent to LL
+last_updated: 2026-06-30
+last_note: Followed up with LL on zoning letter and lease; follow up Monday 7/6.
 ---
 
 ## Tasks
 
+- [x] Follow up with LL on zoning letter and lease 📅 2026-07-06 ✅ 2026-07-01
+- [x] Follow up with LL on lease 📅 2026-06-30 ✅ 2026-06-30
+
 ## Notes
+
+2026-06-30 - Followed up with LL on zoning letter and lease. Follow up Monday 7/6.
 
 2026-06-22 - Alexandra Richardson is PCM. 3rd party architectural approval received. LL counsel: Greg Ehrhard, Stites & Harbison (https://www.stites.com/attorneys/t-gregory-ehrhard/). Revised lease sent to LL.
 

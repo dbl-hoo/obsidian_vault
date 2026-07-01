@@ -17,4 +17,3 @@ Attachments saved: Commission Agreement - 220 Park West West Jefferson OH - 2026
 
 ## Tasks
 
-- [x] Review LL's redline of 220 Park West commission agreement and respond to Beau Taggart 📅 2026-06-17 ✅ 2026-06-10

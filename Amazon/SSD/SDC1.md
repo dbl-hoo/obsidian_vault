@@ -10,8 +10,10 @@ start_date:
 end_date:
 local_broker: John Dettleff, JLL
 area: Amazon
-tags: [deal, amazon]
-last_updated: 2026-06-12
+tags:
+  - deal
+  - amazon
+last_updated: 2026-06-28
 last_note: Transitioned from Andrea Roy; 10-yr renewal + expansion rights agreed, Daikin relocation stalled on their brokerage conflict
 ---
 

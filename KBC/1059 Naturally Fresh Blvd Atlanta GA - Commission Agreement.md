@@ -15,4 +15,3 @@ last_updated: 2026-06-24
 
 ## Tasks
 
-- [x] Review K&N Commission Agreement comments/redlines and respond to Jay Padgett 📅 2026-07-01 ✅ 2026-06-24

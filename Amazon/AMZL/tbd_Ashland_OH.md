@@ -2,7 +2,7 @@
 site_code: TBD_Ashland
 deal_type: New Lease
 business_unit: AMZL
-status: Surveying
+status: On Hold
 tm: Al Patel
 launch_date: 2028-01-01
 start_date:
@@ -12,14 +12,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-05-03
-last_note: "Surveys sent to Amazon 4/28. Waiting on Al Patel."
+last_updated: 2026-06-28
+last_note: Placed on hold.
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-06-28 - Placed on hold.
 
 2026-05-03 - Waiting on Al Patel feedback on surveys.
 

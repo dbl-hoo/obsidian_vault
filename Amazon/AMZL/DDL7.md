@@ -9,7 +9,7 @@ launch_date: 2028-08-01
 end_date:
 local_broker: Charles Rodriguez, R&R Commercial Realty
 area: Amazon
-last_updated: 2026-06-12
+last_updated: 2026-06-28
 last_note: "Phase I ESA reviewed — Fork Branch: CRECs only, COCRs issued, AULs recorded, vapor mitigation req'd in OU-2. New Phase I needed for Amazon diligence."
 next_due: 2026-05-04
 tags:
@@ -19,11 +19,6 @@ tags:
 
 ## Tasks
 
-- [x] Charlie — get DelDOT timing on Conner Family Land bypass 📅 2026-06-02 ✅ 2026-06-16
-- [x] Al — run flash diligence on Cooper Farm 📅 2026-06-02 ✅ 2026-06-16
-- [x] Al — run flash diligence on Conner Family Land 📅 2026-06-02 ✅ 2026-06-16
-- [x] Charlie — follow up on Papein availability 📅 2026-06-02 ✅ 2026-06-16
-- [x] Charlie — send wetlands delineation for Mall Site 📅 2026-06-02 ✅ 2026-06-16
 
 ## Notes
 

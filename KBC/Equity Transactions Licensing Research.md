@@ -3,8 +3,9 @@ project: Equity Transactions Licensing Research
 status: Ongoing
 area: KBC
 office:
-tags: [kbc]
-last_updated: 2026-06-12
+tags:
+  - kbc
+last_updated: 2026-06-28
 ---
 
 ## Tasks

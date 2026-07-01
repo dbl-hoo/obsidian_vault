@@ -2,7 +2,7 @@
 site_code: SSD_SOHx
 deal_type: BTS-Lease
 business_unit: SSD
-status: Selected
+status: Cancelled
 tm: Adam Knoll
 pcm:
 launch_date:
@@ -13,14 +13,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-05-13
-last_note: Flash WHS DD complete — result is pivot.
+last_updated: 2026-06-28
+last_note: Cancelled — deal dead.
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-06-28 - Deal dead. Cancelled.
 
 2026-05-13 - Flash WHS DD complete: result is pivot.
 

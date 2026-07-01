@@ -4,14 +4,14 @@ deal_type: Purchase
 business_unit: GCF
 status: Selected
 tm: Phil Ristevski
-pcm: 
+pcm:
 launch_date:
 start_date: 2026-03-27
 end_date:
 local_broker: Matt Eastin
 area: Amazon
-last_updated: 2026-06-23
-last_note: "Labor due back 7/3; WHS expected any day; pending Phil decision on LOIs"
+last_updated: 2026-06-28
+last_note: Positive movement from EconDev on Edwardsville site (TriStar). Following up with Kyle after the holiday.
 next_due: 2026-05-06
 tags:
   - deal
@@ -20,7 +20,11 @@ tags:
 
 ## Tasks
 
+- [ ] Follow up with Kyle re: Edwardsville/TriStar EconDev 📅 2026-07-07
+
 ## Notes
+
+2026-06-28 - Positive movement from EconDev on Edwardsville site (TriStar). Following up with Kyle after the holiday.
 
 2026-06-23 - Labor due back 7/3 and WHS should be back any day. Need to follow up after the 4th. Asked Matt Eastin for information on CRG/Google site. Pending decision from Phil on LOIs. Follow up tomorrow with Kyle D. re: discussion with Edwardsville.
 

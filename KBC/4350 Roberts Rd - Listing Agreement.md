@@ -9,7 +9,6 @@ last_updated: 2026-05-01
 
 ## Tasks
 
-- [x] Follow up on listing agreement comments 📅 2026-05-04 ✅ 2026-05-10
 
 ## Notes
 

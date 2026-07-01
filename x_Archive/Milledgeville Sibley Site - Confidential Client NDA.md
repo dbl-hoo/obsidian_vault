@@ -1,12 +1,13 @@
 ---
 project: Milledgeville Sibley Site — Edged Data Center NDA
 client: Edged Data Center
-status: Ongoing
+status: Closed
 area: KBC
 office: Atlanta
-tags: [kbc]
-last_updated: 2026-06-16
-last_note: NDA counter-markup prepared; Section 3 GORA carve-out countered; draft reply to Stephanie Storm completed
+tags:
+  - kbc
+last_updated: 2026-06-28
+last_note: Matter closed.
 ---
 
 ## Tasks

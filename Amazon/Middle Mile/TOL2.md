@@ -9,8 +9,8 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-12
-last_note: "Mathes confirmed: want $85K/acre vs. help with 1031 exchange"
+last_updated: 2026-06-28
+last_note: Reached out to Clay Smith (Ambrose) for update on LOI with Matthes and PFP property owners.
 next_due: 2026-05-16
 tags:
   - deal
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-06-28 - Reached out to Clay Smith (Ambrose) for update on LOI with Matthes and PFP property owners.
 
 2026-06-02 - Mathes confirmed: want $85K per acre vs. help with a 1031 exchange.
 

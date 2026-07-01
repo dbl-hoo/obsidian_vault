@@ -4,20 +4,23 @@ deal_type: Renewal
 business_unit: SSD
 status: Selected
 tm: Max Madani
-pcm: 
-launch_date: 
+pcm:
+launch_date:
 start_date: 2025-07-09
-end_date: 
+end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-12
-last_note: "Renewal deadline extended to 8/4/26."
+last_updated: 2026-06-28
+last_note: Renewal deadline extended to 8/4/26.
 next_due:
-tags: [deal, amazon]
+tags:
+  - deal
+  - amazon
 ---
 
 ## Tasks
 
+- [ ] SOH3 renewal check-in 📅 2026-07-15
 
 ## Notes
 

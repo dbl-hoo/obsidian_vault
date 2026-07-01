@@ -2,8 +2,9 @@
 project: Scout Trademark
 status: Ongoing
 area: KBC
-last_updated: 2026-05-03
-tags: [kbc]
+last_updated: 2026-06-28
+tags:
+  - kbc
 ---
 
 ## Product Description

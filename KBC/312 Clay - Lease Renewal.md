@@ -1,10 +1,12 @@
 ---
 project: 312 Clay - Lease Renewal
-status: Ongoing
+status: Closed
 area: KBC
 office: Oakland
-tags: [kbc]
-last_updated: 2026-06-12
+tags:
+  - kbc
+last_updated: 2026-06-28
+last_note: Matter closed.
 ---
 
 ## Tasks

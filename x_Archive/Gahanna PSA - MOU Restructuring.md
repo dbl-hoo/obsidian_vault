@@ -1,10 +1,14 @@
 ---
 project: Gahanna PSA — Restructuring/Assignment MOU
-status: Draft
+status: Closed
 area: KBC
 office: Chicago
-tags: [kbc, draft, mou]
-last_updated: 2026-05-26
+tags:
+  - kbc
+  - draft
+  - mou
+last_updated: 2026-06-28
+last_note: Matter closed.
 ---
 
 # Gahanna PSA — MOU Restructuring / Assignment

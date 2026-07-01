@@ -1,6 +1,7 @@
 ---
 site_code: OPA8
-aliases: ["OPA8 - Manchester, PA"]
+aliases:
+  - OPA8 - Manchester, PA
 deal_type: Lease
 business_unit: GCF
 status: Selected
@@ -10,7 +11,7 @@ launch_date: 2027-06-22
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-12
+last_updated: 2026-06-28
 last_note: "Project call: substation Q2 2027, PM assignment end of June, permits submitted, GC RFPs due 6/22, Exhibit K and WL schedule remain open."
 next_due:
 tags:

@@ -10,16 +10,19 @@ start_date:
 end_date:
 local_broker: Jacob Holdeman (Scannell Properties)
 area: Amazon
-tags: [deal, amazon]
-last_updated: 2026-06-02
-last_note: PSA amendment received — two additional 30-day extensions at $10k each (NR/NA); seller signed counterpart returned; pending authorization to release fully executed copy
+tags:
+  - deal
+  - amazon
+last_updated: 2026-06-28
+last_note: Monitoring. Developer working through design for NWP permit process/drafting.
 next_due: 2026-05-29
 ---
 
 ## Tasks
-- [x] 🔺 Get up to speed on DII9 (Project Kanawha) — confirm PSA extension and prep for SHPO meeting next week 📅 2026-05-29 ✅ 2026-05-28
 
 ## Notes
+
+2026-06-28 - Monitoring. Developer working through design for NWP permit process/drafting.
 
 2026-06-02 - PSA amendment received granting two additional 30-day extensions at $10k additional deposit each (both NR/NA to Purchase Price at Closing). Seller signed and returned counterpart. Scannell requesting confirmation of any questions/comments and authorization to release fully executed copy.
 

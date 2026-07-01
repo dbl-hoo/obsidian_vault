@@ -14,7 +14,7 @@ local_broker: Alex Valletto, Associate, Cushman & Wakefield | CRESCO Real Estate
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: 2026-03-03
-last_updated: 2026-06-22
+last_updated: 2026-06-28
 area: Amazon
 tags:
   - deal

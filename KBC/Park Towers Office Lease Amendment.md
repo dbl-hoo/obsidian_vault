@@ -1,10 +1,12 @@
 ---
 project: Park Towers Office Lease Amendment
-status: Ongoing
+status: Closed
 area: KBC
 office: Houston
-tags: [kbc]
-last_updated: 2026-06-12
+tags:
+  - kbc
+last_updated: 2026-06-28
+last_note: Matter closed.
 ---
 
 ## Tasks

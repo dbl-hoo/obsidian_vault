@@ -7,20 +7,26 @@ tm: Al Patel
 pcm: Albert Chon
 launch_date: 2028-08-01
 start_date: 2025-07-31
-end_date: 
+end_date:
 local_broker: KBC
 area: Amazon
-tags: [deal, amazon]
-last_updated: 2026-06-16
-last_note: "Sellers approved PSA; comments received; follow up w/ Amazon legal Monday. Bryan Blade (seller counsel) to send by EOW."
+tags:
+  - deal
+  - amazon
+last_updated: 2026-06-30
+last_note: Updated PSA sent back to sellers; follow up Monday 7/6.
 next_due:
 ---
 ## Tasks
 
-- [x] Follow up with Bryan Blade (seller counsel) re: PSA docs — promised by EOW 6/20 📅 2026-06-22 ✅ 2026-06-22
-- [x] Follow up with Amazon legal on PSA seller comments 📅 2026-06-22 ✅ 2026-06-22
+- [ ] Follow up with sellers on PSA 📅 2026-07-06
+- [x] Call Jeff Baumgardner 📅 2026-06-28 ✅ 2026-06-29
 
 ## Notes
+
+2026-06-30 - Updated PSA sent back to sellers. Follow up Monday 7/6.
+
+2026-06-28 - PSA nearly complete. One open item: closing condition for simultaneous close.
 
 2026-06-16 - Email with Bryan Blade (seller counsel); he will send by EOW. Sellers approved; comments to PSA received; follow up with Amazon legal on Monday.
 

@@ -10,8 +10,10 @@ start_date:
 end_date:
 local_broker: Toby Mink, CBRE
 area: Amazon
-tags: [deal, amazon]
-last_updated: 2026-06-12
+tags:
+  - deal
+  - amazon
+last_updated: 2026-06-28
 last_note: Transitioned from Andrea Roy; site adjacent to Back River WWTP under consent decree, air quality test results pending, needs site selection
 ---
 

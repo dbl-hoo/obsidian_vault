@@ -10,8 +10,8 @@ start_date: 2025-05-12
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-16
-last_note: "Deal reactivated; sent updated survey to Dave Chojnowski"
+last_updated: 2026-06-28
+last_note: Sent follow-up to Dave Chojnowski. No further action pending response.
 next_due:
 tags:
   - deal
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-06-28 - Sent follow-up to Dave Chojnowski. No further action pending response.
 
 2026-06-16 - Deal reactivated. Sent updated survey to Dave Chojnowski.
 

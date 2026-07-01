@@ -1,31 +1,34 @@
 ---
-aliases: ["Detroit_Royal Oak_ZDT6"]
+aliases:
+  - Detroit_Royal Oak_ZDT6
 site_code: ZDT6
 launch_date: 2026-08-01
-pin: "Royal Oak"
-address: "409 East Hudson Avenue, Building C"
+pin: Royal Oak
+address: 409 East Hudson Avenue, Building C
 city: Detroit
 state: MI
 deal_type: New Lease
 business_unit: QC
 status: Selected
-local_broker: "Tony Schmitt"
+local_broker: Tony Schmitt
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
 last_updated: 2026-06-12
-last_note: "Fire pump maintenance open issue; asked LL for maintenance contract"
+last_note: Fire pump maintenance open issue; asked LL for maintenance contract
 next_due:
 area: Amazon
 tm: TBD
-tags: [deal, amazon, quick-commerce]
+tags:
+  - deal
+  - amazon
+  - quick-commerce
 ---
 
 # Royal Oak (ZDT6)
 
 ## Tasks
 
-- [x] 🔺 Complete CAR inputs 📅 2026-06-16 ✅ 2026-06-23
 
 ## Notes
 

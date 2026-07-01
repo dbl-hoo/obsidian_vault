@@ -2,15 +2,15 @@
 site_code: DSB2
 deal_type: New Lease
 business_unit: AMZL
-status: Selected
+status: Completed
 tm: Richard Corley
 pcm: Jerry Wang
 launch_date: 2027-01-01
 end_date:
 local_broker: Nick Unger
 area: Amazon
-last_updated: 2026-06-12
-last_note: "Confirmed on track for closing 2026-06-23."
+last_updated: 2026-06-28
+last_note: Closed 2026-06-23.
 next_due:
 tags:
   - deal
@@ -21,6 +21,8 @@ tags:
 
 
 ## Notes
+
+2026-06-28 - Closed 2026-06-23.
 
 2026-06-02 - Confirmed on track for closing 2026-06-23.
 

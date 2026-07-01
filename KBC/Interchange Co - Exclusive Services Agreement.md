@@ -3,13 +3,15 @@ project: Interchange Co - Exclusive Services Agreement
 status: Ongoing
 area: KBC
 office: Chicago
-tags: [kbc]
-last_updated: 2026-06-25
+tags:
+  - kbc
+last_updated: 2026-06-28
+last_note: Need to revise and send updated agreement.
 ---
 
 ## Tasks
 
-- [x] Provide acceptable wording for Interchange CEO's 4-5 comments on the Exclusive Services Agreement (referral clause) 📅 2026-07-02 ✅ 2026-06-25
+- [x] Revise and send updated agreement 📅 2026-07-05 ✅ 2026-06-30
 
 ## Notes
 

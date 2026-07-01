@@ -1,10 +1,12 @@
 ---
 project: Equity Services Agreement - Sun Industrial Partners
-status: Ongoing
+status: Closed
 area: KBC
 office: Phoenix
-tags: [kbc]
-last_updated: 2026-06-12
+tags:
+  - kbc
+last_updated: 2026-06-28
+last_note: Matter closed.
 ---
 
 ## Tasks
