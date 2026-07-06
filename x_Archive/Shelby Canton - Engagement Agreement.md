@@ -1,19 +1,21 @@
 ---
 project: Shelby Canton - Engagement Agreement
-status: Ongoing
+status: Closed
 area: KBC
 office: Los Angeles
 tags:
   - kbc
-last_updated: 2026-06-28
-last_note: Reached out to Bo Mills. Close if no response by 2026-07-05.
+last_updated: 2026-07-06
+last_note: No response from Bo Mills — closed and archived.
 ---
 
 ## Tasks
 
-- [ ] Close if no response from Bo Mills 📅 2026-07-05
+- [x] Close if no response from Bo Mills 📅 2026-07-05 ✅ 2026-07-06
 
 ## Notes
+
+2026-07-06 - No response from Bo Mills. Closing and archiving per no-response deadline.
 
 2026-06-28 - Reached out to Bo Mills. Close if no response by 2026-07-05.
 

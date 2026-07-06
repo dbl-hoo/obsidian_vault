@@ -19,7 +19,7 @@ next_due:
 ---
 ## Tasks
 
-- [ ] Follow up with sellers on PSA 📅 2026-07-06
+- [x] Follow up with sellers on PSA 📅 2026-07-06 ✅ 2026-07-06
 - [x] Call Jeff Baumgardner 📅 2026-06-28 ✅ 2026-06-29
 
 ## Notes

@@ -20,6 +20,7 @@ tags:
 
 ## Tasks
 
+- [ ] Call Bryan Blade (Anchor Properties GC) 📅 2026-07-06
 - [x] 🔺 Send PSA back to seller 📅 2026-06-29 ✅ 2026-06-29
 
 ## Notes
