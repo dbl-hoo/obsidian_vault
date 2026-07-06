@@ -1,4 +1,7 @@
-filters: file.path.startsWith("Amazon/")
+filters:
+  and:
+    - file.path.startsWith("Amazon/")
+    - '!file.path.contains("Project Mercury")'
 formulas:
   days_until_due: if(next_due, (date(next_due) - today()).days, "")
 properties:
@@ -27,9 +30,8 @@ views:
     name: All Active
     filters:
       or:
-        - status == "Ongoing"
+        - status == "Surveying"
         - status == "On Hold"
-        - status == "Short Listed"
         - status == "Selected"
     order:
       - file.name

@@ -9,8 +9,8 @@ launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date:
 local_broker: KBC
-last_updated: 2026-06-28
-last_note: PSA back to seller tomorrow (2026-06-29).
+last_updated: 2026-06-29
+last_note: PSA back to seller; follow up Thursday.
 next_due: 2026-06-15
 area: Amazon
 tags:
@@ -20,10 +20,11 @@ tags:
 
 ## Tasks
 
-- [ ] Call Bryan Blade (Anchor Properties GC) 📅 2026-07-06
-- [x] 🔺 Send PSA back to seller 📅 2026-06-29 ✅ 2026-06-29
+- [x] Call Bryan Blade (Anchor Properties GC) 📅 2026-07-06 ✅ 2026-07-06
 
 ## Notes
+
+2026-06-29 - PSA back to seller; follow up Thursday.
 
 2026-06-28 - PSA back to seller tomorrow (2026-06-29).
 

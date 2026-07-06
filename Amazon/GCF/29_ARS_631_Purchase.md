@@ -20,7 +20,7 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with Kyle re: Edwardsville/TriStar EconDev 📅 2026-07-07
+- [x] Follow up with Kyle re: Edwardsville/TriStar EconDev 📅 2026-07-07 ✅ 2026-07-06
 
 ## Notes
 

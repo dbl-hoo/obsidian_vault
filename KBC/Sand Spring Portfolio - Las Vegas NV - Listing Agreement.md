@@ -1,15 +1,17 @@
 ---
 project: Sand Spring Portfolio - Las Vegas NV - Listing Agreement
-status: Ongoing
+status: Closed
 area: KBC
 office: Los Angeles
 tags:
   - kbc
-last_updated: 2026-06-28
-last_note: Checked in with Bo Mills.
+last_updated: 2026-06-29
+last_note: Complete; matter closed.
 ---
 
 ## Notes
+
+2026-06-29 - Complete; matter closed.
 
 2026-06-28 - Checked in with Bo Mills.
 

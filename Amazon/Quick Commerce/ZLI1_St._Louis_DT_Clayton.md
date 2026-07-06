@@ -11,8 +11,8 @@ deal_type: New Lease
 business_unit: QC
 status: Selected
 local_broker: Meghan Donovan, NAI DESCO St. Louis
-last_updated: 2026-06-28
-last_note: Lease agreed with LL; sent to Susan Jensen for Amazon legal approval.
+last_updated: 2026-06-29
+last_note: Waiting on Amazon confirmation re: submitting permits within 30 days of LOI submission.
 next_due:
 loi_final: No
 loi_prepared: Yes
@@ -29,6 +29,8 @@ tags:
 
 
 ## Notes
+
+2026-06-29 - Waiting on Amazon confirmation re: submitting permits within 30 days of LOI submission. Follow up after the 4th.
 
 2026-06-27 - Lease agreed with LL. Sent to Susan Jensen for Amazon legal approval.
 

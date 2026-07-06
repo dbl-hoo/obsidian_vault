@@ -8,8 +8,8 @@ pcm: Gary Gallagher
 launch_date: 2028-05-01
 end_date:
 local_broker: KBC
-last_updated: 2026-06-28
-last_note: PSA amendment with Liepe signed. On autopilot to closing. No follow-up till EO July.
+last_updated: 2026-06-29
+last_note: 9/15 target land closing.
 next_due: 2026-05-28
 area: Amazon
 tags:
@@ -22,6 +22,8 @@ tags:
 - [ ] Check in — ACY4 closing status 📅 2026-07-31
 
 ## Notes
+
+2026-06-29 - 9/15 target land closing.
 
 2026-06-28 - PSA amendment with Liepe signed. On autopilot to closing. No follow-up till EO July.
 
