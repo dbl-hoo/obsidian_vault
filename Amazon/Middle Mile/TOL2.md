@@ -9,8 +9,8 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-28
-last_note: Reached out to Clay Smith (Ambrose) for update on LOI with Matthes and PFP property owners.
+last_updated: 2026-07-06
+last_note: Not showing on POR — TBD if cancelled; Work Order rejected for lack of funding; needs new CAR for DD funding.
 next_due: 2026-05-16
 tags:
   - deal
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-07-06 - Not currently showing on POR. TBD if cancelled. Work Order was rejected for lack of funding. Per Phil Perri, Amazon needs a new CAR for DD funding.
 
 2026-06-28 - Reached out to Clay Smith (Ambrose) for update on LOI with Matthes and PFP property owners.
 

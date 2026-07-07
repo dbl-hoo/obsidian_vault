@@ -11,7 +11,7 @@ last_note: Reviewed Lagunitas revisions; drafted commission agreement for direct
 
 ## Tasks
 
-- [ ] Follow up with Michael Conway on commission agreement 📅 2026-07-07
+- [x] Follow up with Michael Conway on commission agreement 📅 2026-07-07 ✅ 2026-07-07
 
 ## Notes
 

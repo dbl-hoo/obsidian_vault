@@ -10,8 +10,8 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-06-28
-last_note: Waiting for site selection. Following up 2026-07-06.
+last_updated: 2026-07-06
+last_note: Updated site plan sent to Premier.
 next_due:
 tags:
   - deal
@@ -23,6 +23,8 @@ tags:
 - [ ] Follow up — site selection status 📅 2026-07-20
 
 ## Notes
+
+2026-07-06 - Updated site plan sent to Premier.
 
 2026-06-28 - Waiting for site selection. Following up 2026-07-06.
 

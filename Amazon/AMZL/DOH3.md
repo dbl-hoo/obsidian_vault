@@ -13,16 +13,15 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-06-30
-last_note: Updated PSA sent back to sellers; follow up Monday 7/6.
+last_updated: 2026-07-06
+last_note: PSA final; circulating for execution.
 next_due:
 ---
 ## Tasks
 
-- [x] Follow up with sellers on PSA 📅 2026-07-06 ✅ 2026-07-06
-- [x] Call Jeff Baumgardner 📅 2026-06-28 ✅ 2026-06-29
-
 ## Notes
+
+2026-07-06 - PSA final; circulating for execution.
 
 2026-06-30 - Updated PSA sent back to sellers. Follow up Monday 7/6.
 

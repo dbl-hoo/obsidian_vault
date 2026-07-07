@@ -21,7 +21,7 @@ last_note: Followed up with LL on zoning letter and lease; follow up Monday 7/6.
 
 ## Tasks
 
-- [ ] Follow up on zoning letter — hannah.schreck@louisville.gov 📅 2026-07-08
+- [x] Follow up on zoning letter — hannah.schreck@louisville.gov 📅 2026-07-08 ✅ 2026-07-07
 - [x] Follow up with LL on zoning letter and lease 📅 2026-07-06 ✅ 2026-07-06
 - [x] Follow up with LL on lease 📅 2026-06-30 ✅ 2026-06-30
 

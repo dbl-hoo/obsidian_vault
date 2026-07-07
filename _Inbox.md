@@ -1,2 +1,2 @@
 
-2026-07-06 14:24 - Journal sometimes I think I might be better off if I was just alone I don't like the idea of being Responsible for others happiness.  
+2026-07-07 08:12 - Breakfast smoothie was 3/4 of a banana milk scoop of whey protein scoop of naked peanut butter protein one egg one scoop of collagen peptides

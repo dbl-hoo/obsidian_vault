@@ -12,7 +12,7 @@ local_broker:
 area: Amazon
 tags: [deal, amazon]
 last_updated: 2026-07-06
-last_note: Renewal kick-off from Rachel Sohlstrom — comps, flash market survey, one-pager due 2026-07-16
+last_note: Tax abatement burns off in 2030 (10-year/75%).
 ---
 
 ## Tasks
@@ -20,6 +20,8 @@ last_note: Renewal kick-off from Rachel Sohlstrom — comps, flash market survey
 - [ ] 🔺 Gather lease comps, flash market survey, and finish renewal one-pager for DCM6 📅 2026-07-16
 
 ## Notes
+
+2026-07-06 - Note: tax abatement burns off in 2030 — 10-year/75%.
 
 2026-07-06 - [Source: email] Matter opened. Rachel Sohlstrom (TM) kicked off renewal market data gathering for DCM6 — 6201 Collings Drive, Lockbourne, OH. Part of the Exeter (EQT Real Estate) portfolio — Amazon expecting early renewal proposals from Exeter across the portfolio (31 leases, 10.9M SF nationally) and wants market data in hand in advance. Asked Jason/team to gather comps, a flash market survey, and finish the renewal one-pager within two weeks (by 2026-07-16).
 

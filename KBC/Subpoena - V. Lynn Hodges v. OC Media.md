@@ -8,7 +8,7 @@ tags: [kbc]
 
 ## Tasks
 
-- [ ] Monitor trial — new date September 8, 2026 📅 2026-09-01
+- [ ] Monitor trial — new date September 8, 2026 📅 2026-08-03
 
 ## Notes
 

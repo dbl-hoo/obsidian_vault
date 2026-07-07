@@ -6,7 +6,11 @@
       "Bash(python *)",
       "Bash(python3 *)",
       "Bash(date *)",
-      "Bash(date)"
+      "Bash(date)",
+      "Bash(defuddle *)",
+      "PowerShell(obsidian *)",
+      "PowerShell(python *)",
+      "PowerShell(python3 *)"
     ]
   }
 }
