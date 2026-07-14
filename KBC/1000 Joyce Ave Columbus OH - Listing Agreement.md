@@ -4,14 +4,18 @@ status: Ongoing
 area: KBC
 office: Columbus
 tags: [kbc]
-last_updated: 2026-07-06
+last_updated: 2026-07-11
+last_note: Listing agreement review done; follow up w/ Beau & Joe next week
 ---
 
 ## Tasks
 
-- [ ] Review Scannell's form Listing Agreement for 1000 Joyce Ave (Columbus, OH) and respond with questions/comments/redlines 📅 2026-07-13
+- [x] Review Scannell's form Listing Agreement for 1000 Joyce Ave (Columbus, OH) and respond with questions/comments/redlines 📅 2026-07-08
+- [ ] Follow up with Beau Taggart and Joe Kimener re: Joyce Ave listing agreement review 📅 2026-07-17
 
 ## Notes
+
+2026-07-11 - Listing agreement review completed. Follow up with Beau Taggart and Joe Kimener next week.
 
 2026-07-06 - [Source: email] Matter opened. Chris Carlino (Scannell Properties) sent Joe Kimener and Beau Taggart (KBC) Scannell's own form Exclusive Listing Agreement for 1000 Joyce Ave, Columbus, OH — Scannell's legal team decided to run with their form rather than KBC's. Kelly Bright forwarded to Jason for review while Joe/Beau are out, asking him to review "when back next week."
 

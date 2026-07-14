@@ -12,7 +12,7 @@ business_unit: QC
 status: Selected
 local_broker: Meghan Donovan, NAI DESCO St. Louis
 last_updated: 2026-06-29
-last_note: Waiting on Amazon confirmation re: submitting permits within 30 days of LOI submission.
+last_note: "Waiting on Amazon confirmation re: submitting permits within 30 days of LOI submission."
 next_due:
 loi_final: No
 loi_prepared: Yes

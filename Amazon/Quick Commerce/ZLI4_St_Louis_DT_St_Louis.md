@@ -19,17 +19,22 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-07-01
-last_note: Final LOI received. Drafting and sending lease next week.
-next_due: 2026-06-15
+last_updated: 2026-07-08
+last_note: Lease draft cleaned up by Jason and sent to LL.
+next_due: 2026-07-15
 ---
 
 ## Tasks
 
 - [x] Follow up — Jami Stevenson / LL permit termination right 📅 2026-06-30 ✅ 2026-06-29
-- [ ] Draft and send lease to LL 📅 2026-07-08
+- [x] Draft and send lease to LL 📅 2026-07-08 ✅ 2026-07-08
+- [ ] Follow up w/ LL on lease draft 📅 2026-07-15
 
 ## Notes
+
+2026-07-08 - Jason cleaned up the first-pass lease draft and sent it to LL.
+
+2026-07-08 - First-pass lease draft prepared from final LOI using Amazon QC Lease Short Form (Rev 8-18). Saved to Inputs\Lease - ZLI4 - 2675 Scott Ave Suite C - DRAFT.docx. Terms: $10.92 PSF / 3% bumps / 5-yr term / one 5-yr extension at 100% FMV; NNN est. $5.01 PSF; security deposit one month gross ($12,130.70); 90-day permit contingency w/ 30-day permit-submittal requirement; no TIA; Commencement 90 days after Delivery; Delivery 30 days after execution. Open: LL entity type/signatory, building SF & pro-rata share, lender status, electrical-upgrade reimbursement scope/cap on termination, guaranty cap %, parking count discrepancy (10 reserved vs 5+5).
 
 2026-07-01 - Final LOI received. Drafting and sending lease next week.
 

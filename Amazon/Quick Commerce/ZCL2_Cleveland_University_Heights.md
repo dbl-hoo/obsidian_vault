@@ -21,7 +21,7 @@ tags:
   - amazon
   - quick-commerce
 tm: Chatman Young
-last_note: Follow up next Monday with Terry Coyne re: alternate sites.
+last_note: "Follow up next Monday with Terry Coyne re: alternate sites."
 next_due:
 ---
 

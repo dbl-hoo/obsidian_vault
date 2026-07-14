@@ -10,17 +10,24 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-07-01
-last_note: Patrick: additional parking to be Amazon direct-funded, not LL-capitalized in rent.
-next_due:
+last_updated: 2026-07-10
+last_note: "Stonemont turn-key parking proposal received ~$1.3MM incl. GCs/allowances; 2' enviro cap issue; Knoll reviewing."
+next_due: 2026-07-17
 tags: [deal, amazon]
 ---
 ## Tasks
 
+- [ ] Follow up with Adam Knoll on parking expansion proposal decision 📅 2026-07-17
 - [x] Follow up with Caleb on additional parking proposal 📅 2026-07-06 ✅ 2026-07-01
 - [x] Follow up with Adam Knoll on additional parking entitlements 📅 2026-06-29 ✅ 2026-06-30
 
 ## Notes
+
+2026-07-10 - [Source: email] Caleb Jones (Stonemont) sent turn-key proposal for the additional parking area 7/9 ("Castings Commerce Building 1 Parking Expansion," dated 7/7/26). Adam Knoll acknowledged 7/10 — reviewing, will get back.
+- Cost still ~**$1.3MM**, but now includes general conditions and allowances that were excluded from the earlier verbal ROM.
+- **2' environmental cap** required in the expansion area (measured pre-developed to post-developed surface); soil, pavement, and subbase can all count toward the cap. Allowance item 1 carries the fill cost in case the civil design can't make the pavement section part of the cap (i.e., fill instead of cutting into it) — needs a design to firm up and move above the line.
+- Structure confirmed as Amazon direct-pay per Patrick (7/1).
+- Proposal saved to docs folder: `SOH9 - Parking Expansion Turn-Key Proposal - 2026.07.10.pdf`
 
 2026-07-01 - Patrick: additional parking would be structured as Amazon direct funding, not LL capitalizing the cost into rent.
 

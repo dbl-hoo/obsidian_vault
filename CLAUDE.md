@@ -209,6 +209,8 @@ last_updated:    # YYYY-MM-DD
 
 **YAML update rules:** Jack may update any YAML field if the correct value is clearly stated or directly inferable from context. If it's ambiguous, ask.
 
+**YAML quoting:** Any string value containing `: ` (colon + space — e.g. `re: alternate sites`, `Patrick: parking`) breaks YAML parsing and turns the whole properties block red in Obsidian. Wrap such values in double quotes: `last_note: "Follow up re: alternate sites."` This bites `last_note` most often, but applies to every string field.
+
 ### Note Entry Format
 
 Entries in `## Notes` use this format:
@@ -265,6 +267,16 @@ When Jason dumps call notes: 0. **Re-read the deal file immediately before writi
 
 When asked "where do things stand" or similar: read all `status: Surveying` and `status: Selected` deal files, pull the most recent Notes entry and open tasks from each, surface overdue tasks or anything with no update in >30 days.
 
+### Commonplace Book
+
+`Personal/Commonplace Book.md` — articles, quotes, and ideas worth keeping. When Jason sends a link or idea to capture ("note this", "save this article"):
+
+1. Add an entry at the **top** (newest first): `## YYYY.MM.DD — Title (Source) 🔴 to-read` (drop the marker / switch to ✅ read when he's read it)
+2. Body: link, and a "Why it struck" line — capture his stated reason; if he didn't give one, ask for a half-sentence
+3. **Cross-link with the journal:** if the save connects to something he's working through, add a line to today's `Journal.md` entry linking `[[Commonplace Book]]`, and reference the journal from the book entry
+4. If the idea proves load-bearing, promote it to its own `_Knowledgebase/` note and link it
+5. Paywalled articles: capture the pointer + why; if he pastes text or a PDF, archive the substance in the entry
+
 ### New Deals
 
 When creating a deal file, also create the matching docs folder at the relevant `*_DOCS` path (Windows only — see Machines & Sync). For Amazon deals without a site code yet, name **both the file and the folder** by the working name; both get renamed to `{site_code}` later via the code-assignment procedure.
@@ -282,6 +294,10 @@ Handled by the `/weekly-review` skill. See `_Claude/skills/weekly-review/SKILL.m
 ### EOD Processing
 
 Handled by the `/eod` skill. See `_Claude/skills/eod/SKILL.md` for the full workflow. (Same migration caveat as weekly review.)
+
+### Legal Research
+
+Handled by the `/legal-research` skill (`_Claude/skills/legal-research/SKILL.md`). For legal/regulatory research questions: check `_Knowledgebase/` first, research the web only if the KB is silent or stale, then save the answer back to the KB with citations.
 
 ### NDA Log
 

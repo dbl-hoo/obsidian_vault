@@ -2,15 +2,15 @@
 site_code: TOL2
 deal_type: Purchase
 business_unit: GCF
-status: Selected
+status: On Hold
 tm: Phillip Perri
 pcm: Stacey Pryor
 launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-07-06
-last_note: Not showing on POR — TBD if cancelled; Work Order rejected for lack of funding; needs new CAR for DD funding.
+last_updated: 2026-07-07
+last_note: Pencils down; shared site with Todd Jones for another business unit.
 next_due: 2026-05-16
 tags:
   - deal
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-07-07 - Pencils down. Shared site with Todd Jones to see if another business unit will take it.
 
 2026-07-06 - Not currently showing on POR. TBD if cancelled. Work Order was rejected for lack of funding. Per Phil Perri, Amazon needs a new CAR for DD funding.
 

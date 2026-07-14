@@ -19,7 +19,7 @@ tags:
 
 ## Tasks
 
-- [ ] Check in — ACY4 closing status 📅 2026-07-31
+- [x] Check in — ACY4 closing status 📅 2026-07-31 ✅ 2026-07-13
 
 ## Notes
 

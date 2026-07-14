@@ -10,9 +10,9 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-07-06
-last_note: Updated site plan sent to Premier.
-next_due:
+last_updated: 2026-07-10
+last_note: "Site plan reviewed w/ Premier/PLD; design tweaks (docks east, plan north, fencing, drone pad); launched for formal site selection approval."
+next_due: 2026-07-17
 tags:
   - deal
   - amazon
@@ -21,8 +21,17 @@ tags:
 
 - [x] Follow up with Dave Chownoski 📅 2026-06-28 ✅ 2026-06-29
 - [ ] Follow up — site selection status 📅 2026-07-20
+- [x] Revise LOI to reference 6K amps of power and send 📅 2026-07-13 ✅ 2026-07-13
 
 ## Notes
+
+2026-07-10 - Site plan review w/ Premier/PLD. Adam OK with orientation — cars in front. Design directions:
+- Fence around associate parking lot (security); potentially gate the entrance — per PLD, fence won't be an issue
+- PLD to add drone pad
+- Adam wants docks shifted east; Amazon doesn't need drive-in doors
+- Shift design plan north
+- Widen truck entrance on Worden
+- **Site has been launched for formal site selection approval.**
 
 2026-07-06 - Updated site plan sent to Premier.
 

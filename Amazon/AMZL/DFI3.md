@@ -1,8 +1,11 @@
 ---
-site_code: TBD_Findlay
+site_code: DFI3
+aliases:
+  - TBD_Findlay
+  - tbd_Findlay_OH
 deal_type: New Lease
 business_unit: AMZL
-status: On Hold
+status: Surveying
 tm: Kristen DeFamio
 launch_date: 2028-01-01
 start_date:
@@ -12,14 +15,18 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-05-27
-last_note: "Deal placed on hold."
+last_updated: 2026-07-08
+last_note: "Site code DFI3 assigned."
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-07-08 - Site code DFI3 assigned (formerly TBD_Findlay).
+
+2026-07-08 - Deal reactivated — off hold, status back to Surveying.
 
 2026-05-27 - Deal placed on hold.
 

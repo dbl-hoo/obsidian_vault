@@ -15,8 +15,8 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-06-28
-last_note: Need to draft LOI for purchase — task queued.
+last_updated: 2026-07-09
+last_note: "Nuveen counter 7/8: $215/SF ($232.3M), EM $4.5M, 45-day contingency, KBC fee cut to 0.75%."
 ---
 
 ## Tasks
@@ -24,6 +24,21 @@ last_note: Need to draft LOI for purchase — task queued.
 - [x] Draft LOI for purchase 📅 2026-06-29 ✅ 2026-06-30
 
 ## Notes
+
+2026-07-09 - LOI sent 6/29; Nuveen countered 7/8 (redline in Purchase LOI folder). Changes vs. our offer:
+
+| Term | Our LOI (6/29) | Nuveen Counter (7/8) |
+|---|---|---|
+| Purchase price | $226,864,260 ($210/SF) | **$232,265,790 ($215/SF)** — +$5.4M |
+| Earnest money | $2.5M | **$4.5M** |
+| Contingency period | 60 days from PSA effective date | **45 days from Early Access Agreement effective date** |
+| Early access scope | Phase 1 and Phase 2 testing | **Phase 2 deleted** — Phase 1 only |
+| Closing extension fee | $500K | **$1M** |
+| Assignment | Freely assignable without consent | **Affiliates only, 10 days notice** |
+| Title endorsements | Seller pays owner's policy | Seller pays policy; **endorsements at Purchaser's expense** |
+| KBC commission | 1.00% | **0.75%** |
+
+Unchanged: cash at closing, 30-day contingency extension for $500K, closing 30 days after contingency expiration, exclusivity, Special Warranty Deed. Counter lands exactly at the $215/SF Nuveen signaled in June — consistent with their book. Note the contingency clock now starts at the Early Access Agreement, not the PSA — shortens real DD runway more than the 60→45 day cut suggests. Commission cut is a KBC/Nuveen issue under the separate fee agreement, not an Amazon term.
 
 2026-06-03 - Nuveen/ownership intel (meeting notes)
 - Nuveen is owner — purchased from Seefried; owns in open-end (long-term) fund; have been cash-flowing for 4-5 years; can sell
