@@ -1,5 +1,5 @@
 ---
-site_code: DRF5
+site_code: DFR5
 deal_type: Purchase
 business_unit: AMZL
 status: Selected
@@ -12,14 +12,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-05-07
-last_note: "Nearby ballfields not in use; Keith proceeding with analysis."
+last_updated: 2026-07-17
+last_note: "Potential adverse possession easement; Samet contacting county; plat adjusted to dedicate access road to county."
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-07-17 - Legal identified a potential easement by adverse possession across the land. Samet to reach out to county to see if they can get something from the neighboring land owner. Plat will be adjusted so the entire access road is dedicated to the county.
 
 2026-05-07 - Re: nearby ballfields — not in use, roughly same shape for years. Outside of mowing and general decay, nothing much has changed. Keith proceeding with analysis.
 

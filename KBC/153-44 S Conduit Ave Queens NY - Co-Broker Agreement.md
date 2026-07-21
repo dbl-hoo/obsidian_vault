@@ -29,4 +29,4 @@ Attachments saved to docs folder:
 ## Tasks
 
 - [x] Review co-broker agreement (payment terms) and advise Gabe Temkin how to proceed 📅 2026-07-18
-- [ ] Follow up with Gabe Temkin re: co-broker agreement 📅 2026-07-18
+- [x] Follow up with Gabe Temkin re: co-broker agreement 📅 2026-07-18 ✅ 2026-07-20

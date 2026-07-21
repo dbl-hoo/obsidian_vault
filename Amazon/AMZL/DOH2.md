@@ -9,9 +9,9 @@ launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date:
 local_broker: KBC
-last_updated: 2026-06-29
-last_note: PSA back to seller; follow up Thursday.
-next_due: 2026-06-15
+last_updated: 2026-07-15
+last_note: Updated PSA received; pending with Amazon legal; ping Friday.
+next_due: 2026-07-17
 area: Amazon
 tags:
   - deal
@@ -20,9 +20,12 @@ tags:
 
 ## Tasks
 
+- [ ] Ping Amazon legal on updated DOH2 PSA 📅 2026-07-24
 - [x] Call Bryan Blade (Anchor Properties GC) 📅 2026-07-06 ✅ 2026-07-06
 
 ## Notes
+
+2026-07-15 - Updated PSA received from seller; pending with Amazon legal. Ping legal Friday.
 
 2026-06-29 - PSA back to seller; follow up Thursday.
 

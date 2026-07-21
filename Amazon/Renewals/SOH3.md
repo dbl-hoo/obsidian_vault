@@ -20,7 +20,7 @@ tags:
 
 ## Tasks
 
-- [ ] SOH3 renewal check-in 📅 2026-07-15
+- [x] SOH3 renewal check-in 📅 2026-07-15 ✅ 2026-07-20
 
 ## Notes
 

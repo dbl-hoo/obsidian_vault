@@ -11,7 +11,7 @@ last_note: Co-broker agreement reviewed and sent to Andrew Siemsen; follow up Fr
 ## Tasks
 
 - [x] Review JLL co-broker agreement against KBC agency agreement; advise Andrew Siemsen if ok to sign or what changes are needed 📅 2026-07-08
-- [ ] Follow up with Andrew Siemsen re: co-broker agreement review 📅 2026-07-17
+- [x] Follow up with Andrew Siemsen re: co-broker agreement review 📅 2026-07-17 ✅ 2026-07-20
 
 ## Notes
 

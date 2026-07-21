@@ -11,7 +11,7 @@ last_note: Listing agreement review done; follow up w/ Beau & Joe next week
 ## Tasks
 
 - [x] Review Scannell's form Listing Agreement for 1000 Joyce Ave (Columbus, OH) and respond with questions/comments/redlines 📅 2026-07-08
-- [ ] Follow up with Beau Taggart and Joe Kimener re: Joyce Ave listing agreement review 📅 2026-07-17
+- [x] Follow up with Beau Taggart and Joe Kimener re: Joyce Ave listing agreement review 📅 2026-07-17 ✅ 2026-07-20
 
 ## Notes
 

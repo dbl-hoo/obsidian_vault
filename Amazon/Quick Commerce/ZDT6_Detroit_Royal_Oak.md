@@ -14,9 +14,9 @@ local_broker: Tony Schmitt
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-07-10
-last_note: "LL sent updated lease (redline + execution versions) 7/10; believes ready to sign. Saved to docs folder."
-next_due: 2026-07-14
+last_updated: 2026-07-15
+last_note: Forwarded updated lease draft to Amazon team; asked for CAR approval update; follow up Monday.
+next_due: 2026-07-20
 area: Amazon
 tm: TBD
 tags:
@@ -29,9 +29,18 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with legal and business team on updated ZDT6 lease (execution version) 📅 2026-07-14
+- [x] Follow up with legal and business team on updated ZDT6 lease (execution version) 📅 2026-07-14 ✅ 2026-07-15
+- [x] Follow up w/ Amazon team on ZDT6 lease + CAR approval status 📅 2026-07-20 ✅ 2026-07-20
 
 ## Notes
+
+2026-07-15 - Forwarded updated lease draft to Amazon team; asked for update on CAR approval. Follow up Monday.
+
+2026-07-14 - Cost validation / CAR update.
+- HVAC costs of $143K require detailed breakdown and justification for CAR review process. ETA 7/14.
+- Need to compare financial analyses for alcohol design vs. no-alcohol design.
+- Decision: Continue with CAR submission after finalizing HVAC cost breakdown.
+- 7/14 Update: Site was presented on Escalations call with new costs reflected of eliminating the 250 SF storefront and adding the Alcohol eligible design. Decision was to proceed with current design and remove the storefront costs. GMP needs final verification and updated payback before routing.
 
 2026-07-10 - [Source: email] Peter Kepic (Colliers, LL broker) sent updated lease — redline and clean execution versions — intended to resolve the remaining open items; LL believes it's ready to sign. Saved to docs folder (`Amazon\Quick Commerce\ZDT6\`): final .docx, redline .docx, final .pdf, all dated 2026.07.09. Thread context: LL has been pressing since mid-June (Ryan Brittain 6/16 — owner wants executed lease to start work; original target was 7/1 commencement). Jason's 6/17 request for NNN PSF breakdown (CAM/insurance/taxes/management) still unanswered in this thread.
 

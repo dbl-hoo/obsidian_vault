@@ -19,18 +19,21 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-07-08
-last_note: Lease draft cleaned up by Jason and sent to LL.
-next_due: 2026-07-15
+last_updated: 2026-07-15
+last_note: Followed up with LL on lease; re-check Friday.
+next_due: 2026-07-17
 ---
 
 ## Tasks
 
 - [x] Follow up — Jami Stevenson / LL permit termination right 📅 2026-06-30 ✅ 2026-06-29
 - [x] Draft and send lease to LL 📅 2026-07-08 ✅ 2026-07-08
-- [ ] Follow up w/ LL on lease draft 📅 2026-07-15
+- [x] Follow up w/ LL on lease draft 📅 2026-07-15 ✅ 2026-07-15
+- [x] Re-check w/ LL on lease draft 📅 2026-07-17 ✅ 2026-07-20
 
 ## Notes
+
+2026-07-15 - Followed up with LL on the lease draft. Re-check Friday.
 
 2026-07-08 - Jason cleaned up the first-pass lease draft and sent it to LL.
 

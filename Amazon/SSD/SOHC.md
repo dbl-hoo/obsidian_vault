@@ -10,20 +10,20 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-07-10
-last_note: "Site plan reviewed w/ Premier/PLD; design tweaks (docks east, plan north, fencing, drone pad); launched for formal site selection approval."
-next_due: 2026-07-17
+last_updated: 2026-07-14
+last_note: Updated LOI sent to LL; follow up Wednesday.
+next_due: 2026-07-15
 tags:
   - deal
   - amazon
 ---
 ## Tasks
 
-- [x] Follow up with Dave Chownoski 📅 2026-06-28 ✅ 2026-06-29
 - [ ] Follow up — site selection status 📅 2026-07-20
-- [x] Revise LOI to reference 6K amps of power and send 📅 2026-07-13 ✅ 2026-07-13
 
 ## Notes
+
+2026-07-13 - Updated LOI sent to LL; follow up Wednesday.
 
 2026-07-10 - Site plan review w/ Premier/PLD. Adam OK with orientation — cars in front. Design directions:
 - Fence around associate parking lot (security); potentially gate the entrance — per PLD, fence won't be an issue

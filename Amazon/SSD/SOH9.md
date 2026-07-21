@@ -17,7 +17,7 @@ tags: [deal, amazon]
 ---
 ## Tasks
 
-- [ ] Follow up with Adam Knoll on parking expansion proposal decision 📅 2026-07-17
+- [x] Follow up with Adam Knoll on parking expansion proposal decision 📅 2026-07-17 ✅ 2026-07-20
 - [x] Follow up with Caleb on additional parking proposal 📅 2026-07-06 ✅ 2026-07-01
 - [x] Follow up with Adam Knoll on additional parking entitlements 📅 2026-06-29 ✅ 2026-06-30
 

@@ -9,9 +9,9 @@ tm: Phil Ristevski
 pcm:
 launch_date: 2029-06-01
 end_date:
-last_updated: 2026-06-28
-last_note: Maura Kennedy / Mike Ross (local EconDev) identified a potential recreation-area site
-next_due:
+last_updated: 2026-07-15
+last_note: "Reach out to Kip Feldman (Letterkenny IDA) re: potential sites."
+next_due: 2026-07-22
 local_broker:
 area: Amazon
 tags:
@@ -43,7 +43,12 @@ tags:
 
 ## Tasks
 
+- [ ] Reach out to Kip Feldman (Letterkenny IDA) re: potential sites 📅 2026-07-22
+
 ## Notes
+
+2026-07-15 - Need to reach out re: potential sites:
+- Ralph "Kip" Feldman — Broker, Director of Real Estate, Letterkenny Industrial Development Authority — Chambersburg, PA 17201 — CCIM, CPM — P: (717) 400-7883
 
 2026-06-12 - Maura Kennedy (Amazon EconDev) - Mike Ross (local EconDev) has identified a potential site for the recreation area.
 

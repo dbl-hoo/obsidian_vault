@@ -12,8 +12,8 @@ start_date: 2025-12-17
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-28
-last_note: ZCL approved
+last_updated: 2026-07-16
+last_note: "Amazon's engineer (JSE) substantiated switchboard sizing (10,617A per NEC); recommends validating 12,000A w/ PPL — tension w/ 5.5MVA resolution."
 next_due:
 tags:
   - deal
@@ -23,6 +23,19 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-07-16 - Email fwd from Jameson Torraco (SM Design, Amazon's architect/consultant) — Jordan & Skala substantiation of switchboard sizing, w/ E-600 electrical panel schedules attached (100% CD set).
+- Colton Anderson (JSE electrical designer): the three switchboards per the CDs total **10,617A** (MSA 3,223A / MSB 3,763A / MSC 3,631A).
+- JSE is bound by NEC sizing rules (limited diversity credit); PPL as a utility is not — it can size transformers/service on historical data from similar facilities. This is consistent with Shelly Gupta's 7/15 clarification (10K amps = switchboard capacity; utility need = 5.5MVA).
+- Wrinkle: JSE recommends sharing the panel schedules with LL and PPL to validate **"the 12,000A request"** — the full connected load, not the 5.5MVA diversified requirement Amazon settled on 7/15. 12,000A maps to PPL's optional 5/1/2028 10MVA milestone (~$1.5M upfront speculative-load cost to Amazon). Worth confirming internally which number the team actually wants in front of PPL before the schedules go out.
+
+2026-07-15 - Slack thread (Rachel Elliott, Shelly Gupta, Jason Bergman) — power requirement question resolved.
+- Confusion over whether PPL/LL's 7,350A was a hard cap vs. the LOI's 10,000A LL obligation.
+- Shelly Gupta clarified: 10,000A is only the **switchboard capacity** installed by the GC in the building — actual utility requirement is **5,500 kVA (5.5 MVA)**. Confirmed correct against 2027 1DC manual power guidance for a 1.2M SF building (OPA7 = 1,240,720 SF).
+- PPL phased schedule (unchanged): 9/15/26 — 1.5MVA (1,800A), pending 2,500kVA padmount transformer; 4/1/27 — 4MVA (4,800A), tentative pending ROW assessment (~1.5mi line extension + capacitor); 12/1/27 — 7.5MVA (9,000A).
+- Operational plan: if 4MVA lands by 4/1/27 (pre-launch), site can run on temp power ~6 months until full capacity. LL pays supplemental power.
+- Lease drafting points: (1) additional temp-power obligation should be tied to X days' prior notice to LL, not fixed 12/1/27 date — Arin (PNK) to estimate required lead time; (2) LL fully reimbursed for the additional capacity via TI Allowance (or 30-day invoice if TIA exhausted).
+- Lease signing delayed by the hold on all 1DCs.
 
 2026-06-12 - ZCL approved.
 

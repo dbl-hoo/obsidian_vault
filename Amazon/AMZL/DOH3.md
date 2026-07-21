@@ -13,13 +13,17 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-07-09
-last_note: "PSA critical dates logged: EM $100K due ~7/15; inspection expires ~1/4/27; base closing deadline ~2/3/27; simultaneous close required."
+last_updated: 2026-07-14
+last_note: Kyle seeking jurisdiction meeting week of 7/27.
 next_due: 2026-07-15
 ---
 ## Tasks
 
 ## Notes
+
+2026-07-14 - Amazon will be late on the $100K EM due 7/15 (tracking). Per Jason, notifying seller side (Jeff Baumgardner) proactively — draft prepared.
+
+2026-07-14 - Kyle seeking jurisdiction meeting week of 7/27.
 
 2026-07-09 - PSA critical dates summary (both executed contracts, F.EXE 2026-07-07 versions)
 

@@ -26,7 +26,7 @@ tags:
 
 ## Tasks
 
-- [ ] Send invoice for ZCM2 📅 2026-07-10
+- [x] Send invoice for ZCM2 📅 2026-07-10 ✅ 2026-07-16
 - [x] Follow up with Chatman Young and Flor Ponce re: CAR approval (weekly review) 📅 2026-05-04 ✅ 2026-05-04
 
 ## Notes

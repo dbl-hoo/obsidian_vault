@@ -19,17 +19,20 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-06-28
-last_note: Business proceeding with VI Sampling. Draft lease due Monday 6/29.
-next_due: 2026-06-03
+last_updated: 2026-07-20
+last_note: "Power questions sent to Amazon: 400A/208V via transformer vs. 400A/480V new panel."
+next_due: 2026-07-27
 ---
 
 ## Tasks
 
 - [x] 🔺 Updated and finalize LOI 📅 2026-06-29 ✅ 2026-06-29
 - [x] Follow up — VI Sampling status 📅 2026-07-06 ✅ 2026-07-01
+- [ ] 🔺 Follow up w/ Amazon on power spec (400A/208V via transformer vs. 400A/480V new panel, 3-4 wks/~$30K) 📅 2026-07-27
 
 ## Notes
+
+2026-07-20 - Sent power questions to Amazon team. Existing 200A/480V service dedicated to Amazon's portion of the building. Electrician says a transformer could step that down to 400A/208V — asked Amazon if that's sufficient. If 400A/480V is required instead: building has 1,200A/480V total capacity: electrician would need to "pipe another panel," estimated 3-4 weeks and ~$30K (off-the-cuff quote). Awaiting Amazon's response on power spec.
 
 2026-06-28 - Business proceeding with VI Sampling. Draft lease due Monday 6/29.
 

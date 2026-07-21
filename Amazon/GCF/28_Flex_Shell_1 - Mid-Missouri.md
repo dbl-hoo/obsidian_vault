@@ -2,7 +2,7 @@
 site_code: 28_Flex_Shell_1 - Mid-Missouri
 deal_type:
 business_unit: GCF
-status: Surveying
+status: On Hold
 tm: Phil Ristevski
 pcm:
 launch_date:
@@ -13,14 +13,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-06-29
-last_note: Followed up with Phil R.; next follow up after the 4th.
+last_updated: 2026-07-14
+last_note: On hold.
 next_due: 2026-05-15
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-07-13 - On hold.
 
 2026-06-29 - Followed up with Phil R.; next follow up after the 4th.
 

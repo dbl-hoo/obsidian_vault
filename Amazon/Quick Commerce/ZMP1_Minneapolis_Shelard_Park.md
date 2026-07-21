@@ -16,9 +16,9 @@ loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-07-06
-last_note: Call w/ LL — rear access only for accessible-use cases; primary outbound ops via front entrance.
-next_due: 2026-06-09
+last_updated: 2026-07-15
+last_note: Follow up with Amazon team Friday.
+next_due: 2026-07-17
 tags:
   - deal
   - amazon
@@ -29,6 +29,7 @@ tags:
 
 ## Tasks
 
+- [x] Follow up w/ Amazon team on ZMP1 📅 2026-07-17 ✅ 2026-07-16
 - [x] Confirm actual address with LL 📅 2026-07-06 ✅ 2026-07-06
 - [x] Follow up with LL on NNN costs, lease comments, and updated site plan 📅 2026-07-06 ✅ 2026-07-06
 - [x] CAR inputs 📅 2026-06-26 ✅ 2026-06-30
@@ -36,6 +37,8 @@ tags:
 - [x] Follow up with LL on lease 📅 2026-06-30 ✅ 2026-06-30
 
 ## Notes
+
+2026-07-15 - Need to follow up with Amazon team Friday.
 
 2026-07-06 - Call w/ LL re: parking in rear. Rear access is only for instances where accessible access is required by a user — primary outbound operations run through the existing front entrance.
 

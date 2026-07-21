@@ -20,7 +20,7 @@ next_due: 2026-07-10
 
 ## Tasks
 
-- [ ] Provide refreshed land survey — greater Pittsburgh, PA area 📅 2026-07-10
+- [x] Provide refreshed land survey — greater Pittsburgh, PA area 📅 2026-07-10 ✅ 2026-07-14
 
 ## Notes
 

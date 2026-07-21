@@ -9,9 +9,9 @@ launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-07-07
-last_note: Pencils down; shared site with Todd Jones for another business unit.
-next_due: 2026-05-16
+last_updated: 2026-07-14
+last_note: Presenting to GCF next Tuesday; ARS Gen 14 site plan requested from Clay Smith.
+next_due: 2026-07-16
 tags:
   - deal
   - amazon
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-07-13 - Presenting to GCF next Tuesday. Requested ARS Gen 14 site plan from Clay Smith; follow up on that Thursday.
 
 2026-07-07 - Pencils down. Shared site with Todd Jones to see if another business unit will take it.
 
