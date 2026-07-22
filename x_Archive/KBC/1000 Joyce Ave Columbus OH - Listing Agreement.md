@@ -1,19 +1,18 @@
 ---
 project: 1000 Joyce Ave Columbus OH - Listing Agreement
-status: Ongoing
+status: Closed
 area: KBC
 office: Columbus
 tags: [kbc]
-last_updated: 2026-07-11
-last_note: Listing agreement review done; follow up w/ Beau & Joe next week
+last_updated: 2026-07-20
+last_note: All good per email from Joe; closed and archived.
 ---
 
 ## Tasks
 
-- [x] Review Scannell's form Listing Agreement for 1000 Joyce Ave (Columbus, OH) and respond with questions/comments/redlines 📅 2026-07-08
-- [x] Follow up with Beau Taggart and Joe Kimener re: Joyce Ave listing agreement review 📅 2026-07-17 ✅ 2026-07-20
-
 ## Notes
+
+2026-07-20 - All good per email from Joe. Closed and archived.
 
 2026-07-11 - Listing agreement review completed. Follow up with Beau Taggart and Joe Kimener next week.
 

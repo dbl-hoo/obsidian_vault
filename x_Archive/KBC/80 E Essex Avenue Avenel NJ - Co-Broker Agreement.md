@@ -1,19 +1,18 @@
 ---
 project: Veho / Sagard co-broker agreement — 80 E Essex Avenue, Avenel NJ
-status: Ongoing
+status: Closed
 area: KBC
 office: New Jersey
 tags: [kbc]
-last_updated: 2026-07-11
-last_note: Co-broker agreement reviewed and sent to Andrew Siemsen; follow up Fri 7/17
+last_updated: 2026-07-20
+last_note: Closed and archived.
 ---
 
 ## Tasks
 
-- [x] Review JLL co-broker agreement against KBC agency agreement; advise Andrew Siemsen if ok to sign or what changes are needed 📅 2026-07-08
-- [x] Follow up with Andrew Siemsen re: co-broker agreement review 📅 2026-07-17 ✅ 2026-07-20
-
 ## Notes
+
+2026-07-20 - Closed and archived.
 
 2026-07-11 - Co-broker agreement review completed and sent to Andrew Siemsen. Follow up next Friday.
 

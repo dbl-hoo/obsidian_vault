@@ -43,7 +43,7 @@ tags:
 
 ## Tasks
 
-- [ ] Reach out to Kip Feldman (Letterkenny IDA) re: potential sites 📅 2026-07-22
+- [x] Reach out to Kip Feldman (Letterkenny IDA) re: potential sites 📅 2026-07-22 ✅ 2026-07-21
 
 ## Notes
 

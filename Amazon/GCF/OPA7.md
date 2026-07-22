@@ -12,8 +12,8 @@ start_date: 2025-12-17
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-07-16
-last_note: "Amazon's engineer (JSE) substantiated switchboard sizing (10,617A per NEC); recommends validating 12,000A w/ PPL — tension w/ 5.5MVA resolution."
+last_updated: 2026-07-20
+last_note: "Colton Anderson (JSE) clarified connected (17,187A) vs. diversified (12,000A) load; confirmed 12,000A is the correct ask for PPL. Call w/ PPL Tue."
 next_due:
 tags:
   - deal
@@ -23,6 +23,13 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-07-20 - [Source: email, "RE: [EXTERNAL] Amazon request to substantiate OPA7 power needs"] Thread among Rachel Elliott, Jameson Torraco (SM Design), Colton Anderson (JSE), Sean Mizokawa (Baker), and Amazon team re: which power figure belongs in the lease.
+- **7/17 (Jameson/JSE):** Connected load (no diversities applied) — MSA 5,466A / MSB 5,769A / MSC 5,972A = **17,187A total**. Said PPL should use this figure when applying their own diversity calcs.
+- **7/17 (Sean Mizokawa, Baker — lease drafting):** Flagged that the lease needs the correct unit/terminology and needs to confirm whether 10,000A and 12,000A represent diversified/demand load, connected load, or utility service capacity at the property line — and whether the lease needs to distinguish permanent vs. temporary power for satisfying those figures. Circulated draft "Permanent Power Shortfall/Temporary Power" clause: LL to deliver 10,000A (Required Electrical Capacity) by Anticipated Lease Commencement Date (3/31/27), as a condition to Substantial Completion; LL may bridge via temp power (reimbursed by Tenant as Opex at utility rate, LL eats any excess); Tenant can request Additional Electrical Capacity of 2,000A (12,000A total) funded via TIA or 30-day invoice if TIA exhausted.
+- **7/20 (Rachel Elliott):** Flagged confusion — Jameson said 17k amps, Colton said 12k amps — asked engineering to speak with one voice; call with PPL set for Tuesday 1pm EST.
+- **7/20 (Colton Anderson, JSE):** Clarified the discrepancy — 17,187A is the *connected* load (max if every device/fixture is on simultaneously, no diversity). NEC allows diversifying that down; **12,000A is the diversified value JSE actually uses to size equipment, conductors, and overcurrent protection** for the site. For conversations with PPL, **Amazon's request should be 12,000A** — not the 17,187A connected-load figure, and not the earlier 10,617A CD-panel-schedule figure.
+- Net: three power figures have now surfaced (10,617A CD panel schedules, 12,000A diversified/JSE design figure, 17,187A connected load) — 12,000A confirmed as the number to carry into the PPL conversation and, per Sean's open question, still needs to be nailed down as the defined term in the lease's power delivery clause.
 
 2026-07-16 - Email fwd from Jameson Torraco (SM Design, Amazon's architect/consultant) — Jordan & Skala substantiation of switchboard sizing, w/ E-600 electrical panel schedules attached (100% CD set).
 - Colton Anderson (JSE electrical designer): the three switchboards per the CDs total **10,617A** (MSA 3,223A / MSB 3,763A / MSC 3,631A).

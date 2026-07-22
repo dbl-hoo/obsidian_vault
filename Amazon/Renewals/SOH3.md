@@ -10,9 +10,9 @@ start_date: 2025-07-09
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-28
-last_note: Renewal deadline extended to 8/4/26.
-next_due:
+last_updated: 2026-07-20
+last_note: Followed up with Max; follow up in 2 weeks.
+next_due: 2026-08-03
 tags:
   - deal
   - amazon
@@ -20,9 +20,9 @@ tags:
 
 ## Tasks
 
-- [x] SOH3 renewal check-in 📅 2026-07-15 ✅ 2026-07-20
-
 ## Notes
+
+2026-07-20 - Followed up with Max. Follow up in 2 weeks.
 
 2026-05-22 - Renewal deadline extended to 8/4/26.
 

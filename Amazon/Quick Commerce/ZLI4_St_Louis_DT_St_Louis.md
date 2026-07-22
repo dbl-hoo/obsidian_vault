@@ -19,19 +19,16 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-07-15
-last_note: Followed up with LL on lease; re-check Friday.
-next_due: 2026-07-17
+last_updated: 2026-07-20
+last_note: Followed up with LL and Amazon team on lease; follow up EOW.
+next_due: 2026-07-24
 ---
 
 ## Tasks
 
-- [x] Follow up — Jami Stevenson / LL permit termination right 📅 2026-06-30 ✅ 2026-06-29
-- [x] Draft and send lease to LL 📅 2026-07-08 ✅ 2026-07-08
-- [x] Follow up w/ LL on lease draft 📅 2026-07-15 ✅ 2026-07-15
-- [x] Re-check w/ LL on lease draft 📅 2026-07-17 ✅ 2026-07-20
-
 ## Notes
+
+2026-07-20 - Followed up with LL and Amazon team on lease. Follow up EOW.
 
 2026-07-15 - Followed up with LL on the lease draft. Re-check Friday.
 

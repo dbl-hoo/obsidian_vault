@@ -4,11 +4,13 @@ status: Ongoing
 area: KBC
 office: New York
 tags: [kbc]
-last_updated: 2026-07-11
-last_note: "Co-broke agreement reviewed and sent back to Gabe; follow up 7/18"
+last_updated: 2026-07-20
+last_note: "Followed up; follow up again in 1 week."
 ---
 
 ## Notes
+
+2026-07-20 - Followed up. Follow up again in 1 week.
 
 2026-07-11 - Co-broker agreement review completed and sent back to Gabe Temkin. Follow up in 1 week.
 
@@ -27,6 +29,3 @@ Attachments saved to docs folder:
 - The Parking Point LLC — tenant
 
 ## Tasks
-
-- [x] Review co-broker agreement (payment terms) and advise Gabe Temkin how to proceed 📅 2026-07-18
-- [x] Follow up with Gabe Temkin re: co-broker agreement 📅 2026-07-18 ✅ 2026-07-20

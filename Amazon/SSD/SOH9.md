@@ -10,18 +10,16 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-07-10
-last_note: "Stonemont turn-key parking proposal received ~$1.3MM incl. GCs/allowances; 2' enviro cap issue; Knoll reviewing."
-next_due: 2026-07-17
+last_updated: 2026-07-20
+last_note: Checked in with Adam/Caleb re: parking; follow up 1 week.
+next_due: 2026-07-27
 tags: [deal, amazon]
 ---
 ## Tasks
 
-- [x] Follow up with Adam Knoll on parking expansion proposal decision 📅 2026-07-17 ✅ 2026-07-20
-- [x] Follow up with Caleb on additional parking proposal 📅 2026-07-06 ✅ 2026-07-01
-- [x] Follow up with Adam Knoll on additional parking entitlements 📅 2026-06-29 ✅ 2026-06-30
-
 ## Notes
+
+2026-07-20 - Checked in with Adam Knoll/Caleb re: parking. Follow up 1 week.
 
 2026-07-10 - [Source: email] Caleb Jones (Stonemont) sent turn-key proposal for the additional parking area 7/9 ("Castings Commerce Building 1 Parking Expansion," dated 7/7/26). Adam Knoll acknowledged 7/10 — reviewing, will get back.
 - Cost still ~**$1.3MM**, but now includes general conditions and allowances that were excluded from the earlier verbal ROM.
