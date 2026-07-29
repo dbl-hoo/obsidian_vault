@@ -16,9 +16,9 @@ loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-07-15
-last_note: Follow up with Amazon team Friday.
-next_due: 2026-07-17
+last_updated: 2026-07-27
+last_note: CAR ETA 8/10.
+next_due: 2026-08-10
 tags:
   - deal
   - amazon
@@ -29,6 +29,7 @@ tags:
 
 ## Tasks
 
+- [ ] CAR expected 📅 2026-08-10
 - [x] Follow up w/ Amazon team on ZMP1 📅 2026-07-17 ✅ 2026-07-16
 - [x] Confirm actual address with LL 📅 2026-07-06 ✅ 2026-07-06
 - [x] Follow up with LL on NNN costs, lease comments, and updated site plan 📅 2026-07-06 ✅ 2026-07-06
@@ -37,6 +38,8 @@ tags:
 - [x] Follow up with LL on lease 📅 2026-06-30 ✅ 2026-06-30
 
 ## Notes
+
+2026-07-27 - CAR ETA 8/10.
 
 2026-07-15 - Need to follow up with Amazon team Friday.
 

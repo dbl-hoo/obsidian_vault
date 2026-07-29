@@ -10,7 +10,7 @@ last_updated: 2026-07-14
 ## Tasks
 
 - [x] Draft lease assignment (and LL consent) — Midland office lease to Perry 📅 2026-07-21 ✅ 2026-07-14
-- [ ] Follow up w/ Rose on Midland assignment draft 📅 2026-07-21
+- [x] Follow up w/ Rose on Midland assignment draft 📅 2026-07-21 ✅ 2026-07-22
 
 ## Notes
 

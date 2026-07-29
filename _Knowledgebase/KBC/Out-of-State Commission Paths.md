@@ -1,13 +1,13 @@
 ---
-title: Out-of-State Commission Paths (28 Non-Licensed States)
+title: Out-of-State Commission Paths (27 Non-Licensed States)
 area: KBC
 tags: [kbc, reference, licensing, commissions]
-last_updated: 2026-06-30
+last_updated: 2026-07-23
 ---
 
 # Out-of-State Commission Paths — States Where KBC Is Not Licensed
 
-How KBC can legally collect a commission or referral fee in the 28 states where it does **not** hold a license. KBC is licensed in: AL, AZ, CA, CO, CT, DE, FL, GA, IL, MD, MA, NV, NJ, NY, OH, OR, PA, SC, TN, TX, VA, WA.
+How KBC can legally collect a commission or referral fee in the 27 states where it does **not** hold a license. KBC is licensed in: AL, AZ, CA, CO, CT, DE, FL, GA, IL, MD, MA, NC, NV, NJ, NY, OH, OR, PA, SC, TN, TX, VA, WA.
 
 > **This is research to scope the paths — not a formal legal opinion.** Statute numbers, reciprocity lists, and commission rules change. Confirm current text and the relevant commission's cooperation-agreement form before structuring any single deal.
 
@@ -41,7 +41,6 @@ How KBC can legally collect a commission or referral fee in the 28 states where 
 | **Nebraska** | Nonresident license is easy and clean (lets KBC work); or referral through NE broker. | Neb. Rev. Stat. § 81-885.17 | Nonresident license needs cert. license copy, 3-hr NE-law class, FBI fingerprint. Obtaining it = consent to personal jurisdiction. |
 | **New Hampshire** | **Written cooperative brokerage agreement** w/ an NH broker — covers co-brokerage, referral, or other cooperation on a commercial deal. | RSA § 331-A:22-a | Commercial only. Agreement must state compliance + compensation terms; commission rules govern form/duration. Strong fit. |
 | **New Mexico** | Transaction-specific **written referral/co-brokerage agreement** w/ an NM qualifying broker; or nonresident license (reciprocity-friendly). | NMSA 1978 § 61-29-16.1 | "Foreign broker" must consent to service. Agreement must be transaction-specific (or a general network/referral contract). |
-| **North Carolina** | **Two paths:** (1) **Referral only** — if KBC stays physically out of NC (no showings, no negotiations, no in-state presence), a referral fee from the NC broker is lawful under NC GS §93A-1. Put it in writing. (2) **Active deal work** — obtain the **Limited Nonresident Commercial License (LNRCL)** and affiliate w/ a supervising NC broker per N.C.G.S. § 93A-9(b). | N.C.G.S. §§ 93A-1, 93A-9(b); NCREC rules | LNRCL: ≤$300 fee, annual (expires 6/30), NC broker must actively supervise. Referral: any in-state activity (showings, negotiations, physical presence) kills the referral-only exemption — at that point KBC needs the LNRCL. Strong fit either path. |
 | **North Dakota** | 🚩 Nonresident license **by reciprocity via GA** (ND reciprocal only w/ MN, IA, GA); else nonresident license w/ ND state-exam portion. | N.D.C.C. ch. 43-23; N.D.A.C. 70-02-01-06 | **Flag** — narrow reciprocity. Confirm the GA–ND reciprocal agreement is current before relying on it. |
 | **Oklahoma** | **Cooperative brokerage agreement** w/ an OK broker (no licensed activity in OK by KBC); or nonresident license to do the work. | Okla. Stat. tit. 59 § 858-306 | If KBC performs licensed acts in OK, the cooperative agreement is **not** enough — it must get the nonresident license. |
 | **Rhode Island** | Referral fee from an RI broker; or nonresident license. | R.I. Gen. Laws § 5-20.5-10 | No in-state showings/inspections/negotiations; KBC's name off the P&S. Exam-waiver reciprocity if KBC ever licenses. |
@@ -54,6 +53,7 @@ How KBC can legally collect a commission or referral fee in the 28 states where 
 
 ## Bottom Line for KBC
 
-- **Default everywhere:** route the fee as a referral/co-broke split through a locally licensed broker who does the in-state work and pays KBC. KBC's existing home-state licenses are what make this lawful in essentially all 28.
-- **When KBC needs to actively work the deal:** cleanest commercial carve-outs are **KS, KY, NC, NH, WI, ID, MS, MO, NM, OK** — just need a cooperation agreement (+ filing) with a resident broker.
+- **Default everywhere:** route the fee as a referral/co-broke split through a locally licensed broker who does the in-state work and pays KBC. KBC's existing home-state licenses are what make this lawful in essentially all 27.
+- **When KBC needs to actively work the deal:** cleanest commercial carve-outs are **KS, KY, NH, WI, ID, MS, MO, NM, OK** — just need a cooperation agreement (+ filing) with a resident broker.
+- **North Carolina** — KBC is now directly licensed (2026-07-23); it's no longer in the non-licensed workaround list above. Direct licensed activity + direct invoicing available like any home-state jurisdiction.
 - **Get local counsel before proceeding** in the flagged states: **Indiana, Louisiana, Maine, North Dakota, Utah, Vermont** — either the out-of-state-compensation rule is unsettled (IN, UT, VT), reciprocity is narrow (ND), or there's no clean commercial co-op path and licensure/affiliation is effectively required (ME, LA).

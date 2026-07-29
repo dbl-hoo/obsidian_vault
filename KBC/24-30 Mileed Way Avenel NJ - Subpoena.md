@@ -9,7 +9,7 @@ last_updated: 2026-07-16
 
 ## Tasks
 
-- [ ] Respond to Kontely re: subpoena / additional information request (Parts Authority v. Mileed) 📅 2026-07-23
+- [x] Respond to Kontely re: subpoena / additional information request (Parts Authority v. Mileed) 📅 2026-07-23 ✅ 2026-07-27
 
 ## Notes
 

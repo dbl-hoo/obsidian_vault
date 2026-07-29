@@ -1,16 +1,18 @@
 ---
 project: Subpoena - V. Lynn Hodges v. OC Media
-status: On Hold
+status: Closed
 area: KBC
-last_updated: 2026-05-03
+last_updated: 2026-07-22
 tags: [kbc]
 ---
 
 ## Tasks
 
-- [ ] Monitor trial — new date September 8, 2026 📅 2026-08-03
+- [x] Monitor trial — new date September 8, 2026 📅 2026-08-03 ✅ 2026-07-22
 
 ## Notes
+
+2026-07-22 - Case settled. Matter closed and archived.
 
 2026-05-03 - Set to On Hold. Do not surface in weekly review until 2026-08-15.
 

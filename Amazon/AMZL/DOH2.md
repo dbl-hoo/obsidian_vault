@@ -20,7 +20,7 @@ tags:
 
 ## Tasks
 
-- [ ] Ping Amazon legal on updated DOH2 PSA 📅 2026-07-24
+- [x] Ping Amazon legal on updated DOH2 PSA 📅 2026-07-24 ✅ 2026-07-27
 - [x] Call Bryan Blade (Anchor Properties GC) 📅 2026-07-06 ✅ 2026-07-06
 
 ## Notes

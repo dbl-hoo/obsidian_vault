@@ -19,14 +19,16 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-07-20
-last_note: Followed up with LL and Amazon team on lease; follow up EOW.
+last_updated: 2026-07-27
+last_note: "LL anticipates 6 weeks to upgrade power from lease signature."
 next_due: 2026-07-24
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-07-27 - LL anticipates 6 weeks to upgrade power from lease signature.
 
 2026-07-20 - Followed up with LL and Amazon team on lease. Follow up EOW.
 

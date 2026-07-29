@@ -1,5 +1,7 @@
 ---
-site_code: SOHC
+site_code: SCD1
+aliases:
+  - SOHC
 deal_type: Purchase
 business_unit: SDD
 status: Selected
@@ -10,8 +12,8 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-07-14
-last_note: Updated LOI sent to LL; follow up Wednesday.
+last_updated: 2026-07-23
+last_note: Site code assigned — SCD1 (formerly SOHC).
 next_due: 2026-07-15
 tags:
   - deal
@@ -19,9 +21,11 @@ tags:
 ---
 ## Tasks
 
-- [ ] Follow up — site selection status 📅 2026-07-20
+- [x] Follow up — site selection status 📅 2026-07-20 ✅ 2026-07-22
 
 ## Notes
+
+2026-07-23 - Site code assigned: SCD1 (formerly SOHC).
 
 2026-07-13 - Updated LOI sent to LL; follow up Wednesday.
 

@@ -11,7 +11,7 @@ last_note: "Interchange counsel-reviewed draft returned; Matt asking Jason for e
 
 ## Tasks
 
-- [ ] Review Interchange's counsel-edited agreement and confirm edits or OK to sign 📅 2026-07-27
+- [x] Review Interchange's counsel-edited agreement and confirm edits or OK to sign 📅 2026-07-27 ✅ 2026-07-27
 - [x] Revise and send updated agreement 📅 2026-07-05 ✅ 2026-06-30
 
 ## Notes
