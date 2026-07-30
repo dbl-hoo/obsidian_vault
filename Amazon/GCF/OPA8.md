@@ -18,10 +18,7 @@ tags:
   - deal
   - amazon
 ---
-
 ## Tasks
-
-- [x] Call Kirk about OPA8 📅 2026-07-14 ✅ 2026-07-14
 
 ## Notes
 

@@ -17,4 +17,4 @@ Attachments saved: Commission Agreement - 13825 West Business Center Drive Green
 
 ## Tasks
 
-- [ ] Review Commission Agreement (13825 West Business Center Drive) and flag revisions 📅 2026-07-30
+- [x] Review Commission Agreement (13825 West Business Center Drive) and flag revisions 📅 2026-07-30 ✅ 2026-07-30

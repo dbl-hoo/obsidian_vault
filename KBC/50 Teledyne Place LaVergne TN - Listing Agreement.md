@@ -34,5 +34,4 @@ Attachments saved to docs folder:
 
 ## Tasks
 
-- [x] Review Exeter listing agreement draft w/ Chad Tuck's comments (50 Teledyne Place) 📅 2026-07-09 ✅ 2026-07-13
-- [ ] Review latest Exeter redline / clean listing agreement (50 Teledyne Place) 📅 2026-08-03
+- [x] Review latest Exeter redline / clean listing agreement (50 Teledyne Place) 📅 2026-08-03 ✅ 2026-07-30

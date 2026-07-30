@@ -21,8 +21,6 @@ last_note: "LOI back to seller: $200/SF ($216,061,200); Rachel says $205 PSF is 
 
 ## Tasks
 
-- [x] Draft LOI for purchase 📅 2026-06-29 ✅ 2026-06-30
-
 ## Notes
 
 2026-07-29 - LOI back to seller: $216,061,200 or $200.00 per square foot. Rachel says that $205 PSF is Amazon upper limit.

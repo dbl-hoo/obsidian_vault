@@ -9,9 +9,6 @@ last_updated: 2026-07-14
 
 ## Tasks
 
-- [x] Draft lease assignment (and LL consent) — Midland office lease to Perry 📅 2026-07-21 ✅ 2026-07-14
-- [x] Follow up w/ Rose on Midland assignment draft 📅 2026-07-21 ✅ 2026-07-22
-
 ## Notes
 
 2026-07-14 - Draft assignment (incl. LL consent) emailed to Rose. Key points raised: need to know if Perry assumes personally or via new entity; no security deposit or guaranty in the lease; draft includes complete release of KBC Midland but LL unlikely to agree to release or liability cap; only KBC Advisors – Midland, LLC has exposure, so blast radius small without a release; indemnity value limited if Perry forms an LLC — personal guarantee an option; offset right per the 3508 Agreement (Perry's Independent Contractor Agreement w/ KBC — allows KBC to offset amounts Perry owes against his commission splits); overall risk low (~$30K remaining base rent, unsecured).

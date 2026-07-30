@@ -29,9 +29,6 @@ tags:
 
 ## Tasks
 
-- [x] Follow up with legal and business team on updated ZDT6 lease (execution version) 📅 2026-07-14 ✅ 2026-07-15
-- [x] Follow up w/ Amazon team on ZDT6 lease + CAR approval status 📅 2026-07-20 ✅ 2026-07-20
-
 ## Notes
 
 2026-07-15 - Forwarded updated lease draft to Amazon team; asked for update on CAR approval. Follow up Monday.

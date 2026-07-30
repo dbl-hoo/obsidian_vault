@@ -26,10 +26,6 @@ next_due: 2026-07-27
 
 ## Tasks
 
-- [x] 🔺 Updated and finalize LOI 📅 2026-06-29 ✅ 2026-06-29
-- [x] Follow up — VI Sampling status 📅 2026-07-06 ✅ 2026-07-01
-- [x] 🔺 Follow up w/ Amazon on power spec (400A/208V via transformer vs. 400A/480V new panel, 3-4 wks/~$30K) 📅 2026-07-27 ✅ 2026-07-22
-
 ## Notes
 
 2026-07-29 - LOI final; sent to LL for execution.

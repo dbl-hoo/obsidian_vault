@@ -30,12 +30,6 @@ tags:
 ## Tasks
 
 - [ ] CAR expected 📅 2026-08-10
-- [x] Follow up w/ Amazon team on ZMP1 📅 2026-07-17 ✅ 2026-07-16
-- [x] Confirm actual address with LL 📅 2026-07-06 ✅ 2026-07-06
-- [x] Follow up with LL on NNN costs, lease comments, and updated site plan 📅 2026-07-06 ✅ 2026-07-06
-- [x] CAR inputs 📅 2026-06-26 ✅ 2026-06-30
-- [x] Follow up with LL on updated site plan 📅 2026-06-30 ✅ 2026-06-30
-- [x] Follow up with LL on lease 📅 2026-06-30 ✅ 2026-06-30
 
 ## Notes
 

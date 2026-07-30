@@ -11,9 +11,6 @@ last_note: "Interchange counsel-reviewed draft returned; Matt asking Jason for e
 
 ## Tasks
 
-- [x] Review Interchange's counsel-edited agreement and confirm edits or OK to sign 📅 2026-07-27 ✅ 2026-07-27
-- [x] Revise and send updated agreement 📅 2026-07-05 ✅ 2026-06-30
-
 ## Notes
 
 2026-07-20 - [Source: email] Matt LeFevere forwarded the underlying thread to Jason (cc Todd Steffen, Sam Ridenour), asking him to review the attached and confirm edits or that KBC is ready to sign. Thread recap: Devon Anders (Interchange) proposed adding a protected area within 25 miles of Interchange's Front Royal and Portsmouth VA facilities, to avoid conflicts with existing landlord leasing activity there; Todd agreed on 7/9. Devon said his attorney would also review. On 7/15, Devon returned the attorney-reviewed updated document. No legal work done — logged only.

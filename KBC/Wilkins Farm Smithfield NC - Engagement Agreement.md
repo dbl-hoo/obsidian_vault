@@ -29,5 +29,3 @@ PSA also attached but NOT part of Jason's scope.
 - Eastern Commercial Corporation LLC — local NC broker ("Charlie")
 
 ## Tasks
-
-- [x] Review Buyer Broker Agreement and ECC Representation Agreement for NC law compliance and confirm 2/2 fee split structure 📅 2026-07-07 ✅ 2026-07-01

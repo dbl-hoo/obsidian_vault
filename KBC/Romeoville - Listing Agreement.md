@@ -7,14 +7,6 @@ tags: [kbc]
 last_updated: 2026-04-27
 ---
 
-## Deal Sheet
-
-| Field | Value |
-|---|---|
-| Project | Listing Agreement — 1020 W. Airport Road, Romeoville, IL |
-| Counterparty | Lincoln Properties |
-| Office | Chicago |
-
 ## Tasks
 
 ## Notes

@@ -17,8 +17,6 @@ last_note: Tax abatement burns off in 2030 (10-year/75%).
 
 ## Tasks
 
-- [x] 🔺 Gather lease comps, flash market survey, and finish renewal one-pager for DCM6 📅 2026-07-16 ✅ 2026-07-27
-
 ## Notes
 
 2026-07-06 - Note: tax abatement burns off in 2030 — 10-year/75%.

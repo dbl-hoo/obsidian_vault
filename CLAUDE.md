@@ -47,6 +47,10 @@ Before writing any dated value — a Notes entry date, a `📅` task due date, o
 
 Always re-read a file immediately before writing to it. Never act on cached or stale content.
 
+### Tasks Are Never Inferred
+
+**Never add a task to `## Tasks` (or `_Open Tasks.md`) unless Jason explicitly states it as a task or action item.** Call notes, emails, and other source material can *mention* follow-ups without Jason wanting them tracked — don't infer a task from context, deadline language, or what "seems obviously actionable." If it's ambiguous whether something should be a task, log the Notes entry and ask, don't create the task speculatively.
+
 ## Machines & Sync
 
 The vault syncs across machines via **Obsidian Sync**. Machine roles:
@@ -260,7 +264,7 @@ When Jason dumps call notes: 0. **Re-read the deal file immediately before writi
 
 1. Identify the correct deal file(s)
 2. Prepend a dated entry to the top of `## Notes`
-3. Extract action items as `- [ ]` tasks into `## Tasks`
+3. Add `- [ ]` tasks into `## Tasks` **only for items Jason explicitly stated as a task/action item** — see [Tasks Are Never Inferred](#tasks-are-never-inferred). Don't infer tasks from context.
 4. Update `last_updated:` in YAML to today's date (pull from the system)
 5. Update `status:` if it changed; update other YAML fields if clearly warranted
 6. Update `last_note:` to a one-line summary of the new Notes entry

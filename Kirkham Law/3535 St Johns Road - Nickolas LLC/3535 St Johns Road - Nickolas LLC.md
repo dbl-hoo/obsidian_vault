@@ -9,13 +9,10 @@ last_note: "PSA fully executed 7/27-7/28/26; critical dates calendared through C
 
 ## Tasks
 
-- [ ] 🔺 Order Title Commitment (Escrow Agent: Old Republic / David Lawrence) 📅 2026-08-03
 - [ ] Confirm Seller delivered Due Diligence Materials 📅 2026-08-03
 - [ ] Confirm Earnest Money ($50,000) deposited with Escrow Agent 📅 2026-07-30
 - [ ] 🔺 Due Diligence Period expires (6:00pm EST) — Buyer termination right / extension decision deadline 📅 2026-09-25
 - [ ] Closing (est., 15 days after DD Period expiration if not extended) 📅 2026-10-12
-- [x] Send engagement letter to Heidelberg Distributing for signature 📅 2026-05-28 ✅ 2026-06-02
-- [x] Draft PSA for 3535 St Johns Road Lima OH sale to Nickolas LLC 📅 2026-06-03 ✅ 2026-06-02
 
 ## Notes
 

@@ -8,9 +8,9 @@ last_updated: 2026-07-23
 
 ## Tasks
 
-- [ ] Fill in notary county and date on Owner's Affidavit draft before signing 📅 2026-07-30
-- [ ] Fill in Formation Date, principal office, and statutory agent on L & D Commercial Properties LLC operating agreement draft 📅 2026-07-30
-- [ ] Fill in execution date, Grantor address, Grantee entity state of formation, and Grantee tax mailing address on deed draft before execution/recording 📅 2026-07-30
+- [x] Fill in notary county and date on Owner's Affidavit draft before signing 📅 2026-07-30 ✅ 2026-07-30
+- [x] Fill in Formation Date, principal office, and statutory agent on L & D Commercial Properties LLC operating agreement draft 📅 2026-07-30 ✅ 2026-07-30
+- [x] Fill in execution date, Grantor address, Grantee entity state of formation, and Grantee tax mailing address on deed draft before execution/recording 📅 2026-07-30 ✅ 2026-07-30
 
 ## Notes
 

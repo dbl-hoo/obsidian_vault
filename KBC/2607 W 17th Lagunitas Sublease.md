@@ -11,8 +11,6 @@ last_note: Reviewed Lagunitas revisions; drafted commission agreement for direct
 
 ## Tasks
 
-- [x] Follow up with Michael Conway on commission agreement 📅 2026-07-07 ✅ 2026-07-07
-
 ## Notes
 
 2026-06-30 - Reviewed revisions from Lagunitas. Drafted commission agreement covering direct deal scenario (if owner goes direct instead of sublease). Sent to Michael Conway. Follow up in 1 week.

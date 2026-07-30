@@ -10,8 +10,6 @@ last_note: Markup completed and sent back to Barrett Stephan.
 
 ## Tasks
 
-- [x] Mark up Exeter commission agreement (3200 Skokie / Medline) for 100% payment at lease execution and respond to Barrett Stephan 📅 2026-07-28 ✅ 2026-07-21
-
 ## Notes
 
 2026-07-21 - Completed markup for 100% payment upfront at lease execution and sent back to Barrett Stephan.

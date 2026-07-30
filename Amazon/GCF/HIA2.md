@@ -18,12 +18,11 @@ tags:
   - deal
   - amazon
 ---
-2026.06.16
 ## Summary
 
 120-acre former Chambersburg Mall site in Chambersburg, PA. GCF acquisition at $18M ($150K/acre). Currently in 24-month PAP (through March 2028). PILOT incentive pursuit underway — timeline clocked to 9/1 launch, will pull left if PILOT approved and final. Land CAR required for 8th amendment extension deposit; CAR approval needed by 5/8/2026.
 
-## Critical Dates
+**Critical Dates**
 
 | Milestone | Date |
 |-----------|------|
@@ -42,8 +41,6 @@ tags:
 | Rep/Warranty claims deadline | 6 months post-Closing |
 
 ## Tasks
-
-- [x] Reach out to Kip Feldman (Letterkenny IDA) re: potential sites 📅 2026-07-22 ✅ 2026-07-21
 
 ## Notes
 

@@ -11,8 +11,6 @@ last_note: "LL redline received on Suite 1015 proposal; Rose flagged TI/delivery
 
 ## Tasks
 
-- [x] Review LL redline on Suite 1015 proposal and respond to Rose's TI/delivery/walk-away concerns 📅 2026-07-20 ✅ 2026-07-20
-
 ## Notes
 
 2026-07-20 - [Source: email] Matter opened. Rose Yost forwarded LL redline on the Suite 1015 proposal (381 Park Ave S) to Jason and Alex Kendrew, flagged as an early-morning fire drill — NY wants this turned asap. Asking Jason to review and address:

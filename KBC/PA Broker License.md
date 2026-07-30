@@ -8,10 +8,7 @@ last_updated: 2026-07-23
 ---
 ## Tasks
 
-- [x] Get fingerprinted for Ohio BCI check at 1st Choice Fingerprinting, 670 Meridian Way, Westerville OH 43082 — use reason code 109-578 (civilian/personal record request) 📅 2026-07-30 ✅ 2026-07-24
-- [x] Order Washington State Patrol criminal history records check (WATCH online, $11) 📅 2026-07-30 ✅ 2026-07-23
-- [x] Confirm PA Real Estate Commission requires fingerprint-based (not name-based) state check before relying on WATCH 📅 2026-07-30 ✅ 2026-07-23
-- [ ] Time CHRC requests so both are dated within 90 days of PA application submission 📅 2026-07-30
+- [x] Time CHRC requests so both are dated within 90 days of PA application submission 📅 2026-07-30 ✅ 2026-07-30
 
 ## Notes
 

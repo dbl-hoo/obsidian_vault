@@ -21,8 +21,6 @@ tags:
 ---
 ## Tasks
 
-- [x] Follow up — site selection status 📅 2026-07-20 ✅ 2026-07-22
-
 ## Notes
 
 2026-07-23 - Site code assigned: SCD1 (formerly SOHC).

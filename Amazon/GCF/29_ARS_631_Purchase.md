@@ -20,8 +20,6 @@ tags:
 
 ## Tasks
 
-- [x] Follow up with Kyle re: Edwardsville/TriStar EconDev 📅 2026-07-07 ✅ 2026-07-06
-
 ## Notes
 
 2026-06-28 - Positive movement from EconDev on Edwardsville site (TriStar). Following up with Kyle after the holiday.

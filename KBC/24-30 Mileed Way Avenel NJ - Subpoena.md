@@ -9,8 +9,6 @@ last_updated: 2026-07-16
 
 ## Tasks
 
-- [x] Respond to Kontely re: subpoena / additional information request (Parts Authority v. Mileed) 📅 2026-07-23 ✅ 2026-07-27
-
 ## Notes
 
 2026-07-16 - [Source: email] Matter opened. Frank J. Kontely (Schenck, Price, Smith & King — counsel assisting with the subpoena response) sent Jason and Rose Yost the pleadings in *Parts Authority, LLC v. 24-30 Mileed Way, LLC*, Superior Court of NJ, Law Division, Middlesex County, Docket No. MID-L-006086-21.

@@ -45,10 +45,10 @@ tags: [deal, amazon]
 
 2026-04-24 - CAR fully approved. ES about to be launched.
 
+2026-04-23 - SNDA sent to LL; follow up next week. Call w/ Manish, Patrick, Caleb, Adam (TM), and Allison. Allison: electrical engineer onboard, expecting load letter next week. Adam: wants to leave electrical out of the lease. GC selected — Manish to introduce. Curbs/access/fencing: attach approved tenant modifications; won't require AHJ or WPI approvals. Site plans expected EOD 4/24 — will show access and fencing.
+
 2026-04-21 - House panel is on Amazon side; 800A going to WPI; need to add 3200A panel on Amazon side. Need proposal from American Eagle for power upgrade — doing the work together would be more efficient; 3-month timeline. Need load sheet and ramp-up.
 LL Work SOW: (1) power upgrade; (2) southern curb cut; (3) truck access. Need bids and documented expenses; will need to revise the Work Letter. Per Tadeu Velloso, will need costs. Need to determine who is doing security fencing and get final site plan.
-
-2026-04-23 - SNDA sent to LL; follow up next week. Call w/ Manish, Patrick, Caleb, Adam (TM), and Allison. Allison: electrical engineer onboard, expecting load letter next week. Adam: wants to leave electrical out of the lease. GC selected — Manish to introduce. Curbs/access/fencing: attach approved tenant modifications; won't require AHJ or WPI approvals. Site plans expected EOD 4/24 — will show access and fencing.
 
 2026-04-17 - Emailed Stonemount re: electrical upgrade as part of LL's work.
 

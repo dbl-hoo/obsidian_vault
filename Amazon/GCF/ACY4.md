@@ -19,8 +19,6 @@ tags:
 
 ## Tasks
 
-- [x] Check in — ACY4 closing status 📅 2026-07-31 ✅ 2026-07-13
-
 ## Notes
 
 2026-06-29 - 9/15 target land closing.
