@@ -11,16 +11,16 @@ deal_type: New Lease
 business_unit: QC
 status: Selected
 local_broker: Shannon Strock Farrand (shannon@cegspaces.com)
-loi_final: No
-loi_prepared: No
+loi_final: Yes
+loi_prepared: Yes
 area: Amazon
 tm: TBD
 tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-07-20
-last_note: "Power questions sent to Amazon: 400A/208V via transformer vs. 400A/480V new panel."
+last_updated: 2026-07-29
+last_note: "LOI final; sent to LL for execution."
 next_due: 2026-07-27
 ---
 
@@ -31,6 +31,8 @@ next_due: 2026-07-27
 - [x] 🔺 Follow up w/ Amazon on power spec (400A/208V via transformer vs. 400A/480V new panel, 3-4 wks/~$30K) 📅 2026-07-27 ✅ 2026-07-22
 
 ## Notes
+
+2026-07-29 - LOI final; sent to LL for execution.
 
 2026-07-20 - Sent power questions to Amazon team. Existing 200A/480V service dedicated to Amazon's portion of the building. Electrician says a transformer could step that down to 400A/208V — asked Amazon if that's sufficient. If 400A/480V is required instead: building has 1,200A/480V total capacity: electrician would need to "pipe another panel," estimated 3-4 weeks and ~$30K (off-the-cuff quote). Awaiting Amazon's response on power spec.
 

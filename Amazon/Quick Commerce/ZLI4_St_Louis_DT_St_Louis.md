@@ -19,14 +19,16 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-07-27
-last_note: "LL anticipates 6 weeks to upgrade power from lease signature."
+last_updated: 2026-07-29
+last_note: "Lease back from LL; needs review."
 next_due: 2026-07-24
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-07-29 - Lease back from LL; needs review.
 
 2026-07-27 - LL anticipates 6 weeks to upgrade power from lease signature.
 

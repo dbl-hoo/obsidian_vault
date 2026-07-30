@@ -9,8 +9,8 @@ tm: Phil Ristevski
 pcm:
 launch_date: 2029-06-01
 end_date:
-last_updated: 2026-07-15
-last_note: "Reach out to Kip Feldman (Letterkenny IDA) re: potential sites."
+last_updated: 2026-07-29
+last_note: "Title objection letter sent."
 next_due: 2026-07-22
 local_broker:
 area: Amazon
@@ -46,6 +46,8 @@ tags:
 - [x] Reach out to Kip Feldman (Letterkenny IDA) re: potential sites 📅 2026-07-22 ✅ 2026-07-21
 
 ## Notes
+
+2026-07-29 - Title objection letter sent.
 
 2026-07-15 - Need to reach out re: potential sites:
 - Ralph "Kip" Feldman — Broker, Director of Real Estate, Letterkenny Industrial Development Authority — Chambersburg, PA 17201 — CCIM, CPM — P: (717) 400-7883

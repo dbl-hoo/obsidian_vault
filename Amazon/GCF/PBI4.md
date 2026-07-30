@@ -15,8 +15,8 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-07-09
-last_note: "Nuveen counter 7/8: $215/SF ($232.3M), EM $4.5M, 45-day contingency, KBC fee cut to 0.75%."
+last_updated: 2026-07-29
+last_note: "LOI back to seller: $200/SF ($216,061,200); Rachel says $205 PSF is Amazon's upper limit."
 ---
 
 ## Tasks
@@ -24,6 +24,8 @@ last_note: "Nuveen counter 7/8: $215/SF ($232.3M), EM $4.5M, 45-day contingency,
 - [x] Draft LOI for purchase 📅 2026-06-29 ✅ 2026-06-30
 
 ## Notes
+
+2026-07-29 - LOI back to seller: $216,061,200 or $200.00 per square foot. Rachel says that $205 PSF is Amazon upper limit.
 
 2026-07-09 - LOI sent 6/29; Nuveen countered 7/8 (redline in Purchase LOI folder). Changes vs. our offer:
 
