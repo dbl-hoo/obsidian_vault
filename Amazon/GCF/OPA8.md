@@ -11,8 +11,8 @@ launch_date: 2027-06-22
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-07-14
-last_note: "Project call: substation Q2 2027, PM assignment end of June, permits submitted, GC RFPs due 6/22, Exhibit K and WL schedule remain open."
+last_updated: 2026-07-30
+last_note: "Call w/ Northpoint: permanent power generation vs. substation floated; substation 100% committed, on track Q2 2027; MetEd 2-yr schedule to energize (Q2-Q3 2028); ~$9-10M committed substation cost."
 next_due:
 tags:
   - deal
@@ -21,6 +21,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-07-30 - Call with Northpoint; Phill broaches Amazon constructing permanent power generation vs. substation construction; Derek to think through changes; substation is 100% committed; up to 5 structures and construction for submission and to substantion; substation on track to be completed Q2 of 2027; then to be energized from secondary service to primary; will involve MetED pulling transformer and connecting switch gear; MetED committing to 2-year schedule - so Q2-Q3 2028; 2K KVA transformer on site already; 2400K of secondary service; medium voltage feed from substation to the building; shutdown issue - up to 36 hours, ideally on the weekend; needs to be approved by PMO and launch team. 12-16 months of temporary power. Per Chase - don't want to mess with the substation stuff. $9-10M cost in committed substation costs.
 
 2026-06-01 - Project call. Key updates:
 - Substation complete Q2 2027; NP constructing, MetEd providing transmission. PM to be assigned end of June; switchgear all ordered.

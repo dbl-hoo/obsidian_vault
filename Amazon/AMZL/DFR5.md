@@ -12,14 +12,18 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-07-17
-last_note: "Potential adverse possession easement; Samet contacting county; plat adjusted to dedicate access road to county."
-next_due:
+last_updated: 2026-07-30
+last_note: "Need to get comps."
+next_due: 2026-07-31
 ---
 
 ## Tasks
 
+- [ ] Get comps for DFR5 📅 2026-07-31
+
 ## Notes
+
+2026-07-30 - Need to get comps.
 
 2026-07-17 - Legal identified a potential easement by adverse possession across the land. Samet to reach out to county to see if they can get something from the neighboring land owner. Plat will be adjusted so the entire access road is dedicated to the county.
 

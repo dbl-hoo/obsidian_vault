@@ -6,14 +6,14 @@ area: KBC
 office: Columbus
 tags: [kbc]
 last_updated: 2026-07-30
-last_note: Matter opened; MDH's draft exclusive listing agreement for Green Pointe Landing received for Jason's review.
+last_note: "Comments sent to Beau; follow up one week."
 ---
 
 ## Tasks
 
-- [x] Review MDH's draft Exclusive Listing Agreement for 5740 Green Pointe Dr S, Groveport (Green Pointe Landing) and respond 📅 2026-07-28 ✅ 2026-07-30
-
 ## Notes
+
+2026-07-30 - Comments sent to Beau; follow up one week.
 
 2026-07-30 - Corrected property address per Jason: matter, folder, and file names updated from "1086 N 4th St Columbus OH" to "5740 Green Pointe Dr S, Groveport, OH 43195."
 

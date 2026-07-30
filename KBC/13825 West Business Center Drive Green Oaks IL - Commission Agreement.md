@@ -4,10 +4,13 @@ status: Ongoing
 area: KBC
 office: Chicago
 tags: [kbc]
-last_updated: 2026-07-23
+last_updated: 2026-07-30
+last_note: "Comments sent to Brandon; follow up one week."
 ---
 
 ## Notes
+
+2026-07-30 - Comments sent to Brandon; follow up one week.
 
 2026-07-23 - [Source: email] Matter opened. Brandon Waters (KBC) sent draft Commission Agreement between KBC Advisors - Illinois, LLC and Owner, covering Mail Everything, Inc's lease renewal at 13825 West Business Center Drive, Green Oaks IL 60045. Landlord agreed to 5% commission on renewal (Exhibit A: New Lease N/A, Renewal 5%, Expansion N/A). Brandon asking Jason to do a quick review and flag anything that needs revision. Copied to Michael Conway.
 
@@ -16,5 +19,3 @@ last_updated: 2026-07-23
 Attachments saved: Commission Agreement - 13825 West Business Center Drive Green Oaks IL - 2026.07.23.docx
 
 ## Tasks
-
-- [x] Review Commission Agreement (13825 West Business Center Drive) and flag revisions 📅 2026-07-30 ✅ 2026-07-30

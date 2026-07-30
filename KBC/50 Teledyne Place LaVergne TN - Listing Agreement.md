@@ -4,10 +4,13 @@ status: Ongoing
 area: KBC
 office: Nashville
 tags: [kbc]
-last_updated: 2026-07-27
+last_updated: 2026-07-30
+last_note: "Comments back to Chad; follow up one week."
 ---
 
 ## Notes
+
+2026-07-30 - Comments back to Chad; follow up one week.
 
 2026-07-27 - [Source: email] Chad Tuck forwarded the latest round on the Exeter listing agreement. Chain: Jason sent CR (critical redline) comments 7/24; Xavier Flores (EQT legal) had sent a clean + redlined version 7/22 reflecting his revisions for KBC. Chad is asking Jason to review the Exeter redline (Jason's CR comments doc is attached to this email, so this looks like a forward for Jason's own reference/follow-up rather than a new ask).
 
@@ -33,5 +36,3 @@ Attachments saved to docs folder:
 - Xavier Flores, EQT Real Estate — xavier.flores@eqtpartners.com
 
 ## Tasks
-
-- [x] Review latest Exeter redline / clean listing agreement (50 Teledyne Place) 📅 2026-08-03 ✅ 2026-07-30

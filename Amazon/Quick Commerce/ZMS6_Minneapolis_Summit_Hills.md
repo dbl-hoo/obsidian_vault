@@ -19,14 +19,16 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-07-29
-last_note: "LOI final; sent to LL for execution."
+last_updated: 2026-07-30
+last_note: "Open issue re: bathroom access and reconfiguration for ADA compliance."
 next_due: 2026-07-27
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-07-30 - Open issue re: bathroom access and reconfiguration for ADA compliance.
 
 2026-07-29 - LOI final; sent to LL for execution.
 
