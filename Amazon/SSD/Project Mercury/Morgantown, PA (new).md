@@ -6,18 +6,19 @@ area: Amazon
 status: Not Started
 pin_count: 1
 tags: [project-mercury, amazon]
-last_updated: 2026-06-23
-last_note: Pins loaded from Project Mercury kickoff (758 net new SSD pins, 2029-2031)
+last_updated: 2026-07-31
+last_note: "7.29 recut: 1 pins (0 new, 1 carried)"
 ---
 
 ## Pins
 
-| # | Working ID | City | County | State | Zip | Lat | Long | Launch Year | Tier | Status | Candidate Site |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 973 | Morgantown, PA (new)26501 | MORGANTOWN | MONONGALIA | WV | 26501 | 39.634638 | -80.07436 | 2031-09 | 4 | Not Started | |
+| # | Working ID | City | State | Zip | Lat | Long | Launch | Origin | Status | Candidate Site |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 791 | Morgantown, PA (new)26501 | Morgantown | WV | 26501 | 39.634638 | -80.074360 | 2031-01 | Carried | Not Started | |
 
 ## Tasks
 
 ## Notes
 
-2026-06-23 - Loaded 1 pin from Project Mercury kickoff. KBC debriefing all opportunities out of SST; TMs not yet assigned. Strategy: solve to 80% PDC at MSA level before engaging Topology on remainders.
+2026-07-31 - Rebuilt from Amazon 7.29 pin recut (Dominic Nicholas email 2026-07-30). 1 pins: 0 new, 1 carried over.
+Launch dates shifted on carried pins: Morgantown, PA (new)26501 2031-09→2031-01.

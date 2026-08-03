@@ -2,7 +2,7 @@
 site_code: TBD_Ashland
 deal_type: New Lease
 business_unit: AMZL
-status: On Hold
+status: Cancelled
 tm: Al Patel
 launch_date: 2028-01-01
 start_date:
@@ -12,14 +12,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-06-28
-last_note: Placed on hold.
+last_updated: 2026-08-03
+last_note: Archived - dropped due to low volume.
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-08-03 - Archived. Dropped due to low volume.
 
 2026-06-28 - Placed on hold.
 

@@ -19,7 +19,7 @@ next_due: 2026-07-31
 
 ## Tasks
 
-- [ ] Get comps for DFR5 📅 2026-07-31
+- [x] Get comps for DFR5 📅 2026-07-31 ✅ 2026-08-03
 
 ## Notes
 

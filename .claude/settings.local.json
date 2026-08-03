@@ -11,7 +11,10 @@
       "Bash(obsidian daily:read *)",
       "Bash(obsidian search *)",
       "Read(//c/Users/kirkham/.ssh/**)",
-      "Skill(update-config)"
+      "Skill(update-config)",
+      "Read(//c/Users/kirkham/.claude/**)",
+      "Read(//c/Users/kirkham/bin/**)",
+      "Read(//c/Users/kirkham/bin//**)"
     ]
   }
 }

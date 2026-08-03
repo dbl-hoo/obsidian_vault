@@ -20,7 +20,7 @@ tags:
 
 ## Tasks
 
-- [ ] Check in — Amazon legal engagement 📅 2026-07-31
+- [ ] Check in — Amazon legal engagement 📅 2026-08-14
 
 ## Notes
 

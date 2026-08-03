@@ -15,11 +15,13 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-06-30
+last_updated: 2026-08-03
 last_note: Followed up with LL on zoning letter and lease; follow up Monday 7/6.
 ---
 
 ## Tasks
+
+- [ ] Follow up with Alexandra Richards 📅 2026-08-04
 
 ## Notes
 
