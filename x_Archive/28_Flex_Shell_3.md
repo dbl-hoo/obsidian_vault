@@ -2,7 +2,7 @@
 site_code: 28_Flex_Shell_3
 deal_type:
 business_unit: GCF
-status: Surveying
+status: On Hold
 tm: Nicole Rasmussen
 pcm:
 launch_date: 2028-08-01
@@ -13,16 +13,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-07-30
-last_note: "Follow up with Kyle Friday on EconDev status."
-next_due: 2026-07-31
+last_updated: 2026-08-10
+last_note: "On hold."
+next_due:
 ---
 
 ## Tasks
 
 ## Notes
 
-2026-07-30 - Follow up with Kyle Friday on EconDev status.
+2026-08-10 - On hold.
 
 2026-07-06 - [Source: email] Matter opened. Nicole Rasmussen (TM) emailed Matt Clackson (CBRE) requesting a refreshed land survey for a new 2028 big box requirement in Western PA. Building attributes still being finalized, assumed similar to ARS GEN14. Looking for ~90+ acre land sites accommodating 1M–1.2M SF. Target launch 8/1/2028. Target zip is technically Altoona, PA (US-166) but open to anywhere within 150 miles — greater Pittsburgh, PA area. Survey requested back by Friday 7/10. Survey template attached (KBC Survey Template (Combined).xlsx).
 

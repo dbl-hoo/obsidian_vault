@@ -12,8 +12,8 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-07-23
-last_note: Site code assigned — SCD1 (formerly SOHC).
+last_updated: 2026-08-13
+last_note: Owner due diligence files received and filed (title, survey, CNS, traffic, zoning, planning app).
 next_due: 2026-07-15
 tags:
   - deal
@@ -22,6 +22,17 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-08-13 - Owner due diligence files received, filed to docs folder (`Due Diligence/`):
+- ALTA Survey w/ Topo
+- ALTA Title Commitment
+- Covenant Not to Sue (CNS)
+- CNS - Tax Memo
+- Planning Commission Application
+- Preliminary Traffic Study
+- Survey w/ Utility Inverts
+- Traffic Counts (Worden & Euclid)
+- Zoning Letter with Exhibits
 
 2026-07-23 - Site code assigned: SCD1 (formerly SOHC).
 

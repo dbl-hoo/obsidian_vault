@@ -6,11 +6,11 @@ deal_type: Purchase
 business_unit: GCF
 status: Selected
 tm: Phil Ristevski
-pcm:
+pcm: Stephen Rogers
 launch_date: 2029-06-01
 end_date:
-last_updated: 2026-07-29
-last_note: "Title objection letter sent."
+last_updated: 2026-08-07
+last_note: "Stephen Rogers assigned as PCM."
 next_due: 2026-07-22
 local_broker:
 area: Amazon
@@ -43,6 +43,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-08-07 - Stephen Rogers assigned as Pre-Construction Manager.
 
 2026-07-29 - Title objection letter sent.
 

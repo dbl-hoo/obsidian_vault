@@ -3,14 +3,14 @@ site_code: DDL7
 deal_type: Purchase
 business_unit: AMZL
 status: Selected
-tm: Al Patel
+tm: Manny Medina
 pcm: Ankit Mandawewala
 launch_date: 2028-08-01
 end_date:
 local_broker: Charles Rodriguez, R&R Commercial Realty
 area: Amazon
-last_updated: 2026-06-28
-last_note: "Phase I ESA reviewed — Fork Branch: CRECs only, COCRs issued, AULs recorded, vapor mitigation req'd in OU-2. New Phase I needed for Amazon diligence."
+last_updated: 2026-08-17
+last_note: TM reassigned from Al Patel to Manny Medina.
 next_due: 2026-05-04
 tags:
   - deal
@@ -19,8 +19,11 @@ tags:
 
 ## Tasks
 
+- [x] Check in with Charlie (Rodriguez, R&R Commercial) 📅 2026-08-10 ✅ 2026-08-10
 
 ## Notes
+
+2026-08-17 - TM reassigned from Al Patel to Manny Medina.
 
 2026-06-01 - Phase I ESA review — Fork Branch (144 Fork Branch Rd, Dover/Cheswold, DE).
 

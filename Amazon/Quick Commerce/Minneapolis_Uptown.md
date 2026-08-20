@@ -16,9 +16,9 @@ loi_prepared: "Yes"
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-08-03
-last_note: "LOI sent to local broker for review."
-next_due:
+last_updated: 2026-08-17
+last_note: "Chasing alt candidate sites (2118 4th Ave S, 4700-4850 Park Glen Rd) for zoning/alcohol read; alcohol entitlement question open w/ Nathan Eady."
+next_due: 2026-08-19
 tags:
   - deal
   - amazon
@@ -30,8 +30,15 @@ tags:
 ## Tasks
 
 - [x] Draft LOI 📅 2026-08-10
+- [ ] Follow up on alt-site zoning/alcohol read (Park Glen Rd + 4th Ave S) 📅 2026-08-19
 
 ## Notes
+
+2026-08-17 - [Source: email] Two alt candidate sites in play alongside the 2020 28th St E negotiation, both surfaced in the "Quick Commerce: Uptown Minneapolis" thread w/ Jason Vangalis, Nathan Eady, Stephanie Meier (Amazon Corp Counsel, Alcohol), cc Claire Weber, Alan Oketcho, Jacob Sleight, Kristy Cole:
+
+- **2118 4th Ave S, Minneapolis, MN 55404** — zoning RM3. General Retail Sales & Services and Grocery Store permitted up to 10k/20k SF respectively but MUST be in a mixed-use building; Package Delivery Service permitted up to 10k SF (same mixed-use condition); Liquor Store (off-sale) and Warehousing & Storage both **prohibited**. Nathan (Economic Development & Policy) also flagged three open policy questions to City of Minneapolis: (1) would a darkstore QC operation be classified as warehouse vs. "package delivery service, no on-site vehicle fleet"; (2) City's appetite for a customer lobby / retail commercial-zone use (Amazon designs support up to 51% customer shopping access); (3) whether alcohol (beer/wine) could run as an ancillary use to package delivery in zones where off-sale liquor store is itself prohibited.
+- **4700-4850 Park Glen Rd, St. Louis Park, MN** — Jason sent this as a new candidate 2026-08-17. Nathan replied same day: AHJ is City of St. Louis Park, zoning Business Park. Warehouse permitted up to 60% of total building SF; loading/unloading areas must be 100 ft+ from surrounding residential parcels. Base zoning "looks pretty good" per Nathan, assuming co-tenants cover the non-warehouse balance.
+- **Open:** Stephanie Meier asked Nathan whether the Park Glen Rd zoning allows alcohol sales specifically (Off-sale intoxicating liquor license). Reminder from Stephanie: MN requires a standalone liquor store with at least a vestibule open to the public for retail sales to sell alcohol — same constraint as the existing conference-room-as-vestibule approach discussed for the primary 2020 28th St E site.
 
 2026-08-03 - LOI sent to local broker for review.
 

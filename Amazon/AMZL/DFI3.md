@@ -15,14 +15,20 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-07-08
-last_note: "Site code DFI3 assigned."
-next_due:
+last_updated: 2026-08-12
+last_note: "Building type changed 2W2F (XS) to 2W4F; required land size now 31-46 usable acres."
+next_due: 2026-08-14
 ---
 
 ## Tasks
 
+- [x] Follow up with Beau/Joe on additional site options 📅 2026-08-14 ✅ 2026-08-18
+
 ## Notes
+
+2026-08-12 - Building type changed from 2W2F (XS) to 2W4F. Per KB (AMZL.md), 2W4F spans BTS_2W4F_SS (M, single-side loading, 31-38 usable acres) and BTS_2W4F_DS (L, dual-side loading, 39-46 usable acres) — combined required land size 31-46 usable acres. Previous 2W2F/XS spec was 19-25 acres.
+
+2026-08-10 - Emailed Beau and Joe requesting more site options. Also reconfirming BRS requirements with Kristen DeFamio (TM).
 
 2026-07-08 - Site code DFI3 assigned (formerly TBD_Findlay).
 

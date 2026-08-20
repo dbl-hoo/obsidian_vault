@@ -10,7 +10,7 @@ last_note: "Estoppel Certificate & SNDA received from property mgmt for review, 
 ---
 
 ## Tasks
-- [ ] Review Estoppel Certificate & SNDA and respond with any issues 📅 2026-08-06
+- [x] Review Estoppel Certificate & SNDA and respond with any issues 📅 2026-08-06 ✅ 2026-08-10
 
 ## Notes
 2026-07-30 - Source: email. Rose Yost (KBC) forwarded estoppel certificate and SNDA for the Houston office lease (KBC Advisors - Houston TX, LLC, tenant), sent by Leslie Steen (Regent PM) to Todd Meldahl. Property: Park Towers, 1233-1333 West Loop South, Houston, TX 77027. Lender is Morgan Stanley Bank, N.A. Landlord requests review/signature (with notary) and return by August 6; lease may allow a longer window. Rose asking Jason to review and flag any issues — not acting on the documents.

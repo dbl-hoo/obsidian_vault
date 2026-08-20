@@ -3,14 +3,14 @@ site_code: DOH2
 deal_type: Purchase
 business_unit: AMZL
 status: Selected
-tm: Al Patel
+tm: Manny Medina
 pcm: Albert Chon
 launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date:
 local_broker: KBC
-last_updated: 2026-07-15
-last_note: Updated PSA received; pending with Amazon legal; ping Friday.
+last_updated: 2026-08-17
+last_note: TM reassigned from Al Patel to Manny Medina.
 next_due: 2026-07-17
 area: Amazon
 tags:
@@ -20,7 +20,11 @@ tags:
 
 ## Tasks
 
+- [x] Call Anna Brown 📅 2026-08-10 ✅ 2026-08-10
+
 ## Notes
+
+2026-08-17 - TM reassigned from Al Patel to Manny Medina.
 
 2026-07-15 - Updated PSA received from seller; pending with Amazon legal. Ping legal Friday.
 

@@ -24,4 +24,4 @@ next_due: 2026-08-07
 
 ## Tasks
 
-- [ ] Review WKY3 renewal kick-off materials and respond 📅 2026-08-07
+- [x] Review WKY3 renewal kick-off materials and respond 📅 2026-08-07 ✅ 2026-08-19

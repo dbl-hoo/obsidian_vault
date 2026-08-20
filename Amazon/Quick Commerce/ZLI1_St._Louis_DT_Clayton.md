@@ -9,10 +9,10 @@ city: St. Louis
 state: MO
 deal_type: New Lease
 business_unit: QC
-status: Selected
+status: Completed
 local_broker: Meghan Donovan, NAI DESCO St. Louis
-last_updated: 2026-06-29
-last_note: "Waiting on Amazon confirmation re: submitting permits within 30 days of LOI submission."
+last_updated: 2026-08-10
+last_note: "Lease fully executed. Commission agreement drafted (Owner to pay KBC 3% of Aggregate Base Rent, 50% on execution / 50% on occupancy) — pending Jason's finalization."
 next_due:
 loi_final: No
 loi_prepared: Yes
@@ -29,6 +29,8 @@ tags:
 
 
 ## Notes
+
+2026-08-10 - Lease fully executed via DocuSign (all parties signed). Meghan Donovan (NAI DESCO) confirmed tenant broker fee: 3% of Aggregate Base Rent, 50% payable on lease execution, 50% on occupancy; NAI to invoice and handle payment on Owner's behalf. Drafted commission agreement (KBC Advisors, LLC / 2335-2337 South Hanley Road LLC) from KBC's standard template — saved to docs folder. Open items on the draft: Broker's notice address and Owner's mailing address (only have Keith Baizer's email) still need to be filled in before execution.
 
 2026-06-29 - Waiting on Amazon confirmation re: submitting permits within 30 days of LOI submission. Follow up after the 4th.
 

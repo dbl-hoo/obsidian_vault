@@ -6,8 +6,8 @@ area: Amazon
 status: Not Started
 pin_count: 9
 tags: [project-mercury, amazon]
-last_updated: 2026-07-31
-last_note: "7.29 recut: 9 pins (6 new, 3 carried) — priority MSA for debrief"
+last_updated: 2026-08-11
+last_note: "Survey workbook created from intern first pass — building coverage thin (4 pins empty), land decent; needs Jason's screen"
 ---
 
 > [!important] Priority MSA — contains 2028 requirements. Debriefs prioritized; review surveys and tell Dominic when ready to schedule.
@@ -29,6 +29,8 @@ last_note: "7.29 recut: 9 pins (6 new, 3 carried) — priority MSA for debrief"
 ## Tasks
 
 ## Notes
+
+2026-08-11 - Absorbed intern first pass into `Cincinnati - SSD Survey.xlsx` (Amazon format, per-pin groups, candidates distance-sorted and criteria-flagged). Coverage: 12 building / 64 land candidates. Building side is thin — 45002, 45011, 41059 have zero building candidates; 45174, 45430, 45371, 45506 have one each (45430's only entry is 1.13M SF — way over criteria). Land is the strength: 41018, 45011, 45371, 45449 have real depth. No retail-box candidates anywhere. Per [[_Survey Playbook]]: rebuild CoStar searches, run retail-box + planned-product passes on the three 2028 pins first.
 
 2026-07-31 - Rebuilt from Amazon 7.29 pin recut (Dominic Nicholas email 2026-07-30). 9 pins: 6 new, 3 carried over.
 3 pin(s) now carry a 2028 launch — earlier than any pin in the original dataset.

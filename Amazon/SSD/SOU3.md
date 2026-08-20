@@ -21,7 +21,7 @@ last_note: Followed up with LL on zoning letter and lease; follow up Monday 7/6.
 
 ## Tasks
 
-- [ ] Follow up with Alexandra Richards 📅 2026-08-04
+- [x] Follow up with Alexandra Richards 📅 2026-08-04 ✅ 2026-08-05
 
 ## Notes
 

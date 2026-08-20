@@ -4,8 +4,8 @@ business_unit: SSD
 area: Amazon
 total_pins_assigned: 35
 tags: [project-mercury, amazon]
-last_updated: 2026-07-31
-last_note: "7.29 recut — 41 pins down to 35 (18 new, 17 carried); 25 old centroids deleted; debriefs start week of 8/3 prioritizing 2028"
+last_updated: 2026-08-11
+last_note: "Survey infrastructure complete — 9 MSA workbooks, playbook, and /survey-intake skill built and tested"
 ---
 
 ## Background
@@ -121,6 +121,10 @@ One CoStar saved search per pin. For each pin:
 ## Tasks
 
 ## Notes
+
+2026-08-11 - Built /survey-intake skill: feed it a flyer PDF, broker .msg, CoStar export, image, or pasted listing + MSA → extracts fields, geocodes, assigns to nearest pin, screens criteria, inserts/updates the row in the MSA survey workbook. Tested end-to-end (insert, dedupe-update, placeholder replacement, criteria flags).
+
+2026-08-11 - Built survey infrastructure. Assessed intern first pass (Joe outsourced initial surveys): Cincinnati land coverage salvageable, building coverage thin (4 of 9 pins zero candidates), wrong format, no distances/economics/retail-box search. Created 9 per-MSA survey workbooks in Amazon's SSD Multi Pin format at `Documents\Amazon\Project Mercury\Surveys\`, seeded with the intern's usable candidates (auto-flagged for distance/size violations). Wrote [[_Survey Playbook]] — sourcing checklist, population workflow, priority order, proposed /survey-intake flyer skill.
 
 2026-07-31 - Processed Dominic Nicholas's 7.29 pin recut email (sent 2026-07-30). Jason drops from 41 pins to 35: 25 old centroids deleted outright, 19 added, 16 carried (all with shifted launch dates, coordinates unchanged). MSA count falls 16 → 9 as Amazon collapsed the CMSA labels and folded Dayton, Canton, Youngstown and Lima into their parent metros. Six pins now carry 2028 launches. Cincinnati, Cleveland, Columbus and Toledo are on Amazon's 58-MSA priority list; debriefs begin week of 8/3. Rebuilt all MSA files from the new dataset; archived the pre-recut files. Attachments saved to the Project Mercury docs folder.
 

@@ -2,7 +2,7 @@
 site_code: SOH3
 deal_type: Renewal
 business_unit: SSD
-status: Selected
+status: Completed
 tm: Max Madani
 pcm:
 launch_date:
@@ -10,9 +10,9 @@ start_date: 2025-07-09
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-07-20
-last_note: Followed up with Max; follow up in 2 weeks.
-next_due: 2026-08-03
+last_updated: 2026-08-13
+last_note: LL execution received. Closed and archived.
+next_due:
 tags:
   - deal
   - amazon
@@ -21,6 +21,10 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-08-13 - LL execution received. Deal closed and archived.
+
+2026-08-12 - Followed up with owner on executed documents. Follow up 1 week.
 
 2026-07-20 - Followed up with Max. Follow up in 2 weeks.
 

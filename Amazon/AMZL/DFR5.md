@@ -1,5 +1,6 @@
 ---
 site_code: DFR5
+aliases: [WKM2]
 deal_type: Purchase
 business_unit: AMZL
 status: Selected
@@ -12,16 +13,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-07-30
-last_note: "Need to get comps."
-next_due: 2026-07-31
+last_updated: 2026-08-03
+last_note: "Follow up with Matt Anderson next Monday on comps."
+next_due: 2026-08-10
 ---
 
 ## Tasks
 
-- [x] Get comps for DFR5 📅 2026-07-31 ✅ 2026-08-03
-
 ## Notes
+
+2026-08-03 - Follow up with Matt Anderson next Monday on comps.
 
 2026-07-30 - Need to get comps.
 

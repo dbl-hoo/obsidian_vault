@@ -9,14 +9,14 @@ city: Detroit
 state: MI
 deal_type: New Lease
 business_unit: QC
-status: Selected
+status: Completed
 local_broker: Tony Schmitt
 loi_final: Yes
 loi_prepared: Yes
 site_selection_date: ""
-last_updated: 2026-07-15
-last_note: Forwarded updated lease draft to Amazon team; asked for CAR approval update; follow up Monday.
-next_due: 2026-07-20
+last_updated: 2026-08-10
+last_note: "Lease signed and completed."
+next_due:
 area: Amazon
 tm: TBD
 tags:
@@ -30,6 +30,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-08-10 - Lease signed and completed.
 
 2026-07-15 - Forwarded updated lease draft to Amazon team; asked for update on CAR approval. Follow up Monday.
 

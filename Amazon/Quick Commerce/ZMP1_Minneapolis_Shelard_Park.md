@@ -29,7 +29,7 @@ tags:
 
 ## Tasks
 
-- [ ] CAR expected 📅 2026-08-10
+- [x] CAR expected 📅 2026-08-10 ✅ 2026-08-10
 
 ## Notes
 

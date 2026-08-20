@@ -9,7 +9,7 @@ city: St. Louis
 state: MO
 deal_type: New Lease
 business_unit: QC
-status: Selected
+status: Cancelled
 local_broker: Matt Eastin
 loi_final: Yes
 loi_prepared: Yes
@@ -19,14 +19,20 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-07-29
-last_note: "Lease back from LL; needs review."
-next_due: 2026-07-24
+last_updated: 2026-08-10
+last_note: "Officially cancelled."
+next_due:
 ---
 
 ## Tasks
 
+- [x] Follow up on ZLI4 status 📅 2026-08-06 ✅ 2026-08-10
+
 ## Notes
+
+2026-08-10 - Officially cancelled.
+
+2026-08-04 - ZLI4 may be dead. Follow up Thursday.
 
 2026-07-29 - Lease back from LL; needs review.
 

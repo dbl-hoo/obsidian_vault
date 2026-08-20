@@ -3,7 +3,7 @@ site_code: DOH3
 deal_type: Purchase
 business_unit: AMZL
 status: Selected
-tm: Al Patel
+tm: Manny Medina
 pcm: Albert Chon
 launch_date: 2028-08-01
 start_date: 2025-07-31
@@ -13,13 +13,37 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-07-14
-last_note: Kyle seeking jurisdiction meeting week of 7/27.
-next_due: 2026-07-15
+last_updated: 2026-08-17
+last_note: TM reassigned from Al Patel to Manny Medina.
+next_due:
 ---
 ## Tasks
 
 ## Notes
+
+2026-08-17 - TM reassigned from Al Patel to Manny Medina.
+
+2026-08-12 - Title co. (Ara George, Chicago Title) sent updated owner list for the 125.613 ac tract (SR73-86) encumbered by Exception 17 (Development Standards / CC&Rs), per Summit Law's request to pursue termination or amendment:
+
+| Parcel | Acres | Owner |
+|---|---|---|
+| 0420101012 | 22.5664 | Franklin Vista Farms, Inc. |
+| 0420101003 | 10 | NC Works, Inc. |
+| 0420101014 | 15.0801 | Tway Columbus LLC |
+| 0420101013 | 8 | BND Properties III, LLC |
+| 0420101008 | 4.9388 | Voelker Investment Company, LLC |
+| 0420101006 | 3.7314 | SCIP Partnership |
+| 0420102007 | 15.3048 | Faurecia Exhaust Systems, LLC |
+| 0420102006 | 6.6096 | Shaw-Casten Living Trust |
+| 0420101011 | 20.2885 | NM NVLX LP |
+| 0426200029 | 6.0744 | Bunnell Hill Development Co., Inc. (east portion only, per plat) |
+| 0426290004 | 4.519 | Commerce Center Drive LLC (east portion only) |
+| 0420102001 | 3.5246 | Beverly W. Parker, Trustee |
+| 0420102005 | 6.5909 | Faurecia Exhaust Systems, LLC |
+
+Two parcels (0421378003 – 20.759 ac; 0421379001 – 5.1754 ac, "Huhtamaki") platted in Franklin Commerce Center Sec. 3 but confirmed NOT part of the legal description tied to the development standards.
+
+Need Franklin Vista Farms, Inc. plus 2/3 of the remaining acreage to approve an amendment. Full email + attachments (plat, deed copies) in Inputs.
 
 2026-07-14 - Amazon will be late on the $100K EM due 7/15 (tracking). Per Jason, notifying seller side (Jeff Baumgardner) proactively — draft prepared.
 

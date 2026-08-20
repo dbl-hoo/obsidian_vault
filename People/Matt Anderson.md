@@ -5,12 +5,12 @@ organization:
 email:
 title:
 timezone:
-deals: [WKM2]
+deals: [DFR5]
 area: Amazon
 tags: [person]
-last_updated: 2026-04-27
+last_updated: 2026-08-05
 ---
 
 ## Notes
 
-Local broker on WKM2 .
+Local broker on DFR5.

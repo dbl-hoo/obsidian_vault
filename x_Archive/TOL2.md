@@ -2,16 +2,16 @@
 site_code: TOL2
 deal_type: Purchase
 business_unit: GCF
-status: On Hold
+status: Cancelled
 tm: Phillip Perri
 pcm: Stacey Pryor
 launch_date: 2029-03-01
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-07-29
-last_note: "Premier Farm selling 15 acres as part of NW Ohio land package; listing agreement needed."
-next_due: 2026-07-16
+last_updated: 2026-08-10
+last_note: "Cancelled."
+next_due:
 tags:
   - deal
   - amazon
@@ -19,9 +19,11 @@ tags:
 
 ## Tasks
 
-- [ ] Get listing agreement done — Premier Farm Properties 15-acre parcel (NW Ohio land package) 📅 2026-08-05
+- [x] Get listing agreement done — Premier Farm Properties 15-acre parcel (NW Ohio land package) 📅 2026-08-05 ✅ 2026-08-05
 
 ## Notes
+
+2026-08-10 - Cancelled.
 
 2026-07-29 - Premier Farm Properties is selling its 15 acres as part of a package deal of 5K acres of land in NW Ohio; sending email to Meldahl and Cam to let them know. Need to get listing agreement done.
 

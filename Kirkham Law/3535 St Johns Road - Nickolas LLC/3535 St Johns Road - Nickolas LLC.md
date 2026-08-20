@@ -9,7 +9,7 @@ last_note: "PSA fully executed 7/27-7/28/26; critical dates calendared through C
 
 ## Tasks
 
-- [ ] Confirm Seller delivered Due Diligence Materials 📅 2026-08-03
+- [x] Confirm Seller delivered Due Diligence Materials 📅 2026-08-03 ✅ 2026-08-05
 - [x] Confirm Earnest Money ($50,000) deposited with Escrow Agent 📅 2026-07-30 ✅ 2026-08-03
 - [ ] 🔺 Due Diligence Period expires (6:00pm EST) — Buyer termination right / extension decision deadline 📅 2026-09-25
 - [ ] Closing (est., 15 days after DD Period expiration if not extended) 📅 2026-10-12

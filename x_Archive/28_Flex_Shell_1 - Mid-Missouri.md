@@ -13,14 +13,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-07-14
-last_note: On hold.
-next_due: 2026-05-15
+last_updated: 2026-08-10
+last_note: "On hold; could come back as an ARS."
+next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-08-10 - On hold; could come back as an ARS.
 
 2026-07-13 - On hold.
 

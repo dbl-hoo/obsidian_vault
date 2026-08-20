@@ -6,8 +6,8 @@ area: Amazon
 status: Not Started
 pin_count: 9
 tags: [project-mercury, amazon]
-last_updated: 2026-07-31
-last_note: "7.29 recut: 9 pins (7 new, 2 carried) — priority MSA for debrief"
+last_updated: 2026-08-11
+last_note: "Survey workbook created — intern only touched 2 of 9 pins; 44022 candidates all outside 5-mi radius"
 ---
 
 > [!important] Priority MSA — contains 2028 requirements. Debriefs prioritized; review surveys and tell Dominic when ready to schedule.
@@ -29,6 +29,8 @@ last_note: "7.29 recut: 9 pins (7 new, 2 carried) — priority MSA for debrief"
 ## Tasks
 
 ## Notes
+
+2026-08-11 - Created `Cleveland - SSD Survey.xlsx` from intern first pass. Only 2 of 9 pins touched: 44215 (3 bldg / 2 land — one building 1.34M SF over criteria) and 44022 (5 bldg — 4 of 5 outside the 5-mi backup radius, two with no names). Other 7 pins including the 2028 pin's neighbors are untouched `None` rows. Effectively a from-scratch survey per [[_Survey Playbook]].
 
 2026-07-31 - Rebuilt from Amazon 7.29 pin recut (Dominic Nicholas email 2026-07-30). 9 pins: 7 new, 2 carried over.
 1 pin(s) now carry a 2028 launch — earlier than any pin in the original dataset.

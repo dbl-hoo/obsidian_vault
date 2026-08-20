@@ -10,8 +10,8 @@ start_date: 2026-03-31
 end_date:
 local_broker: Beau Taggart
 area: Amazon
-last_updated: 2026-06-28
-last_note: LL accepted 3-yr term w/o free rent at $7.00/SF + 2% bumps; Amazon aligned. No follow-up until Amazon legal engages in August.
+last_updated: 2026-08-12
+last_note: Amendment received from Max; sending to LL. Follow up 2 weeks.
 next_due:
 tags:
   - deal
@@ -20,9 +20,11 @@ tags:
 
 ## Tasks
 
-- [ ] Check in — Amazon legal engagement 📅 2026-08-14
+- [x] Check in — Amazon legal engagement 📅 2026-08-14 ✅ 2026-08-19
 
 ## Notes
+
+2026-08-12 - Amendment received from Max; sending to LL. Follow up 2 weeks.
 
 2026-06-10 - LL responded — they will do 3 years, but w/o free rent and at $7.00/SF with 2% bumps; Amazon is aligned with this. Note: Amazon legal won't engage until August. No follow up till then.
 
