@@ -10,8 +10,8 @@ start_date: 2026-03-31
 end_date:
 local_broker: Beau Taggart
 area: Amazon
-last_updated: 2026-08-12
-last_note: Amendment received from Max; sending to LL. Follow up 2 weeks.
+last_updated: 2026-08-19
+last_note: Followed up with LL; follow up in 1 week.
 next_due:
 tags:
   - deal
@@ -20,9 +20,9 @@ tags:
 
 ## Tasks
 
-- [x] Check in — Amazon legal engagement 📅 2026-08-14 ✅ 2026-08-19
-
 ## Notes
+
+2026-08-19 - Followed up with LL; follow up in 1 week.
 
 2026-08-12 - Amendment received from Max; sending to LL. Follow up 2 weeks.
 
