@@ -25,6 +25,7 @@ last_note: "Survey workbook created from intern first pass — building coverage
 | 621 | Cincinnati45371 | Tipp City    | OH    | 45371 | 39.939066 | -84.177188 | 2030-01 | Carried | Not Started |                |
 | 848 | Cincinnati45449 | Dayton       | OH    | 45449 | 39.663744 | -84.243437 | 2031-01 | New     | Not Started |                |
 | 849 | Cincinnati45506 | Springfield  | OH    | 45506 | 39.886916 | -83.832727 | 2031-01 | Carried | Not Started |                |
+|     |                 |              |       |       |           |            |         |         |             |                |
 
 ## Tasks
 

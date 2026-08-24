@@ -30,7 +30,7 @@ tags:
 ## Tasks
 
 - [x] Draft LOI 📅 2026-08-10
-- [ ] Follow up on alt-site zoning/alcohol read (Park Glen Rd + 4th Ave S) 📅 2026-08-19
+- [x] Follow up on alt-site zoning/alcohol read (Park Glen Rd + 4th Ave S) 📅 2026-08-19 ✅ 2026-08-22
 
 ## Notes
 

@@ -9,8 +9,8 @@ launch_date: 2028-05-09
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-28
-last_note: Rachel Elliott considering whether to pursue.
+last_updated: 2026-08-24
+last_note: "Revised land-flip underwriting to $250K/$300K per acre exits; sunk $3M DD/design costs excluded from decision analysis."
 next_due:
 tags:
   - deal
@@ -20,6 +20,24 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-08-24 - Hypothetical land-flip underwriting, revised to $250K/$300K per acre exits — if Amazon closes the Core5 purchase (127.9 ac, $27.125M / $212,079 ac) and later sells the land, assuming 6% broker commission + 1% closing costs on sale, and 8% carry over a 1-year hold on the purchase price:
+
+| | $250K/ac sale | $300K/ac sale |
+|---|---|---|
+| Sale proceeds | $31,975,000 | $38,370,000 |
+| Broker commission (6%) | $1,918,500 | $2,302,200 |
+| Closing costs (1%) | $319,750 | $383,700 |
+| Net sale proceeds | $29,736,750 | $35,684,100 |
+| Less purchase price | $27,125,000 | $27,125,000 |
+| Less carry (8% x 1 yr on purchase price) | $2,170,000 | $2,170,000 |
+| **Net profit** | **$441,750** | **$6,389,100** |
+| Profit per acre | $3,454 | $49,954 |
+| Return on cost (incl. carry) | 1.5% | 21.8% |
+
+Amazon has ~$3M sunk into diligence/design on this site. Excluded from the table above — sunk cost doesn't move with the sell/hold decision, so it shouldn't factor into whether $250K or $300K/ac is the right exit. For total-spend accounting only (not decision-relevant): net profit less the $3M sunk would be **-$2,558,250** at $250K/ac and **$3,389,100** at $300K/ac (return on $32.295M total spend: -7.9% / 10.5%).
+
+Excludes sound wall ($500K–$900K), Gateway Dr turn lane (~$200K), and well/recharge infrastructure spend if incurred before resale. Purchase price/acreage from the 5/15/25 site status snapshot — not reconfirmed since.
 
 2026-06-28 - Rachel Elliott considering whether to pursue.
 

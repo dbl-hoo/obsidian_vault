@@ -10,8 +10,8 @@ start_date: 2026-03-31
 end_date:
 local_broker: Beau Taggart
 area: Amazon
-last_updated: 2026-08-19
-last_note: Followed up with LL; follow up in 1 week.
+last_updated: 2026-08-20
+last_note: "LL approved lease draft; CAR still pending; lease needs revision for notary by LL."
 next_due:
 tags:
   - deal
@@ -21,6 +21,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-08-20 - LL approved lease draft; CAR still pending; lease needs to be revised for notary by LL.
 
 2026-08-19 - Followed up with LL; follow up in 1 week.
 

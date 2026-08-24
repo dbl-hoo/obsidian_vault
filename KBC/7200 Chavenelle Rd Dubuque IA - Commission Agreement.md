@@ -28,4 +28,4 @@ last_updated: 2026-08-13
 
 ## Tasks
 
-- [ ] Send draft demand letter to Ray Oczak (NAI Ruhl) after Max Madani / Don Flanigan review 📅 2026-08-20
+- [x] Send draft demand letter to Ray Oczak (NAI Ruhl) after Max Madani / Don Flanigan review 📅 2026-08-20 ✅ 2026-08-22

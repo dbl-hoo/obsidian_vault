@@ -9,7 +9,7 @@ last_updated: 2026-08-18
 
 ## Tasks
 
-- [ ] Review ELA (2nd-half fee on occupancy pushback; review Section 4.5 commission-credit language); Rose to review insurance section 📅 2026-08-19
+- [x] Review ELA (2nd-half fee on occupancy pushback; review Section 4.5 commission-credit language); Rose to review insurance section 📅 2026-08-19 ✅ 2026-08-22
 
 ## Notes
 

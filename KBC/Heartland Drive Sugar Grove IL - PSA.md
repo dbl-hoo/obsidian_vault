@@ -9,7 +9,7 @@ last_updated: 2026-08-14
 
 ## Tasks
 
-- [ ] Follow up with Jonathan Postweiler on updated PSA 📅 2026-08-21
+- [x] Follow up with Jonathan Postweiler on updated PSA 📅 2026-08-21 ✅ 2026-08-22
 
 ## Notes
 

@@ -81,7 +81,6 @@ _Knowledgebase/      ← Reference docs, organized by area
   Amazon/            ← Amazon design standards (AMZL.md, QC.md, SSD.md)
   KBC/               ← KBC legal and deal reference
                         KBC Legal Entities and Signatories.md ← entity names, incorporation types, signatories, and addresses by office/jurisdiction — use for contract execution, NDA signing blocks, MSAs
-  Personal/          ← Personal reference
 Amazon/              ← Active Amazon deals, organized by program type
   AMZL/              ← AMZL delivery station deals
   GCF/               ← GCF fulfillment center deals
@@ -98,7 +97,6 @@ Personal/            ← Personal life — does NOT sync to the work machine
   Health/            ← Journal.md, Food Log.md, Peptide Log.md, iron-log.md, labs
     Training/Sessions/ ← One file per workout: YYYY-MM-DD-{type}.md
   Tech/              ← Homelab notes
-People/              ← Counterparty intelligence pages (TMs, brokers, counsel, landlords)
 x_Archive/           ← Completed/dead deals & deprecated programs (incl. Project A) — don't surface unless asked
 Daily Notes/         ← Daily capture notes
 Templates/           ← Note templates
@@ -124,32 +122,6 @@ KBC/NDA Log.md       ← NDA tracking (flat table)
 
 > `{site_code}` is the steady state. Pre-assignment, both the deal file and its doc folder use the working name instead — see **Deal File Convention** and **New Deals** below.
 
-### Person Page Convention
-
-Pages in `People/` track recurring counterparties — Amazon TMs, local brokers, landlord's counsel, landlords, etc. One page per person, named `First Last.md`.
-
-**Person page YAML fields:**
-
-```yaml
-name:
-role:              # Amazon TM | Local Broker | Landlord Counsel | Landlord | Other
-organization:
-email:             # optional
-phone:             # optional
-title:             # optional — job title
-timezone:          # optional — e.g. East Coast, Central, Pacific
-deals: []          # List of deal site codes / matter names this person is involved in
-area:              # Amazon | KBC | Kirkham Law
-tags: [person]
-last_updated:      # YYYY-MM-DD
-```
-
-**Person page body:** `## Notes` section (reverse-chronological, same format as deal files). Log observations about working style, negotiation tendencies, preferences, responsiveness — anything useful for future interactions. Don't duplicate full call notes; capture the _intelligence_ about the person.
-
-**When to create a person page:** When a name appears across 2+ deals, or when Jason provides substantive intel about someone worth remembering. Don't create pages for one-off contacts.
-
-**When to update a person page:** During call note processing, if the note contains intel about a person who has a page (or should get one), update their page too. Add new deals to the `deals:` list as they come up.
-
 ### Deal File Convention
 
 Each deal has one file named after the deal (e.g., `CVG47.md`, `Action - MSA.md`):
@@ -169,8 +141,7 @@ Each deal has one file named after the deal (e.g., `CVG47.md`, `Action - MSA.md`
 2. Set `site_code:` in YAML
 3. Rename the file to `{site_code}.md` (Quick Commerce: `{SiteCode}_{City}_{Pin}.md`)
 4. Rename the existing doc folder from the working name to `{site_code}\` (Windows only — see New Deals for where it was created)
-5. **Cascade:** update any `People/` page whose `deals:` list references the old working name → swap it for the site code
-6. Log a one-line Notes entry recording the code assignment
+5. Log a one-line Notes entry recording the code assignment
 
 ### Deal File YAML Fields
 
@@ -268,7 +239,6 @@ When Jason dumps call notes: 0. **Re-read the deal file immediately before writi
 4. Update `last_updated:` in YAML to today's date (pull from the system)
 5. Update `status:` if it changed; update other YAML fields if clearly warranted
 6. Update `last_note:` to a one-line summary of the new Notes entry
-7. **Cascade to person pages:** If the note contains intel about a person who has a page in `People/`, update their page. If a name appears for the first time across 2+ deals, consider creating a page (ask Jason if unsure).
 
 When asked "where do things stand" or similar: read all `status: Surveying` and `status: Selected` deal files, pull the most recent Notes entry and open tasks from each, surface overdue tasks or anything with no update in >30 days.
 

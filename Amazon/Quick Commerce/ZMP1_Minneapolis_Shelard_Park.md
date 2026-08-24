@@ -16,9 +16,9 @@ loi_prepared: Yes
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-07-27
-last_note: CAR ETA 8/10.
-next_due: 2026-08-10
+last_updated: 2026-08-20
+last_note: "Pinged LL's broker on lease draft; follow up Monday."
+next_due:
 tags:
   - deal
   - amazon
@@ -29,9 +29,9 @@ tags:
 
 ## Tasks
 
-- [x] CAR expected 📅 2026-08-10 ✅ 2026-08-10
-
 ## Notes
+
+2026-08-20 - Pinged LL's broker on lease draft; follow up Monday.
 
 2026-07-27 - CAR ETA 8/10.
 

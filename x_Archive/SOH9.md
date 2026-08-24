@@ -10,8 +10,8 @@ start_date: 2025-06-16
 end_date: 
 local_broker: KBC
 area: Amazon
-last_updated: 2026-06-30
-last_note: Followed up with Caleb re additional parking proposal; follow up Monday 7/6.
+last_updated: 2026-08-22
+last_note: Deal complete — archived.
 next_due:
 tags: [deal, amazon]
 ---
@@ -21,6 +21,18 @@ tags: [deal, amazon]
 - [x] Follow up with Adam Knoll on additional parking entitlements 📅 2026-06-29 ✅ 2026-06-30
 
 ## Notes
+
+2026-08-22 - Deal complete. Moved to x_Archive.
+
+2026-07-20 - Checked in with Adam Knoll/Caleb re: parking. Follow up 1 week.
+
+2026-07-10 - [Source: email] Caleb Jones (Stonemont) sent turn-key proposal for the additional parking area 7/9 ("Castings Commerce Building 1 Parking Expansion," dated 7/7/26). Adam Knoll acknowledged 7/10 — reviewing, will get back.
+- Cost still ~**$1.3MM**, but now includes general conditions and allowances that were excluded from the earlier verbal ROM.
+- **2' environmental cap** required in the expansion area (measured pre-developed to post-developed surface); soil, pavement, and subbase can all count toward the cap. Allowance item 1 carries the fill cost in case the civil design can't make the pavement section part of the cap (i.e., fill instead of cutting into it) — needs a design to firm up and move above the line.
+- Structure confirmed as Amazon direct-pay per Patrick (7/1).
+- Proposal saved to docs folder: `SOH9 - Parking Expansion Turn-Key Proposal - 2026.07.10.pdf`
+
+2026-07-01 - Patrick: additional parking would be structured as Amazon direct funding, not LL capitalizing the cost into rent.
 
 2026-06-30 - Followed up with Caleb re: additional parking proposal. Follow up Monday 7/6.
 - Verbal ROM quote received: **$1.3MM** for parking expansion.
@@ -36,12 +48,12 @@ tags: [deal, amazon]
 
 2026-04-27 - Demising wall is at CL 14, which will result in an increase to square footage — amount TBD.
 
-2026-04-21 - House panel is on Amazon side; 800A going to WPI; need to add 3200A panel on Amazon side. Need proposal from American Eagle for power upgrade — doing the work together would be more efficient; 3-month timeline. Need load sheet and ramp-up.
-LL Work SOW: (1) power upgrade; (2) southern curb cut; (3) truck access. Need bids and documented expenses; will need to revise the Work Letter. Per Tadeu Velloso, will need costs. Need to determine who is doing security fencing and get final site plan.
-
 2026-04-24 - CAR fully approved. ES about to be launched.
 
 2026-04-23 - SNDA sent to LL; follow up next week. Call w/ Manish, Patrick, Caleb, Adam (TM), and Allison. Allison: electrical engineer onboard, expecting load letter next week. Adam: wants to leave electrical out of the lease. GC selected — Manish to introduce. Curbs/access/fencing: attach approved tenant modifications; won't require AHJ or WPI approvals. Site plans expected EOD 4/24 — will show access and fencing.
+
+2026-04-21 - House panel is on Amazon side; 800A going to WPI; need to add 3200A panel on Amazon side. Need proposal from American Eagle for power upgrade — doing the work together would be more efficient; 3-month timeline. Need load sheet and ramp-up.
+LL Work SOW: (1) power upgrade; (2) southern curb cut; (3) truck access. Need bids and documented expenses; will need to revise the Work Letter. Per Tadeu Velloso, will need costs. Need to determine who is doing security fencing and get final site plan.
 
 2026-04-17 - Emailed Stonemount re: electrical upgrade as part of LL's work.
 
