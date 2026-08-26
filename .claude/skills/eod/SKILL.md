@@ -48,6 +48,7 @@ For each deal identified:
 4. **Delete all completed tasks** — remove any `- [x]` lines from `## Tasks`. Completed tasks are deleted, not kept.
 5. Update `last_updated:` to today's date
 6. Update `status:` if it changed
+7. **If `next_due:` is being set or changed, there must be an open task with a matching `📅` date in `## Tasks`.** `next_due` without a backing task is a dangling deadline nobody will see. If the note implies a follow-up date but Jason didn't expressly ask for a task (see rule above), don't set `next_due` either — ask him instead, or just log it in the Notes entry with no due-date field.
 
 ### Step 5 — Stamp the daily note
 Replace `<!-- EOD_PENDING -->` with:
@@ -74,6 +75,7 @@ After processing, suggest specific improvements to `CLAUDE.md` or other system f
 - **Tasks go in ## Tasks, notes go in ## Notes** — don't mix them
 - **Only create tasks when Jason expressly asks for one** — implied follow-ups, waiting-on notes, and status updates do NOT become tasks
 - If a deal has `status: Closed` or `status: Dead`, flag it rather than updating silently
+- **`next_due:` and `## Tasks` must stay in sync** — never set/update `next_due` without a matching open task, and vice versa
 
 ---
 

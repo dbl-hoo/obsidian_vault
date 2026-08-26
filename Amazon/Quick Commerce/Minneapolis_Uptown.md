@@ -16,9 +16,9 @@ loi_prepared: "Yes"
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-08-17
-last_note: "Chasing alt candidate sites (2118 4th Ave S, 4700-4850 Park Glen Rd) for zoning/alcohol read; alcohol entitlement question open w/ Nathan Eady."
-next_due: 2026-08-19
+last_updated: 2026-08-24
+last_note: "LL response received; sent to business, follow up Wed."
+next_due: 2026-08-26
 tags:
   - deal
   - amazon
@@ -29,10 +29,11 @@ tags:
 
 ## Tasks
 
-- [x] Draft LOI 📅 2026-08-10
-- [x] Follow up on alt-site zoning/alcohol read (Park Glen Rd + 4th Ave S) 📅 2026-08-19 ✅ 2026-08-22
+- [ ] Follow up with business on LL response 📅 2026-08-26
 
 ## Notes
+
+2026-08-24 - LL response received. Sent to business — follow up Wed.
 
 2026-08-17 - [Source: email] Two alt candidate sites in play alongside the 2020 28th St E negotiation, both surfaced in the "Quick Commerce: Uptown Minneapolis" thread w/ Jason Vangalis, Nathan Eady, Stephanie Meier (Amazon Corp Counsel, Alcohol), cc Claire Weber, Alan Oketcho, Jacob Sleight, Kristy Cole:
 

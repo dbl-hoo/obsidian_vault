@@ -9,7 +9,7 @@ last_note: "Zurich/Pear USA broker registration letter — Matt asking Jason to 
 
 ## Tasks
 
-- [ ] Confirm OK with Section 9 language in Zurich broker registration letter (or provide comments) 📅 2026-08-31
+- [x] Confirm OK with Section 9 language in Zurich broker registration letter (or provide comments) 📅 2026-08-31 ✅ 2026-08-25
 
 ## Notes
 
