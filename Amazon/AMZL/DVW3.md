@@ -13,16 +13,55 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-08-17
-last_note: TM reassigned from Al Patel to Manny Medina.
+last_updated: 2026-08-25
+last_note: "Clackson recommends $80K/acre DHL Development, $60K/acre Charles Berkeley; LOIs sent to Manny"
 next_due: 2026-06-02
 ---
 
 ## Tasks
 
-- [x] Follow up with Matt Clackson (CBRE) 📅 2026-08-10 ✅ 2026-08-10
-
 ## Notes
+
+2026-08-25 - Talked to Clackson - he recommends offering $80K per acre on DHL Development; $60k per acre on the Charles Berkeley property. Sent draft LOIs to Manny - follow up 1 week. Note: Lawrence EDC site is pivot per WHS.
+
+Flash results on three short listed sites
+
+**Culloden Industrial Warehouse - 2301 Virginia Avenue, Culloden WV**
+
+Risk results:
+
+Natural Hazard Overall: Medium
+- Historic Hail Events: Medium
+
+Crime: Medium 9.1/25
+Employee Relations: Low
+Power: Low
+WHS: Report Requested
+
+**The Point Industrial Park** - 62 Acre lot, Commercial Drive, South Point, Ohio
+
+Risk results:
+
+Natural Hazard Overall: Medium with loss expectancy of $7.4mm
+- Lightning Strike Density - Medium
+- Historic Hail Events - Medium
+
+Crime: Medium 9.2/25
+Employee Relations: Low
+Power: Low
+WHS: Report Attached - Risk High
+
+**East Berkeley Road, Culloden, WV**
+
+Risk results:
+
+Natural Hazard Overall: Medium
+- Historic Hail Events: Medium
+
+Crime: Medium 9/25
+Employee Relations: Low
+Power Overall: Low
+WHS: Report Requested
 
 2026-08-17 - TM reassigned from Al Patel to Manny Medina.
 

@@ -4,14 +4,14 @@ status: Ongoing
 area: KBC
 office: Chicago
 tags: [kbc]
-last_updated: 2026-08-14
+last_updated: 2026-08-25
 ---
 
 ## Tasks
 
-- [x] Follow up with Jonathan Postweiler on updated PSA 📅 2026-08-21 ✅ 2026-08-22
-
 ## Notes
+
+2026-08-25 - revised draft to seller. Follow up Friday.
 
 2026-08-14 - Updated PSA sent to Jonathan Postweiler. Follow up 1 week.
 

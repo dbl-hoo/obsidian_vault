@@ -13,8 +13,8 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-06-28
-last_note: Survey re-snap pending; send survey + background to Demco by EOW
+last_updated: 2026-08-25
+last_note: Reached out to Powell re survey; follow up Monday
 ---
 
 ## Tasks
@@ -22,6 +22,8 @@ last_note: Survey re-snap pending; send survey + background to Demco by EOW
 - [ ] Send survey and background to Demco 📅 2026-07-10
 
 ## Notes
+
+2026-08-25 - reached out to Powell re: survey; follow up Monday
 
 2026-06-02 - Survey re-snap pending. Need to send survey and background to Demco by EOW.
 

@@ -13,13 +13,15 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-06-01
-last_note: Transitioned from Andrea Roy; new POR, pin on existing facility, topology re-running with Richmond KY pin relocation
+last_updated: 2026-08-25
+last_note: Project trending to cancelled
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-08-25 - project note: trending to cancelled.
 
 2026-06-01 - Transitioned from Andrea Roy (departing KBC Nashville). Handoff per 2026-06-01 spreadsheet review.
 
