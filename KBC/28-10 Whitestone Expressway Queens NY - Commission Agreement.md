@@ -9,7 +9,7 @@ last_updated: 2026-08-28
 
 ## Tasks
 
-- [ ] Review commission agreements (LL-side and Tenant-side) and respond to Gabe with any comments 📅 2026-09-04
+- [x] Review commission agreements (LL-side and Tenant-side) and respond to Gabe with any comments 📅 2026-09-04 ✅ 2026-08-31
 
 ## Notes
 

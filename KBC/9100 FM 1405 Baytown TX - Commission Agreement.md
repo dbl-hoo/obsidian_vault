@@ -22,4 +22,4 @@ last_updated: 2026-08-26
 
 ## Tasks
 
-- [ ] Follow up with Thomas on commission agreement 📅 2026-09-04
+- [x] Follow up with Thomas on commission agreement 📅 2026-09-04 ✅ 2026-08-31

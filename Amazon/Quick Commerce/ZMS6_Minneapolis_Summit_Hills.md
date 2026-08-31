@@ -19,14 +19,18 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-07-30
-last_note: "Open issue re: bathroom access and reconfiguration for ADA compliance."
-next_due: 2026-07-27
+last_updated: 2026-08-28
+last_note: "Draft lease sent to LL. Follow up 9/2."
+next_due: 2026-09-02
 ---
 
 ## Tasks
 
+- [ ] Follow up with LL on draft lease 📅 2026-09-02
+
 ## Notes
+
+2026-08-28 - Draft lease sent to LL. Create follow up next Wednesday.
 
 2026-07-30 - Open issue re: bathroom access and reconfiguration for ADA compliance.
 

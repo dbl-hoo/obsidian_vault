@@ -12,8 +12,8 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-08-26
-last_note: "Weekly call — pending Alex site plan review, CRA submitted (~2wk approval), site plan approval expected 9/4."
+last_updated: 2026-08-28
+last_note: "CRA approval link received."
 next_due: 2026-07-15
 tags:
   - deal
@@ -22,6 +22,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-08-28 - CRA approval link: https://approvals.amazon.com/approval/50171068/details/memo-view/notes-and-summary
 
 2026-08-26 - Weekly call.
 * Pending Alex review of updated site plan

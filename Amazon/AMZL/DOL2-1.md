@@ -19,7 +19,7 @@ last_note: "Engaged Powell Spears (JLL) as local broker; survey/comps templates 
 
 ## Tasks
 
-- [ ] Follow up with Powell Spears (JLL) 📅 2026-08-31
+- [x] Follow up with Powell Spears (JLL) 📅 2026-08-31 ✅ 2026-08-31
 
 ## Notes
 

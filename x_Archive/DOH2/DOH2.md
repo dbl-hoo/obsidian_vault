@@ -2,15 +2,15 @@
 site_code: DOH2
 deal_type: Purchase
 business_unit: AMZL
-status: Selected
+status: Cancelled
 tm: Manny Medina
 pcm: Albert Chon
 launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date:
 local_broker: KBC
-last_updated: 2026-08-17
-last_note: TM reassigned from Al Patel to Manny Medina.
+last_updated: 2026-08-31
+last_note: Deal terminated; archived.
 next_due: 2026-07-17
 area: Amazon
 tags:
@@ -23,6 +23,8 @@ tags:
 - [x] Call Anna Brown 📅 2026-08-10 ✅ 2026-08-10
 
 ## Notes
+
+2026-08-31 - Deal terminated; archived.
 
 2026-08-17 - TM reassigned from Al Patel to Manny Medina.
 

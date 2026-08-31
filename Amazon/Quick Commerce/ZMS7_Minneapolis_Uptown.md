@@ -29,7 +29,7 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with business on LL response 📅 2026-08-26
+- [x] Follow up with business on LL response 📅 2026-08-26 ✅ 2026-08-31
 
 ## Notes
 

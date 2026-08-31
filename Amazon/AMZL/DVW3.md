@@ -22,7 +22,7 @@ next_due: 2026-06-02
 
 ## Notes
 
-2026-08-26 - Debrief is scheduled for 9/17.
+2026-08-26 - Debrief is scheduled for 9/3.
 Berkeley Rd. site came back high risk, but we can work with that:
 - The site is located within WHS DD's High Risk Facility types due to the proximity of the oil/gas wells and oil field to the site. Additional investigation will be required and methane screening will likely be required as part of due diligence.
 - Three production wells located between ~200 and ~500 feet southeast and southwest; and site overlies the Milton Oil field. Methane screening will likely be required.

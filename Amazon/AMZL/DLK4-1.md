@@ -19,7 +19,7 @@ last_note: Reached out to Powell re survey; follow up Monday
 
 ## Tasks
 
-- [ ] Send survey and background to Demco 📅 2026-07-10
+- [x] Send survey and background to Demco 📅 2026-07-10 ✅ 2026-08-31
 
 ## Notes
 
