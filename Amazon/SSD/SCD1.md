@@ -12,8 +12,8 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-08-13
-last_note: Owner due diligence files received and filed (title, survey, CNS, traffic, zoning, planning app).
+last_updated: 2026-08-26
+last_note: "Weekly call — pending Alex site plan review, CRA submitted (~2wk approval), site plan approval expected 9/4."
 next_due: 2026-07-15
 tags:
   - deal
@@ -22,6 +22,11 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-08-26 - Weekly call.
+* Pending Alex review of updated site plan
+* CRA - being submitted; about 2 weeks for approval
+* Site plan approval expected 9/4
 
 2026-08-13 - Owner due diligence files received, filed to docs folder (`Due Diligence/`):
 - ALTA Survey w/ Topo

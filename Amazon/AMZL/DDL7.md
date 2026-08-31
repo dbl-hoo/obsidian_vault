@@ -9,8 +9,8 @@ launch_date: 2028-08-01
 end_date:
 local_broker: Charles Rodriguez, R&R Commercial Realty
 area: Amazon
-last_updated: 2026-08-17
-last_note: TM reassigned from Al Patel to Manny Medina.
+last_updated: 2026-08-26
+last_note: "Presented site came back pivot; debrief pushed to 9/3, moving to Conner Farm property."
 next_due: 2026-05-04
 tags:
   - deal
@@ -19,9 +19,9 @@ tags:
 
 ## Tasks
 
-- [x] Check in with Charlie (Rodriguez, R&R Commercial) 📅 2026-08-10 ✅ 2026-08-10
-
 ## Notes
+
+2026-08-26 - The site we were going to present for DDL7 came back pivot. Pushing debrief and will present 9/3; moving to the Conner Farm property.
 
 2026-08-17 - TM reassigned from Al Patel to Manny Medina.
 

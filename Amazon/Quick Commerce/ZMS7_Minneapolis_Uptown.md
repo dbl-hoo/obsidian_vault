@@ -1,7 +1,7 @@
 ---
 aliases:
   - Minneapolis_Uptown
-site_code: TBD_Minneapolis_Uptown
+site_code: ZMS7
 launch_date:
 pin: Uptown
 address: 2020 28th Street East, Suite TBD, Minneapolis, MN 55407
@@ -32,6 +32,8 @@ tags:
 - [ ] Follow up with business on LL response 📅 2026-08-26
 
 ## Notes
+
+2026-08-28 - Site code assigned: ZMS7.
 
 2026-08-24 - LL response received. Sent to business — follow up Wed.
 

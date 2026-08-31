@@ -2,15 +2,15 @@
 site_code: ACY4
 deal_type: Purchase
 business_unit: GCF
-status: Selected
+status: Completed
 tm: Steve Perkins
 pcm: Gary Gallagher
 launch_date: 2028-05-01
 end_date:
 local_broker: KBC
-last_updated: 2026-06-29
-last_note: 9/15 target land closing.
-next_due: 2026-05-28
+last_updated: 2026-08-28
+last_note: Transaction closed.
+next_due:
 area: Amazon
 tags:
   - deal
@@ -20,6 +20,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-08-28 - Transaction closed.
 
 2026-06-29 - 9/15 target land closing.
 

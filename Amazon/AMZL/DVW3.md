@@ -13,14 +13,21 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-08-25
-last_note: "Clackson recommends $80K/acre DHL Development, $60K/acre Charles Berkeley; LOIs sent to Manny"
+last_updated: 2026-08-26
+last_note: "Debrief scheduled 9/17; Berkeley Rd site came back high risk but workable."
 next_due: 2026-06-02
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-08-26 - Debrief is scheduled for 9/17.
+Berkeley Rd. site came back high risk, but we can work with that:
+- The site is located within WHS DD's High Risk Facility types due to the proximity of the oil/gas wells and oil field to the site. Additional investigation will be required and methane screening will likely be required as part of due diligence.
+- Three production wells located between ~200 and ~500 feet southeast and southwest; and site overlies the Milton Oil field. Methane screening will likely be required.
+- Fire training noted onsite; potential for use of AAAF and PFAS impacts; additional evaluation needed to determine if PFAS testing is needed.
+- Based on the timeline of the former farm operations, potential exists for encountering underground features (underground storage tanks, septic, wells) during redevelopment, and the remaining structure will likely require a pre-demolition hazardous building materials survey and abatement prior to demolition.
 
 2026-08-25 - Talked to Clackson - he recommends offering $80K per acre on DHL Development; $60k per acre on the Charles Berkeley property. Sent draft LOIs to Manny - follow up 1 week. Note: Lawrence EDC site is pivot per WHS.
 
