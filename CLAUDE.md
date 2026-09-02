@@ -113,11 +113,11 @@ KBC/NDA Log.md       ← NDA tracking (flat table)
 
 |Program|File location|Parent/index file?|Doc folder path|
 |---|---|---|---|
-|AMZL|`Amazon/AMZL/{site_code}.md`|No|`AMAZON_DOCS\{site_code}\`|
-|GCF|`Amazon/GCF/{site_code}.md`|No|`AMAZON_DOCS\{site_code}\`|
-|Middle Mile|`Amazon/Middle Mile/{site_code}.md`|No|`AMAZON_DOCS\{site_code}\`|
-|Renewals|`Amazon/Renewals/{site_code}.md`|No|`AMAZON_DOCS\{site_code}\`|
-|SSD|`Amazon/SSD/{site_code}.md`|No|`AMAZON_DOCS\{site_code}\`|
+|AMZL|`Amazon/AMZL/{site_code}_{City}_{ST}.md`|No|`AMAZON_DOCS\{site_code}\`|
+|GCF|`Amazon/GCF/{site_code}_{City}_{ST}.md`|No|`AMAZON_DOCS\{site_code}\`|
+|Middle Mile|`Amazon/Middle Mile/{site_code}_{City}_{ST}.md`|No|`AMAZON_DOCS\{site_code}\`|
+|Renewals|`Amazon/Renewals/{site_code}_{City}_{ST}.md`|No|`AMAZON_DOCS\{site_code}\`|
+|SSD|`Amazon/SSD/{site_code}_{City}_{ST}.md`|No|`AMAZON_DOCS\{site_code}\`|
 |Quick Commerce|`Amazon/Quick Commerce/{SiteCode}_{City}_{Pin}.md`|No|`AMAZON_QC_DOCS\{site_code}\`|
 
 > `{site_code}` is the steady state. Pre-assignment, both the deal file and its doc folder use the working name instead — see **Deal File Convention** and **New Deals** below.
@@ -133,13 +133,13 @@ Each deal has one file named after the deal (e.g., `CVG47.md`, `Action - MSA.md`
 **Amazon deal naming — two states:**
 
 1. **Pre-code (working name):** Before Amazon assigns a site code, name the file by whatever working name Jason uses — the long form (`26_QC_NA_US_Kansas City_Country Club Plaza.md`), a short label (`tbd_Ashland_OH.md`, `28_Flex_Shell_1 - Mid-Missouri.md`), whatever he says. Don't force a format; mirror his name for the deal. A placeholder in `site_code:` matching the working name is fine.
-2. **Post-code:** Once a site code is assigned it becomes the **primary reference** — rename the file to `{site_code}.md`. **Exception — Quick Commerce:** rename to `{SiteCode}_{City}_{Pin}.md` (e.g. `ZDT6_Detroit_Royal_Oak.md`), replacing spaces with underscores. The docs folder still uses just `{site_code}\`.
+2. **Post-code:** Once a site code is assigned it becomes the **primary reference** — rename the file to `{site_code}_{City}_{ST}.md` (e.g. `CMH8_Columbus_OH.md`), city and state of the site, underscores instead of spaces, no parens/comma. **Exception — Quick Commerce:** rename to `{SiteCode}_{City}_{Pin}.md` (e.g. `ZDT6_Detroit_Royal_Oak.md`). The docs folder still uses just `{site_code}\`.
 
 **Code-assignment procedure** — when Jason says a site code has been assigned to a working-name deal, do all of these in one pass:
 
 1. Add the old working name to the `aliases:` YAML list (so existing `[[links]]` and searches still resolve)
 2. Set `site_code:` in YAML
-3. Rename the file to `{site_code}.md` (Quick Commerce: `{SiteCode}_{City}_{Pin}.md`)
+3. Rename the file to `{site_code}_{City}_{ST}.md` (Quick Commerce: `{SiteCode}_{City}_{Pin}.md`)
 4. Rename the existing doc folder from the working name to `{site_code}\` (Windows only — see New Deals for where it was created)
 5. Log a one-line Notes entry recording the code assignment
 
