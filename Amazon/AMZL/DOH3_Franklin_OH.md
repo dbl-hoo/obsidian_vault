@@ -14,13 +14,17 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-08-17
-last_note: TM reassigned from Al Patel to Manny Medina.
-next_due:
+last_updated: 2026-09-01
+last_note: "Declaration termination draft sent to seller; follow up in 1 week."
+next_due: 2026-09-08
 ---
 ## Tasks
 
+- [ ] Follow up with seller on Declaration termination 📅 2026-09-08
+
 ## Notes
+
+2026-09-01 - Draft termination of the Declaration (Exception 17 development standards/CC&Rs) sent to seller. Follow up in 1 week.
 
 2026-08-17 - TM reassigned from Al Patel to Manny Medina.
 

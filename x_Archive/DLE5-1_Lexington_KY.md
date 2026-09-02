@@ -3,7 +3,7 @@ site_code: DLE5-1
 aliases: [DLE5-1]
 deal_type: Purchase
 business_unit: AMZL
-status: Surveying
+status: Cancelled
 tm: Frank Taylor
 pcm:
 launch_date: 2028-01-01
@@ -14,13 +14,17 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-08-31
-last_note: "Follow up Friday re: survey"
+last_updated: 2026-09-01
+last_note: "Dropped from POR; archived"
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-09-02 - Dropped from POR. Archived.
+
+2026-09-01 - May be off the POR.
 
 2026-08-31 - Follow up Friday re: survey.
 

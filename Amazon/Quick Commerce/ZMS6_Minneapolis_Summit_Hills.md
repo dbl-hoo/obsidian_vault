@@ -26,7 +26,7 @@ next_due: 2026-09-02
 
 ## Tasks
 
-- [ ] Follow up with LL on draft lease 📅 2026-09-02
+- [x] Follow up with LL on draft lease 📅 2026-09-02 ✅ 2026-09-02
 
 ## Notes
 

@@ -31,6 +31,8 @@ tags:
 
 ## Notes
 
+2026.09.02 - **_LL’s principal contact is Hanni Kirma (248-410-1111)_**
+
 2026-08-10 - Lease signed and completed.
 
 2026-07-15 - Forwarded updated lease draft to Amazon team; asked for update on CAR approval. Follow up Monday.

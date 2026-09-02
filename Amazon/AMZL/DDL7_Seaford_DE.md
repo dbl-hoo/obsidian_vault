@@ -10,8 +10,8 @@ launch_date: 2028-08-01
 end_date:
 local_broker: Charles Rodriguez, R&R Commercial Realty
 area: Amazon
-last_updated: 2026-08-26
-last_note: "Presented site came back pivot; debrief pushed to 9/3, moving to Conner Farm property."
+last_updated: 2026-09-01
+last_note: "Building is a 2w4f."
 next_due: 2026-05-04
 tags:
   - deal
@@ -21,6 +21,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-09-01 - Building is a 2w4f.
 
 2026-08-26 - The site we were going to present for DDL7 came back pivot. Pushing debrief and will present 9/3; moving to the Conner Farm property.
 

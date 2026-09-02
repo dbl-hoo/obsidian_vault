@@ -13,16 +13,20 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-08-28
-last_note: "CRA approval link received."
-next_due: 2026-07-15
+last_updated: 2026-09-01
+last_note: "CRA draft sent to LL; follow up Friday."
+next_due: 2026-09-04
 tags:
   - deal
   - amazon
 ---
 ## Tasks
 
+- [ ] Follow up with LL on CRA draft 📅 2026-09-04
+
 ## Notes
+
+2026-09-01 - CRA draft sent to LL. Follow up Friday.
 
 2026-08-28 - CRA approval link: https://approvals.amazon.com/approval/50171068/details/memo-view/notes-and-summary
 

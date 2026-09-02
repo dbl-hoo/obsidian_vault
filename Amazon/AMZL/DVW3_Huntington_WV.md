@@ -14,14 +14,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-08-26
-last_note: "Debrief scheduled 9/17; Berkeley Rd site came back high risk but workable."
+last_updated: 2026-09-01
+last_note: "Building is a 2w2f."
 next_due: 2026-06-02
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-09-01 - Building is a 2w2f.
 
 2026-08-26 - Debrief is scheduled for 9/3.
 Berkeley Rd. site came back high risk, but we can work with that:

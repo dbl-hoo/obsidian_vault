@@ -2,7 +2,7 @@
 project: Subpoena - 1001 Expressway Dr. v. WF Industrial XII LLC
 status: Ongoing
 area: KBC
-last_updated: 2026-06-28
+last_updated: 2026-09-01
 tags:
   - kbc
 ---
@@ -11,6 +11,8 @@ tags:
 
 
 ## Notes
+
+2026-09-01 - Court extended discovery deadlines following a status conference with the parties on July 22. Deadline for party depositions is now September 18; deadline for non-party depositions not fully captured — check daily note source for the rest.
 
 2026-04-21 - LL denied motion to squash. Alerted Andrew Alberg about the subpoena.
 
