@@ -4,14 +4,17 @@ status: Ongoing
 area: KBC
 office: Philadelphia
 tags: [kbc]
-last_updated: 2026-08-27
+last_updated: 2026-09-02
 ---
 
 ## Tasks
 
-- [ ] Review agency listing agreement w/ First Industrial for deal breakers 📅 2026-09-03
+- [x] Review agency listing agreement w/ First Industrial for deal breakers 📅 2026-09-03 ✅ 2026-09-08
+- [ ] Follow up w/ Dan 📅 2026-09-09
 
 ## Notes
+
+2026-09-02 - Comments sent to Dan. Follow up in 1 week.
 
 2026-08-27 - [Source: email] Matter opened. John Hanlon (First Industrial Realty Trust) sent Mark Chubb and Dan Rattay (KBC) an Agency Listing Agreement for First Park New Castle ("FPNC"), Building A — 124 Christiana Road, New Castle, DE 19720 (612,554 SF cross-dock industrial). Word version included for redline. First Industrial also sent the Building A spec sheet and three floor plan/site layout scenarios (1-tenant, 2-tenant, 3-tenant). CBRE's existing agency terminates 8/31/26; new agency effective 9/1/26. First Industrial asked KBC to fill in the two blank sections in Exhibit C and return redlines, and (once executed) to swap marketing signage, update CoStar/listing info, discuss asking rate, and send a marketing blast/brochure.
 

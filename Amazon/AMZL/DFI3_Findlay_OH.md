@@ -16,16 +16,28 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-09-01
-last_note: "Added contact: Matt Gilroy, Findlay-Hancock Co. Econ Dev."
-next_due: 2026-09-02
+last_updated: 2026-09-02
+last_note: "Two site options reviewed w/ Matt Gilroy (Findlay EconDev): Voorhees site, Schulte property."
+next_due:
 ---
 
 ## Tasks
 
-- [x] Follow up with local broker on land sites 📅 2026-09-02 ✅ 2026-09-01
-
 ## Notes
+
+2026-09-02 - Clay Smith tracking down off-market opportunities; emailed Kristen DeFamio update.
+
+Notes from call with Matt Gilroy of Findlay EconDev.
+
+We talked about one site. It's the first site that I want to cover. It's owned by the Voorhees family. The EDC has it under contract for $60,000. They'd add $1,500 per acre on the flip.
+
+The property is bordered by 212 and Bright Road. It's a lighted intersection. It's in a pre-1994 CRA, which will get us 100% tax abatement. It has water and sewer adjacent to the site. There are 6 MW of power available before any substation upgrade would be necessary.
+
+City of Finley planning is a 45-day window, depending on the meeting schedule. Building permits are handled by Wood County as a 60- to 90-day process. They would work with us on flexibility around how to structure the closing.
+
+The property adjacent is owned by Best Buy. The property to the north is under contract with Interstate Capital Partners. They have an October hearing on having it annexed into the city. They may break ground in late Q1 of '27.
+
+Second site is the Schulte property southwest of town. It is over 90 acres. They may subdivide. He's going to get me contact information from JLL, which has it under contract. It needs to be rezoned. That's a 90-day process. Liberty School District is just down the way. This property is in the township and would stay in the township but it has city water and sewer. Those utilities front the site. A little unclear on what the power situation is at this site.
 
 2026-09-01 - Contact added: Matt Gilroy, Director of Strategic Initiatives, Findlay-Hancock County Economic Development. 419.438.0035. mgilroy@findlayecondev.com. 123 E. Main Cross St., Findlay, OH 45840.
 

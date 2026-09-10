@@ -9,7 +9,7 @@ last_updated: 2026-08-31
 
 ## Tasks
 
-- [ ] Review lease and confirm finite occupancy deadline (per Rose) 📅 2026-09-07
+- [x] Review lease and confirm finite occupancy deadline (per Rose) 📅 2026-09-07 ✅ 2026-09-08
 
 ## Notes
 

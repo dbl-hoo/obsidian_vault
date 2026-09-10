@@ -14,12 +14,12 @@ last_note: "7.29 recut: 4 pins (2 new, 2 carried) — priority MSA for debrief"
 
 ## Pins
 
-| # | Working ID | City | State | Zip | Lat | Long | Launch | Origin | Status | Candidate Site |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 220 | SOHA | Waterville | OH | 43566 | 41.499230 | -83.757908 | 2028-09 | New | Not Started | |
-| 392 | Toledo43613 | Toledo | OH | 43613 | 41.703565 | -83.606550 | 2029-01 | New | Not Started | |
-| 850 | Toledo45806 | Lima | OH | 45806 | 40.686542 | -84.127927 | 2031-01 | Carried | Not Started | |
-| 851 | Toledo45841 | Jenera | OH | 45841 | 40.885082 | -83.731271 | 2031-01 | Carried | Not Started | |
+| #   | Working ID  | City       | State | Zip   | Lat       | Long       | Launch  | Origin  | Status      | Candidate Site |
+| --- | ----------- | ---------- | ----- | ----- | --------- | ---------- | ------- | ------- | ----------- | -------------- |
+| 220 | SOHA        | Waterville | OH    | 43566 | 41.499230 | -83.757908 | 2028-09 | New     | Not Started |                |
+| 392 | Toledo43613 | Toledo     | OH    | 43613 | 41.703565 | -83.606550 | 2029-01 | New     | Not Started |                |
+| 850 | Toledo45806 | Lima       | OH    | 45806 | 40.686542 | -84.127927 | 2031-01 | Carried | Not Started |                |
+| 851 | Toledo45841 | Jenera     | OH    | 45841 | 40.885082 | -83.731271 | 2031-01 | Carried | Not Started |                |
 
 ## Tasks
 

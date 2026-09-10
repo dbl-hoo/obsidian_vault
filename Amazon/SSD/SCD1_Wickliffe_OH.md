@@ -22,7 +22,7 @@ tags:
 ---
 ## Tasks
 
-- [ ] Follow up with LL on CRA draft 📅 2026-09-04
+- [x] Follow up with LL on CRA draft 📅 2026-09-04 ✅ 2026-09-08
 
 ## Notes
 

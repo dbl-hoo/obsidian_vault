@@ -19,4 +19,4 @@ last_updated: 2026-08-28
 
 ## Tasks
 
-- [ ] Review NDA/MSA from EEPlus and respond 📅 2026-09-04
+- [x] Review NDA/MSA from EEPlus and respond 📅 2026-09-04 ✅ 2026-09-08

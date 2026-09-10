@@ -19,16 +19,18 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-08-28
-last_note: "Draft lease sent to LL. Follow up 9/2."
-next_due: 2026-09-02
+last_updated: 2026-09-02
+last_note: "Followed up with LL broker; follow up Friday."
+next_due: 2026-09-04
 ---
 
 ## Tasks
 
-- [x] Follow up with LL on draft lease 📅 2026-09-02 ✅ 2026-09-02
+- [ ] Follow up with LL broker 📅 2026-09-11
 
 ## Notes
+
+2026-09-02 - Followed up with LL broker. Follow up Friday.
 
 2026-08-28 - Draft lease sent to LL. Create follow up next Wednesday.
 

@@ -14,13 +14,15 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-08-31
-last_note: "Follow up Friday re: survey"
+last_updated: 2026-09-08
+last_note: "Chris Demco assigned as TM"
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-09-08 - Chris Demco is new TM.
 
 2026-08-31 - Follow up Friday re: survey.
 
