@@ -18,7 +18,7 @@ next_due: 2026-09-03
 
 ## Tasks
 
-- [ ] Review Cincy ABDN survey 📅 2026-09-03
+- [x] Review Cincy ABDN survey 📅 2026-09-03 ✅ 2026-09-14
 
 ## Notes
 

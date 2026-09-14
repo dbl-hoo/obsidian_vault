@@ -33,14 +33,6 @@
       "key": "X"
     }
   ],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Z"
-    }
-  ],
   "editor:set-heading-2": [
     {
       "modifiers": [
@@ -55,6 +47,15 @@
         "Alt"
       ],
       "key": "D"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
     }
   ]
 }

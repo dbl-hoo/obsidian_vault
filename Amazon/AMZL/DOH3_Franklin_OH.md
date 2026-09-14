@@ -20,7 +20,7 @@ next_due: 2026-09-08
 ---
 ## Tasks
 
-- [ ] Follow up with seller on Declaration termination 📅 2026-09-08
+- [ ] Follow up with seller on Declaration termination 📅 2026-09-18
 
 ## Notes
 

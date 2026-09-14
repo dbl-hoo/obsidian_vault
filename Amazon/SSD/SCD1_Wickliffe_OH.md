@@ -13,18 +13,18 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-09-01
-last_note: "CRA draft sent to LL; follow up Friday."
-next_due: 2026-09-04
+last_updated: 2026-09-09
+last_note: "Power requirement up to 8K amps (from 6K)."
+next_due:
 tags:
   - deal
   - amazon
 ---
 ## Tasks
 
-- [x] Follow up with LL on CRA draft 📅 2026-09-04 ✅ 2026-09-08
-
 ## Notes
+
+2026-09-09 - Power requirement updated: needs 8K amps, up from 6K.
 
 2026-09-01 - CRA draft sent to LL. Follow up Friday.
 

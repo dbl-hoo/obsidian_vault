@@ -10,7 +10,7 @@ last_updated: 2026-09-02
 ## Tasks
 
 - [x] Review agency listing agreement w/ First Industrial for deal breakers 📅 2026-09-03 ✅ 2026-09-08
-- [ ] Follow up w/ Dan 📅 2026-09-09
+- [x] Follow up w/ Dan 📅 2026-09-09 ✅ 2026-09-14
 
 ## Notes
 
