@@ -13,9 +13,9 @@ start_date: 2025-12-17
 end_date:
 local_broker: KBC
 area: Amazon
-last_updated: 2026-08-31
-last_note: "To do: draft CA if haven't heard from Arin by Tue 9/1."
-next_due: 2026-09-01
+last_updated: 2026-09-14
+last_note: "Followed up on CA; follow up EOW."
+next_due: 2026-09-18
 tags:
   - deal
   - amazon
@@ -23,9 +23,11 @@ tags:
 
 ## Tasks
 
-- [x] Draft CA if haven't heard from Arin by Tuesday 📅 2026-09-01 ✅ 2026-09-01
+- [x] Follow up on CA 📅 2026-09-18 ✅ 2026-09-15
 
 ## Notes
+
+2026-09-14 - Followed up on CA.
 
 2026-08-31 - To do: draft CA if haven't heard from Arin by Tuesday.
 

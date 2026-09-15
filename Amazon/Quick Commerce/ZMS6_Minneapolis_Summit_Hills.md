@@ -19,16 +19,18 @@ tags:
   - deal
   - amazon
   - quick-commerce
-last_updated: 2026-09-02
-last_note: "Followed up with LL broker; follow up Friday."
-next_due: 2026-09-04
+last_updated: 2026-09-14
+last_note: "Followed up with LL broker; follow up EOW."
+next_due: 2026-09-18
 ---
 
 ## Tasks
 
-- [ ] Follow up with LL broker 📅 2026-09-11
+- [x] Follow up with LL broker 📅 2026-09-18 ✅ 2026-09-15
 
 ## Notes
+
+2026-09-14 - Followed up with LL broker.
 
 2026-09-02 - Followed up with LL broker. Follow up Friday.
 
