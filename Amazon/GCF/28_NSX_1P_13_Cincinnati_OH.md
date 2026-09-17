@@ -27,4 +27,4 @@ next_due: 2026-09-21
 
 ## Tasks
 
-- [ ] Finalize and submit NSX LOI (Cincinnati) 📅 2026-09-21
+- [x] Finalize and submit NSX LOI (Cincinnati) 📅 2026-09-21 ✅ 2026-09-16

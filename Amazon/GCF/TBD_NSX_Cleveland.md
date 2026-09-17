@@ -25,4 +25,4 @@ next_due: 2026-09-21
 
 ## Tasks
 
-- [ ] Track NSX Cleveland site selection status 📅 2026-09-21
+- [x] Track NSX Cleveland site selection status 📅 2026-09-21 ✅ 2026-09-16

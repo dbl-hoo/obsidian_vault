@@ -5,7 +5,7 @@ aliases:
   - SOU3
 deal_type: Lease
 business_unit: SSD
-status: Selected
+status: Completed
 tm: Mike Nevel
 pcm: Alex Richardson (nalexari@amazon.com)
 launch_date: 2027-01-01
@@ -16,8 +16,8 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-08-03
-last_note: Followed up with LL on zoning letter and lease; follow up Monday 7/6.
+last_updated: 2026-09-16
+last_note: Lease signed; deal archived.
 ---
 
 ## Tasks
@@ -25,6 +25,8 @@ last_note: Followed up with LL on zoning letter and lease; follow up Monday 7/6.
 - [x] Follow up with Alexandra Richards 📅 2026-08-04 ✅ 2026-08-05
 
 ## Notes
+
+2026-09-16 - Lease signed. Deal archived.
 
 2026-06-30 - Followed up with LL on zoning letter and lease. Follow up Monday 7/6.
 

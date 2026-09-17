@@ -14,14 +14,18 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-09-01
-last_note: "Building is a 2w2f."
-next_due: 2026-06-02
+last_updated: 2026-09-15
+last_note: "LOI back to DHL Development."
+next_due: 2026-09-22
 ---
 
 ## Tasks
 
+- [ ] Follow up on LOI to DHL Development 📅 2026-09-22
+
 ## Notes
+
+2026-09-15 - LOI back to DHL Development.
 
 2026-09-01 - Building is a 2w2f.
 

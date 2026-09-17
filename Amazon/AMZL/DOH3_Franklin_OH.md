@@ -14,15 +14,17 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-09-01
-last_note: "Declaration termination draft sent to seller; follow up in 1 week."
-next_due: 2026-09-08
+last_updated: 2026-09-15
+last_note: "TC w/ Jeff Baumgardner — outreach to 4 property owners underway; Oct 2 response date."
+next_due: 2026-10-02
 ---
 ## Tasks
 
-- [x] Follow up with seller on Declaration termination 📅 2026-09-18 ✅ 2026-09-15
+- [ ] Follow up on Declaration termination property owner outreach 📅 2026-10-02
 
 ## Notes
+
+2026-09-15 - TC w/ Jeff Baumgardner. They've reached out to 4 property owners on the Declaration termination; requests making their way through. Oct 2 response date.
 
 2026-09-01 - Draft termination of the Declaration (Exception 17 development standards/CC&Rs) sent to seller. Follow up in 1 week.
 
