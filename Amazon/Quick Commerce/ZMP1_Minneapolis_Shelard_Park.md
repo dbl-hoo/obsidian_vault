@@ -2,7 +2,7 @@
 aliases:
   - Minneapolis_Shelard Park_ZMP1
 site_code: ZMP1
-launch_date: 2026-08-01
+launch_date:
 pin: Shelard Park
 address: 8357 10th Avenue N, Golden Valley, MN
 city: Minneapolis
@@ -11,14 +11,14 @@ deal_type: New Lease
 business_unit: QC
 status: Selected
 local_broker: Alex Funk | Senior Associate
-loi_final: Yes
-loi_prepared: Yes
+loi_final: "Yes"
+loi_prepared: "Yes"
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-08-20
-last_note: "Pinged LL's broker on lease draft; follow up Monday."
-next_due:
+last_updated: 2026-09-17
+last_note: "Sent plans to LL; questions for Omar. Follow up Fri."
+next_due: 2026-09-18
 tags:
   - deal
   - amazon
@@ -29,7 +29,11 @@ tags:
 
 ## Tasks
 
+- [x] Follow up with LL on plans / Omar questions 📅 2026-09-18 ✅ 2026-09-18
+
 ## Notes
+
+2026-09-16 - Sent plans to LL; questions for Omar.
 
 2026-08-20 - Pinged LL's broker on lease draft; follow up Monday.
 

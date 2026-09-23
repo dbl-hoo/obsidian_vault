@@ -17,4 +17,4 @@ last_updated: 2026-09-15
 
 ## Tasks
 
-- [ ] Follow up with Patrick on commission agreement 📅 2026-09-22
+- [x] Follow up with Patrick on commission agreement 📅 2026-09-22 ✅ 2026-09-22

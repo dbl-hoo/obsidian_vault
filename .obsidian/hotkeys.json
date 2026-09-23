@@ -1,22 +1,4 @@
 {
-  "calendar:show-calendar-view": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
-  "calendar:open-weekly-note": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "C"
-    }
-  ],
   "insert-current-time": [
     {
       "modifiers": [

@@ -16,9 +16,9 @@ loi_prepared: "Yes"
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-08-31
-last_note: "LL's broker confirmed as Sam Gleason (Cushman & Wakefield)."
-next_due:
+last_updated: 2026-09-17
+last_note: "Followed up with Sam Gleason; follow up Mon."
+next_due: 2026-09-21
 tags:
   - deal
   - amazon
@@ -29,7 +29,11 @@ tags:
 
 ## Tasks
 
+- [x] Follow up with Sam Gleason 📅 2026-09-21 ✅ 2026-09-22
+
 ## Notes
+
+2026-09-16 - Followed up with Sam.
 
 2026-08-31 - LL's broker: Sam Gleason, Senior Associate, Leasing Agency. Direct: +1 952 241 1111. Mobile: +1 612 425 6575. Sam.Gleason@cushwake.com. Follow up tomorrow on LOI with Sam.
 

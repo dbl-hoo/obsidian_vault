@@ -9,7 +9,7 @@ last_updated: 2026-09-16
 
 ## Tasks
 
-- [ ] Review owner's comments to listing agreement and respond to Dan Rattay 📅 2026-09-17
+- [x] Review owner's comments to listing agreement and respond to Dan Rattay 📅 2026-09-17 ✅ 2026-09-22
 
 ## Notes
 

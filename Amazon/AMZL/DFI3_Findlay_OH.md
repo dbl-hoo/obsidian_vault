@@ -6,7 +6,7 @@ aliases:
   - DFI3
 deal_type: New Lease
 business_unit: AMZL
-status: Surveying
+status: On Hold
 tm: Kristen DeFamio
 launch_date: 2028-01-01
 start_date:
@@ -16,14 +16,16 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-09-02
-last_note: "Two site options reviewed w/ Matt Gilroy (Findlay EconDev): Voorhees site, Schulte property."
+last_updated: 2026-09-17
+last_note: "On hold till spring."
 next_due:
 ---
 
 ## Tasks
 
 ## Notes
+
+2026-09-16 - On hold till spring.
 
 2026-09-02 - Clay Smith tracking down off-market opportunities; emailed Kristen DeFamio update.
 

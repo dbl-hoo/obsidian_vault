@@ -61,3 +61,5 @@ last_verified: 2026-08-03
 > Research summary, not a formal legal opinion. Both regulation summaries were sourced via aggregator/AI-summarized fetches of the official Legislative Research Commission pages rather than a line-by-line read of the full regulation text — confirm the complete current text of 201 KAR 11:121 and 11:105 (and check for subsections not captured above, e.g. agency-disclosure requirements elsewhere in KAR Title 201 Chapter 11) with KY local counsel or KREC directly before finalizing agreement templates or ad review procedures for the new office.
 
 See also: [[Out-of-State Commission Paths]] (KY's commercial-cooperation path for non-licensed KBC — superseded for KY once the new office is directly licensed there)
+
+See also: [[Kentucky Commission Payment to Licensee-Owned Entity]] (KY bar on paying commissions to a licensee's own LLC)

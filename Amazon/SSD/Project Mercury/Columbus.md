@@ -14,15 +14,15 @@ last_note: "7.29 recut: 7 pins (3 new, 4 carried) — priority MSA for debrief"
 
 ## Pins
 
-| # | Working ID | City | State | Zip | Lat | Long | Launch | Origin | Status | Candidate Site |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 289 | Columbus43054 | New Albany | OH | 43054 | 40.086964 | -82.808031 | 2028-10 | New | Not Started | |
-| 389 | Columbus43026 | Hilliard | OH | 43026 | 40.021696 | -83.170080 | 2029-01 | New | Not Started | |
-| 390 | Columbus43035 | Lewis Center | OH | 43035 | 40.188354 | -82.996063 | 2029-01 | Carried | Not Started | |
-| 391 | Columbus43240 | Columbus | OH | 43240 | 40.146034 | -82.980006 | 2029-01 | New | Not Started | |
-| 618 | Columbus43056 | Heath | OH | 43056 | 39.995904 | -82.338340 | 2030-01 | Carried | Not Started | |
-| 619 | Columbus43062 | Pataskala | OH | 43062 | 40.000678 | -82.676977 | 2030-01 | Carried | Not Started | |
-| 847 | Columbus43112 | Carroll | OH | 43112 | 39.808767 | -82.702584 | 2031-01 | Carried | Not Started | |
+| #   | Working ID    | City         | State | Zip   | Lat       | Long       | Launch  | Origin  | Status      | Candidate Site |
+| --- | ------------- | ------------ | ----- | ----- | --------- | ---------- | ------- | ------- | ----------- | -------------- |
+| 289 | Columbus43054 | New Albany   | OH    | 43054 | 40.086964 | -82.808031 | 2028-10 | New     | Not Started |                |
+| 389 | Columbus43026 | Hilliard     | OH    | 43026 | 40.021696 | -83.170080 | 2029-01 | New     | Not Started |                |
+| 390 | Columbus43035 | Lewis Center | OH    | 43035 | 40.188354 | -82.996063 | 2029-01 | Carried | Not Started |                |
+| 391 | Columbus43240 | Columbus     | OH    | 43240 | 40.146034 | -82.980006 | 2029-01 | New     | Not Started |                |
+| 618 | Columbus43056 | Heath        | OH    | 43056 | 39.995904 | -82.338340 | 2030-01 | Carried | Not Started |                |
+| 619 | Columbus43062 | Pataskala    | OH    | 43062 | 40.000678 | -82.676977 | 2030-01 | Carried | Not Started |                |
+| 847 | Columbus43112 | Carroll      | OH    | 43112 | 39.808767 | -82.702584 | 2031-01 | Carried | Not Started |                |
 
 ## Tasks
 

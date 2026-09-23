@@ -9,7 +9,7 @@ last_updated: 2026-09-15
 
 ## Tasks
 
-- [ ] Review N&A Project Services Agreement (PSA) and respond 📅 2026-09-22
+- [x] Review N&A Project Services Agreement (PSA) and respond 📅 2026-09-22 ✅ 2026-09-22
 
 ## Notes
 

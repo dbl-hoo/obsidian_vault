@@ -58,3 +58,5 @@ How KBC can legally collect a commission or referral fee in the 27 states where 
 - **North Carolina** — KBC is now directly licensed (2026-07-23); it's no longer in the non-licensed workaround list above. Direct licensed activity + direct invoicing available like any home-state jurisdiction.
 - **Get local counsel before proceeding** in the flagged states: **Louisiana, Maine, North Dakota, Utah, Vermont** — either the out-of-state-compensation rule is unsettled (UT, VT), reciprocity is narrow (ND), or there's no clean commercial co-op path and licensure/affiliation is effectively required (ME, LA).
 - *Updated 2026-08-17: Indiana resolved and removed from the flagged list — see the Indiana row above (referral exemption + commercial cooperation carve-out, both with clean statutory basis).*
+
+See also: [[Kentucky Commission Payment to Licensee-Owned Entity]]
