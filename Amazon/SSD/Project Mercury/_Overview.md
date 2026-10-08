@@ -125,7 +125,7 @@ One CoStar saved search per pin. For each pin:
 
 2026-08-27 - Added full RE BRS Summary (Orbital design type) to search criteria: dock doors corrected to 11-12 (was 11), DP/flex parking corrected to 40-53 (was 40-55), plus preferred IB/OB adjacent, 244' min short-side dimension, power (1,200 KW/1,600A @ 480V), slab-on-grade spec, and daily volume/capacity figures.
 
-2026-08-27 - Updated building program requirements: 120K-145K SF (replaces old 75K-450K screening range), 40-55 flex spots, 180-220 parking spots, 32" clear height (can go lower if building is on the large end, but that rules out orbital), 11 dock doors.
+2026-08-27 - Updated building program requirements: 120K-145K SF (replaces old 75K-450K screening range), 40-55 flex spots, 180-220 parking spots, 32' clear height (can go lower if building is on the large end, but that rules out orbital), 11 dock doors.
 
 2026-08-11 - Built /survey-intake skill: feed it a flyer PDF, broker .msg, CoStar export, image, or pasted listing + MSA → extracts fields, geocodes, assigns to nearest pin, screens criteria, inserts/updates the row in the MSA survey workbook. Tested end-to-end (insert, dedupe-update, placeholder replacement, criteria flags).
 

@@ -14,8 +14,8 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-09-15
-last_note: "LOI back to DHL Development."
+last_updated: 2026-09-25
+last_note: "Building type changed 2W2F to 2W4F (31-46 usable acres)."
 next_due: 2026-09-22
 ---
 
@@ -24,6 +24,8 @@ next_due: 2026-09-22
 - [ ] Follow up on LOI to DHL Development 📅 2026-09-22
 
 ## Notes
+
+2026-09-25 - Building type changed from 2W2F to 2W4F. Per KB (AMZL.md), 2W4F spans BTS_2W4F_SS (M, single-side loading, 31-38 usable acres) and BTS_2W4F_DS (L, dual-side loading, 39-46 usable acres) — combined required land size 31-46 usable acres. Previous 2W2F/XS spec was 19-25 acres. Re-check shortlisted sites (DHL Development, Berkeley Rd.) against the larger acreage.
 
 2026-09-15 - LOI back to DHL Development.
 

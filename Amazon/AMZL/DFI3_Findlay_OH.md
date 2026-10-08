@@ -16,10 +16,24 @@ area: Amazon
 tags:
   - deal
   - amazon
+  - daily
 last_updated: 2026-09-17
-last_note: "On hold till spring."
+last_note: On hold till spring.
 next_due:
+date: 2026-10-08
 ---
+---
+
+## Notes
+
+## [[45002 - 10100 Progress Way]] - LOI back to seller; requested comps.
+
+## [[]]
+## [[]]
+## [[]]
+## [[]]
+
+<!-- EOD_PENDING -->
 
 ## Tasks
 

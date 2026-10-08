@@ -1,6 +1,6 @@
 ---
 tags: [knowledgebase, amazon, gcf]
-last_updated: 2026-06-10
+last_updated: 2026-09-25
 ---
 
 # GCF — Knowledge Base
@@ -27,6 +27,21 @@ last_updated: 2026-06-10
 | Power | 10,000 amps |
 | Off-peak Weekly HC | 2,103 |
 | Distance to Target Zip | 150 miles |
+
+### NSX Building Requirements
+
+New building type within the Amazon NACF network. Cross-dock load type.
+
+| Parameter | Requirement |
+|---|---|
+| Building Size | 1M+ SF |
+| Clear Height | 36' min |
+| Dock Doors | 65 |
+| Trailer Parking | 200 |
+| Auto Parking | 184 |
+| Dock Door Centerline Spacing | 13' |
+| Power | 4,000 – 6,000 amps |
+| Load Type | Cross-Dock |
 
 ### Dock Spacing
 

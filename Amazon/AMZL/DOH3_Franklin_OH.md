@@ -14,15 +14,23 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-09-15
-last_note: "TC w/ Jeff Baumgardner — outreach to 4 property owners underway; Oct 2 response date."
+last_updated: 2026-10-05
+last_note: "Declaration amendment: Tway & NC Works signed/signing; Voelker signing this week."
 next_due: 2026-10-02
 ---
 ## Tasks
 
-- [ ] Follow up on Declaration termination property owner outreach 📅 2026-10-02
+- [x] Follow up on Declaration termination property owner outreach 📅 2026-10-02 ✅ 2026-10-06
 
 ## Notes
+
+2026-10-05 - Declaration amendment signatures:
+- Tway Columbus LLC (15.0801 ac) and NC Works, Inc. (10 ac) have signed or will sign.
+- Voelker Investment Company, LLC (4.9388 ac) is scheduled to sign this week.
+- Approval math, based on the 8/12 owner list:
+  - These three total about 30.02 ac.
+  - Approval needs Franklin Vista Farms plus 2/3 of the remaining acreage. That's about 69.8 of ~104.7 ac (the list's parcels sum to 127.23 ac against the 125.613 ac stated).
+  - So these three cover roughly 29% of the non-FVF acreage, leaving about 40 ac more needed.
 
 2026-09-15 - TC w/ Jeff Baumgardner. They've reached out to 4 property owners on the Declaration termination; requests making their way through. Oct 2 response date.
 

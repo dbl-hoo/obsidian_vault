@@ -1,6 +1,6 @@
 ---
 tags: [knowledgebase, amazon, glossary]
-last_updated: 2026-06-12
+last_updated: 2026-10-05
 ---
 
 # Amazon Real Estate — Abbreviations & Glossary
@@ -27,6 +27,7 @@ Reference for jargon that comes up in Amazon deal notes. Check here before askin
 | ROW | Right of Way | |
 | EAA | Early Access Agreement | |
 | CCR | Covenants, Conditions & Restrictions | |
+| RDC | Regional Distribution Center | Gen1 program, 2027+ launches — see [[RDC]] |
 
 ## Needs Confirmation
 

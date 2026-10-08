@@ -1,5 +1,8 @@
 ---
-site_code: 29_ARS_3
+site_code: ALN1
+aliases:
+  - 29_ARS_631_Purchase
+  - 29_ARS_3
 deal_type: Purchase
 business_unit: GCF
 status: Selected
@@ -10,8 +13,8 @@ start_date: 2026-03-27
 end_date:
 local_broker: Matt Eastin
 area: Amazon
-last_updated: 2026-06-28
-last_note: Positive movement from EconDev on Edwardsville site (TriStar). Following up with Kyle after the holiday.
+last_updated: 2026-10-06
+last_note: Site code ALN1 assigned (formerly 29_ARS_3 / 29_ARS_631_Purchase).
 next_due: 2026-05-06
 tags:
   - deal
@@ -21,6 +24,8 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-10-06 - Site code ALN1 assigned (formerly 29_ARS_3 / 29_ARS_631_Purchase).
 
 2026-06-28 - Positive movement from EconDev on Edwardsville site (TriStar). Following up with Kyle after the holiday.
 
