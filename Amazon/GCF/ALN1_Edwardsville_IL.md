@@ -13,8 +13,8 @@ start_date: 2026-03-27
 end_date:
 local_broker: Matt Eastin
 area: Amazon
-last_updated: 2026-10-06
-last_note: Site code ALN1 assigned (formerly 29_ARS_3 / 29_ARS_631_Purchase).
+last_updated: 2026-10-12
+last_note: Recommended civil contact logged — Tim Stock, Stock & Associates.
 next_due: 2026-05-06
 tags:
   - deal
@@ -24,6 +24,10 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-10-12 - Recommended civil: Tim Stock, Stock & Associates (stockassoc.com).
+- P: 636-530-9100 | D: 636-681-2404
+- tim.stock@stockassoc.com
 
 2026-10-06 - Site code ALN1 assigned (formerly 29_ARS_3 / 29_ARS_631_Purchase).
 

@@ -4,8 +4,8 @@ business_unit: SSD
 area: Amazon
 total_pins_assigned: 35
 tags: [project-mercury, amazon]
-last_updated: 2026-08-27
-last_note: "Added full RE BRS Summary (Orbital): dock doors 11-12, DP parking 40-53, power/slab/short-side specs"
+last_updated: 2026-10-12
+last_note: "BRS approved: 105-145K SF, parking 168-203 / DP 53-72, short side 167/123, clear-height matrix added"
 ---
 
 ## Background
@@ -74,23 +74,44 @@ The CoStar saved searches were built one per pin against the **old** centroids. 
 
 ## Search Criteria
 
+**Source: approved Mercury BRS** (Dominic Nicholas email 2026-10-12, [approval memo](https://approvals.amazon.com/approval/49643850/details/memo-view/notes-and-summary)). Orbital design is standard across **all** Mercury requirements.
+
 - **Search radius:** 3 miles from pin (lat/long given per pin). Up to 5 miles considered as backup if nothing viable within 3.
 - **Size:**
-   - Building: 120,000 – 145,000 SF
+   - Building: **105,000 – 145,000 SF** (ideal range, per BRS) — minimum scales up as clear height drops, see matrix below
    - Land: 7 – 30 acres
-- **Clear height:** 32' — can go lower if the building is on the large end of the range, but that rules out orbital.
+- **Clear height:** 32' target. Lower is **not ideal but not a blocker** — capex and required SF both go up. Orbital still applies (supersedes the 8/27 note that sub-32' ruled out orbital).
 - **Dock doors:** 11–12
-- **Associate parking:** 180–220 spots
-- **DP (flex) parking:** 40–53 spots
+- **Associate parking:** 168–203 spots
+- **DP (flex) parking:** 53–72 spots
 - **Preferred IB/OB location:** Adjacent
-- **Min building short-side dimension:** 244'
+- **Min building short-side dimension:** soft min 167' · hard min 123'
 - **Power:** 1,200 KW or 1,600 Amps at 480V (does not include added cooling for heat rejection, ~350kW additional)
 - **Slab on grade:** 6" minimum thickness, 4,000 PSI, unreinforced
 - **Design type:** Orbital
 - **Daily volume (Orbital):** GM (sort + non-sort) 49,000 · Injection capacity 37,000 · Perishable 25,000 · Hazmat 1,000 · Total window-solve volume 112,000
-- **Total building size needed (Orbital + process + perishable):** 115,287 SF
-- **Hazmat capacity:** 1,000 SF · **Pharmacy:** 1,800 SF · **Prime Air:** 1,913 SF
+- **Space program:** Orbital + process (GM & perishable) 102,000 SF · Hazmat 1,000 SF · Pharmacy 1,800 SF · Prime Air 1,913 SF (sum ≈ 106,713 SF)
 
+### Clear Height → Footprint / CapEx Matrix
+
+Incremental footprint and capex vs. a 32' baseline. Mercury's program (~100K at 32') lines up with **Gen5 Small** — use that row for screening.
+
+| Storage clear height | 32' | 30' | 28' | 26' | 24' | 22' | 20' | 18' |
+|---|---|---|---|---|---|---|---|---|
+| **Gen5 Small** — footprint | **100K** | 105K | 110K | 117K | 121K | 128K | 135K | 151K |
+| Gen5 Small — incremental capex | — | $1.4MM | $2.8MM | $5.3MM | $5.3MM | $7.9MM | $10.6MM | $17.0MM |
+| **Gen5 Medium** — footprint | **225K** | 232K | 240K | 251K | 258K | 272K | 283K | 308K |
+| Gen5 Medium — incremental capex | — | $2.0MM | $4.3MM | $7.3MM | $7.9MM | $12.3MM | $15.1MM | $22.4MM |
+
+*Capex = AR + construction; Amazon used $232/SF (Small) and $212/SF (Medium) for incremental construction cost.*
+
+**How to screen a building against it:**
+
+- Find the building's clear height in the table (round **down** to the next column — 27' reads as 26'). That footprint is the **minimum SF** the building must have.
+- 32'–28' clear: the 105K BRS floor governs (105K–110K).
+- 26'–20' clear: minimum climbs to 117K–135K — the usable band inside the 145K ceiling narrows fast.
+- **18' clear needs ~151K — above the 145K ceiling.** Effectively out unless Amazon will flex the range.
+- Put the clear-height capex hit in the survey Comments on any sub-32' candidate (e.g. "26' clear → needs 117K, +$5.3MM capex").
 
 ## Search Methodology
 
@@ -122,6 +143,13 @@ One CoStar saved search per pin. For each pin:
 ## Tasks
 
 ## Notes
+
+2026-10-12 - Mercury BRS approved (Dominic Nicholas email). Orbital is standard across all Mercury requirements. Changes vs. the 8/27 RE BRS Summary:
+- Building size 105K–145K SF (was 120K–145K)
+- Associate parking 168–203 (was 180–220); DP/flex parking 53–72 (was 40–53)
+- Min short side: soft 167' / hard 123' (was 244')
+- Orbital + process space now 102,000 SF (was 115,287 SF total)
+- Sub-32' clear is not a blocker, just more SF and capex — added Amazon's clear-height matrix (Gen5 Small/Medium footprint + incremental capex, 32' down to 18') to Search Criteria. Removed the old "lower clear rules out orbital" caveat.
 
 2026-08-27 - Added full RE BRS Summary (Orbital design type) to search criteria: dock doors corrected to 11-12 (was 11), DP/flex parking corrected to 40-53 (was 40-55), plus preferred IB/OB adjacent, 244' min short-side dimension, power (1,200 KW/1,600A @ 480V), slab-on-grade spec, and daily volume/capacity figures.
 

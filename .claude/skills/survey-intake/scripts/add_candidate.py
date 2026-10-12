@@ -130,6 +130,23 @@ def main():
         av = cand.get("avail_sf")
         if isinstance(av, (int, float)) and not (75000 <= av <= 450000):
             flags.append(f"Available SF {av:,.0f} — outside 75k–450k criteria")
+        # Mercury BRS (2026-10-12): Gen5 Small footprint/capex by clear height
+        ch = cand.get("clear_max") or cand.get("clear_min")
+        if isinstance(ch, (int, float)) and isinstance(av, (int, float)):
+            matrix = [(32, 105000, None), (30, 105000, 1.4), (28, 110000, 2.8), (26, 117000, 5.3),
+                      (24, 121000, 5.3), (22, 128000, 7.9), (20, 135000, 10.6), (18, 151000, 17.0)]
+            row = next((m for m in matrix if ch >= m[0]), None)
+            if row is None:
+                flags.append(f"{ch:g}' clear — below 18', off BRS matrix")
+            else:
+                _, need, capex = row
+                hit = f", +${capex}MM capex" if capex else ""
+                if av < need:
+                    flags.append(f"{ch:g}' clear needs {need/1000:.0f}k SF{hit} — only {av/1000:.0f}k avail")
+                elif need > 145000:
+                    flags.append(f"{ch:g}' clear needs {need/1000:.0f}k SF{hit} — over 145k BRS ceiling")
+                elif capex:
+                    flags.append(f"{ch:g}' clear → needs {need/1000:.0f}k SF{hit}")
     else:
         ac = cand.get("acreage")
         if isinstance(ac, (int, float)) and not (7 <= ac <= 30):

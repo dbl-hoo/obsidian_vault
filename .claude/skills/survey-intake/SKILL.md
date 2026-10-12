@@ -66,7 +66,7 @@ Write the candidate JSON to the scratchpad, then run:
 python "<skill dir>/scripts/add_candidate.py" --msa Cincinnati --type building --json cand.json [--pin Cincinnati41018] [--overwrite]
 ```
 
-The script handles the rest: finds the workbook (partial MSA name ok), assigns to the **nearest pin** by haversine (or `--pin` to force), computes distance, appends criteria flags to Comments (>5 mi, 3–5 mi backup ring, SF outside 75k–450k, acreage outside 7–30), **dedupes by address/name within the pin group** (fills blanks on match; reports conflicts unless `--overwrite`), replaces `None` placeholder rows, keeps the group distance-sorted, and renumbers. It prints a JSON report.
+The script handles the rest: finds the workbook (partial MSA name ok), assigns to the **nearest pin** by haversine (or `--pin` to force), computes distance, appends criteria flags to Comments (>5 mi, 3–5 mi backup ring, SF outside 75k–450k, Mercury BRS clear-height test — available SF vs. the Gen5 Small footprint for that clear height, with the capex hit, per `_Overview` matrix — acreage outside 7–30), **dedupes by address/name within the pin group** (fills blanks on match; reports conflicts unless `--overwrite`), replaces `None` placeholder rows, keeps the group distance-sorted, and renumbers. It prints a JSON report.
 
 Handle these outcomes:
 - **Candidate >5 mi from every pin in the MSA** — the row still lands on the nearest pin with a flag, but tell Jason explicitly; it may belong in a different MSA or nowhere.

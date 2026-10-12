@@ -16,12 +16,11 @@ tags:
   - amazon
 last_updated: 2026-09-25
 last_note: "Building type changed 2W2F to 2W4F (31-46 usable acres)."
-next_due: 2026-09-22
+next_due:
 ---
 
 ## Tasks
 
-- [ ] Follow up on LOI to DHL Development 📅 2026-09-22
 
 ## Notes
 

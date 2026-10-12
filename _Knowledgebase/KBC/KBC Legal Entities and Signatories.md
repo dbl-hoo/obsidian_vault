@@ -17,6 +17,7 @@ Reference for contract execution — use to select the correct legal entity, inc
 | Florida                              | KBC Advisors - Florida, LLC          | a Washington limited liability company | Mandy Mota                                                        | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
 | Houston                              | KBC Advisors - Houston TX, LLC       | a Delaware limited liability company   | John Ferruzzo, Ryan Keiser                                        | 1233 West Loop S, Suite 1270, Houston, TX 77027              |
 | Los Angeles                          | KBC Advisors - Capital Markets, Inc. | a Washington corporation               | Bo Mills, Ryan Bos                                                | 1901 Avenue of the Stars, Suite 931, Los Angeles, CA 90067   |
+| Louisville                           | KBC Kentucky Holdings, LLC           | a Delaware limited liability company   | Powell Spears, Matt Hartlage, Mandy Mota                          | 10200 Linn Station Road, Suite 250, Louisville, KY 40223     |
 | Manhattan Beach                      | KBC Advisors - California, Inc.      | a Washington corporation               | Ryan Bos, Colin MacMillan                                         | 1201 Morningside Drive, Suite 300, Manhattan Beach, CA 90266 |
 | Maryland                             | KBC Advisors - Georgia, LLC          | a Washington limited liability company | Mandy Mota                                                        | 1776 Peachtree Street NW, Suite 120S, Atlanta, GA 30309      |
 | Massachusetts                        | KBC Advisors Services, LLC           | a Delaware limited liability company   | Mandy Mota                                                        | 5628 Airport Way S, Suite 238, Seattle, WA 98108             |
@@ -42,4 +43,5 @@ Reference for contract execution — use to select the correct legal entity, inc
 - **KBC TX Development, LLC** is a separate entity used for Dallas development deals; distinct from KBC Advisors - Texas, LLC.
 - **Philadelphia** uses the Georgia entity (KBC Advisors - Georgia, LLC) with a Villanova, PA address.
 - **Maryland** also uses the Georgia entity with the Atlanta address.
+- **Louisville** (new office, 2026): market leaders are Powell Spears and Matt Hartlage; office phone +1 502 251 3025. Address per kbcadvisors.com/locations (checked 2026-10-09).
 - When a jurisdiction isn't listed, default to **KBC Advisors Services, LLC** (Delaware LLC) — the catch-all services entity.

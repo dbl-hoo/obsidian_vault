@@ -9,7 +9,6 @@ last_updated: 2026-09-30
 
 ## Tasks
 
-- [ ] 🔺 Review Subordination of Leasing Agreement and tell Andrew Siemsen whether KBC NJ can sign 📅 2026-10-02
 
 ## Notes
 

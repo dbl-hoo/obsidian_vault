@@ -2,7 +2,7 @@
 project: Listing Agreement - 6611 Shepherdsville Road, Louisville, KY (LV Airport DC / "Derby building")
 status: Ongoing
 area: KBC
-office: Upcoming new office
+office: Louisville
 counterparty: LaSalle Investment Management (Ryan Tripton)
 tags: [kbc]
 last_updated: 2026-09-23
@@ -18,4 +18,3 @@ Attachments saved: Listing Agreement - 6611 Shepherdsville Rd Louisville KY - 20
 
 ## Tasks
 
-- [ ] Confirm with Powell what's needed on the LaSalle listing agreement (term start 10/22/26) 📅 2026-09-30

@@ -155,7 +155,7 @@ project:
 status: Ongoing
 area: KBC
 office:          # Atlanta | Austin | Chicago | Columbus | Dallas | Houston
-                 # Los Angeles | Manhattan Beach | Nashville | New Jersey | New York
+                 # Los Angeles | Louisville | Manhattan Beach | Nashville | New Jersey | New York
                  # Newport Beach | Oakland | On Location | Philadelphia | Phoenix
                  # Seattle | West Texas
 tags: [kbc]

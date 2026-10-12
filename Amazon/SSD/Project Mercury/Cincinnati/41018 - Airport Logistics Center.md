@@ -4,7 +4,7 @@ aliases:
   - Airport Logistics Center Erlanger Ky
 deal_type: Lease
 business_unit: SSD
-status: Surveying
+status: Cancelled
 tm: Adam Knoll
 pcm:
 launch_date:
@@ -17,7 +17,7 @@ tags:
   - amazon
   - project-mercury
 last_updated: 2026-10-08
-last_note: "File created from 9/24 Cincinnati debrief — shortlisted 2028 option for pin 41018 (vs. VanTrust Park 536)."
+last_note: Building is lease; no longer in consideration.
 next_due:
 ---
 
@@ -58,5 +58,7 @@ next_due:
 ## Tasks
 
 ## Notes
+
+2026-10-08 - building is lease; no longer in consideration
 
 2026-10-08 - File created from 9/24 Cincinnati MSA debrief (Dominic Nicholas email). Shortlisted as a 2028 option for pin 41018 alongside VanTrust Park 536 Bldg 3. Both will be run against the financial and topology criteria before a final selection, and the 41018 pick will affect the 45002 choice. All 2028 sites to be tested against the 100K template. Specs come from the 9/17 survey and the Colliers flyer. Brokers confirmed from the flyer (LoopNet had listed C&W — wrong).

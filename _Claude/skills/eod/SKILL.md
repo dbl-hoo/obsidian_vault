@@ -42,13 +42,13 @@ Group content by deal. If a chunk of content can't be matched to a deal, **stop 
 For each deal identified:
 1. **Re-read the deal file immediately before writing**
 2. **Prepend** a dated entry to `## Notes` (today's date, ISO format)
-3. **Only create tasks if Jason expressly asks for one** — e.g., "send X by Friday", "need to do Y", "add a task to Z". Implied follow-ups do NOT become tasks (e.g., "follow up next week", "sent EAA to sellers", "waiting on LL" — none of these create tasks). If a task is warranted but no date is given, default to 1 week from today.
+3. **Only create tasks if Jason expressly asks for one** — e.g., "send X by Friday", "need to do Y", "add a task to Z". **"Follow up" always creates a task.** Use the stated timeframe for the due date (e.g. "follow up 1 week" means today + 7), and set `next_due` to match. Status updates with no follow-up language are NOT tasks (e.g. "sent EAA to sellers", "waiting on LL"). If a task is warranted but no date is given, default to 1 week from today.
    - `- [ ] Task description 📅 YYYY-MM-DD`
    - `- [ ] 🔺 High priority task 📅 YYYY-MM-DD`
 4. **Delete all completed tasks** — remove any `- [x]` lines from `## Tasks`. Completed tasks are deleted, not kept.
 5. Update `last_updated:` to today's date
 6. Update `status:` if it changed
-7. **If `next_due:` is being set or changed, there must be an open task with a matching `📅` date in `## Tasks`.** `next_due` without a backing task is a dangling deadline nobody will see. If the note implies a follow-up date but Jason didn't expressly ask for a task (see rule above), don't set `next_due` either — ask him instead, or just log it in the Notes entry with no due-date field.
+7. **If `next_due:` is being set or changed, there must be an open task with a matching `📅` date in `## Tasks`.** `next_due` without a backing task is a dangling deadline nobody will see. If a date is mentioned with no follow-up language and no express task request (see rule above), don't set `next_due` either. Ask him instead, or just log the date in the Notes entry.
 
 ### Step 5 — Stamp the daily note
 Replace `<!-- EOD_PENDING -->` with:
@@ -73,7 +73,7 @@ After processing, suggest specific improvements to `CLAUDE.md` or other system f
 - **Don't create new deal files** during EOD — if a new deal is mentioned, flag it and ask Jason to open it explicitly
 - **Preserve note prose exactly** — don't clean up, rewrite, or summarize what Jason wrote
 - **Tasks go in ## Tasks, notes go in ## Notes** — don't mix them
-- **Only create tasks when Jason expressly asks for one** — implied follow-ups, waiting-on notes, and status updates do NOT become tasks
+- **Only create tasks when Jason expressly asks for one or writes "follow up"** — waiting-on notes and status updates do NOT become tasks
 - If a deal has `status: Closed` or `status: Dead`, flag it rather than updating silently
 - **`next_due:` and `## Tasks` must stay in sync** — never set/update `next_due` without a matching open task, and vice versa
 

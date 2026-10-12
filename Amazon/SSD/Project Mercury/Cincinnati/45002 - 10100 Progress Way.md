@@ -17,8 +17,8 @@ tags:
   - amazon
   - project-mercury
 last_updated: 2026-10-08
-last_note: "File created — preferred 2029+ RE option for pin 45002; draft land-purchase LOI dated 2026-10-01 on file."
-next_due:
+last_note: LOI back to seller; follow up 1 week.
+next_due: 2026-10-15
 ---
 
 > [!info] Project Mercury · [[Cincinnati]] MSA · Pin **Cincinnati45002** (Cleves, OH; pin launch 2028-09) · Target launch **2029+**
@@ -62,6 +62,10 @@ next_due:
 
 ## Tasks
 
+- [x] Follow up with seller on LOI 📅 2026-10-15 ✅ 2026-10-12
+
 ## Notes
+
+2026-10-08 - LOI back to seller - follow up 1 week
 
 2026-10-08 - File created from 9/24 Cincinnati MSA debrief (Dominic Nicholas email). No 2028 solve for pin 45002 because all the options are land. 10100 Progress Way is the preferred RE option for 2029+ and is to be flagged in the site selection app. It sits slightly outside the 5 mi coverage boundary, and the selection depends on the 41018 pick. A draft land-purchase LOI dated 2026-10-01 is already in the Mercury docs folder ($150K/net ac). It wasn't moved into this deal's doc folder.

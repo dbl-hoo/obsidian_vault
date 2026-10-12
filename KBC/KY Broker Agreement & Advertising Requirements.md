@@ -2,7 +2,7 @@
 project: KY Broker Agreement & Advertising Requirements
 status: Ongoing
 area: KBC
-office: Upcoming new office
+office: Louisville
 tags:
   - kbc
 last_updated: 2026-08-03

@@ -1,6 +1,6 @@
 ---
 tags: [knowledgebase, amazon, ssd]
-last_updated: 2026-04-16
+last_updated: 2026-10-12
 ---
 
 # SSD — Knowledge Base
@@ -31,3 +31,6 @@ last_updated: 2026-04-16
 | DP Parking | 57 | 72 |
 ## Potential Design Update - 2026.06.09
 ![[SSD Templates - 2026.06.09 - proto.png]]
+
+## Project Mercury BRS (approved 2026-10-12)
+Orbital design, 105K–145K SF, 32' clear target with a clear-height → footprint/capex matrix (Gen5 Small/Medium). Full spec: [[_Overview#Search Criteria]] (Project Mercury).

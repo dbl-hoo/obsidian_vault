@@ -17,8 +17,8 @@ tags:
   - amazon
   - project-mercury
 last_updated: 2026-10-08
-last_note: "File created from 9/24 Cincinnati debrief — shortlisted 2028 option for pin 41018 (vs. Airport Logistics Center)."
-next_due:
+last_note: LOI to LL; follow up 1 week.
+next_due: 2026-10-15
 ---
 
 > [!info] Project Mercury · [[Cincinnati]] MSA · Pin **Cincinnati41018** (Erlanger, KY) · Target launch **2028**
@@ -51,6 +51,10 @@ next_due:
 
 ## Tasks
 
+- [x] Follow up with LL on LOI 📅 2026-10-15 ✅ 2026-10-12
+
 ## Notes
+
+2026-10-08 - LOI to LL; - follow up 1 week
 
 2026-10-08 - File created from 9/24 Cincinnati MSA debrief (Dominic Nicholas email). Shortlisted as a 2028 option for pin 41018 alongside the Airport Logistics Center. Both will be run against the financial and topology criteria before a final pick. Delivery is Q4 2027, which makes it a viable 2028 launch. The address doesn't match: the flyer says 725 Clymer Ct (41015), the survey says 861 E Mount Zion Rd (41051). Need to confirm which is right.

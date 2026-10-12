@@ -3,8 +3,8 @@ program: Project Mercury
 business_unit: SSD
 area: Amazon
 tags: [project-mercury, amazon, playbook]
-last_updated: 2026-08-11
-last_note: "Created survey playbook + 9 MSA workbooks seeded from intern data"
+last_updated: 2026-10-12
+last_note: "Added BRS fit test (105-145K + clear-height matrix) to survey criteria"
 ---
 
 # Project Mercury — Survey Playbook
@@ -28,8 +28,11 @@ Within each tab, candidates are grouped **per pin** under a grey band row showin
 |---|---|---|---|
 | Distance from pin | ≤ 3 mi | 3–5 mi | > 5 mi (only if truly nothing else — flag it) |
 | Building | 75k–450k SF available | Larger if divisible | — |
+| Building fit (BRS) | 105k–145k SF at 32' clear | Sub-32' clear if SF ≥ clear-height-adjusted minimum (see [[_Overview#Clear Height → Footprint / CapEx Matrix]]) | 18' clear (needs ~151k, over the 145k ceiling) |
 | Land | 7–30 ac | > 30 ac if divisible (note it) | < 7 ac |
 | Zoning | Industrial | Retail box convertible to storage/distribution | — |
+
+75k–450k is the sourcing net; the BRS row is the fit test. Sub-32' buildings stay in the survey with the required SF and capex hit noted in Comments.
 
 Plus: don't over-index on launch year — Amazon wants pull-left options. A 2031 pin with a great 2028-ready site is worth surfacing.
 
