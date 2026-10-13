@@ -9,8 +9,8 @@ launch_date: 2028-08-01
 start_date: 2025-07-31
 end_date:
 local_broker: KBC
-last_updated: 2026-08-31
-last_note: Deal terminated; archived.
+last_updated: 2026-10-13
+last_note: "Being considered for Mercury (SVG3); LOI deal points summarized, blended $94,395/ac"
 next_due: 2026-07-17
 area: Amazon
 tags:
@@ -23,6 +23,12 @@ tags:
 - [x] Call Anna Brown 📅 2026-08-10 ✅ 2026-08-10
 
 ## Notes
+
+2026-10-13 - DOH2 land being considered for Project Mercury. It appears to be the same land as Cincinnati pin SVG3 (Cincinnati45174), see [[45174 - Half Acre Road Assemblage]]: Half Acre Rd, about 56 ac, Boll + Anchor. Pulled deal points from the fully executed LOIs (2/27/2026, NorthPoint Development as buyer, Marc Werner) and prepared a summary for the Mercury team at `Documents\Amazon\DOH2\DOH2 - Deal Points for Mercury.html`. Both LOIs saved to `Documents\Amazon\DOH2\`.
+- Boll parcels (523508F007 / F079 / F105): 28.24 ac @ $75,000/ac = $2,118,000. F079 and F105 are subject to the final lot split / carveout (Exhibit B).
+- Boll + Anchor Corporate Developments parcel (523508F078): 27.9375 net ac (28.2195 gross) @ $114,000/ac = $3,184,875.
+- Total $5,302,875 on 56.1775 ac, a blended **$94,395/ac** ($93,924/ac on gross acreage).
+- Shared terms: $100K EM per LOI. 180-day DD with six 30-day extensions at $5K released each. Close 30 days after DD. Seller pays transfer tax, rollback, and lien releases; buyer pays title and survey; escrow split 50/50. 4% commission paid by seller (SqFt Commercial / KBC, split 50/50).
 
 2026-08-31 - Deal terminated; archived.
 

@@ -16,12 +16,12 @@ tags:
   - deal
   - amazon
   - project-mercury
-last_updated: 2026-10-08
-last_note: Building is lease; no longer in consideration.
+last_updated: 2026-10-13
+last_note: Pin site code SVG1 assigned; doc folder renamed.
 next_due:
 ---
 
-> [!info] Project Mercury · [[Cincinnati]] MSA · Pin **Cincinnati41018** (Erlanger, KY) · Target launch **2028**
+> [!info] Project Mercury · [[Cincinnati]] MSA · Pin **SVG1** (Cincinnati41018) (Erlanger, KY) · Target launch **2028**
 > Competing with [[41018 - VanTrust Park 536 Bldg 3]] — final pick after financial + topology review.
 
 ## Site
@@ -44,7 +44,7 @@ next_due:
 | Slab | 7" |
 | Zoning | GI – General Industrial |
 | Asking | $7.35/SF NNN · OpEx $2.03/SF |
-| Flyer | `Documents\Amazon\Project Mercury\Cincinnati\41018 - Airport Logistics Center\` |
+| Flyer | `Documents\Amazon\Project Mercury\Cincinnati\SVG1 - Airport Logistics Center\` |
 
 **Debrief notes:** Two separate entries on the south side. Truck court would need to be connected around the back to get exclusive use of parking and truck court. Curb cut and barrier placement discussed. Lease pending on the balance of the space.
 
@@ -59,6 +59,7 @@ next_due:
 
 ## Notes
 
+2026-10-13 - Pin Cincinnati41018 assigned final OP2 site code SVG1. Doc folder renamed to `Cincinnati\SVG1 - Airport Logistics Center\`.
 2026-10-08 - building is lease; no longer in consideration
 
 2026-10-08 - File created from 9/24 Cincinnati MSA debrief (Dominic Nicholas email). Shortlisted as a 2028 option for pin 41018 alongside VanTrust Park 536 Bldg 3. Both will be run against the financial and topology criteria before a final selection, and the 41018 pick will affect the 45002 choice. All 2028 sites to be tested against the 100K template. Specs come from the 9/17 survey and the Colliers flyer. Brokers confirmed from the flyer (LoopNet had listed C&W — wrong).

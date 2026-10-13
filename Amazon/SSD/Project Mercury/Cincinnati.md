@@ -6,26 +6,26 @@ area: Amazon
 status: Not Started
 pin_count: 9
 tags: [project-mercury, amazon]
-last_updated: 2026-10-08
-last_note: "Created 8 shortlisted site files (Cincinnati/), TM Adam Knoll; flyers + brokers captured"
+last_updated: 2026-10-13
+last_note: "Final OP2 site codes assigned to 6 pin(s) (SVG1 etc.)"
 ---
 
 > [!important] Priority MSA — contains 2028 requirements. Debriefs prioritized; review surveys and tell Dominic when ready to schedule.
 
 ## Pins
 
-| #   | Working ID      | City         | State | Zip   | Lat       | Long       | Launch  | Origin  | Status      | Candidate Site                                                                                                                             |
-| --- | --------------- | ------------ | ----- | ----- | --------- | ---------- | ------- | ------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 251 | Cincinnati41018 | Erlanger     | KY    | 41018 | 39.016942 | -84.608814 | 2028-09 | New     | Not Started | 🟢 Shortlist (2028): Airport Logistics Center, 400 Kenton Lands Rd, Erlanger + VanTrust Park 536 Bldg 3, 861 E Mount Zion Rd, Independence |
-| 252 | Cincinnati45002 | Cleves       | OH    | 45002 | 39.205838 | -84.730945 | 2028-09 | New     | Not Started | 🟡 No 2028 solve; 2029+ preferred: 10100 Progress Way, Harrison                                                                            |
-| 253 | Cincinnati45174 | Terrace Park | OH    | 45174 | 39.158204 | -84.311138 | 2028-09 | New     | Not Started | 🟢 Shortlist (2028, compromise): Half Acre Rd Assemblage, 0 Half Acre Rd, Batavia (AMZL-adjacent land)                                     |
-| 388 | Cincinnati41059 | Melbourne    | KY    | 41059 | 39.001212 | -84.341448 | 2029-01 | New     | Not Started | 🔴 No solve — deferred                                                                                                                     |
-| 400 | Cincinnati45011 | Hamilton     | OH    | 45011 | 39.426896 | -84.497486 | 2029-01 | Carried | Not Started |                                                                                                                                            |
-| 401 | Cincinnati45430 | Dayton       | OH    | 45430 | 39.716352 | -84.082898 | 2029-01 | New     | Not Started |                                                                                                                                            |
-| 621 | Cincinnati45371 | Tipp City    | OH    | 45371 | 39.939066 | -84.177188 | 2030-01 | Carried | Not Started | 🟢 Shortlist (2028): 9085 Peters Pike, Vandalia (Aero Pointe Innovation Hub)                                                               |
-| 848 | Cincinnati45449 | Dayton       | OH    | 45449 | 39.663744 | -84.243437 | 2031-01 | New     | Not Started | 🟢 Shortlist: Austin Blvd, Miamisburg (2028) + 1030 W Alex-Bell Rd, West Carrollton (2029)                                                 |
-| 849 | Cincinnati45506 | Springfield  | OH    | 45506 | 39.886916 | -83.832727 | 2031-01 | Carried | Not Started |                                                                                                                                            |
-|     |                 |              |       |       |           |            |         |         |             |                                                                                                                                            |
+| #   | Working ID      | Site Code | City         | State | Zip   | Lat       | Long       | Launch  | Origin  | Status      | Candidate Site                                                                                                                             |
+| --- | --------------- | --------- | ------------ | ----- | ----- | --------- | ---------- | ------- | ------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 251 | Cincinnati41018 | SVG1      | Erlanger     | KY    | 41018 | 39.016942 | -84.608814 | 2028-09 | New     | Not Started | 🟢 Shortlist (2028): Airport Logistics Center, 400 Kenton Lands Rd, Erlanger + VanTrust Park 536 Bldg 3, 861 E Mount Zion Rd, Independence |
+| 252 | Cincinnati45002 | SVG2      | Cleves       | OH    | 45002 | 39.205838 | -84.730945 | 2028-09 | New     | Not Started | 🟡 No 2028 solve; 2029+ preferred: 10100 Progress Way, Harrison                                                                            |
+| 253 | Cincinnati45174 | SVG3      | Terrace Park | OH    | 45174 | 39.158204 | -84.311138 | 2028-09 | New     | Not Started | 🟢 Shortlist (2028, compromise): Half Acre Rd Assemblage, 0 Half Acre Rd, Batavia (AMZL-adjacent land)                                     |
+| 388 | Cincinnati41059 | SVG5      | Melbourne    | KY    | 41059 | 39.001212 | -84.341448 | 2029-01 | New     | Not Started | 🔴 No solve — deferred                                                                                                                     |
+| 400 | Cincinnati45011 | SVG6      | Hamilton     | OH    | 45011 | 39.426896 | -84.497486 | 2029-01 | Carried | Not Started |                                                                                                                                            |
+| 401 | Cincinnati45430 | SVG7      | Dayton       | OH    | 45430 | 39.716352 | -84.082898 | 2029-01 | New     | Not Started |                                                                                                                                            |
+| 621 | Cincinnati45371 |           | Tipp City    | OH    | 45371 | 39.939066 | -84.177188 | 2030-01 | Carried | Not Started | 🟢 Shortlist (2028): 9085 Peters Pike, Vandalia (Aero Pointe Innovation Hub)                                                               |
+| 848 | Cincinnati45449 |           | Dayton       | OH    | 45449 | 39.663744 | -84.243437 | 2031-01 | New     | Not Started | 🟢 Shortlist: Austin Blvd, Miamisburg (2028) + 1030 W Alex-Bell Rd, West Carrollton (2029)                                                 |
+| 849 | Cincinnati45506 |           | Springfield  | OH    | 45506 | 39.886916 | -83.832727 | 2031-01 | Carried | Not Started |                                                                                                                                            |
+|     |                 | --------- |              |       |       |           |            |         |         |             |                                                                                                                                            |
 
 ## Shortlisted Sites
 
@@ -57,6 +57,8 @@ From 2026-09-24 debrief (Dominic Nicholas email).
 ## Tasks
 
 ## Notes
+
+2026-10-13 - Final OP2 site codes assigned to 6 pin(s) (Dominic Nicholas email 2026-10-13, fwd by Jack Rowe): Cincinnati41018→SVG1, Cincinnati45002→SVG2, Cincinnati45174→SVG3, Cincinnati41059→SVG5, Cincinnati45011→SVG6, Cincinnati45430→SVG7. Added `Site Code` column to pin table. Amazon asked brokers to rename the WorkDocs transaction folders by EOW; Shield and Lens already updated. Local doc folders for 41018/45002/45174 candidate sites renamed to SVG1/SVG2/SVG3. 45371/45449 are 2030–31 pins, so no codes yet.
 
 2026-10-08 - Created 8 site files under `Cincinnati/` for the shortlisted options (the 7 in Dominic's email plus Martindale Rd / Scannell from the AI summary). TM is Adam Knoll, status Surveying. Doc folders are at `Documents\Amazon\Project Mercury\Cincinnati\{pin} - {site}\`, with flyers pulled from SharePoint and filed. Listing brokers confirmed from the flyers, except Half Acre Rd: the survey links that site to an unrelated Loveland-Madeira Rd flyer.
 

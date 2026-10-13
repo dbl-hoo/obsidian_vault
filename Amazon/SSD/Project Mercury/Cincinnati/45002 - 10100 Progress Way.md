@@ -16,12 +16,12 @@ tags:
   - deal
   - amazon
   - project-mercury
-last_updated: 2026-10-08
-last_note: LOI back to seller; follow up 1 week.
+last_updated: 2026-10-13
+last_note: Pin site code SVG2 assigned; doc folder renamed.
 next_due: 2026-10-15
 ---
 
-> [!info] Project Mercury · [[Cincinnati]] MSA · Pin **Cincinnati45002** (Cleves, OH; pin launch 2028-09) · Target launch **2029+**
+> [!info] Project Mercury · [[Cincinnati]] MSA · Pin **SVG2** (Cincinnati45002) (Cleves, OH; pin launch 2028-09) · Target launch **2029+**
 > No 2028 solve for this pin (all land). This is the preferred RE option, to be flagged in the site selection app. The choice interacts with the [[41018 - Airport Logistics Center|41018]] pick.
 
 ## Site
@@ -39,7 +39,7 @@ next_due: 2026-10-15
 | Incentives | 15-year 100% property tax abatement available |
 | Access | 0.5 mi to I-74 (New Haven Rd interchange) · 30 min to CVG |
 | Pricing | Survey: sale $2.0M. **LOI: $150,000/net ac** (~$2.06M at 13.7 ac). |
-| Flyer | `Documents\Amazon\Project Mercury\Cincinnati\45002 - 10100 Progress Way\` |
+| Flyer | `Documents\Amazon\Project Mercury\Cincinnati\SVG2 - 10100 Progress Way\` |
 
 ## Listing Broker — SqFt Commercial
 
@@ -66,6 +66,7 @@ next_due: 2026-10-15
 
 ## Notes
 
+2026-10-13 - Pin Cincinnati45002 assigned final OP2 site code SVG2. Doc folder renamed to `Cincinnati\SVG2 - 10100 Progress Way\`.
 2026-10-08 - LOI back to seller - follow up 1 week
 
 2026-10-08 - File created from 9/24 Cincinnati MSA debrief (Dominic Nicholas email). No 2028 solve for pin 45002 because all the options are land. 10100 Progress Way is the preferred RE option for 2029+ and is to be flagged in the site selection app. It sits slightly outside the 5 mi coverage boundary, and the selection depends on the 41018 pick. A draft land-purchase LOI dated 2026-10-01 is already in the Mercury docs folder ($150K/net ac). It wasn't moved into this deal's doc folder.

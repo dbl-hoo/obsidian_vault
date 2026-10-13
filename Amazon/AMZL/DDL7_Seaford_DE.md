@@ -10,9 +10,9 @@ launch_date: 2028-08-01
 end_date:
 local_broker: Charles Rodriguez, R&R Commercial Realty
 area: Amazon
-last_updated: 2026-10-08
-last_note: "Building is a 2w4f."
-next_due: 2026-10-13
+last_updated: 2026-10-12
+last_note: Emailed Charlie for status update; follow up Wed 10/14.
+next_due: 2026-10-14
 tags:
   - deal
   - amazon
@@ -20,9 +20,11 @@ tags:
 
 ## Tasks
 
-- [x] Follow up with Charlie Rodriguez on LOI 📅 2026-10-13 ✅ 2026-10-12
+- [ ] Follow up with Charlie Rodriguez re: status update 📅 2026-10-14
 
 ## Notes
+
+2026-10-12 - Emailed Charlie for status update. Follow up Wednesday.
 
 2026-09-01 - Building is a 2w4f.
 

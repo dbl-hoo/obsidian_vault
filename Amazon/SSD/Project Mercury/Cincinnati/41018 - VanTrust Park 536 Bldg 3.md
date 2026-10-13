@@ -16,12 +16,12 @@ tags:
   - deal
   - amazon
   - project-mercury
-last_updated: 2026-10-08
-last_note: LOI to LL; follow up 1 week.
+last_updated: 2026-10-13
+last_note: Pin site code SVG1 assigned; doc folder renamed.
 next_due: 2026-10-15
 ---
 
-> [!info] Project Mercury · [[Cincinnati]] MSA · Pin **Cincinnati41018** (Erlanger, KY) · Target launch **2028**
+> [!info] Project Mercury · [[Cincinnati]] MSA · Pin **SVG1** (Cincinnati41018) (Erlanger, KY) · Target launch **2028**
 > Competing with [[41018 - Airport Logistics Center]] — final pick after financial + topology review.
 
 ## Site
@@ -42,7 +42,7 @@ next_due: 2026-10-15
 | Power | BTS |
 | Zoning | GI |
 | Asking | $8.75–$9.00/SF · OpEx $1.70/SF |
-| Flyer | `Documents\Amazon\Project Mercury\Cincinnati\41018 - VanTrust Park 536 Bldg 3\` |
+| Flyer | `Documents\Amazon\Project Mercury\Cincinnati\SVG1 - VanTrust Park 536 Bldg 3\` |
 
 ## Listing Broker — CBRE (Cincinnati)
 
@@ -55,6 +55,7 @@ next_due: 2026-10-15
 
 ## Notes
 
+2026-10-13 - Pin Cincinnati41018 assigned final OP2 site code SVG1. Doc folder renamed to `Cincinnati\SVG1 - VanTrust Park 536 Bldg 3\`.
 2026-10-08 - LOI to LL; - follow up 1 week
 
 2026-10-08 - File created from 9/24 Cincinnati MSA debrief (Dominic Nicholas email). Shortlisted as a 2028 option for pin 41018 alongside the Airport Logistics Center. Both will be run against the financial and topology criteria before a final pick. Delivery is Q4 2027, which makes it a viable 2028 launch. The address doesn't match: the flyer says 725 Clymer Ct (41015), the survey says 861 E Mount Zion Rd (41051). Need to confirm which is right.
