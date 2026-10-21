@@ -238,7 +238,7 @@ Summarize in 3–5 bullet points:
 
 **Jack does:**
 1. Extracts: area = KBC, office = Atlanta, contacts = Randy Hogan (Ferguson) + Todd Steffen (KBC); reads attachment to find property address → `456 Peachtree St NE Atlanta GA`
-2. Creates `KBC/456 Peachtree St NE Atlanta GA - MSA.md` and `KBC Legal\456 Peachtree St NE Atlanta GA - MSA\`
+2. Creates `KBC/456 Peachtree St NE Atlanta GA - MSA.md` and `KBC_DOCS\456 Peachtree St NE Atlanta GA - MSA\`
 3. Logs note: email from Randy Hogan with clean + redlined MSA; Todd asking Jason to review and return critical redlines
 4. Adds task: `- [ ] Review MSA redlines and respond with critical comments 📅 2026-04-23`
 
@@ -246,7 +246,7 @@ Summarize in 3–5 bullet points:
 > Matter created: 456 Peachtree St NE Atlanta GA - MSA (KBC / Atlanta).
 > - Randy Hogan (Ferguson) sent clean + redlined MSA; forwarded by Todd Steffen for Jason's review
 > - Task added due 4/23
-> - Docs folder created at KBC Legal\456 Peachtree St NE Atlanta GA - MSA\
+> - Docs folder created at KBC_DOCS\456 Peachtree St NE Atlanta GA - MSA\
 
 ---
 

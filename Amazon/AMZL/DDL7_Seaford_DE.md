@@ -20,7 +20,7 @@ tags:
 
 ## Tasks
 
-- [ ] Follow up with Charlie Rodriguez re: status update 📅 2026-10-14
+- [x] Follow up with Charlie Rodriguez re: status update 📅 2026-10-14 ✅ 2026-10-19
 
 ## Notes
 

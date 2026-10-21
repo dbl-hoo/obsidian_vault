@@ -75,7 +75,7 @@ VAULT_ROOT:       (this directory)
 # Windows (work computer) only:
 AMAZON_DOCS:      C:\Users\kirkham\Documents\Amazon
 AMAZON_QC_DOCS:   C:\Users\kirkham\Documents\Amazon\Quick Commerce
-KBC_DOCS:         C:\Users\kirkham\Documents\KBC Legal
+KBC_DOCS:         C:\Users\kirkham\KBC   (moved 2026-10-14 from Documents\KBC Legal — old path is dead)
 ```
 
 ## Vault Structure

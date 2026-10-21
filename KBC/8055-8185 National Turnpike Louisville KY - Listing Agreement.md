@@ -18,4 +18,4 @@ Attachments saved: Listing Agreement - 8055-8185 National Turnpike Louisville KY
 
 ## Tasks
 
-- [ ] Review Exeter listing agreement and confirm acceptability to Powell/Mandy 📅 2026-10-16
+- [x] Review Exeter listing agreement and confirm acceptability to Powell/Mandy 📅 2026-10-16 ✅ 2026-10-19

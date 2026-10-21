@@ -14,13 +14,14 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-09-25
+last_updated: 2026-10-15
 last_note: "Building type changed 2W2F to 2W4F (31-46 usable acres)."
-next_due:
+next_due: 2026-10-22
 ---
 
 ## Tasks
 
+- [ ] Follow up on developer RFQ 📅 2026-10-22
 
 ## Notes
 

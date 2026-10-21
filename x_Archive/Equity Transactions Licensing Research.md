@@ -1,0 +1,15 @@
+---
+project: Equity Transactions Licensing Research
+status: Closed
+area: KBC
+office:
+tags:
+  - kbc
+last_updated: 2026-06-28
+---
+
+## Tasks
+
+## Notes
+
+2026-04-20 - [Source: pasted] Matter opened. Equity Transactions Licensing Research — KBC matter. No additional details provided at intake.

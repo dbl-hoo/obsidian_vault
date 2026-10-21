@@ -3,7 +3,7 @@ site_code: SCD1
 aliases:
   - SOHC
   - SCD1
-deal_type: Purchase
+deal_type: BTS
 business_unit: SDD
 status: Selected
 tm: Adam Knoll
@@ -13,8 +13,8 @@ start_date: 2025-11-05
 end_date:
 local_broker: None
 area: Amazon
-last_updated: 2026-09-09
-last_note: "Power requirement up to 8K amps (from 6K)."
+last_updated: 2026-10-15
+last_note: WHS DD requires LL to install/maintain full passive VIMS + own subgrade work and EC obligations; LL plan rejected.
 next_due:
 tags:
   - deal
@@ -23,6 +23,36 @@ tags:
 ## Tasks
 
 ## Notes
+
+2026-10-14 - WHS DD (Chris Lewis) says vapor intrusion is a big problem: LL plan doesn't fix it, and he lists four LL requirements. Thread: "SCD1 (29801 Euclid Avenue, Wickliffe, OH) - WHS DD Review" (10/5–10/14). Team: Chris Lewis (WHS DD), Keith Seo (Summit Law), Adam Knoll, Alexandra Richardson, Jack Rowe, Rebecca Ross (RE Legal), Mitch Wacksman, Carrie Hunt.
+**Background (Chris, 10/5):** ~31 ac; demo of the former admin/manufacturing buildings started Jul 2026; manufacturing use 1960–2015 left chlorinated VOCs. No soil impacts above industrial/commercial levels, limited groundwater impacts, but soil vapor impacts remain. Ohio EPA issued the CNS on 2026-02-02 with an Environmental Covenant/AULs:
+- Commercial/industrial use only; no groundwater use
+- No occupancy in BOL Area North/South until a vapor intrusion remedy is in place
+- Engineered controls with O&M (semi-annual inspection)
+- Construction under the 2024 Risk Mitigation Plan
+- Annual Ohio EPA compliance reports
+- Ohio EPA notice within 14 days of any conveyance
+- Noncompliance makes the CNS voidable
+Chris's position: LL should own the O&M, reporting and conveyance notices, and Amazon should have no contact with regulators. Latest lease draft puts preexisting contamination on LL.
+**Deal team answers (10/5):** 2028 launch; LL is a Premier/Prologis JV with Premier as developer; expect a long-term hold.
+**LL answers (10/6):**
+- Responsible party: ABB (prior owner/operator), which got the CNS and an NFA.
+- VIMS: under the VAP, the concrete slab is the engineered control. Indoor air test at completion and again 30 days later; sub-slab depressurization units (~7, placed at column lines) go in only if a test fails.
+- Wells abandoned (logs available); construction is under the RMP.
+- Entire slab removed off-site; on-site soil piles are clean clay fill; C&D debris 100% off-site; rail spurs removed.
+- Gas line: LL disputes that it runs under the footprint (Enbridge map). A new gas line will be provided.
+- The two vent pipes were fill/vent pipes for a demolished cistern.
+**Chris follow-up (10/9):** sub-slab/soil gas VOCs cover >50% of the new building footprint. Post-construction air sampling alone doesn't show long-term risk. He sent 3 questions.
+**LL consultant (10/13):**
+- Sub-slab vapor with no soil source is common.
+- Contaminated soil found in subgrade work will be excavated and disposed off-site.
+- No more sampling or remediation is planned; the whole former ABB footprint is already subject to vapor mitigation requirements under the EC.
+**Chris (10/14):** disagrees with the LL approach and says Amazon shouldn't pay to mitigate a site it doesn't own and didn't contaminate. Negotiate if we have leverage. Required:
+1. LL designs and installs a full passive VIMS across the entire building footprint, meeting Amazon's Minimum Standards for Vapor Mitigation Systems (new construction), proven effective before occupancy
+2. LL maintains the VIMS for the full lease term
+3. LL performs all of Amazon's initial and future subgrade/sub-slab work under the site RMP and Ohio EPA requirements
+4. LL completes all Ohio EPA Environmental Covenant obligations
+Attachment: "VIMS and MMS Minimum Standards External Use.pdf" (not saved).
 
 2026-09-09 - Power requirement updated: needs 8K amps, up from 6K.
 

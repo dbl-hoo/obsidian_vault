@@ -14,11 +14,14 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-09-01
+last_updated: 2026-10-19
 last_note: "Ashley Perkins assigned as TM"
+next_due: 2026-10-20
 ---
 
 ## Tasks
+
+- [ ] Review debrief KMZ 📅 2026-10-20
 
 ## Notes
 

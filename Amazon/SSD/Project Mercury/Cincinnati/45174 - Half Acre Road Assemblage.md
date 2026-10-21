@@ -27,18 +27,18 @@ next_due:
 
 ## Site
 
-| | |
-|---|---|
-| Address | 0 Half Acre Rd, Batavia, OH 45103 (Clermont County). Per the DOH2 LOIs: 4325 SR 276 and Half Acre Rd, Williamsburg Twp. |
-| Lat / Long | 39.073581, -84.088075 |
-| Distance to pin | **13.25 mi** (well outside the 5 mi backup radius) |
-| Type | Land assemblage. Tax IDs 523508F007, F079, F105 (Boll) + 523508F078 (Boll/Anchor) |
-| Owners | **Victoria L. Boll** (F007/F079/F105) and **Victoria L. Boll + Anchor Corporate Developments, LLC** (F078). Sellers' counsel is Ed Boll III (Dinsmore). Anchor's GC is Bryan Blade. |
-| Acreage | 56.18 ac priced (28.24 + 27.9375 net). F079/F105 are subject to the final lot split / carveout. |
-| Zoning | I-2 Light Industrial |
-| Utilities | To site |
-| Pricing | DOH2 LOIs: $75K/ac (Boll) + $114K/ac (Boll/Anchor) = $5,302,875, a blended **$94,395/ac** |
-| Other | Boll keeps ownership of the cell tower |
+|                 |                                                                                                                                                                                     |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Address         | 0 Half Acre Rd, Batavia, OH 45103 (Clermont County). Per the DOH2 LOIs: 4325 SR 276 and Half Acre Rd, Williamsburg Twp.                                                             |
+| Lat / Long      | 39.073581, -84.088075                                                                                                                                                               |
+| Distance to pin | **13.25 mi** (well outside the 5 mi backup radius)                                                                                                                                  |
+| Type            | Land assemblage. Tax IDs 523508F007, F079, F105 (Boll) + 523508F078 (Boll/Anchor)                                                                                                   |
+| Owners          | **Victoria L. Boll** (F007/F079/F105) and **Victoria L. Boll + Anchor Corporate Developments, LLC** (F078). Sellers' counsel is Ed Boll III (Dinsmore). Anchor's GC is Bryan Blade. |
+| Acreage         | 56.18 ac priced (28.24 + 27.9375 net). F079/F105 are subject to the final lot split / carveout.                                                                                     |
+| Zoning          | I-2 Light Industrial                                                                                                                                                                |
+| Utilities       | To site                                                                                                                                                                             |
+| Pricing         | DOH2 LOIs: $75K/ac (Boll) + $114K/ac (Boll/Anchor) = $5,302,875, a blended **$94,395/ac**                                                                                           |
+| Other           | Boll keeps ownership of the cell tower                                                                                                                                              |
 
 **Debrief notes:** An experienced developer (**NorthPoint Development**, Marc Werner, the buyer under the DOH2 LOIs) has had the site under control and knows the land, which makes this the more executable path. Next to an existing AMZL.
 

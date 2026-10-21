@@ -1,2 +1,0 @@
-- Indiana - can we have an out of state managing broker and no space; For manager managed LLC, the Manager needs to be the managing broker; then she sets up so that there are 3 managers; alternatively, do a corporation, but don't want.
-- Review the notes from Russell and from Mark Chubb; 
