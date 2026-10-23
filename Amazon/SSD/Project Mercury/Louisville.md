@@ -12,10 +12,10 @@ last_note: "7.29 recut: 2 pins (1 new, 1 carried)"
 
 ## Pins
 
-| # | Working ID | City | State | Zip | Lat | Long | Launch | Origin | Status | Candidate Site |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 844 | Louisville40026 | Goshen | KY | 40026 | 38.430282 | -85.528958 | 2031-01 | New | Not Started | |
-| 845 | Louisville40160 | Radcliff | KY | 40160 | 37.817462 | -85.938400 | 2031-01 | Carried | Not Started | |
+| #   | Working ID      | City     | State | Zip   | Lat       | Long       | Launch  | Origin  | Status      | Candidate Site |
+| --- | --------------- | -------- | ----- | ----- | --------- | ---------- | ------- | ------- | ----------- | -------------- |
+| 844 | Louisville40026 | Goshen   | KY    | 40026 | 38.430282 | -85.528958 | 2031-01 | New     | Not Started |                |
+| 845 | Louisville40160 | Radcliff | KY    | 40160 | 37.817462 | -85.938400 | 2031-01 | Carried | Not Started |                |
 
 ## Tasks
 

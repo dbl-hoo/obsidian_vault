@@ -1,6 +1,7 @@
 ---
 site_code: TBD_Batavia
 aliases:
+  - 45174 - Half Acre Road Assemblage
   - Half Acre Road Assemblage
 deal_type:
 business_unit: SSD

@@ -6,8 +6,8 @@ area: Amazon
 status: Not Started
 pin_count: 7
 tags: [project-mercury, amazon]
-last_updated: 2026-10-13
-last_note: "Final OP2 site codes assigned to 4 pin(s) (SSU1 etc.)"
+last_updated: 2026-10-21
+last_note: "Pin pages created for SSU1, SSU3, SSU4, SSU5."
 ---
 
 > [!important] Priority MSA — contains 2028 requirements. Debriefs prioritized; review surveys and tell Dominic when ready to schedule.
@@ -24,9 +24,18 @@ last_note: "Final OP2 site codes assigned to 4 pin(s) (SSU1 etc.)"
 | 619 | Columbus43062 |           | Pataskala    | OH    | 43062 | 40.000678 | -82.676977 | 2030-01 | Carried | Not Started |                |
 | 847 | Columbus43112 |           | Carroll      | OH    | 43112 | 39.808767 | -82.702584 | 2031-01 | Carried | Not Started |                |
 
+## Pin Pages
+
+- [[SSU1 - 43054 - New Albany OH]]
+- [[SSU3 - 43026 - Hilliard OH]]
+- [[SSU4 - 43035 - Lewis Center OH]]
+- [[SSU5 - 43240 - Columbus OH]]
+
 ## Tasks
 
 ## Notes
+
+2026-10-21 - Created pin pages under `Columbus/` for the 4 coded pins (SSU1, SSU3, SSU4, SSU5), named `{Site Code} - {Pin zip} - {City} OH` until candidate sites are picked. Uncoded 2030–31 pins (43056, 43062, 43112) have no pages yet.
 
 2026-10-13 - Final OP2 site codes assigned to 4 pin(s) (Dominic Nicholas email 2026-10-13, fwd by Jack Rowe): Columbus43054→SSU1, Columbus43026→SSU3, Columbus43035→SSU4, Columbus43240→SSU5. Added `Site Code` column to pin table. Amazon asked brokers to rename the WorkDocs transaction folders by EOW; Shield and Lens already updated. 2030–31 pins not in this release, so no codes yet.
 

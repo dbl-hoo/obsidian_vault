@@ -25,6 +25,7 @@ Apply these to every document, every time.
   - Defined terms in quotes on first use: the "Agreement" — not (the "Agreement").
   - `including` — never "including without limitation" or "including but not limited to."
   - `void` — not "null and void." `cease` — not "cease and desist."
+  - **Numbers in numerals only — never words plus numerals.** Write `$25,000` and `5 business days`, not "Twenty-Five Thousand Dollars ($25,000.00)" or "five (5) business days."
   - Do not pair "representations and warranties" by default — choose one based on context.
   - Sections numbered at top level (1, 2, 3). Subsections lettered (a, b, c). Sub-subsections roman (i, ii, iii).
 

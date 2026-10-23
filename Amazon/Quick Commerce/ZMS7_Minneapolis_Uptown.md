@@ -16,9 +16,9 @@ loi_prepared: "Yes"
 site_selection_date: ""
 area: Amazon
 tm: TBD
-last_updated: 2026-09-17
-last_note: "Followed up with Sam Gleason; follow up Mon."
-next_due: 2026-09-21
+last_updated: 2026-10-21
+last_note: "Updated lease from LL to lease; follow up Fri 10/23."
+next_due: 2026-10-23
 tags:
   - deal
   - amazon
@@ -29,9 +29,11 @@ tags:
 
 ## Tasks
 
-- [x] Follow up with Sam Gleason 📅 2026-09-21 ✅ 2026-09-22
+- [ ] Follow up on updated lease 📅 2026-10-23
 
 ## Notes
+
+2026-10-19 - Updated lease from LL to lease. Follow up this Friday.
 
 2026-09-16 - Followed up with Sam.
 

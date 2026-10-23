@@ -1,6 +1,6 @@
 ---
-site_code: 28_NSX_1P_13
-aliases: [TBD_NSX_Cincinnati]
+site_code: NOH1
+aliases: [TBD_NSX_Cincinnati, 28_NSX_1P_13, 28_NSX_1P_13_Cincinnati_OH]
 deal_type: Lease
 business_unit: GCF
 status: Selected
@@ -12,12 +12,14 @@ end_date:
 local_broker:
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-10-05
-last_note: "Duke power for Encore Bldg 2 (8.3 MVA ask): ~$1.3M Class 5, ~$520K customer share, ~18 mo from lease/close + one-lines"
+last_updated: 2026-10-21
+last_note: "Site code assigned: NOH1 (was 28_NSX_1P_13)."
 next_due:
 ---
 
 ## Notes
+
+2026-10-21 - Site code assigned: NOH1 (formerly 28_NSX_1P_13).
 
 2026-10-05 - [Source: email, "RE: [EXTERNAL] Power Request Encore Logistic Center Building 2"] Duke Energy power response for Encore Building 2, 511 Encore Dr, Monroe, OH, which is under construction. The thread ran between Anthony Armbruster (Core5) and Cara Brooks (Duke Economic Development), 9/16–10/2.
 - **Request:** 10,000A connected load at 480V, which is about 8.3 MVA.

@@ -1,6 +1,7 @@
 ---
 site_code: TBD_Harrison
 aliases:
+  - 45002 - 10100 Progress Way
   - 10100 Progess Way Harrison OH 45030
 deal_type: Purchase
 business_unit: SSD
@@ -22,7 +23,7 @@ next_due:
 ---
 
 > [!info] Project Mercury · [[Cincinnati]] MSA · Pin **SVG2** (Cincinnati45002) (Cleves, OH; pin launch 2028-09) · Target launch **2029+**
-> No 2028 solve for this pin (all land). This is the preferred RE option, to be flagged in the site selection app. The choice interacts with the [[41018 - Airport Logistics Center|41018]] pick.
+> No 2028 solve for this pin (all land). This is the preferred RE option, to be flagged in the site selection app. The choice interacts with the [[SVG1 - 41018 - 400 Kenton Lands Rd Erlanger KY|41018]] pick.
 
 ## Site
 

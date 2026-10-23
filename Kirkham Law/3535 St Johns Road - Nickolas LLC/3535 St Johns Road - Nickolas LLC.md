@@ -3,8 +3,8 @@ project: 3535 St Johns Road - Nickolas LLC
 status: Ongoing
 area: Kirkham Law
 tags: [kirkham-law]
-last_updated: 2026-07-29
-last_note: "PSA fully executed 7/27-7/28/26; critical dates calendared through Closing"
+last_updated: 2026-10-22
+last_note: "Drafted First Amendment to PSA (DD waived, +$25K non-refundable, close by 11/20/26)"
 ---
 
 ## Tasks
@@ -14,6 +14,9 @@ last_note: "PSA fully executed 7/27-7/28/26; critical dates calendared through C
 - [x] Closing (est., 15 days after DD Period expiration if not extended) 📅 2026-10-12 ✅ 2026-10-13
 
 ## Notes
+
+2026-10-22 - Drafted First Amendment to PSA: Buyer confirms/waives DD (6(c) termination right), deposits additional $25K non-refundable (refundable only on Seller default under 9(b)), Closing on or before 11/20/26 on 5 business days' notice. Draft at `Inputs\First Amendment to PSA - 3535 St Johns Rd Lima - DRAFT.docx`.
+- Flag: PSA preamble names Seller as "Heidelberg Distributing RE, LLC" but signature block/notice name is "Dayton Heidelberg Distributing Co., LLC" — confirm correct entity before amendment goes out.
 
 2026-07-29 - [Source: PDF] Fully executed PSA received (CLEAN_FE, dated 2026.07.27) — Seller signed 7/27/26 (Jason Volker, SVP Finance), Buyer signed 7/28/26 (David J Feldman, CBO). Effective Date fixed at July 27, 2026 per Agreement regardless of signature dates. PDF saved to matter folder. Critical dates calendared:
 - Earnest Money ($50,000) due to Escrow Agent (Old Republic National Title, Attn: David Lawrence): 3 business days after Effective Date → **7/30/26**

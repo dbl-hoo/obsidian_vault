@@ -1,6 +1,6 @@
 ---
-site_code: TBD_NSX_Cleveland
-aliases: []
+site_code: NOH2
+aliases: [TBD_NSX_Cleveland]
 deal_type: Lease
 business_unit: GCF
 status: Surveying
@@ -12,12 +12,14 @@ end_date:
 local_broker:
 area: Amazon
 tags: [deal, amazon]
-last_updated: 2026-09-14
-last_note: "NSX 2028 first receive request from Amazon CF team; survey complete, tracking only for now"
-next_due: 2026-09-21
+last_updated: 2026-10-21
+last_note: "Site code assigned: NOH2 (was TBD_NSX_Cleveland)."
+next_due:
 ---
 
 ## Notes
+
+2026-10-21 - Site code assigned: NOH2 (formerly TBD_NSX_Cleveland).
 
 2026-09-14 - [Source: email] Matter opened. Todd Jones (Amazon CF team) requested top-2 NSX site recommendations for a 2028 first receive in Cincinnati and Cleveland — 1MM+ SF, lease preferred, ~50-mi radius of major MSA to support last-mile function, in support of 1DC/RDC/NSX strategies. Recommendations requested by Fri 9/11 (email received 9/9). Survey completed; Cleveland is tracking only for now — no LOI in progress. Attachment: KBC Survey Template (Combined).xlsx saved to docs folder.
 
@@ -25,4 +27,3 @@ next_due: 2026-09-21
 
 ## Tasks
 
-- [x] Track NSX Cleveland site selection status 📅 2026-09-21 ✅ 2026-09-16

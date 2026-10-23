@@ -1,6 +1,7 @@
 ---
 site_code: TBD_West_Carrollton
 aliases:
+  - 45449 - 1030 W Alex-Bell Rd
   - 1030 W Alex-Bell Road West Carrollton OH 45449
 deal_type: BTS
 business_unit: SSD
@@ -22,7 +23,7 @@ next_due:
 ---
 
 > [!info] Project Mercury · [[Cincinnati]] MSA · Pin **Cincinnati45449** (Dayton, OH; pin launch 2031-01) · Target launch **2029**
-> The 2028 primary for this pin is [[45449 - Austin Boulevard]].
+> The 2028 primary for this pin is [[TBD - 45449 - Austin Blvd Miamisburg OH]].
 
 ## Site
 

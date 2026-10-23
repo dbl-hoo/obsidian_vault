@@ -1,6 +1,7 @@
 ---
 site_code: TBD_Independence
 aliases:
+  - 41018 - VanTrust Park 536 Bldg 3
   - VanTrust Park 536 Building 3 Independence KY
 deal_type: Lease
 business_unit: SSD
@@ -22,7 +23,7 @@ next_due: 2026-10-15
 ---
 
 > [!info] Project Mercury · [[Cincinnati]] MSA · Pin **SVG1** (Cincinnati41018) (Erlanger, KY) · Target launch **2028**
-> Competing with [[41018 - Airport Logistics Center]] — final pick after financial + topology review.
+> Competing with [[SVG1 - 41018 - 400 Kenton Lands Rd Erlanger KY]] — final pick after financial + topology review.
 
 ## Site
 

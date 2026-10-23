@@ -6,8 +6,8 @@ area: Amazon
 status: Not Started
 pin_count: 9
 tags: [project-mercury, amazon]
-last_updated: 2026-10-13
-last_note: "Final OP2 site codes assigned to 6 pin(s) (SVG1 etc.)"
+last_updated: 2026-10-21
+last_note: "Site pages renamed to {Site Code} - {Pin} - {Address}."
 ---
 
 > [!important] Priority MSA — contains 2028 requirements. Debriefs prioritized; review surveys and tell Dominic when ready to schedule.
@@ -35,14 +35,14 @@ From 2026-09-24 debrief (Dominic Nicholas email).
 
 | Pin | Target | Site file | Listing broker |
 |---|---|---|---|
-| 41018 | 2028 | [[41018 - Airport Logistics Center]] | Colliers: Andrew Jacob, John Gartner, Erin Casey |
-| 41018 | 2028 | [[41018 - VanTrust Park 536 Bldg 3]] | CBRE: Doug Whitten, Nick Greiwe |
-| 45174 | 2028 (compromise) | [[45174 - Half Acre Road Assemblage]] | ❓ Unknown |
-| 45371 | 2028 | [[45371 - Aero Pointe Innovation Hub]] | CBRE: Doug Whitten, Nick Tomasone, Shane Ellis, Kilar Mariotti |
-| 45371 | 2028 | [[45371 - Interstate Aviation Hub]] (Martindale Rd, Scannell; only in the AI summary) | JLL: Mark Volkman, Brian Leonard, Tom Fairhurst |
-| 45449 | 2028 | [[45449 - Austin Boulevard]] | CBRE: Doug Whitten |
-| 45449 | 2029 | [[45449 - 1030 W Alex-Bell Rd]] | ICP: Dean Miller, Kohl Kirkland |
-| 45002 | 2029+ | [[45002 - 10100 Progress Way]] | SqFt Commercial: Roddy MacEachen (LOI names Dominic Wolfe as seller's broker) |
+| 41018 | 2028 | [[SVG1 - 41018 - 400 Kenton Lands Rd Erlanger KY]] | Colliers: Andrew Jacob, John Gartner, Erin Casey |
+| 41018 | 2028 | [[SVG1 - 41018 - 725 Clymer Ct Independence KY]] | CBRE: Doug Whitten, Nick Greiwe |
+| 45174 | 2028 (compromise) | [[SVG3 - 45174 - 0 Half Acre Rd Batavia OH]] | ❓ Unknown |
+| 45371 | 2028 | [[TBD - 45371 - 9085 Peters Pike Vandalia OH]] | CBRE: Doug Whitten, Nick Tomasone, Shane Ellis, Kilar Mariotti |
+| 45371 | 2028 | [[TBD - 45371 - Martindale Rd Union OH]] (Martindale Rd, Scannell; only in the AI summary) | JLL: Mark Volkman, Brian Leonard, Tom Fairhurst |
+| 45449 | 2028 | [[TBD - 45449 - Austin Blvd Miamisburg OH]] | CBRE: Doug Whitten |
+| 45449 | 2029 | [[TBD - 45449 - 1030 W Alex-Bell Rd West Carrollton OH]] | ICP: Dean Miller, Kohl Kirkland |
+| 45002 | 2029+ | [[SVG2 - 45002 - 10100 Progress Way Harrison OH]] | SqFt Commercial: Roddy MacEachen (LOI names Dominic Wolfe as seller's broker) |
 
 | Pin   | Site                       | Address                                        | Lat         | Long         | Target | Notes                                                                                                                                                                                                                              |
 | ----- | -------------------------- | ---------------------------------------------- | ----------- | ------------ | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -57,6 +57,8 @@ From 2026-09-24 debrief (Dominic Nicholas email).
 ## Tasks
 
 ## Notes
+
+2026-10-21 - Renamed the 8 site pages under `Cincinnati/` to `{Site Code} - {Pin zip} - {Address}` (TBD for uncoded pins 45371/45449). Old names kept as aliases; links updated. VanTrust uses the flyer address (725 Clymer Ct), not the survey's 861 E Mount Zion Rd.
 
 2026-10-13 - Final OP2 site codes assigned to 6 pin(s) (Dominic Nicholas email 2026-10-13, fwd by Jack Rowe): Cincinnati41018→SVG1, Cincinnati45002→SVG2, Cincinnati45174→SVG3, Cincinnati41059→SVG5, Cincinnati45011→SVG6, Cincinnati45430→SVG7. Added `Site Code` column to pin table. Amazon asked brokers to rename the WorkDocs transaction folders by EOW; Shield and Lens already updated. Local doc folders for 41018/45002/45174 candidate sites renamed to SVG1/SVG2/SVG3. 45371/45449 are 2030–31 pins, so no codes yet.
 

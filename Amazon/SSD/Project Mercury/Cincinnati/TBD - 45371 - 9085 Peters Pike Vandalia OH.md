@@ -1,6 +1,7 @@
 ---
 site_code: TBD_Vandalia
 aliases:
+  - 45371 - Aero Pointe Innovation Hub
   - Aero Pointe Innovation Hub Vandalia OH 45377
 deal_type: Lease
 business_unit: SSD
@@ -22,7 +23,7 @@ next_due:
 ---
 
 > [!info] Project Mercury · [[Cincinnati]] MSA · Pin **Cincinnati45371** (Tipp City, OH; pin launch 2030-01) · Target launch **2028**
-> Shortlisted alongside [[45371 - Interstate Aviation Hub]].
+> Shortlisted alongside [[TBD - 45371 - Martindale Rd Union OH]].
 
 ## Site
 

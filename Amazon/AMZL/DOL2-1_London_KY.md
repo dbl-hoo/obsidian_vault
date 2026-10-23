@@ -14,16 +14,19 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-10-19
-last_note: "Ashley Perkins assigned as TM"
+last_updated: 2026-10-22
+last_note: Building type changed from 1W1F to 2W2F (11-25 usable acres)
 next_due: 2026-10-20
 ---
 
 ## Tasks
 
-- [ ] Review debrief KMZ 📅 2026-10-20
 
 ## Notes
+
+2026-10-22 - Building type changed from 1W1F to 2W2F. Per KB (AMZL.md), 2W2F spans XS ML (11.1-13 usable acres, ~107K SF) and XS (19-25 usable acres, ~97K SF w/ mezz) — combined required land size 11-25 usable acres. Re-check survey against the 2W2F spec.
+
+2026-10-22 - Reviewed debrief KMZ.
 
 2026-09-01 - Ashley Perkins is new TM.
 

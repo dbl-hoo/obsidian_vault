@@ -13,14 +13,54 @@ area: Amazon
 tags:
   - deal
   - amazon
-last_updated: 2026-08-03
-last_note: "Follow up with Matt Anderson next Monday on comps."
+last_updated: 2026-10-23
+last_note: "PSA timeline added; Inspection Period expires 11/19/2026 (Approval Notice or extension required)."
 next_due: 2026-08-10
 ---
 
 ## Tasks
 
+## PSA Timeline
+
+Source: `WKM2 - PSA - Signed 4.24.26.pdf` (W:\Shared With Me\Ops RE Transactions\NON CORE\Last Mile\RSR\DFR5 (FKA WKM2) - Warsaw, VA - WW\...\Executed Documents)
+
+**Deal terms:** Seller is the Board of Supervisors of Richmond County (signed by Hope D. Mothershead, County Administrator). Purchaser is Amazon.com Services LLC (signed by Nicole East). Land is ~28.29 ac, Lots 17-33A, 17-33E, 17-33F, Richmond County Commerce Park. Price is $15,000 × net acres per survey, ~$424,350. EM is $10,000 at Chicago Title (Elizabeth Novak — Elizabeth.novak@ctt.com), and the $100 independent consideration is part of the EM and non-refundable. Seller pays the KBC commission under a separate agreement (§21(g)).
+
+**Counting rules (§21(d), (h)):** Don't count the start day. If the last day falls on a weekend or federal holiday, it moves to the next business day. Notices go by email and must be in by **5:00 p.m. ET** on the deadline date (§15), even where a period runs to 11:59 p.m.
+
+| Date | Event | § | Status |
+|---|---|---|---|
+| 2026-01-09 | NDA signed (part of the entire agreement) | 21(e) | Done |
+| 2026-04-23 | **Effective Date.** Both parties signed via DocuSign on 4/23; Amazon at 10:42 PT, County at 12:12 PT | 21(m) | Done |
+| 2026-04-27 | Seller delivers Existing Survey + Documents (ED + 3 days = Sun 4/26, so Mon 4/27) | 4(b), 4(c) | Past |
+| 2026-05-04 | Purchaser deposits $10,000 EM with Chicago Title (7 business days) | 3(a) | Past |
+| 2026-10-20 | **Title Review Period expires** (ED + 180 days, 11:59 p.m. ET). Objection Notice was due by then. Seller then has 10 days to cure, and Purchaser has 10 business days after that to terminate. If there was no objection, title/survey items are deemed approved. | 4(d) | **Passed** |
+| 2026-11-19 | **Inspection Period expires** (ED + 210 days, 11:59 p.m. ET). The **Approval Notice** must be delivered before this date, or the EM is returned and the contract **terminates automatically**. The Service Contracts list is also due by this date. | 5(a), 5(d), 5(f) | **Open** |
+| 2026-11-19 | Ext. #1 notice deadline (written notice to Seller + Title before the IP expires) | 5(e) | Open |
+| 2026-11-24 | Ext. #1 fee due: $5,000, within 3 business days after the IP expires | 5(e) | If extended |
+| 2027-02-17 | Extended Inspection Period #1 expires (+90 days). Ext. #2 notice is due by then. | 5(e) | If extended |
+| 2027-02-22 | Ext. #2 fee due: $5,000 | 5(e) | If extended |
+| 2027-05-18 | Extended Inspection Period #2 expires (+90 days; no further extensions) | 5(e) | If extended |
+| — | **Closing:** a Purchaser-selected date on or before 30 days after the **later** of (a) IP expiration and (b) receipt of Purchaser's Approvals (final, non-appealable rezone/approvals + recorded subdivision plat). Purchaser gives **10 business days'** notice. | 9, 8(a)(1), 8(a)(6) | — |
+| 2026-12-21 | Closing deadline if no extension and Approvals are already in hand (12/19 is a Sat, so Mon 12/21) | 9 | Projected |
+| 2027-03-19 | Closing deadline with 1 extension (if Approvals are in hand) | 9 | Projected |
+| 2027-06-17 | Closing deadline with 2 extensions (if Approvals are in hand) | 9 | Projected |
+| 2028-04-24 | **Outside closing date.** The contract says no later than 24 months after ED (4/23/28 is a Sun, so 4/24 under §21(h)) | 9 | Hard stop |
+| Closing + 12 mo | Seller and Purchaser reps survive | 6, 7 | — |
+| Closing + 1 yr | Last day to bill proration corrections; payment due within 60 days of invoice | 12(c) | — |
+
+**Default / termination mechanics:** Each side has a 10-day cure period after notice of default (§16). If Purchaser defaults, Seller's only remedy is the EM as liquidated damages. Extension fees are non-refundable on a discretionary termination during the IP (§5(e)).
+
+**Notice parties (Addendum 1):** Amazon is Kristen DeFamio (defamiok@amazon.com), Kate Bagwell (kmbag@amazon.com), and Keith Seo (keiths@summitlaw.com); cc naops-propmgmt@, opsrelegalnotice@, na-realestate@amazon.com; subject line "Re: WKM2". Seller is Hope D. Mothershead (hmothershead@co.richmond.va.us), 101 Court Circle, Warsaw, VA 22572; copy to Andrew McRoberts, Sands Anderson, 919 E. Main St, Ste 2300, Richmond, VA 23218.
+
 ## Notes
+
+2026-10-23 - Reviewed the executed PSA (WKM2 - PSA - Signed 4.24.26) and added the PSA Timeline section above.
+- The Effective Date is **4/23/2026**: both signatures are dated 4/23 in DocuSign. The 4/26 "PSA signed" note below and the "4.24.26" in the filename are both off from this.
+- The Title Review Period (ED + 180) expired 10/20/2026.
+- The **Inspection Period expires 11/19/2026**. Amazon must send the Approval Notice or the extension notice by then (5 p.m. ET email deadline per §15), or the contract terminates and the EM is refunded.
+- Closing is the later of IP expiration or Approvals, + 30 days. Outside date is 4/24/2028.
+- Clerical items in the PSA exhibits: the Exhibit B–D headers read "WCH4" instead of WKM2, and the Deed form says "County of Richland" instead of Richmond. Exhibits A/A-1 (land/parent parcel) are blank in the executed copy.
 
 2026-08-03 - Follow up with Matt Anderson next Monday on comps.
 

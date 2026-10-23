@@ -1,6 +1,7 @@
 ---
 site_code: TBD_Erlanger
 aliases:
+  - 41018 - Airport Logistics Center
   - Airport Logistics Center Erlanger Ky
 deal_type: Lease
 business_unit: SSD
@@ -22,7 +23,7 @@ next_due:
 ---
 
 > [!info] Project Mercury · [[Cincinnati]] MSA · Pin **SVG1** (Cincinnati41018) (Erlanger, KY) · Target launch **2028**
-> Competing with [[41018 - VanTrust Park 536 Bldg 3]] — final pick after financial + topology review.
+> Competing with [[SVG1 - 41018 - 725 Clymer Ct Independence KY]] — final pick after financial + topology review.
 
 ## Site
 

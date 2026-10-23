@@ -1,6 +1,7 @@
 ---
 site_code: TBD_Union
 aliases:
+  - 45371 - Interstate Aviation Hub
   - Interstate Aviation Hub
   - Martindale Road (Scannell)
 deal_type: Lease
@@ -23,7 +24,7 @@ next_due:
 ---
 
 > [!info] Project Mercury · [[Cincinnati]] MSA · Pin **Cincinnati45371** (Tipp City, OH; pin launch 2030-01) · Target launch **2028**
-> Shortlisted alongside [[45371 - Aero Pointe Innovation Hub]].
+> Shortlisted alongside [[TBD - 45371 - 9085 Peters Pike Vandalia OH]].
 > ⚠️ The AI meeting summary says this site was shortlisted, but it's **not on Dominic's shortlist table**. Confirm with Dominic.
 
 ## Site

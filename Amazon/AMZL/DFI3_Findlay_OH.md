@@ -26,7 +26,7 @@ date: 2026-10-08
 
 ## Notes
 
-## [[45002 - 10100 Progress Way]] - LOI back to seller; requested comps.
+## [[SVG2 - 45002 - 10100 Progress Way Harrison OH]] - LOI back to seller; requested comps.
 
 ## [[]]
 ## [[]]
